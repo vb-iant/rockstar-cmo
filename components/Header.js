@@ -25,7 +25,7 @@ export default function Header() {
             alt="Rockstar CMO"
             width={1906}
             height={435}
-            style={{ height: "110px", width: "auto", maxWidth: "100%" }}
+            style={{ height: "180px", width: "auto", maxWidth: "100%" }}
           />
         </Link>
 
@@ -41,10 +41,10 @@ export default function Header() {
               fontSize: "0.95rem",
             }}
           >
-            <li><Link href="/">Home</Link></li>
-            <li><Link href="/episodes">Episodes</Link></li>
-            <li><Link href="/about">About</Link></li>
-            <li><Link href="/contact">Contact</Link></li>
+            <li><Link href="/" className="nav-link">Home</Link></li>
+            <li><Link href="/episodes" className="nav-link">Episodes</Link></li>
+            <li><Link href="/about" className="nav-link">About</Link></li>
+            <li><Link href="/contact" className="nav-link">Contact</Link></li>
           </ul>
         </nav>
       </div>
