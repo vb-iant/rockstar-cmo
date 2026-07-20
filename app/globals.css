@@ -83,3 +83,19 @@ a {
 .nav-link:hover {
   color: #F22F29;
 }
+
+.btn-primary {
+  display: inline-block;
+  font-family: var(--font-bevan), Georgia, serif;
+  background-color: #F22F29;
+  color: #fff;
+  text-decoration: none;
+  padding: 0.75rem 1.75rem;
+  border-radius: 6px;
+  transition: background-color 0.15s ease;
+}
+
+.btn-primary:hover {
+  background-color: #111;
+  color: #fff;
+}
