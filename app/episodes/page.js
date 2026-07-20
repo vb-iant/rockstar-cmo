@@ -44,13 +44,15 @@ export default function EpisodesIndex({ searchParams }) {
           <li key={ep.slug} style={{ marginBottom: "2rem", paddingBottom: "2rem", borderBottom: "1px solid #e5e5e5" }}>
             <div style={{ display: "flex", gap: "1.25rem" }}>
               {ep.image && (
-                <img
-                  src={ep.image}
-                  alt={ep.title}
-                  width={200}
-                  height={200}
-                  style={{ borderRadius: "8px", objectFit: "cover", flexShrink: 0, width: "200px", height: "200px" }}
-                />
+                <Link href={`/episodes/${ep.slug}`} style={{ flexShrink: 0 }}>
+                  <img
+                    src={ep.image}
+                    alt={ep.title}
+                    width={250}
+                    height={250}
+                    style={{ borderRadius: "8px", objectFit: "cover", display: "block", width: "250px", height: "250px" }}
+                  />
+                </Link>
               )}
               <div>
                 <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{ep.title}</h2>
