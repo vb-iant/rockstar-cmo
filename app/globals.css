@@ -99,3 +99,19 @@ a {
   background-color: #111;
   color: #fff;
 }
+
+.platform-badge {
+  display: inline-block;
+  font-family: var(--font-bevan), Georgia, serif;
+  font-size: 0.85rem;
+  background-color: #111;
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5rem 1.1rem;
+  border-radius: 999px;
+  transition: background-color 0.15s ease;
+}
+
+.platform-badge:hover {
+  background-color: #F22F29;
+}
