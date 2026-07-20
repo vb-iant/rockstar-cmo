@@ -47,9 +47,9 @@ export default function EpisodesIndex({ searchParams }) {
                 <img
                   src={ep.image}
                   alt={ep.title}
-                  width={150}
-                  height={150}
-                  style={{ borderRadius: "8px", objectFit: "cover", flexShrink: 0, width: "150px", height: "150px" }}
+                  width={200}
+                  height={200}
+                  style={{ borderRadius: "8px", objectFit: "cover", flexShrink: 0, width: "200px", height: "200px" }}
                 />
               )}
               <div>
