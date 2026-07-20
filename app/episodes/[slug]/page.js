@@ -52,9 +52,9 @@ export default function EpisodePage({ params }) {
           <img
             src={episode.image}
             alt={episode.title}
-            width={200}
-            height={200}
-            style={{ borderRadius: "8px", objectFit: "cover", flexShrink: 0, width: "200px", height: "200px" }}
+            width={250}
+            height={250}
+            style={{ borderRadius: "8px", objectFit: "cover", flexShrink: 0, width: "250px", height: "250px" }}
           />
         )}
         <div>
