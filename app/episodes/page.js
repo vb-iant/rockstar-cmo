@@ -42,14 +42,14 @@ export default function EpisodesIndex({ searchParams }) {
       <ul style={{ listStyle: "none", padding: 0 }}>
         {pageEpisodes.map((ep) => (
           <li key={ep.slug} style={{ marginBottom: "2rem", paddingBottom: "2rem", borderBottom: "1px solid #e5e5e5" }}>
-            <Link href={`/episodes/${ep.slug}`} style={{ textDecoration: "none", color: "inherit", display: "flex", gap: "1.25rem" }}>
+            <div style={{ display: "flex", gap: "1.25rem" }}>
               {ep.image && (
                 <img
                   src={ep.image}
                   alt={ep.title}
-                  width={96}
-                  height={96}
-                  style={{ borderRadius: "8px", objectFit: "cover", flexShrink: 0, width: "96px", height: "96px" }}
+                  width={150}
+                  height={150}
+                  style={{ borderRadius: "8px", objectFit: "cover", flexShrink: 0, width: "150px", height: "150px" }}
                 />
               )}
               <div>
@@ -58,9 +58,12 @@ export default function EpisodesIndex({ searchParams }) {
                   {formatDate(ep.pubDate)}
                   {ep.duration ? ` · ${ep.duration}` : ""}
                 </p>
-                <p style={{ color: "#333" }}>{ep.description}</p>
+                <p style={{ color: "#333", marginBottom: "0.5rem" }}>{ep.description}</p>
+                <Link href={`/episodes/${ep.slug}`} style={{ fontWeight: 600 }}>
+                  Read more &rarr;
+                </Link>
               </div>
-            </Link>
+            </div>
           </li>
         ))}
       </ul>
