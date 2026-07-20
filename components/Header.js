@@ -6,7 +6,7 @@ export default function Header() {
     <header
       style={{
         borderBottom: "1px solid #e5e5e5",
-        padding: "1.25rem 1.5rem",
+        padding: "2rem 1.5rem 1.5rem",
       }}
     >
       <div
@@ -14,19 +14,18 @@ export default function Header() {
           maxWidth: "760px",
           margin: "0 auto",
           display: "flex",
+          flexDirection: "column",
           alignItems: "center",
-          justifyContent: "space-between",
-          flexWrap: "wrap",
-          gap: "1rem",
+          gap: "1.25rem",
         }}
       >
-        <Link href="/" style={{ textDecoration: "none", display: "flex", alignItems: "center" }}>
+        <Link href="/" style={{ display: "inline-block" }}>
           <img
             src="/logo.webp"
             alt="Rockstar CMO"
             width={1906}
             height={435}
-            style={{ height: "44px", width: "auto" }}
+            style={{ height: "110px", width: "auto", maxWidth: "100%" }}
           />
         </Link>
 
@@ -34,6 +33,7 @@ export default function Header() {
           <ul
             style={{
               display: "flex",
+              justifyContent: "center",
               gap: "1.5rem",
               listStyle: "none",
               margin: 0,
