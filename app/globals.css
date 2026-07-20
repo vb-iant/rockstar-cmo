@@ -1,0 +1,38 @@
+/* app/globals.css */
+
+:root {
+  --color-text: #222;
+  --color-text-muted: #666;
+  --color-border: #e5e5e5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-domine), Georgia, "Times New Roman", serif;
+  color: var(--color-text);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-bevan), Georgia, serif;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+a {
+  color: inherit;
+}
