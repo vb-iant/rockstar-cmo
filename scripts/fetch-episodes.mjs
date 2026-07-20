@@ -45,6 +45,15 @@ async function main() {
   console.log(`Fetching RSS feed: ${FEED_URL}`);
   const feed = await parser.parseURL(FEED_URL);
 
+  // TEMP DEBUG: print the raw parsed structure of the first item so we can
+  // see exactly what field names rss-parser extracted from this feed.
+  // Remove once the itunes:summary mapping is confirmed correct.
+  if (feed.items && feed.items[0]) {
+    console.log("--- DEBUG: raw first item ---");
+    console.log(JSON.stringify(feed.items[0], null, 2));
+    console.log("--- END DEBUG ---");
+  }
+
   const show = {
     title: feed.title ?? "",
     description: feed.description ?? feed.itunesSummary ?? "",
@@ -62,7 +71,7 @@ async function main() {
       slug,
       title: item.title ?? "",
       pubDate: item.pubDate ?? item.isoDate ?? "",
-      description: item.itunesSummary ?? item.contentSnippet ?? "",
+      description: item.contentSnippet ?? item.itunesSummary ?? "",
       contentHtml: item.contentEncoded ?? item.content ?? "",
       audioUrl: item.enclosure?.url ?? "",
       audioType: item.enclosure?.type ?? "",
