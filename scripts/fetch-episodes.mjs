@@ -62,7 +62,7 @@ async function main() {
       slug,
       title: item.title ?? "",
       pubDate: item.pubDate ?? item.isoDate ?? "",
-      description: item.contentSnippet ?? item.itunesSummary ?? "",
+      description: item.itunesSummary ?? item.contentSnippet ?? "",
       contentHtml: item.contentEncoded ?? item.content ?? "",
       audioUrl: item.enclosure?.url ?? "",
       audioType: item.enclosure?.type ?? "",
