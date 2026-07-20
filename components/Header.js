@@ -42,7 +42,7 @@ export default function Header() {
             }}
           >
             <li><Link href="/" className="nav-link">Home</Link></li>
-            <li><Link href="/episodes" className="nav-link">Episodes</Link></li>
+            <li><Link href="/podcast" className="nav-link">Podcast</Link></li>
             <li><Link href="/about" className="nav-link">About</Link></li>
             <li><Link href="/contact" className="nav-link">Contact</Link></li>
           </ul>
