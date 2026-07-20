@@ -39,7 +39,25 @@ export default function PodcastPage() {
         )}
         <div style={{ flex: "1 1 300px" }}>
           <h1 style={{ marginBottom: "0.75rem" }}>{show.title}</h1>
-          <p style={{ color: "#333" }}>{show.description}</p>
+          <p style={{ color: "#333", marginBottom: "1rem" }}>{show.description}</p>
+          <div style={{ display: "flex", gap: "1.5rem", flexWrap: "wrap" }}>
+            <a
+              href="https://podcasts.apple.com/us/podcast/the-rockstar-cmo-fin-marketing-podcast/id1491934161"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="nav-link"
+            >
+              Listen on Apple Podcasts
+            </a>
+            <a
+              href="https://open.spotify.com/show/3FwxIXY3flUhPjG5xBJREH"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="nav-link"
+            >
+              Listen on Spotify
+            </a>
+          </div>
         </div>
       </div>
 
