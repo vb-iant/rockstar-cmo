@@ -36,7 +36,7 @@ export default function EpisodesIndex({ searchParams }) {
   const pageEpisodes = episodes.slice(start, start + PER_PAGE);
 
   return (
-    <main style={{ maxWidth: "760px", margin: "0 auto", padding: "3rem 1.5rem", fontFamily: "system-ui, sans-serif" }}>
+    <main style={{ maxWidth: "760px", margin: "0 auto", padding: "3rem 1.5rem" }}>
       <h1>Episodes</h1>
 
       <ul style={{ listStyle: "none", padding: 0 }}>
