@@ -34,13 +34,9 @@ export default function BlogPostPage({ params }) {
       <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "1.5rem" }}>
         {formatDate(post.date)}
       </p>
-      {post.image && (
-        <img
-          src={post.image}
-          alt={post.title}
-          style={{ borderRadius: "8px", width: "100%", height: "auto", marginBottom: "1.5rem" }}
-        />
-      )}
+      {/* Featured image is index/card-only (like the excerpt) -- the post
+          body frequently already includes its own inline image(s) from the
+          original content, so rendering it again here would duplicate it. */}
       <div style={{ color: "#333" }} dangerouslySetInnerHTML={{ __html: html }} />
     </main>
   );
