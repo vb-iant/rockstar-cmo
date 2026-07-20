@@ -3,6 +3,7 @@ import fs from "node:fs";
 import path from "node:path";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import PlatformBadges from "../../../components/PlatformBadges";
 
 function loadEpisodes() {
   const filePath = path.join(process.cwd(), "content", "episodes.json");
@@ -72,11 +73,15 @@ export default function EpisodePage({ params }) {
           controls
           preload="none"
           src={episode.audioUrl}
-          style={{ width: "100%", marginBottom: "2rem" }}
+          style={{ width: "100%", marginBottom: "1.25rem" }}
         >
           Your browser does not support the audio element.
         </audio>
       )}
+
+      <div style={{ marginBottom: "2rem" }}>
+        <PlatformBadges />
+      </div>
 
       {episode.contentHtml ? (
         <div
