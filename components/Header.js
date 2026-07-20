@@ -20,10 +20,14 @@ export default function Header() {
           gap: "1rem",
         }}
       >
-        <Link href="/" style={{ textDecoration: "none" }}>
-          <span style={{ fontFamily: "var(--font-bevan), Georgia, serif", fontSize: "1.5rem" }}>
-            Rockstar CMO
-          </span>
+        <Link href="/" style={{ textDecoration: "none", display: "flex", alignItems: "center" }}>
+          <img
+            src="/logo.webp"
+            alt="Rockstar CMO"
+            width={1906}
+            height={435}
+            style={{ height: "44px", width: "auto" }}
+          />
         </Link>
 
         <nav>
