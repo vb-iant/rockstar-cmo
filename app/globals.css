@@ -157,6 +157,27 @@ a {
   }
 }
 
+/* Three-column variant -- used for the Related Posts row, which always
+   shows exactly 3 items and looks better filling the full page width in
+   one row rather than wrapping at 2 like the paginated index grids. */
+.card-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem 2rem;
+}
+
+@media (max-width: 900px) {
+  .card-grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .card-grid-3 {
+    grid-template-columns: 1fr;
+  }
+}
+
 .index-card-image {
   width: 100%;
   aspect-ratio: 1 / 1;

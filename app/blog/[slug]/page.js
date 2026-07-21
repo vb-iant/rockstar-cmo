@@ -88,7 +88,7 @@ export default function BlogPostPage({ params }) {
     {relatedPosts.length > 0 && (
       <div style={{ marginTop: "3rem", paddingTop: "2rem", borderTop: "1px solid #e5e5e5" }}>
         <h2 style={{ marginBottom: "1.5rem" }}>Related Posts</h2>
-        <div className="card-grid">
+        <div className="card-grid-3">
           {relatedPosts.map((related) => (
             <div key={related.slug}>
               {related.image ? (
