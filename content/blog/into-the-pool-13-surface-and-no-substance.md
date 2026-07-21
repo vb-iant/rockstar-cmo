@@ -4,6 +4,8 @@ date: "2019-03-28"
 slug: "into-the-pool-13-surface-and-no-substance"
 excerpt: "What would Margaret Molloy, the Global Chief Marketing Officer at Siegel+Gale and top 5 most influential CMO's like us to chuck into the Rockstar CMO Swimming Pool? We dive in..."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/03/91EGqCHtRlL._SR500500_.jpg"
 categories: ["the-ghost-in-the-machine-issue", "the-swimming-pool"]
 needsReview: []

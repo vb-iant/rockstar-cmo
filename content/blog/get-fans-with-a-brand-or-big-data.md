@@ -4,6 +4,8 @@ date: "2020-03-30"
 slug: "get-fans-with-a-brand-or-big-data"
 excerpt: "We welcome a new writer to our house band, Carmine Mastropierro, who debuts with his take on the theme of this issue with this classic example."
 excerptGenerated: false
+author: "Carmine Mastropierro"
+authorSlug: "carmine-mastropierro"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/03/Headshot.jpg"
 categories: ["the-ghost-town-issue"]
 needsReview: []

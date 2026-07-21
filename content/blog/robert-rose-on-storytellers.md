@@ -4,6 +4,8 @@ date: "2018-04-26"
 slug: "robert-rose-on-storytellers"
 excerpt: "Storytelling. It’s one of the most over-hyped words in the marketing and ad industries. Everyone’s a storyteller, right? Well, no. Not really. So we were tempted to throw it into the Rockstar CMO pool. But no.... Robert Rose explains..."
 excerptGenerated: false
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/photo-1511057630-054448f045a3-1-e1546268190401.jpeg"
 categories: ["project-funk-da-world"]
 needsReview: ["embed_block"]

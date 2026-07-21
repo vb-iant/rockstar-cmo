@@ -4,6 +4,8 @@ date: "2019-03-28"
 slug: "backstage-with-david-howland"
 excerpt: "We go backstage with David Howland, CMO of Longview Solutions, former creative and art director and marketing leader at Nasdaq and he shares his journey and the common thread of his career - creating compelling, meaningful experiences."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/03/david-headshot-smile-1-e1553779414255.jpg"
 categories: ["backstage", "the-ghost-in-the-machine-issue"]
 needsReview: []

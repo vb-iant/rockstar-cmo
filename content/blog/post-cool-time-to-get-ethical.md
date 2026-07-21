@@ -4,6 +4,8 @@ date: "2018-09-26"
 slug: "post-cool-time-to-get-ethical"
 excerpt: "Bob Dylan said it right when he sang The Times They Are A-Changin’ . Today, if brands want to win consumers it’s not enough to be visually pleasing,…"
 excerptGenerated: true
+author: "Gareth May"
+authorSlug: "gareth-may"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/jenner2-1-e1546091119556.png"
 categories: ["nevermind"]
 needsReview: []

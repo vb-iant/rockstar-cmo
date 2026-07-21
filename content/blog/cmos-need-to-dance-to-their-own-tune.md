@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "cmos-need-to-dance-to-their-own-tune"
 excerpt: "The CMO is the Lennon, Bowie, Dylan, Prince or Dr. Dre of a business, writing the lyrics of the brand story to the music of the organization's objectives and values. Yet despite growing pressure and shorter tenures, CMOs are neglecting their own personal brands. Marketing coach Jane Scandurra shares her advice.."
 excerptGenerated: false
+author: "Jane Scandurra"
+authorSlug: "jane-scandurra"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/shutterstock_209970322-1-e1564081824132.jpg"
 categories: ["the-think-about-it-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-10-25"
 slug: "quibis-last-dance-was-to-rent-not-build"
 excerpt: "Is there a better example of the theme of this issue of renting versus building in marketing? Although Quibi owned the land, they didn't own what they put on it, and it seems they've danced their last dance."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2022/11/ibX7OE6i0iPA9qfvon05-1-jvqxu.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: []

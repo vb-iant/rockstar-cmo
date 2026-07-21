@@ -4,6 +4,8 @@ date: "2020-02-07"
 slug: "when-should-product-development-call-marketing-how-soon-is-now"
 excerpt: "In the classic hit “How soon is now”, Morrissey from The Smiths lamented “I am human, and I need to be loved, just like everybody else does.” A feeling shared by customers when products, developed in a vacuum are thrust onto an unsuspecting world. Dennis Shiao suggests the remedy is the timing of when marketing gets involved. When? How soon is now?"
 excerptGenerated: false
+author: "Dennis Shiao"
+authorSlug: "dennis-shiao"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/02/shutterstock_219689773-e1581080472380.jpg"
 categories: ["the-features-creatures-issue"]
 needsReview: []

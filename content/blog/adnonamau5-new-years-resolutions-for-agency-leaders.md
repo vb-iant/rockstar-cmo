@@ -4,6 +4,8 @@ date: "2019-12-31"
 slug: "adnonamau5-new-years-resolutions-for-agency-leaders"
 excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser dons a mask and he dropped by the Rockstar CMO penthouse to say it like it is and he has some harsh new year’s resolutions for his peers"
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-future-starts-here-issue"]
 needsReview: []

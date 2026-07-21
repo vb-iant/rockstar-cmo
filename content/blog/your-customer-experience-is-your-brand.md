@@ -4,6 +4,8 @@ date: "2019-11-28"
 slug: "your-customer-experience-is-your-brand"
 excerpt: "The theme of this holiday issue is reflection on the year, thanks and the gifts we can share with our fellow marketers. In this article, Wendy Bryant-Beswick, VP Marketing for Service Credit Union gets in the spirit and shares her spoonful of advice…"
 excerptGenerated: false
+author: "Wendy Bryant-Beswick"
+authorSlug: "wendy-bryant-beswick"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/08/8Niot47N_400x400.jpg"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []

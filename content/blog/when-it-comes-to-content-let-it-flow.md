@@ -4,6 +4,8 @@ date: "2019-01-31"
 slug: "when-it-comes-to-content-let-it-flow"
 excerpt: "Paid, owned and earned – it’s a very neat wrap up of how brands should organize their content. If only it were that simple. censhare’s Morag Cuddeford-Jones explores the perils, pitfalls and potential of how we organize and use our content."
 excerptGenerated: false
+author: "Morag Cuddeford-Jones"
+authorSlug: "morag-cuddeford-jones"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/actionvance-744657-unsplash.jpg"
 categories: ["brand-new-thang"]
 needsReview: []

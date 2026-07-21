@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "true-engagement-should-never-be-overwhelming%ef%bb%bf"
 excerpt: "Coming over a little needy? Ted Rubin suggests it's time your marketing stopped overwhelming the audience and instead focused on them and their needs."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/shutterstock_1144709537-1-e1556205442267.jpg"
 categories: ["the-changesbowie-issue"]
 needsReview: []

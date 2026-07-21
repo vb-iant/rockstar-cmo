@@ -4,6 +4,8 @@ date: "2018-10-31"
 slug: "virtual-reality-marketing-trick-or-treat"
 excerpt: "Amber Osborne, CMO at Doghead Simulations knows virtual reality and she reckons it’s time to open the Pandora’s box let the possibilities loose. It's not so scary after all."
 excerptGenerated: false
+author: "Amber Osborne"
+authorSlug: "amber-osborne"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/10/lucrezia-carnelos-1081230-unsplash-e1545998939704.jpg"
 categories: ["thriller"]
 needsReview: []

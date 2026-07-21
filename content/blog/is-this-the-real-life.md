@@ -4,6 +4,8 @@ date: "2018-06-28"
 slug: "is-this-the-real-life"
 excerpt: "There’s a new kid on the block: augmented reality. Gareth May speaks to investigators and innovators about the latest tech to rock the brand landscape. ﻿"
 excerptGenerated: false
+author: "Gareth May"
+authorSlug: "gareth-may"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/06/Lead_Image_-_Courtesy_Ikea-e1546180411234.jpg"
 categories: ["ok-computer"]
 needsReview: []

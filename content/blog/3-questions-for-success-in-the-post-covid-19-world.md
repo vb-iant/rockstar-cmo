@@ -4,6 +4,8 @@ date: "2020-04-30"
 slug: "3-questions-for-success-in-the-post-covid-19-world"
 excerpt: "In this article, Jasmine Martirossian VP of Marketing at TÜV SÜD Americas shares with us three critical questions that will help us navigate to success Post-COVID-19."
 excerptGenerated: false
+author: "Jasmine Martirossian"
+authorSlug: "jasmine-martirossian"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/05/jon-tyson-XmMsdtiGSfo-unsplash-1-scaled-e1588421828805.jpg"
 categories: ["the-welcome-to-jamrock-issue", "top-10-2020"]
 needsReview: []

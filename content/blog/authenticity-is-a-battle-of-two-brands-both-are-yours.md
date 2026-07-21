@@ -4,6 +4,8 @@ date: "2018-09-26"
 slug: "authenticity-is-a-battle-of-two-brands-both-are-yours"
 excerpt: "Think you’ve only got one brand? You actually have two, argues Ian Truscott. And the space between them is crucial to ensuring your brand’s authenticity – and trustworthiness. ﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/shutterstock_368652632-e1546085436309.jpg"
 categories: ["branding", "rockstar-cmo-advisors", "street-knowledge", "nevermind"]
 needsReview: []

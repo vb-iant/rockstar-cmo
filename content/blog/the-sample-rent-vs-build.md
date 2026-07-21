@@ -4,6 +4,8 @@ date: "2020-10-18"
 slug: "the-sample-rent-vs-build"
 excerpt: "Welcome to The Sample, where we spin the dial on the interwebs and record what plays to this month's tune. The beat for this month's tracks; should we build or rent for our fans?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-e1569754611847.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: ["embed_block"]

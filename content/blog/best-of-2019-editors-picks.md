@@ -4,6 +4,8 @@ date: "2019-12-29"
 slug: "best-of-2019-editors-picks"
 excerpt: "While the majority of this issue we are looking forward to the future of marketing, the turn of the year is also a time for reflection, we take a step back through 2019 and share some of the highlights."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/12/promo-template.png"
 categories: ["the-future-starts-here-issue"]
 needsReview: ["gallery"]

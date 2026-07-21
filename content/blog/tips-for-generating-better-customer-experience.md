@@ -4,6 +4,8 @@ date: "2018-06-28"
 slug: "tips-for-generating-better-customer-experience"
 excerpt: "Success in marketing goes hand in hand with good customer experience. Need to up your customer experience game? Ted Rubin breaks down how.﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/06/shutterstock_526104310-1-e1546182967242.jpg"
 categories: ["ok-computer"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-04-30"
 slug: "backstage-with-john-howe-marshall"
 excerpt: "Gamers are emerging as the new celebrities of a new media age, and the popularity of this entertainment genre has been accelerated by the lockdown. So, who better to catch up with than the Chief Marketing Officer of SplitmediaLabs a platform on the leading edge of enabling gamers to get published? Ian Truscott chats with John Howe-Marshall."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/04/22885753_10155208105888565_1006877511225230671_n.jpg"
 categories: ["backstage", "the-welcome-to-jamrock-issue"]
 needsReview: []

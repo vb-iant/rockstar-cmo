@@ -4,6 +4,8 @@ date: "2023-11-15"
 slug: "five-fin-fundamentals-of-budget-planning"
 excerpt: "An F'in' practical set of Fundamentals to prepare for a new budget year from Jeff Clark."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2023/11/lucas-favre-MNXaW_ABlZY-unsplash-square.jpeg"
 categories: ["rockstar-cmo-advisors", "street-knowledge"]
 needsReview: ["embed_block"]

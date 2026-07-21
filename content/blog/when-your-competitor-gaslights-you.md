@@ -4,6 +4,8 @@ date: "2018-07-26"
 slug: "when-your-competitor-gaslights-you"
 excerpt: "Ever been badmouthed, undermined or falsified? Robert Rose shares some valuable advice on the best way to deal with being 'gaslighted'."
 excerptGenerated: false
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/robert-rose-e1546086062766.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []

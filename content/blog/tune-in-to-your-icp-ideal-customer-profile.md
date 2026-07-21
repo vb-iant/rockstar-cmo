@@ -4,6 +4,8 @@ date: "2023-02-25"
 slug: "tune-in-to-your-icp-ideal-customer-profile"
 excerpt: "Jeff Clark shares, how, if you want to get some sales and marketing focus, you should tune in to your ICP (Ideal Customer Profile)."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2023/02/lidya-nada-_0aKQa9gr4s-unsplash.jpg"
 categories: ["marketing", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: ["table"]

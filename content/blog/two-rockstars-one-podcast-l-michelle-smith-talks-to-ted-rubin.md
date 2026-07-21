@@ -4,6 +4,8 @@ date: "2019-01-31"
 slug: "two-rockstars-one-podcast-l-michelle-smith-talks-to-ted-rubin"
 excerpt: "This month two of our favorite Rockstar CMOs got together, as L. Michelle Smith welcomed Ted Rubin to The Culture Soup podcast to talk personal branding. Here we share why we’re shouting for an encore.﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/aHR0cDovL2NvbnRlbnQuaWhlYXJ0LmNvbS90YWxrL2pwZy9zaG93LzEyLzMwMzc1NDk5LjE1NDY2MzMxNTAuanBn.jpeg"
 categories: ["brand-new-thang"]
 needsReview: ["raw_html_block", "iframe"]

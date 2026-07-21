@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "why-its-time-to-change-the-conversation-from-targeting-to-match-making"
 excerpt: "Ted Rubin on why matching your product or service with the consumer will always be more effective than hunting your audience like prey."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/photo-1444807016527-23eae0a4b246-1-e1551350343285.jpeg"
 categories: ["the-pretender-issue"]
 needsReview: []

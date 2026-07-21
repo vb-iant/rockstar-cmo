@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "b2b-marketings-ignite-event-through-a-britpop-lens"
 excerpt: "It's festival season in the UK, and fresh from Glastonbury and the real rock stars, Lauren Bowden, Chief Content Creator at London agency The Comms Crowd jumps into the mosh pit at B2B Marketing's Ignite event and shares the tunes B2B marketers should be dropping."
 excerptGenerated: false
+author: "Lauren Bowden"
+authorSlug: "lauren-bowden"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/0163_IGNITE-2018-e1564078626945.jpg"
 categories: ["the-think-about-it-issue"]
 needsReview: []

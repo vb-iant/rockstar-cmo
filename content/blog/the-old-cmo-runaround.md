@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "the-old-cmo-runaround"
 excerpt: "In all of the confusion of what the role of the CMO is, we seem to have forgotten the one thing marketing is supposed to do, Keith Smith explains."
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/Runaround_done-1-e1564082316718.jpg"
 categories: ["the-think-about-it-issue"]
 needsReview: []

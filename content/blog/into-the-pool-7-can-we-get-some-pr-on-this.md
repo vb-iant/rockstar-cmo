@@ -4,6 +4,8 @@ date: "2018-09-26"
 slug: "into-the-pool-7-can-we-get-some-pr-on-this"
 excerpt: "This month, Ian Truscott has been shooting the shit with Jenni Young. The discussion quickly turned to PR and, well, let’s just say you’d better steer clear of the pool."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/shutterstock_418715536-e1546084849462.jpg"
 categories: ["featured", "nevermind", "the-swimming-pool"]
 needsReview: []

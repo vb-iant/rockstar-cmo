@@ -4,6 +4,8 @@ date: "2022-08-08"
 slug: "the-trouble-with-the-cmos-part-one"
 excerpt: "In part one of a two-part series, guest writer, a friend of the Rockstar CMO podcast, and most of all, accomplished marketing and communications professional Irene Nehrkorn-Kayn looks at what's wrong with CMOs right now."
 excerptGenerated: false
+author: "Irene Nehrkorn-Kayn"
+authorSlug: "irene-nehrkorn-kayn"
 image: "https://rockstarcmo.com/wp-content/uploads/2022/08/Trouble-with-CMOS-1.png"
 categories: ["street-knowledge"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-01-31"
 slug: "backstage-with-margaret-molloy"
 excerpt: "Margaret Molloy, Forbes Top 5 Most Influential CMOs talks about the power of simplicity, always staying relevant to the customer, and building brands into movements."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/SiegelGale-Margaret-Molloy-New-1-e1548931093417.jpg"
 categories: ["backstage", "brand-new-thang", "the-breaking-glass-issue"]
 needsReview: []

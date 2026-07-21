@@ -4,6 +4,8 @@ date: "2019-12-30"
 slug: "marketing-ai-is-coming-of-age-for-content-creation"
 excerpt: "What could AI technology mean for content creators? Is this something scary or an opportunity for content marketers? John Andrews explores..."
 excerptGenerated: false
+author: "John Andrews"
+authorSlug: "john-andrews"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/01/shutterstock_300637061-e1578128092355.jpg"
 categories: ["the-future-starts-here-issue"]
 needsReview: []

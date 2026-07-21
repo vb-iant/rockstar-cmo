@@ -4,6 +4,8 @@ date: "2019-12-04"
 slug: "personalization-doesnt-build-relationships-content-does"
 excerpt: "We seem a bit obsessed with \"personalization at scale\", but as B2B marketers, should this be a priority?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: null
 categories: ["content-marketing", "content-strategy", "marketing"]
 needsReview: []

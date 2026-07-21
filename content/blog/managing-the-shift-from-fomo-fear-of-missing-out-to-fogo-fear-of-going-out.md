@@ -4,6 +4,8 @@ date: "2020-04-30"
 slug: "managing-the-shift-from-fomo-fear-of-missing-out-to-fogo-fear-of-going-out"
 excerpt: "In this article Jane Scandurra, global marketing consultant and coach, suggests a path of sensitivity and empathy for addressing consumers whose behaviour may have been irrevocably changed by the current crisis."
 excerptGenerated: false
+author: "Jane Scandurra"
+authorSlug: "jane-scandurra"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/04/milo-bauman-SvEzuw2cy3s-unsplash-1-scaled-e1588254815899.jpg"
 categories: ["top-10", "the-welcome-to-jamrock-issue", "top-10-2020"]
 needsReview: []

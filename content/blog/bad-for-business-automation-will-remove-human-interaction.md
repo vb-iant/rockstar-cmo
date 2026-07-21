@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "bad-for-business-automation-will-remove-human-interaction"
 excerpt: "We welcome a new writer, Theresa Michelle to the Rockstar CMO penthouse and she continues the theme from The Ghost in the Machine Issue, suggesting that all this automation is actually bad for business.﻿"
 excerptGenerated: false
+author: "Theresa Michelle"
+authorSlug: "theresa-michelle"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/analytics-3088958_960_720-1-e1556194405478.jpg"
 categories: ["the-changesbowie-issue", "the-martech-mix-desk"]
 needsReview: []

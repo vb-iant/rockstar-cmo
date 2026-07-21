@@ -4,6 +4,8 @@ date: "2018-03-21"
 slug: "authenticity-matters-for-better-content"
 excerpt: "The recipe for boring, cookie-cutter content? Start out by considering your own opinion, and then forget all about it and write what you think people want - Ted Rubin explains."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/photo-1511057630-054448f045a3-1-e1546268190401.jpeg"
 categories: ["sound-check"]
 needsReview: []

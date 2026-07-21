@@ -4,6 +4,8 @@ date: "2020-09-04"
 slug: "the-personal-brand-blur"
 excerpt: "Accomplished B2B marketer and marketing writer Dennis Shiao shares his experience of balancing his personal brand with that of his employers and what he learned about that blurry line early in his career."
 excerptGenerated: false
+author: "Dennis Shiao"
+authorSlug: "dennis-shiao"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_245334322-1-e1599210014773.jpg"
 categories: ["the-blur-issue"]
 needsReview: []

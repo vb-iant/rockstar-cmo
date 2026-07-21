@@ -4,6 +4,8 @@ date: "2018-05-31"
 slug: "bad-influence"
 excerpt: "Our social channels are saturated with 'influencers' representing brands looking to sell us something. Maude Churchill talks with ENDLESSLOVESHOW founder Kazim Rashid and asks: Have we reached peak influencer?﻿"
 excerptGenerated: false
+author: "Maude Churchill"
+authorSlug: "maude-churchill"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/05/Image_2-1-e1546190859149.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-04-26"
 slug: "ted-rubin-retail-times-are-changin"
 excerpt: "Photofy CMO, MC/Host of Brand Innovators Summits, and Co-Founder of Prevailing Path Ted Rubin is our resident rock star. Each issue, he’s sounding off on the challenges faced by the marketing industry today.﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
 categories: ["project-funk-da-world"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-11-30"
 slug: "a-gift-from-ted"
 excerpt: "Our straight-talking resident rock star CMO, Ted Rubin, shares a wonderfully appropriate story for this time of year about relationships, gifts and family."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/09/Ted-Thinking.Photofy-e1599213781701.jpg"
 categories: ["the-come-together-issue"]
 needsReview: []

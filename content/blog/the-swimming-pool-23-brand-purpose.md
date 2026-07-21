@@ -4,6 +4,8 @@ date: "2020-03-30"
 slug: "the-swimming-pool-23-brand-purpose"
 excerpt: "In this trip to the Rockstar CMO Swimming Pool, we are inspired by Peter Morgan, Metia’s VP of Demand and our recent trip on the tour bus with him. Should 'brand purpose' be the next big splash in our portal to marketing hell?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
 categories: ["the-ghost-town-issue", "the-swimming-pool"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-12-31"
 slug: "now-thats-what-i-call-the-future-of-b2b-marketing"
 excerpt: "Lauren Bowden, experienced B2B marketer and Chief Content Creator at UK PR agency The Comms Crowd shares her predictions for B2B marketing."
 excerptGenerated: false
+author: "Lauren Bowden"
+authorSlug: "lauren-bowden"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/12/jenni-jones-WOASNSu731c-unsplash-1-scaled-e1577812241824.jpg"
 categories: ["the-future-starts-here-issue"]
 needsReview: []

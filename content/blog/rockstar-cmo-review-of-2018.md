@@ -4,6 +4,8 @@ date: "2019-01-01"
 slug: "rockstar-cmo-review-of-2018"
 excerpt: "If you've visited before, you'll see we've entered the new year with a fresh new look and as we combed through our first 10 issues, we thought this was a great opportunity to reflect and celebrate the fantastic folks that have contributed to our community in 2018."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/jeshoots-com-490731-unsplash-1-e1546356877802.jpg"
 categories: ["featured"]
 needsReview: []

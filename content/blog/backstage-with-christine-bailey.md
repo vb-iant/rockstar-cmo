@@ -4,6 +4,8 @@ date: "2018-07-26"
 slug: "backstage-with-christine-bailey"
 excerpt: "Christine Bailey is CMO of Valitor, having forged a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/07/chris-1-e1546104656803.png"
 categories: ["backstage", "featured", "the-breaking-glass-issue", "straight-outta-compton"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-06-29"
 slug: "the-green-room-amplify-the-sound-turn-colleagues-into-fans"
 excerpt: "It's clear, our brand, service and value are in the hands of everyone in a business. In the Green Room this month we sit down with eight of our Rockstar CMOs and ask them how they approach getting employees engaged, in sharing the story"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/green-room.png"
 categories: ["employee-engagement", "the-green-room", "the-inside-in-inside-out-issue"]
 needsReview: []

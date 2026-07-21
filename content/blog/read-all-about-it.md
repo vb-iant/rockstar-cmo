@@ -4,6 +4,8 @@ date: "2018-12-20"
 slug: "read-all-about-it"
 excerpt: "Stand aside Twitter. Pipe down Facebook. You’re old news. Reddit is a little corner of the digital world that packs a powerful punch. Gareth May finds out what this means for brands."
 excerptGenerated: false
+author: "Gareth May"
+authorSlug: "gareth-may"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/hangoutsscreen_3.0-2-1-e1545822240929.jpg"
 categories: ["features-2", "london-calling"]
 needsReview: []

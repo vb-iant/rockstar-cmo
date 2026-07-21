@@ -4,6 +4,8 @@ date: "2020-06-01"
 slug: "altogether-now-on-a-video-conferencing-platform-of-your-choice"
 excerpt: "All of our gigs have gone virtual and marketing teams have had to quickly pivot to embrace this change. We've all experienced the hits, the one hits wonders and the misses, Lauren Bowden, experienced B2B marketer shares her experience ."
 excerptGenerated: false
+author: "Lauren Bowden"
+authorSlug: "lauren-bowden"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/0.jpeg"
 categories: ["the-club-classics-volume-one-issue"]
 needsReview: ["shortcode:Full"]

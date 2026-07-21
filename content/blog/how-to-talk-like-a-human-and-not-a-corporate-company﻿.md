@@ -4,6 +4,8 @@ date: "2018-12-20"
 slug: "how-to-talk-like-a-human-and-not-a-corporate-company%ef%bb%bf"
 excerpt: "Wondering how you can connect with your target audience on a deeper level? Casey Petersen, Photofy’s Vice President of Marketing, has a few tips."
 excerptGenerated: false
+author: "Casey Petersen"
+authorSlug: "casey-petersen"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/11/casey-e1545490443660.jpeg"
 categories: ["london-calling"]
 needsReview: []

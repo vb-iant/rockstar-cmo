@@ -4,6 +4,8 @@ date: "2020-07-18"
 slug: "there-aint-half-been-some-clever-bastards"
 excerpt: "As UK music legend Ian Dury said “There ain’t half been some clever bastards” and Keith Smith, calls out Mark Ritson and asks, do marketers need a marketing education?"
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/07/Ian_Dury_One-e1594932299735.jpg"
 categories: ["the-miseducation-of-lauryn-hill-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-04-30"
 slug: "what-now-its-not-whats-next"
 excerpt: "Chief Trouble Maker at the Content Advisory, Robert Rose, quotes Shaun of the Dead as he offers some guidance for marketers toward their slice of fried gold."
 excerptGenerated: false
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/05/zachary-keimig-5r1bhGWQIHo-unsplash-1-scaled-e1588498418337.jpg"
 categories: ["street-knowledge", "the-welcome-to-jamrock-issue"]
 needsReview: ["embed_block"]

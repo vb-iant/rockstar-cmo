@@ -4,6 +4,8 @@ date: "2018-07-26"
 slug: "backstage-with-tom-wentworth"
 excerpt: "Ian Truscott chats to Tom Wentworth CMO at Boston-based RapidMiner, where he heads up global go-to-market strategy, product marketing and communications."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/07/tomwentworth-e1546105240336.jpg"
 categories: ["backstage", "straight-outta-compton"]
 needsReview: []

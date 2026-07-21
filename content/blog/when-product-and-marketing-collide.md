@@ -4,6 +4,8 @@ date: "2020-02-07"
 slug: "when-product-and-marketing-collide"
 excerpt: "Lauren Bowden, experienced B2B marketer shares her experience of the relationship between product development and marketing, with some pragmatic advice to be Pragmatic."
 excerptGenerated: false
+author: "Lauren Bowden"
+authorSlug: "lauren-bowden"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/02/lauren-bowden.jpeg"
 categories: ["the-features-creatures-issue"]
 needsReview: []

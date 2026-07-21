@@ -4,6 +4,8 @@ date: "2019-11-28"
 slug: "tips-for-content-marketers-with-a-little-help-from-the-beatles"
 excerpt: "At Rockstar CMO, we clearly can't do this without a little help from our friends. And one of our friends, senior content marketer and marketing technology analyst Barb Mosher Zinck suggests that there is more that we marketers can learn from the lyrics of the Beatles."
 excerptGenerated: false
+author: "Barb Mosher Zinck"
+authorSlug: "barb-mosher-zinck"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/11/the-beatles-square.jpg"
 categories: ["features-2", "the-breaking-glass-issue", "the-magic-of-christmas-issue"]
 needsReview: []

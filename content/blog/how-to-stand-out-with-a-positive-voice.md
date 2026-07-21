@@ -4,6 +4,8 @@ date: "2020-04-30"
 slug: "how-to-stand-out-with-a-positive-voice"
 excerpt: "Carmine Mastropierro, returns with some advice on how to stand out as the voice of positivity that your audience is looking for. Positive messaging is always important, but particularly so during the current pandemic, when it can bring relief in uncertain times."
 excerptGenerated: false
+author: "Carmine Mastropierro"
+authorSlug: "carmine-mastropierro"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/04/mark-adriane-muS2RraYRuQ-unsplash-1-scaled-e1588251887459.jpg"
 categories: ["the-welcome-to-jamrock-issue"]
 needsReview: []

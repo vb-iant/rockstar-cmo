@@ -4,6 +4,8 @@ date: "2019-03-28"
 slug: "the-green-room-the-rise-of-the-marketing-machines"
 excerpt: "Ian Truscott catches up with six of Rockstar CMOs and asks for their view on whether tech has been a force for good for marketing. ﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/03/green-room-promo-square.png"
 categories: ["the-ghost-in-the-machine-issue", "the-green-room", "the-martech-mix-desk"]
 needsReview: []

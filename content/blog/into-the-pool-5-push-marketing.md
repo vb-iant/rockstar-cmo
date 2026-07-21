@@ -4,6 +4,8 @@ date: "2018-07-26"
 slug: "into-the-pool-5-push-marketing"
 excerpt: "It seems Rockstar CMOs do not like anything that’s easy, cheap, driven by the machine and annoys 99.99% of the people it touches. John Andrews chimes in with Push Marketing..."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/07/Lead_-shutterstock_1099572593-e1546109839383.jpg"
 categories: ["straight-outta-compton", "the-swimming-pool"]
 needsReview: []

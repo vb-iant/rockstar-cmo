@@ -4,6 +4,8 @@ date: "2019-11-29"
 slug: "consumers-are-loyal-to-experience-not-brands"
 excerpt: "‘Tis the season to be shopping and Ted Rubin, our straight-talking resident rock star and Photofy CMO gift-wraps this timely reminder for retailers and brands. It’s not just the brand, product or price, it’s the experience."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/11/ted-square.jpeg"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-02-07"
 slug: "welcome-to-the-ministry-of-half-baked-ideas"
 excerpt: "We asked Keith Smith our resident business development Rockstar whether he thought marketing should be involved when products are being developed."
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/02/shutterstock_134607056-1-e1581070577832.jpg"
 categories: ["the-features-creatures-issue"]
 needsReview: []

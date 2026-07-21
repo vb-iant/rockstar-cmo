@@ -4,6 +4,8 @@ date: "2018-08-30"
 slug: "want-to-reach-consumers-think-like-one"
 excerpt: "Our resident rock star, Ted Rubin, on why empathy for your consumer will always result in a better, more effective marketing plan.﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Image_1.jpg"
 categories: ["seat-at-the-table"]
 needsReview: []

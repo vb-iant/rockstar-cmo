@@ -4,6 +4,8 @@ date: "2019-12-31"
 slug: "three-resolutions-for-2020-marketing-success"
 excerpt: "Jasmine Martirossian, VP, Marketing, TUV SUD Americas suggests how we might kick off the new year and decade with three resolutions for marketing for 2020."
 excerptGenerated: false
+author: "Jasmine Martirossian"
+authorSlug: "jasmine-martirossian"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/12/shutterstock_1477288295-1-e1577806261519.jpg"
 categories: ["the-future-starts-here-issue"]
 needsReview: []

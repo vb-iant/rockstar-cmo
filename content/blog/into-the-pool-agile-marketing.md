@@ -4,6 +4,8 @@ date: "2018-03-21"
 slug: "into-the-pool-agile-marketing"
 excerpt: "We kick off our series by flinging agile marketing off the balcony… It’ll be one hell of a bill, but oh so worth it… ﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/photo-1465198901163-2d15b88fecea-e1544724190136.jpeg"
 categories: ["sound-check", "the-swimming-pool"]
 needsReview: []

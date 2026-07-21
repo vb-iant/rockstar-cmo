@@ -4,6 +4,8 @@ date: "2020-09-03"
 slug: "bring-calm-to-the-uncharted-waters-of-covid-19"
 excerpt: "As our lives get blurred Jasmine Martirossian, Ph.D., VP Marketing at TÜV SÜD Americas shares with us how she is finding some calm, with a bit of Zen in these stressful times."
 excerptGenerated: false
+author: "Jasmine Martirossian"
+authorSlug: "jasmine-martirossian"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_1668892759-1-e1599130705782.jpg"
 categories: ["the-blur-issue"]
 needsReview: []

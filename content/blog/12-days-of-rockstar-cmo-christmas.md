@@ -4,6 +4,8 @@ date: "2019-11-30"
 slug: "12-days-of-rockstar-cmo-christmas"
 excerpt: "As we approach the UK holidays and celebrate the US Thanksgiving, I thought I'd destroy a beloved Christmas carol with my our gifts for the 12 days of Christmas."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/11/12-days-square.jpeg"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []

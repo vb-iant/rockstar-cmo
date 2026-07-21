@@ -4,6 +4,8 @@ date: "2018-09-26"
 slug: "trust-in-the-story-starts-with-the-storyteller"
 excerpt: "Think authenticity guarantees your brand success? You can be authentic all you like, argues Robert Rose. But if your brand can’t be trusted, it won’t make any difference.﻿"
 excerptGenerated: false
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/robert-rose-e1546086062766.jpg"
 categories: ["nevermind"]
 needsReview: []

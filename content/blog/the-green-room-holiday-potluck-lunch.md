@@ -4,6 +4,8 @@ date: "2019-11-29"
 slug: "the-green-room-holiday-potluck-lunch"
 excerpt: "We’ve grabbed our backstage pass for holiday treats in the Green Room. In a tradition we’ve borrowed from the US, the potluck lunch where everyone brings a favorite to share, we’ve asked our Rockstars what they would bring from this year to share with the world of marketing."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/11/gifts-from-the-green-room-square.png"
 categories: ["the-green-room", "the-magic-of-christmas-issue"]
 needsReview: []

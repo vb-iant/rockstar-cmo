@@ -4,6 +4,8 @@ date: "2019-09-29"
 slug: "adnonamau5-the-force-and-a-world-in-peril"
 excerpt: "Once again like the legendary DJ, Deadmau5, our anonymous advertiser has donned the mask and shares a plea to his industry to take some social responsibility."
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-09-03"
 slug: "the-sample-blurred-lines"
 excerpt: "This month on The Sample we spin the dial on the interwebs to discover what you should be grooving to. The topic, the blurring lines between work and home, both at work and on social media."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-e1569754611847.jpg"
 categories: ["the-blur-issue"]
 needsReview: []

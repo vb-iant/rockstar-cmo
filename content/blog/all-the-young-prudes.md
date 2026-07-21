@@ -4,6 +4,8 @@ date: "2018-08-30"
 slug: "all-the-young-prudes"
 excerpt: "Today, youths are ridiculed for their overwhelmingly realistic and sensible approach to life. Amie Knights explores how we got here in just one generation, and what that means for marketers across the world.﻿"
 excerptGenerated: false
+author: "Amie Knights"
+authorSlug: "amie-knights"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/08/shutterstock_619927808-e1546095207965.jpg"
 categories: ["seat-at-the-table"]
 needsReview: []

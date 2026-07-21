@@ -4,6 +4,8 @@ date: "2018-05-31"
 slug: "stark-bollock-naked"
 excerpt: "To wear a sock, or not? Debates around radical transparency are heating up as experts, cynics and customers consider just how much they need to see in order to trust a brand. Helene Dancer investigates.﻿"
 excerptGenerated: false
+author: "Helene Dancer"
+authorSlug: "helene-dancer"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/05/Image-2-Transparency-e1546190295698.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []

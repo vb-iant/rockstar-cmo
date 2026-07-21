@@ -4,6 +4,8 @@ date: "2020-02-02"
 slug: "the-sample-the-features-creatures"
 excerpt: "Welcome to The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear about the topic in this issue. This time, we are looking at the relationship between marketing and the product teams, here is what we found."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-e1569754611847.jpg"
 categories: ["the-features-creatures-issue"]
 needsReview: []

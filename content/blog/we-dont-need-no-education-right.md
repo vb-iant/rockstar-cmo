@@ -4,6 +4,8 @@ date: "2020-07-18"
 slug: "we-dont-need-no-education-right"
 excerpt: "Lauren Bowden, experienced (and educated) B2B marketer shares her experience for this month's topic: Do marketers need a marketing education? Channeling a bit of Pink Floyd..."
 excerptGenerated: false
+author: "Lauren Bowden"
+authorSlug: "lauren-bowden"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/07/Pink_Floyd_The_Wall_-_Rock_and_Roll_Hall_of_Fame_2014-12-30_15.20.43_by_Sam_Howzit-1-scaled-e1595094336419.jpg"
 categories: ["marketing-education", "the-miseducation-of-lauryn-hill-issue"]
 needsReview: []

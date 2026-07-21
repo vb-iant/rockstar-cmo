@@ -4,6 +4,8 @@ date: "2018-10-31"
 slug: "zombie-marketing-bringing-back-dead-ideas"
 excerpt: "The graveyard of marketing is ripe with bodies. Print, video, and billboards killed at the hands of social media, QR codes, and digital PR. But are they gone for good? Gareth May explores."
 excerptGenerated: false
+author: "Gareth May"
+authorSlug: "gareth-may"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/10/Zombie_Image_1-e1545995875511.jpg"
 categories: ["thriller"]
 needsReview: ["embed_block"]

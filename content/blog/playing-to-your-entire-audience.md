@@ -4,6 +4,8 @@ date: "2019-08-31"
 slug: "playing-to-your-entire-audience"
 excerpt: "The Relevancy Group’s most recent research indicates that marketers are currently ignoring a large section of their crowd. Chief Research Officer Nicholas Einstein explains."
 excerptGenerated: false
+author: "Nicholas Einstein"
+authorSlug: "nicholas-einstein"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/UNADJUSTEDNONRAW_thumb_3d1b.jpg"
 categories: ["the-people-are-people-issue"]
 needsReview: []

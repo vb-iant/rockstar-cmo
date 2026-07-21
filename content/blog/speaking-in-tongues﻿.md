@@ -4,6 +4,8 @@ date: "2019-01-31"
 slug: "speaking-in-tongues%ef%bb%bf"
 excerpt: "The world of rock revels in symbolism. It’s a medium where the visual speaks almost as loud as the lyrics and the same is increasingly true of social media, where the emoji rules. Decode them and they’re an untapped well of digital marketing, writes Gareth May."
 excerptGenerated: false
+author: "Gareth May"
+authorSlug: "gareth-may"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/emojis-Image_1-1.jpg"
 categories: ["brand-new-thang"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-03-30"
 slug: "tales-from-the-tour-bus-rachel-wackadoos-miller"
 excerpt: "We catch-up with Rachel Miller, who recently joined SAP as Global Influencer Marketing Lead. We get some tips on B2B marketing, beer and what she would chuck into the pool."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/03/9HiAVCSY_400x400.jpg"
 categories: ["the-ghost-town-issue"]
 needsReview: []

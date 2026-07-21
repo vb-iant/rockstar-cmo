@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "backstage-with-ian-lowe"
 excerpt: "Ian Lowe, VP of Marketing for global SaaS WCM vendor Crownpeak popped by the penthouse to chat to Ian Truscott about what gets his marketing mojo working..."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/0-4.jpeg"
 categories: ["backstage", "the-changesbowie-issue"]
 needsReview: []

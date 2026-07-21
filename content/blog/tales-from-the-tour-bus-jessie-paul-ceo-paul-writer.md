@@ -4,6 +4,8 @@ date: "2020-05-01"
 slug: "tales-from-the-tour-bus-jessie-paul-ceo-paul-writer"
 excerpt: "Ian Truscott catches up with Jessie Paul, CEO of Paul Writer, an Indian based B2B agency and they chat about her experience as a CMO of some of the biggest organizations in India, the current crisis and what she'd thrown into the Rockstar CMO Swimming Pool."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/05/tales-from-the-tour-bus-Jessie-square.png"
 categories: ["tales-from-the-tour-bus", "the-welcome-to-jamrock-issue"]
 needsReview: []

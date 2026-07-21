@@ -4,6 +4,8 @@ date: "2025-01-23"
 slug: "get-your-buyers-amped-with-our-customer-journey"
 excerpt: "In a couple of podcast episodes, we’ve discussed buyers and customer journeys, pulling inspiration from various sources like Gartner, Forrester,…"
 excerptGenerated: true
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2025/01/AMPED.png"
 categories: ["b2b-marketing", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

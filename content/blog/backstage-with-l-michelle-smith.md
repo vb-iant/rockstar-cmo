@@ -4,6 +4,8 @@ date: "2018-12-20"
 slug: "backstage-with-l-michelle-smith"
 excerpt: "A classically-trained mezzo soprano, entrepreneur, author, speaker, coach, marketing leader, L.Michelle Smith is on a mission and shares her insights from a 25 year career."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/michelle_featured_image.png"
 categories: ["backstage", "the-breaking-glass-issue", "london-calling"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-08-30"
 slug: "generation-why-not-and-the-age-of-nothings-sacred"
 excerpt: "Lazy. Self-entitled. Unfocused. The youth of today get a lot of slack. But is it totally justified? According to Darren Guarnaccia, not so much.﻿"
 excerptGenerated: false
+author: "Darren Garnaccia"
+authorSlug: "darren-garnaccia"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/08/shutterstock_772424488-1-e1546096122777.jpg"
 categories: ["seat-at-the-table"]
 needsReview: []

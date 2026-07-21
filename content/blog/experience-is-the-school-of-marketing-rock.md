@@ -4,6 +4,8 @@ date: "2020-07-18"
 slug: "experience-is-the-school-of-marketing-rock"
 excerpt: "One of our mantras here on Rockstar CMO is from The School of Rock – “you can't just say it, man. You've gotta feel it in your blood and guts!” and as marketing writer Carmine Mastropierro shares here, that comes from experience."
 excerptGenerated: false
+author: "Carmine Mastropierro"
+authorSlug: "carmine-mastropierro"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/07/schoolofrock-1-e1594972004302.jpg"
 categories: ["the-miseducation-of-lauryn-hill-issue"]
 needsReview: []

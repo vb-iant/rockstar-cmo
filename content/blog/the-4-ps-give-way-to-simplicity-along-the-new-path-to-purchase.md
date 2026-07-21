@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "the-4-ps-give-way-to-simplicity-along-the-new-path-to-purchase"
 excerpt: "The fab four of Price, Product, Promotion, and Place are sliding down the charts for what it takes to win at retail, replaced by a new sound that's got consumers dancing in the aisle - Simplicity. As retail thought-leader John Andrews explains."
 excerptGenerated: false
+author: "John Andrews"
+authorSlug: "john-andrews"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/ja-2-1-e1564082751727.png"
 categories: ["the-think-about-it-issue"]
 needsReview: []

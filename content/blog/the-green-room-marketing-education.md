@@ -4,6 +4,8 @@ date: "2020-07-18"
 slug: "the-green-room-marketing-education"
 excerpt: "Marketers come from diverse career backgrounds, we are not like accountants or lawyers that need a specific education, and on social media we have been seeing some pushback on this from folks like Mark Ritson, who as a marketing professor is pretty vocal about those of us that don’t have a marketing education. So, what do our Rockstar CMO’s think?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/05/green-room-promo-square.png"
 categories: ["marketing-education", "the-green-room", "the-miseducation-of-lauryn-hill-issue"]
 needsReview: []

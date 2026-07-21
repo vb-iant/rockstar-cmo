@@ -4,6 +4,8 @@ date: "2019-01-31"
 slug: "how-to-build-better-relationships-with-customers-by-learning-participating-and-helping"
 excerpt: "Want to learn how to take your customer relationships to the next level? Ted Rubin has you covered…"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-at-Laptop-questioning-e1545650103660.jpg"
 categories: ["brand-new-thang"]
 needsReview: []

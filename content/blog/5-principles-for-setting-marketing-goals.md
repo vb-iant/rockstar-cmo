@@ -4,6 +4,8 @@ date: "2023-04-09"
 slug: "5-principles-for-setting-marketing-goals"
 excerpt: "Created your OKRs? Jeff Clark takes us through the next step to get us started on creating a marketing metrics dashboard..."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2023/04/markus-spiske-KWQ2kQtxiKE-unsplash-scaled-e1680874050795.jpg"
 categories: ["measurement", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

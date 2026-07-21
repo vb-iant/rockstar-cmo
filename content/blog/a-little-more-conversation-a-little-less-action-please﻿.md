@@ -4,6 +4,8 @@ date: "2018-12-20"
 slug: "a-little-more-conversation-a-little-less-action-please%ef%bb%bf"
 excerpt: "Ian Truscott argues that in this new age of marketing, you need to focus on the real, relevant and considered conversations you have with your audiences – and why anything else is just spam.﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/shutterstock_149490410-1-e1545648552813.jpg"
 categories: ["featured", "london-calling"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-01-03"
 slug: "the-art-of-b2b-marketing-is-about-outcomes-not-outputs"
 excerpt: "It’s easy to be distracted by techniques, strategies, channels and outputs, but focus on ART and create outcomes."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: null
 categories: ["b2b-marketing", "content-marketing", "marketing"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-04-26"
 slug: "liquid-power-how-the-flavour-mavericks-are-marketing-taste"
 excerpt: "Glam rock. What a mind f**k. The ’70s era of glitter and gutsy stage presence took bonkers to a whole new level. OTT experiences aren’t only the domain of Alice Cooper and co. though. Beyond trendy pop-ups, #foodporn and fawning whisky adverts, food and drink has its own wild ones. Gareth May takes a bite out of the mavericks’ cookbook and finds out how to really market taste.﻿"
 excerptGenerated: false
+author: "Gareth May"
+authorSlug: "gareth-may"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/Alex_Lawrence_Laverstoke_Park_Spritz-e1546267690278.jpg"
 categories: ["project-funk-da-world"]
 needsReview: []

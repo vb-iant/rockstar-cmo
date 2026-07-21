@@ -4,6 +4,8 @@ date: "2020-06-01"
 slug: "the-swimming-pool-25-bandwagoning"
 excerpt: "This month we are joined John Howe-Marshall, Chief Marketing Officer of SplitmediaLabs on the penthouse balcony, ready to give the heave-ho to \"Bandwagoning\"."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
 categories: ["the-club-classics-volume-one-issue", "the-swimming-pool"]
 needsReview: []

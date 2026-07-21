@@ -4,6 +4,8 @@ date: "2019-09-01"
 slug: "tales-from-the-tour-bus-catch-up-with-l-michelle-smith"
 excerpt: "Back in The London Calling Issue, we went backstage with L. Michelle Smith, author, speaker, marketing leader and diversity champion. In this issue, Ian Truscott hops on the tour bus and catches up with with what's new.."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/08/732BAADB-0A4E-4F94-AF3C-DD261E95FB8F-e1567062433228.jpeg"
 categories: ["tales-from-the-tour-bus", "the-people-are-people-issue"]
 needsReview: []

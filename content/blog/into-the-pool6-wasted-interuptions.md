@@ -4,6 +4,8 @@ date: "2018-08-30"
 slug: "into-the-pool6-wasted-interuptions"
 excerpt: "Ian Truscott has been hanging out in the proverbial penthouse with Christine Bailey. As usual, the conversation quickly bubbled with ire. The subject: interruption marketing and wasted advertising. Feel differently? Then let us know. ﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/08/submergedcar-1-e1546092822257.jpg"
 categories: ["seat-at-the-table", "the-swimming-pool"]
 needsReview: []

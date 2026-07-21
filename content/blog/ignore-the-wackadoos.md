@@ -4,6 +4,8 @@ date: "2019-03-28"
 slug: "ignore-the-wackadoos"
 excerpt: "It's time to up your game from vanity metrics to getting value from building relationships, as Rachel Miller, social and influencer marketing expert explains."
 excerptGenerated: false
+author: "Rachel Miller"
+authorSlug: "rachel-miller"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/03/shutterstock_612593618.jpg"
 categories: ["the-ghost-in-the-machine-issue"]
 needsReview: []

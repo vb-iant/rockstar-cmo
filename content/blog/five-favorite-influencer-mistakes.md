@@ -4,6 +4,8 @@ date: "2019-11-01"
 slug: "five-favorite-influencer-mistakes"
 excerpt: "Sheryl Crowe once lamented about her favorite mistake, but content marketing writer Dennis Shiao in \"no fool to this game\" as he shares his top 5 favorite influencer mistakes."
 excerptGenerated: false
+author: "Dennis Shiao"
+authorSlug: "dennis-shiao"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/11/hand-square.png"
 categories: ["the-running-in-circles-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-10-18"
 slug: "jam-tomorrow-and-jam-yesterday-but-never-jam-today"
 excerpt: "Keith Smith weighs in on the theme of this month's issue: Should we build our audience on rented land, like social media, or develop a property of our own? And it's typically no-nonsense.."
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/10/shutterstock_675968164-1-e1603011660181.png"
 categories: ["the-life-for-rent-issue"]
 needsReview: []

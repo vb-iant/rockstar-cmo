@@ -4,6 +4,8 @@ date: "2019-09-30"
 slug: "one-piece-at-a-time"
 excerpt: "Keith Smith, an expert on the drums of new business, is inspired by the tale that Johnny Cash told of a man building a Cadillac one stolen part at a time. Perhaps we as sales and marketers are taking an equally discordant approach when playing our tune to woo new clients."
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790489825.jpg"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: []

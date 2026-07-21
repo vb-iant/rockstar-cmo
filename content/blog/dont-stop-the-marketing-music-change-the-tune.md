@@ -4,6 +4,8 @@ date: "2020-09-03"
 slug: "dont-stop-the-marketing-music-change-the-tune"
 excerpt: "Ahmed Hassan, independent Digital Transformation Strategist and former Chief Digital Officer at Spark44 suggests we don’t stop our marketing activities as we emerge from the pandemic but adapt them."
 excerptGenerated: false
+author: "Ahmed Hasan"
+authorSlug: "ahmed-hasan"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/09/ahmed.jpg"
 categories: ["the-blur-issue"]
 needsReview: []

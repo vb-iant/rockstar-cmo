@@ -4,6 +4,8 @@ date: "2024-03-19"
 slug: "the-hard-knocks-martech-lessons-learned"
 excerpt: "We've covered the best practices for marketing tech, which have come from our experience and lessons learned. These are often hard knocks that we can’t forget. Jeff Clark shares some of his experiences."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2024/03/martin-pechy-u-2g_UCBP4E-unsplash-scaled-e1710855386192.jpg"
 categories: ["martech", "street-knowledge"]
 needsReview: []

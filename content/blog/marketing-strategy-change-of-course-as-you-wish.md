@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "marketing-strategy-change-of-course-as-you-wish"
 excerpt: "How do you stay true to your marketing musical roots, keep in tune with your strategy, deliver on the business baseline and not get distracted by the latest marketing fads and fashions? Robert Rose suggests the answer is in The Princess Bride, want to fight him on that?"
 excerptGenerated: false
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/Robert-Rose.jpg"
 categories: ["the-think-about-it-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-09-26"
 slug: "own-the-crowd-why-collaborative-content-creation-really-wins"
 excerpt: "CEO of Photofy John Andrews considers how collaboration with your employees could make your digital content sing…﻿"
 excerptGenerated: false
+author: "John Andrews"
+authorSlug: "john-andrews"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/borna-bevanda-377277-unsplash-e1546086803334.jpg"
 categories: ["archive", "street-knowledge", "employee-engagement", "nevermind"]
 needsReview: []

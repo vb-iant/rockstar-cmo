@@ -4,6 +4,8 @@ date: "2021-01-08"
 slug: "what-we-learned-from-2020"
 excerpt: "It's been a crazy year for all marketing leaders and business owners, but what about if you are both? In this article, Kathryn Strachan Managing Director of Copy House Ltd, shares her experience at the helm of her content marketing agency."
 excerptGenerated: false
+author: "Kathryn Strachan"
+authorSlug: "kathryn-strachan"
 image: "https://rockstarcmo.com/wp-content/uploads/2021/01/Kathryn-Strachan.png"
 categories: ["the-youve-come-a-long-way-baby-issue"]
 needsReview: []

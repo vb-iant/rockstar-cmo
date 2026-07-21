@@ -4,6 +4,8 @@ date: "2019-12-31"
 slug: "never-mind-2020-what-about-2060"
 excerpt: "Keith Smith looks beyond 2020 and imagines the world of 2060 – will there even be marketers, let alone Rockstar ones?"
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/12/RockstarCMO2060_done-1-e1577807673358.jpg"
 categories: ["the-future-starts-here-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-06-28"
 slug: "paranoid-android"
 excerpt: "Facial recognition is a pervasive and powerful tool, offering brands near-limitless possibilities when it comes to engaging their target audiences. But despite the benefits it can afford both brand and customer, is it just too, well, sinister? Dave Waller talks to futurist Mark Stevenson and investigates…﻿"
 excerptGenerated: false
+author: "Dave Waller"
+authorSlug: "dave-waller"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/06/437541_1287311921_large-e1546184025204.jpg"
 categories: ["ok-computer"]
 needsReview: []

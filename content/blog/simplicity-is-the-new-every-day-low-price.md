@@ -4,6 +4,8 @@ date: "2018-05-31"
 slug: "simplicity-is-the-new-every-day-low-price"
 excerpt: "Consumers have always valued simplicity, in part because it's often not so easy to find with the retail experience. Ted Rubin on keeping retail simple…﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/06/shutterstock_526104310-1-e1546182967242.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []

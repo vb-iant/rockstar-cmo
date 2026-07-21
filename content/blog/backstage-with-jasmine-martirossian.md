@@ -4,6 +4,8 @@ date: "2019-06-29"
 slug: "backstage-with-jasmine-martirossian"
 excerpt: "What has marketing got to do with the laws of physics? We talk to author, frequent conference keynote and VP of Marketing at TÜV SÜD Americas, Jasmine Martirossian."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/Jasmine-Martirossian-Photo-2-e1561793474911.jpg"
 categories: ["backstage", "the-breaking-glass-issue", "the-inside-in-inside-out-issue"]
 needsReview: []

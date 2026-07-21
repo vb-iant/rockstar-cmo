@@ -4,6 +4,8 @@ date: "2018-10-31"
 slug: "fantasy-land"
 excerpt: "Helene Dancer finds out why, in an age of screens, experiences are more important than ever… And the trick? It’s all in the treat. ﻿"
 excerptGenerated: false
+author: "Helene Dancer"
+authorSlug: "helene-dancer"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/shutterstock_1134379079.jpg"
 categories: ["thriller"]
 needsReview: ["raw_html_block", "iframe"]

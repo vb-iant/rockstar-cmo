@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "six-things-you-can-do-to-turn-your-brand-into-a-friend"
 excerpt: "The days of brands being detached, abstract and ultimately faceless entities are long gone. Stephen Kelly explores how you can inject a little humanity into proceedings – authentically."
 excerptGenerated: false
+author: "Stephen Kelly"
+authorSlug: "stephen-kelly"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/antonino-visalli-1272426-unsplash-1-e1551351502187.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []

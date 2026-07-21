@@ -4,6 +4,8 @@ date: "2018-06-28"
 slug: "into-the-pool-4-marketing-suites"
 excerpt: "Encouraged by Darren Guarnaccia we're taking bets on the size of splash that single vendor marketing suites are going to make as he offers up his bugbear."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/shutterstock_331696088-1-e1545660587459.jpg"
 categories: ["ok-computer", "the-swimming-pool"]
 needsReview: []

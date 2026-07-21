@@ -4,6 +4,8 @@ date: "2019-01-31"
 slug: "how-to-scoop-content-with-a-real-fresh-flavor%ef%bb%bf"
 excerpt: "Casey Petersen on how an ice cream shop employee reminded him of the best way to smash those 2019 marketing goals. Changing your attitude to employee generated content."
 excerptGenerated: false
+author: "Casey Petersen"
+authorSlug: "casey-petersen"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/anshu-a-753057-unsplash-1-e1548933235226.jpg"
 categories: ["brand-new-thang", "employee-engagement"]
 needsReview: []

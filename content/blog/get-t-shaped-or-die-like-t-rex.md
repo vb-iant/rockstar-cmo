@@ -4,6 +4,8 @@ date: "2019-11-01"
 slug: "get-t-shaped-or-die-like-t-rex"
 excerpt: "Like the legendary DJ Deadmau5, our agency insider dons a mask and reveals the backstage secrets of big agencies. In this issue, he's got a warning for T-Rex, not the legendary glam rock band, but the agency dinosaurs.."
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-running-in-circles-issue"]
 needsReview: []

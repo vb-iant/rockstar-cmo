@@ -4,6 +4,8 @@ date: "2022-07-20"
 slug: "back-to-brand"
 excerpt: "Dust off your marketing LPs, vinyl records, the eight tracks and maybe the gramophone because old-school brand building will be a tune the cool kids of modern marketing will need to be jumping to."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2022/07/back-to-brand-square.png"
 categories: ["b2b-marketing", "branding", "marketing", "street-knowledge"]
 needsReview: []

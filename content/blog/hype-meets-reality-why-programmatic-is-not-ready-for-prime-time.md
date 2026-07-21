@@ -4,6 +4,8 @@ date: "2018-10-31"
 slug: "hype-meets-reality-why-programmatic-is-not-ready-for-prime-time"
 excerpt: "Our resident rock star Ted Rubin on the slew of pitfalls presented by programmatic media buying – and why you should go old school and place your own ads.﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/10/4981810037_f92989c61a_b-e1545995177896.jpg"
 categories: ["thriller"]
 needsReview: []

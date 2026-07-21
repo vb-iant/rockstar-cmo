@@ -4,6 +4,8 @@ date: "2018-06-28"
 slug: "backstage-with-john-andrews"
 excerpt: "Ian Truscott sat down with John Andrews, head honcho at Photofy – and chat about his 20 years’ experience in digital marketing."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/06/120716_20PICZ-0060-e1546105729749.jpg"
 categories: ["backstage", "ok-computer"]
 needsReview: []

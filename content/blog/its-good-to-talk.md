@@ -4,6 +4,8 @@ date: "2018-12-20"
 slug: "its-good-to-talk"
 excerpt: "With the likes of Alexa, Google Home and Siri, voice assistants are more popular than ever. Capable of making our lives easier in a flash, the devices featuring these AI are fast becoming an indispensable part of our everyday. But what does the future hold for this tech?"
 excerptGenerated: false
+author: "Dave Waller"
+authorSlug: "dave-waller"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Voice_Image_1-1-e1545663294584.jpg"
 categories: ["features-2", "london-calling"]
 needsReview: []

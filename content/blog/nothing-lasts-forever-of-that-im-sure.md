@@ -4,6 +4,8 @@ date: "2019-08-30"
 slug: "nothing-lasts-forever-of-that-im-sure"
 excerpt: "The brands they are a changin’ – well, ones who want success are, and Keith Smith, inspired by a bit of Bryan Ferry talks to branding expert Rob Bloxham about how marketers need to deal in change.."
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790489825.jpg"
 categories: ["the-inside-in-inside-out-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2023-03-25"
 slug: "okrs-kpis-roi-omg"
 excerpt: "OKR's, the accronym to rule all accronyms, or at least the accronym to enable you to deliver onthe other TLA's that marketing has on it's plate today. Jeff Clark explains..."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2023/03/afif-ramdhasuma-F3dFVKj6q8I-unsplash-scaled-e1679665270152.jpg"
 categories: ["marketing-education", "marketing-operations", "measurement", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: ["raw_html_block", "iframe"]

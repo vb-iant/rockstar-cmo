@@ -4,6 +4,8 @@ date: "2019-09-29"
 slug: "maintaining-a-bitchin-relationship"
 excerpt: "Marketing journalist Morag Cuddeford-Jones casts a cynical eye over the true nature of the relationships between marketing, their agencies and tech vendors, but has some positive advice on how to turn bitchin' to a bitchin' relationship."
 excerptGenerated: false
+author: "Morag Cuddeford-Jones"
+authorSlug: "morag-cuddeford-jones"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/morag.jpeg"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: []

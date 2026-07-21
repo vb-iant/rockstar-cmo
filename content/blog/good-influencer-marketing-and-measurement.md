@@ -4,6 +4,8 @@ date: "2019-05-30"
 slug: "good-influencer-marketing-and-measurement"
 excerpt: "Influencers are the hot topic of marketing right now, but Ted Rubin has always believed in the value of relationships, in this article our resident Rockstar, one of the most shared CMOs on Twitter shares his experience.."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/05/shutterstock_659662009-e1558870005658.jpg"
 categories: ["the-invasion-of-privacy-issue"]
 needsReview: []

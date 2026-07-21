@@ -54,6 +54,15 @@ export default function BlogIndex({ searchParams }) {
                 </Link>
                 <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
                   {formatDate(post.date)}
+                  {post.author && (
+                    <>
+                      {" "}
+                      &middot;{" "}
+                      <Link href={`/tags/${post.authorSlug}`} className="blog-hover-red">
+                        {post.author}
+                      </Link>
+                    </>
+                  )}
                 </p>
                 <p style={{ color: "#333", marginBottom: "0.5rem" }}>{post.excerpt}</p>
                 <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ fontWeight: 600 }}>

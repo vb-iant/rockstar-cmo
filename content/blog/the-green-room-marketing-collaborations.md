@@ -4,6 +4,8 @@ date: "2019-09-30"
 slug: "the-green-room-marketing-collaborations"
 excerpt: "Every month we grab our backstage pass to our Rockstar CMO’s, hang out in the Green Room and over a glass of whatever we can find in the mini bar, pick a topic and chat. This month Ian Truscott asks who do our Rockstar CMOs most like to duet with?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/11/seabass-creatives-61546-unsplash-e1545483012398.jpg"
 categories: ["the-green-room", "the-one-nation-under-a-groove-issue"]
 needsReview: []

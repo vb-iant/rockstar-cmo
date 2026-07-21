@@ -4,6 +4,8 @@ date: "2018-03-25"
 slug: "backstage-with-robert-rose"
 excerpt: "Robert Rose is a certified rockstar. Not just because he's a content marketing celebrity, but chat to him for a bit and you'll learn that as a musician, he's had more than a brush with being the real thing."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/robert-rose-e1546086062766.jpg"
 categories: ["backstage", "featured", "sound-check"]
 needsReview: []

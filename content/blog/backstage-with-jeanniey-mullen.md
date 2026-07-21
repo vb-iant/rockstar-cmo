@@ -4,6 +4,8 @@ date: "2018-10-31"
 slug: "backstage-with-jeanniey-mullen"
 excerpt: "Global Chief Innovation and Marketing Officer, Executive Board Advisor, keynote speaker, CMO Council Co-Chair, author of 3 books, Jeanniey Mullen is a woman in demand."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/mullen_passport.hi_res.jpg"
 categories: ["backstage", "the-breaking-glass-issue", "thriller"]
 needsReview: []

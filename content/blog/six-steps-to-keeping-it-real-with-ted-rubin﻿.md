@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "six-steps-to-keeping-it-real-with-ted-rubin%ef%bb%bf"
 excerpt: "Want to be authentic? Ted Rubin shares 6 tips on expressing a real point of view that your audience engages with."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/1447389246178.jpeg-1-e1551354115237.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []

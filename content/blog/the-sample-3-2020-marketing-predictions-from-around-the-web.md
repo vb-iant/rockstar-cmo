@@ -4,6 +4,8 @@ date: "2020-01-01"
 slug: "the-sample-3-2020-marketing-predictions-from-around-the-web"
 excerpt: "The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear. In this issue we are looking to the future, so our picks this month are predictions on some of the topics we’ve covered in recent issues."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/12/square-dial.jpg"
 categories: ["the-future-starts-here-issue"]
 needsReview: []

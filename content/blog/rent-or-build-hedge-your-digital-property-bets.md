@@ -4,6 +4,8 @@ date: "2020-10-18"
 slug: "rent-or-build-hedge-your-digital-property-bets"
 excerpt: "Carmine Mastropierro brings us some practical advice on the theme of this months issue, should you build or rent your digital property? Carmine suggests we hedge..."
 excerptGenerated: false
+author: "Carmine Mastropierro"
+authorSlug: "carmine-mastropierro"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/10/shutterstock_1712082787-1-e1603036370741.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: []

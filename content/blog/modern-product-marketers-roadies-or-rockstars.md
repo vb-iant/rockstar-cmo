@@ -4,6 +4,8 @@ date: "2020-02-07"
 slug: "modern-product-marketers-roadies-or-rockstars"
 excerpt: "We’ve enjoyed Nick Einstein’s insight as an analyst here on Rockstar CMO, but in a timely move coinciding with our focus on the product for this issue, he’s switched to product marketing. Here he ponders if product marketers are the roadies or the rockstars…"
 excerptGenerated: false
+author: "Nicholas Einstein"
+authorSlug: "nicholas-einstein"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/02/romain-hus-vWOXjFr6sz4-unsplash-1-scaled-e1581093020793.jpg"
 categories: ["the-features-creatures-issue", "top-10-2020"]
 needsReview: []

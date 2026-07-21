@@ -4,6 +4,8 @@ date: "2019-06-28"
 slug: "sing-the-same-song-3-steps-for-employee-engagement"
 excerpt: "We asked our content marketing hero, Robert Rose, how he would approach the theme of this month's issue - employee engagement - and he shares three steps to get everyone singing the same song."
 excerptGenerated: false
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/Robert-Rose.jpg"
 categories: ["employee-engagement", "the-inside-in-inside-out-issue"]
 needsReview: []

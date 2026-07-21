@@ -4,6 +4,8 @@ date: "2020-04-29"
 slug: "adnonamau5-the-death-of-the-creative-officer-its-been-too-schlong"
 excerpt: "Our anonymous big agency insider is back this month, sneaking this out to the Rockstar CMO penthouse, while presumably, the creative team was sleeping off a long, self-congratulatory lunch..."
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-welcome-to-jamrock-issue"]
 needsReview: []

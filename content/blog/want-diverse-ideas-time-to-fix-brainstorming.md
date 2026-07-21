@@ -4,6 +4,8 @@ date: "2019-09-02"
 slug: "want-diverse-ideas-time-to-fix-brainstorming"
 excerpt: "Inclusion of diverse marketing ideas starts early in the process when we brainstorm - and our resident Rockstar CMO Ted Rubin tells it straight; avoid the groupthink, include the right people and listen"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/1447389246178.jpeg-1-e1551354115237.jpg"
 categories: ["the-people-are-people-issue"]
 needsReview: []

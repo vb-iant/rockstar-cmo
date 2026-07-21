@@ -4,6 +4,8 @@ date: "2019-09-29"
 slug: "that-catchy-marketing-tune-is-not-a-solo-or-a-duet-its-by-the-band"
 excerpt: "We asked our Rockstar CMOs who is the most important collaborator when they want to make that sweet marketing music. Some pushed back on choosing just one, like Robert Rose, author and Chief Strategy Officer at The Content Advisory who suggests the best marketing acts need a band."
 excerptGenerated: false
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/Robert-Rose.jpg"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: []

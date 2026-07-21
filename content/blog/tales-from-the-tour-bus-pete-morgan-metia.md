@@ -4,6 +4,8 @@ date: "2020-02-07"
 slug: "tales-from-the-tour-bus-pete-morgan-metia"
 excerpt: "Global agency Metia recently published some new research “B2B marketing trends for 2020, Six essential trends for the curious CMO.” Well, people call us a lot of things and one of them is ‘curious’, so we tracked down the author, former record label owner and Metia’s VP of Demand Pete Morgan..."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/02/88_head_petemorgan-e1581091367423.jpg"
 categories: ["tales-from-the-tour-bus", "the-features-creatures-issue"]
 needsReview: []

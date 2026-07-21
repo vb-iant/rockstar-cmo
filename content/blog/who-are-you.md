@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "who-are-you"
 excerpt: "You know, marketers really need to know. The only trouble is, says marketing journalist Morag Cuddeford-Jones; I don’t know who I am half the time. So what chance have you got?"
 excerptGenerated: false
+author: "Morag Cuddeford-Jones"
+authorSlug: "morag-cuddeford-jones"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/shutterstock_363764822-1-e1564092224644.jpg"
 categories: ["features-2", "the-breaking-glass-issue", "the-think-about-it-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-09-30"
 slug: "employee-created-content-found-money-in-the-couch-cushions-of-the-marketing-budget"
 excerpt: "Following the theme of partnership for this issue, John Andrews, CEO of Photofy shares how to engage the often-overlooked channel in the cubicles around you as Employee Created Content becomes a trusted source for influencers and buyers."
 excerptGenerated: false
+author: "John Andrews"
+authorSlug: "john-andrews"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/06/120716_20PICZ-0060-e1546105729749.jpg"
 categories: ["employee-engagement", "the-one-nation-under-a-groove-issue"]
 needsReview: []

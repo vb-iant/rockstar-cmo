@@ -4,6 +4,8 @@ date: "2019-06-28"
 slug: "pretty-pictures-and-crayons"
 excerpt: "Our anonymouys advertiser. Adnonamau5 (pronounced ad-nonymous) returns with a fairly blunt perspective on the pointlessness of much of the ad creation process."
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-inside-in-inside-out-issue"]
 needsReview: []

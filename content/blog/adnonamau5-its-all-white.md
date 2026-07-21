@@ -4,6 +4,8 @@ date: "2019-08-30"
 slug: "adnonamau5-its-all-white"
 excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser Adnonamau5 dons a mask to perform. This issue he dropped by the Rockstar CMO penthouse and laughs - Diversity in the ad-land? Nah – we’re quite alwight, old chum."
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-people-are-people-issue"]
 needsReview: []

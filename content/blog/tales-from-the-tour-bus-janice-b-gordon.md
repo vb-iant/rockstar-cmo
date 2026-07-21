@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "tales-from-the-tour-bus-janice-b-gordon"
 excerpt: "Like the Rolling Stones versus the Beatles or Oasis versus Blur, sales and marketing have a reputation for not always getting along. So, for this Tale from the Tour Bus we cross the tracks, to speak to sales mentor Janice B. Gordon."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/Janice-Gordon_1998_BG_Cut-1-e1556211389659.png"
 categories: ["tales-from-the-tour-bus", "the-breaking-glass-issue", "the-changesbowie-issue"]
 needsReview: []

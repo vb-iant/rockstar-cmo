@@ -4,6 +4,8 @@ date: "2020-04-30"
 slug: "the-swimming-pool-24-alec-baldwin"
 excerpt: "I know, right? Alec Baldwin? Well, we have Keith Smith, MD of The Advertist to thank for this one from our conversation on the podcast. We should explain.."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
 categories: ["the-swimming-pool", "the-welcome-to-jamrock-issue"]
 needsReview: ["shortcode:buzzsprout,podcast_subscribe", "embed_block"]

@@ -4,6 +4,8 @@ date: "2020-03-30"
 slug: "all-is-vanity"
 excerpt: "All is Vanity was a song by the Manic Street Preachers and when asked about its meaning vocalist James Dean Bradfield told the NME that this song \"deals with just hating those momentary lapses of just falling into narcissism\" and in this article Dennis Shiao shares how this can happen for marketers."
 excerptGenerated: false
+author: "Dennis Shiao"
+authorSlug: "dennis-shiao"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/03/noah-buscher-M19QtooXPKs-unsplash-1-scaled-e1585563372527.jpg"
 categories: ["the-ghost-town-issue"]
 needsReview: []

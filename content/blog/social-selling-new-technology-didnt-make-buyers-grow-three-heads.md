@@ -4,6 +4,8 @@ date: "2018-11-30"
 slug: "social-selling-new-technology-didnt-make-buyers-grow-three-heads"
 excerpt: "Are you using social media to blindly blast information at your audience? Our resident rock star, Ted Rubin, on how to use social media to build relationships – and truly connect with consumers.﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/11/Image_1-e1545490095809.jpg"
 categories: ["we-are-family"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-11-30"
 slug: "the-green-room-december"
 excerpt: "Welcome to the Green Room, a new monthly feature where we will be evading security yet again to go backstage with our Rockstar CMOs and pose them a question that’s top of mind for us back at the Rockstar CMO penthouse. ﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/11/seabass-creatives-61546-unsplash-e1545483012398.jpg"
 categories: ["the-green-room", "we-are-family"]
 needsReview: []

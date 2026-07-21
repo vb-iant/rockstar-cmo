@@ -4,6 +4,8 @@ date: "2018-11-30"
 slug: "into-the-pool-9-the-big-deal-today-about-chatbots"
 excerpt: "This month’s penthouse ruckus has been started by Jeanniey Mullen who suggests that Ian Truscott throw “The big deal today about chatbots” into the Rockstar CMO Swimming pool. Something he seems only too eager to do."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/shutterstock_331696088-1-e1545660587459.jpg"
 categories: ["the-martech-mix-desk", "the-swimming-pool", "we-are-family"]
 needsReview: []

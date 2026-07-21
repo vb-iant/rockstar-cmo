@@ -4,6 +4,8 @@ date: "2019-11-28"
 slug: "a-holiday-gift-enough-of-the-bullshit"
 excerpt: "It's almost Christmas and the fine gentleman of Beehive are giving away copies of their keen observation on marketing 'How to Avoid Brand Bullshit'. Here is a review from Keith Smith."
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/11/brand-bullshit.png"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []

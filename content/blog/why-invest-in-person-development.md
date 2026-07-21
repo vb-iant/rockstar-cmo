@@ -4,6 +4,8 @@ date: "2019-01-22"
 slug: "why-invest-in-person-development"
 excerpt: "In an era of big data, agile marketing, A/B testing, fail fast - is persona development still a good use of your time?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/raj-eiamworakul-1031067-unsplash-copy.jpeg"
 categories: ["b2b-marketing", "content-marketing", "marketing"]
 needsReview: []

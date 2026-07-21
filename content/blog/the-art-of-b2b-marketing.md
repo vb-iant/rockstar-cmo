@@ -4,6 +4,8 @@ date: "2018-11-19"
 slug: "the-art-of-b2b-marketing"
 excerpt: "What do we mean by creating ART for B2B? Ian Truscott shares his successful philosophy."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: null
 categories: ["b2b-marketing"]
 needsReview: []

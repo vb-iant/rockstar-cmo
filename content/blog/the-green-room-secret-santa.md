@@ -4,6 +4,8 @@ date: "2018-12-24"
 slug: "the-green-room-secret-santa"
 excerpt: "Every month we pose a question to our Rockstar CMOs. As this issue drops during the season of goodwill, we’re thinking about gifts. So we wondered, what would this fine and generous band of marketers gift to our marketing community?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/queue-management-for-busy-christmas-events-1-e1545650732650.jpg"
 categories: ["featured", "the-green-room", "london-calling"]
 needsReview: ["embed_block"]

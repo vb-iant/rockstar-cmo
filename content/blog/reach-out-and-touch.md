@@ -4,6 +4,8 @@ date: "2018-09-26"
 slug: "reach-out-and-touch"
 excerpt: "How exactly have these artisans become headline acts? Amie Knights talks to the Craft Revolution, furniture maker Heather Scott and design journalist Katie Treggiden, to get the backstage scoop."
 excerptGenerated: false
+author: "Amie Knights"
+authorSlug: "amie-knights"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/nick-karvounis-156112-unsplash-e1546083597161.jpg"
 categories: ["nevermind"]
 needsReview: []

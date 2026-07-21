@@ -4,6 +4,8 @@ date: "2018-07-26"
 slug: "digital-marketers-need-to-be-reminded-walk-in-your-customers-shoes"
 excerpt: "Our resident rock star, Ted Rubin, on why marketers need to really understand what their audiences want, before they – and their products – become irrelevant.﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-Rubin-e1545645433398.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-04-05"
 slug: "case-studies-how-to-create-marketing-gold"
 excerpt: "In a world seemingly more and more cynical of sales and marketing, the authentic voice of a someone “like them” is compelling. Ian Truscott shares his experience on how to create this marketing gold."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/jingming-pan-iYsrkq5qq0Q-unsplash-square.png"
 categories: ["b2b-marketing"]
 needsReview: []

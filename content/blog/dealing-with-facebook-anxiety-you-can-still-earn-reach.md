@@ -4,6 +4,8 @@ date: "2018-09-26"
 slug: "dealing-with-facebook-anxiety-you-can-still-earn-reach"
 excerpt: "Times have changed. More than ever before, brands are finding it difficult to get their content in front of consumer eyeballs. Casey Petersen, suggests switching up your approach and going back to basics.﻿"
 excerptGenerated: false
+author: "Casey Petersen"
+authorSlug: "casey-petersen"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/marc-schafer-631509-unsplash-e1546082944429.jpg"
 categories: ["nevermind"]
 needsReview: []

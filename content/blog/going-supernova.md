@@ -4,6 +4,8 @@ date: "2018-08-30"
 slug: "going-supernova"
 excerpt: "If you’re over the age of 30 and you’re not au fait with the stylings of the Kardashian Klan, there’s a high chance you might never have heard of FashionNova.com. But let this be known; you should have. After all, they’re only one of the fastest growing fashion companies in the world."
 excerptGenerated: false
+author: "Olivia Foster"
+authorSlug: "olivia-foster"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/08/Supernova_Image_1-e1546096712139.jpg"
 categories: ["seat-at-the-table"]
 needsReview: ["embed_block"]

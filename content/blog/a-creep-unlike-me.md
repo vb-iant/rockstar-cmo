@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "a-creep-unlike-me"
 excerpt: "Marketing consultant, journalist and editor Morag Cuddeford-Jones on how to avoid being both creepy and stalkerish, and to instead use invisible personalization to smash your loftiest customer experience goals."
 excerptGenerated: false
+author: "Morag Cuddeford-Jones"
+authorSlug: "morag-cuddeford-jones"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/pawel-czerwinski-713956-unsplash-1-e1551360164401.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-11-30"
 slug: "aint-bringing-nothing-to-the-table-but-your-plate"
 excerpt: "It's unlikely that rapper Meghan Thee Stallion and personal branding Jane Scandurra have been seen in the same room, but Jane's thoughts of thanks have inspired Ian Truscott to share something inspired by Hot Girl Meg."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/11/2478.jpg"
 categories: ["the-come-together-issue"]
 needsReview: []

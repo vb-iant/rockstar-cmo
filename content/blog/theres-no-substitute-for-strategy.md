@@ -4,6 +4,8 @@ date: "2019-07-22"
 slug: "theres-no-substitute-for-strategy"
 excerpt: "When you’re under pressure it’s easy to take short-cuts to tech solutions. But the focus a good strategy provides is vital to making the right decisions, says Ian Lowe"
 excerptGenerated: false
+author: "Ian Lowe"
+authorSlug: "ian-lowe"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/0-4.jpeg"
 categories: ["the-martech-mix-desk", "the-think-about-it-issue"]
 needsReview: []

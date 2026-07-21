@@ -4,6 +4,8 @@ date: "2019-08-30"
 slug: "diversity-not-just-a-party-invite-its-inclusion-in-the-plan"
 excerpt: "No business can afford to ignore how increasingly diverse we are. Wendy Bryant-Beswick, shares her experience of and approach to diversity marketing.."
 excerptGenerated: false
+author: "Wendy Bryant-Beswick"
+authorSlug: "wendy-bryant-beswick"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png"
 categories: ["the-people-are-people-issue"]
 needsReview: []

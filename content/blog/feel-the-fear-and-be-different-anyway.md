@@ -4,6 +4,8 @@ date: "2018-11-19"
 slug: "feel-the-fear-and-be-different-anyway"
 excerpt: "As Seth Godin said \"Products and services that get talked about are the ones that are worth talking about.\" so, how do you stand out?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: null
 categories: ["b2b-marketing", "category-definition", "content-marketing"]
 needsReview: []

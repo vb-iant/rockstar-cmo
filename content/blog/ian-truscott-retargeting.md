@@ -4,6 +4,8 @@ date: "2018-04-26"
 slug: "ian-truscott-retargeting"
 excerpt: "You know how rock stars have this reputation for throwing stuff from the hotel window into the pool? Hell, Keith Moon even parked his Rolls Royce in…"
 excerptGenerated: true
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/chuttersnap-523582-unsplash-e1546110801423.jpg"
 categories: ["project-funk-da-world", "the-swimming-pool"]
 needsReview: []

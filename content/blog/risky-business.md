@@ -4,6 +4,8 @@ date: "2018-12-20"
 slug: "risky-business"
 excerpt: "It used to be brand suicide to align yourself openly with a political or social justice cause. Now, everyone’s at it. But why? Ian Hsieh discovers."
 excerptGenerated: false
+author: "Ian Hsieh"
+authorSlug: "ian-hsieh"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ian_Hsieh_01-1-e1545818625345.jpg"
 categories: ["features-2", "london-calling", "the-people-are-people-issue"]
 needsReview: ["embed_block"]

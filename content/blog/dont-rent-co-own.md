@@ -4,6 +4,8 @@ date: "2020-10-18"
 slug: "dont-rent-co-own"
 excerpt: "Ted Rubin has built an audience, you don't become the most followed CMO on Twitter without one. So, what is his advice; should we build our content strategy and audience on rented land"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/09/Ted-Thinking.Photofy-e1599213781701.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: []

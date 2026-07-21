@@ -4,6 +4,8 @@ date: "2019-09-01"
 slug: "into-the-swimming-pool-the-bloody-goldfish"
 excerpt: "In this issue, we are leaning over the balcony of the penthouse with a big glass bowl and a fish, our partner in crime this issue is Robert Rose. But why are we standing here with a fish?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
 categories: ["the-running-in-circles-issue", "the-swimming-pool"]
 needsReview: []

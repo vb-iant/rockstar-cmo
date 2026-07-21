@@ -4,6 +4,8 @@ date: "2020-07-17"
 slug: "on-the-podcast-this-month"
 excerpt: "A roundup of what's been happening on the podcast this month, with some fantastic interviews and cocktails!"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/12/Rockstar-CMO-FM-Promo-1.png"
 categories: ["the-miseducation-of-lauryn-hill-issue"]
 needsReview: ["shortcode:buzzsprout", "reusable_block_ref"]

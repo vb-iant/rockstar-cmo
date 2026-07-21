@@ -4,6 +4,8 @@ date: "2020-07-18"
 slug: "the-swimming-pool-26-linkedin-solicitations-like-your-my-best-friend"
 excerpt: "This month, inspired by Jane Scandurra, we are wondering if we should be chucking \"LinkedIn Solicitations Like You're My Best Friend\" into our portal to marketing hell."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/07/shutterstock_669435025.png"
 categories: ["the-miseducation-of-lauryn-hill-issue", "the-swimming-pool"]
 needsReview: []

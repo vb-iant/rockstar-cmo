@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "five-marketing-truths-from-paige-oneill"
 excerpt: "I got a backstage pass at the Sitecore Experience event in London, the opportunity to catch-up with my old boss Paige O’Neill and chat about her keynote and her latest message to marketers…"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/Paige_Oneill_final_v3a-1-e1556204452836.jpg"
 categories: ["features-2", "the-breaking-glass-issue", "the-changesbowie-issue"]
 needsReview: []

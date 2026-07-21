@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "the-rise-of-the-marketing-machines-carlos-doughty"
 excerpt: "We've heard the views of the marketers on the rise of the marketing machines, but what do the Martech industry insiders think? We ask Carlos Doughty."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/0-3.jpeg"
 categories: ["the-changesbowie-issue", "the-martech-mix-desk"]
 needsReview: []

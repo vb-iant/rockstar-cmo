@@ -4,6 +4,8 @@ date: "2018-10-31"
 slug: "zombies-are-eating-your-audience-heres-how-to-fight-back"
 excerpt: "This is the story of a major national retailer. A national retailer that cut one too many corners in growing its social media channels, and…"
 excerptGenerated: true
+author: "Casey Petersen"
+authorSlug: "casey-petersen"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/10/shutterstock_740193271-e1545997133587.jpg"
 categories: ["thriller"]
 needsReview: []

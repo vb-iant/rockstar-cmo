@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "into-the-pool-12-omnichannel-for-the-sake-of-omnichannel%ef%bb%bf"
 excerpt: "This month, Ian Truscott is inspired by L. Michelle Smith as he looks to heft “omnichannel for the sake of it” off the penthouse balcony."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
 categories: ["the-pretender-issue", "the-swimming-pool"]
 needsReview: []

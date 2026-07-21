@@ -4,6 +4,8 @@ date: "2019-10-30"
 slug: "wedgewood-vs-sex-pistols-what-is-influence-anyway"
 excerpt: "What's your influencer groove? Shilling for a product or promoting ideas and change? Robert Rose, author and Chief Strategy Officer at The Content Advisory grabs the mic."
 excerptGenerated: false
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/10/wedgewood-vs-sex-pistols-square.png"
 categories: ["the-running-in-circles-issue"]
 needsReview: ["embed_block"]

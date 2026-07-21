@@ -4,6 +4,8 @@ date: "2019-11-01"
 slug: "into-the-swimming-pool-marketing-cant-be-measured"
 excerpt: "This month we are hanging over the balcony with Acquia CMO Lynne Capozzi, who nominated “marketing can’t be measured” for the drop from the penthouse to splashdown into the portal to our special place in marketing hell"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
 categories: ["the-running-in-circles-issue", "the-swimming-pool"]
 needsReview: []

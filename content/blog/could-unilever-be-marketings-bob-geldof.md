@@ -4,6 +4,8 @@ date: "2018-03-21"
 slug: "could-unilever-be-marketings-bob-geldof"
 excerpt: "Unilever has taken a stand over the fast and loose approach that social platforms are taking to their social responsibilities, yet in marketing we a similar reputation of being self-serving, more excited when someone does something cool that sells more Oreos than saving the world. Ian Truscott if brands will take the high road and follow Unilever... ﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/03/sommi-257178-unsplash-e1546276687736.jpg"
 categories: ["sound-check"]
 needsReview: []

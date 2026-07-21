@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "the-green-room-sticking-to-a-tune-in-a-world-of-jazz"
 excerpt: "Each month in the Green Room we return backstage to pose a question to a group of our Rockstar CMOs. In this issue, Ian Truscott catches up with seven of them to talk about how to stay focused on a marketing strategy, when it's so easy to be distracted by channels, tech and tactics."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/shutterstock_1055565206-1-e1564098547644.jpg"
 categories: ["the-green-room", "the-think-about-it-issue"]
 needsReview: []

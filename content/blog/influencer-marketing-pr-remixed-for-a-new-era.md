@@ -4,6 +4,8 @@ date: "2019-10-30"
 slug: "influencer-marketing-pr-remixed-for-a-new-era"
 excerpt: "Keith Smith steps us through how to use influencer marketing for business growth, it's not the old ads tune, it's PR remixed."
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/10/hash-ear.png"
 categories: ["the-running-in-circles-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-11-01"
 slug: "the-sample-under-the-influence"
 excerpt: "The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear. The topic of this issue is Influencer Marketing and here are some of the best beats we’ve picked up this month."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-1.jpg"
 categories: ["the-running-in-circles-issue"]
 needsReview: []

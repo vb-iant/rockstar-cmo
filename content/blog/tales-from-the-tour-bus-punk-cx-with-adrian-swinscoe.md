@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "tales-from-the-tour-bus-punk-cx-with-adrian-swinscoe"
 excerpt: "This month we heard a whisper of someone taking a punk beat and applying it to the overblown prod rock of customer experience and we had to find the source. Ian Truscott tracks down the author of Punk CX, Adrian Swinscoe."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/D8CdU75XoAAsFvw-1-e1564082553959.jpg"
 categories: ["tales-from-the-tour-bus", "the-think-about-it-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-09-04"
 slug: "the-swimming-pool-27-a-marketer-that-wants-to-be-your-friend"
 excerpt: "This month our trip to the Rockstar CMO penthouse balcony, is inspired by business development expert and coach Caroline Kay, as we prepare \"a marketer that wants to be your friend\" for its watery demise."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/09/daniel-schludi-Ue1sGyjLUME-unsplash-1-scaled-e1599228755359.jpg"
 categories: ["the-blur-issue", "the-swimming-pool"]
 needsReview: ["shortcode:buzzsprout", "reusable_block_ref"]

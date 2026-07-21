@@ -4,6 +4,8 @@ date: "2019-06-29"
 slug: "waitwhats-in-it-for-me"
 excerpt: "If marketing wants to tap into the power of having an employee fan club, we need to rock their world not ours, as global marketing consultant and coach Jane Scandurra explains."
 excerptGenerated: false
+author: "Jane Scandurra"
+authorSlug: "jane-scandurra"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/shutterstock_1420630511-1-e1561795595675.jpg"
 categories: ["features-2", "the-breaking-glass-issue", "the-inside-in-inside-out-issue"]
 needsReview: []

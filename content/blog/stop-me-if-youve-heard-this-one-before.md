@@ -4,6 +4,8 @@ date: "2024-01-31"
 slug: "stop-me-if-youve-heard-this-one-before"
 excerpt: "As content marketers, we want to be useful, and educational content can be useful. But how do you get the balance right with a knowledgeable buyer between helping them or treating them like bloody idiots?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2024/01/kai-pilger-1k3vsv7iIIc-unsplash-square.png"
 categories: ["b2b-marketing", "content-marketing", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

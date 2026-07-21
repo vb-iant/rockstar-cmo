@@ -4,6 +4,8 @@ date: "2020-06-01"
 slug: "adnonamau5-in-the-land-of-the-blindthe-consultant-is-king"
 excerpt: "Like the legendary DJ Deadmau5, this month our anonymous agency executive anonomau5 dons a mask to do his best work. This month his head honchos are clearly hanging out with men in gray suits."
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-club-classics-volume-one-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2021-01-02"
 slug: "whats-going-to-rock-in-digital-marketers-in-2021"
 excerpt: "What new year's marketing publication would be complete without predictions? In this article, Eric Jan van Putten, VP Marketing at Dynamicweb offers his perspective on 3 trends we should be looking for in digital marketing."
 excerptGenerated: false
+author: "Eric Jan van Putten"
+authorSlug: "eric-jan-van-putten"
 image: "https://rockstarcmo.com/wp-content/uploads/2021/01/shutterstock_662832856-1-e1609835425470.jpg"
 categories: ["the-youve-come-a-long-way-baby-issue"]
 needsReview: []

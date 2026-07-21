@@ -4,6 +4,8 @@ date: "2019-09-30"
 slug: "backstage-with-j-robert-slaughter"
 excerpt: "Having been following the direct opinions and observations of this fractional CMO, veteran marketing & sales strategist and practitioner, we had to sit down with J.Robert Slaughter and learn more."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/09/download-1.jpeg"
 categories: ["backstage", "the-one-nation-under-a-groove-issue"]
 needsReview: []

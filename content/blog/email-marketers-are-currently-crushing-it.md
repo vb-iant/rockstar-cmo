@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "email-marketers-are-currently-crushing-it"
 excerpt: "In marketing, it seems you can't beat the classics, but we are too quick to move onto the next pop phenomena that we forget that rare grooves like Email Marketing can still get the party started, as Chief Research Officer Nicholas Einstein, from The Relevancy Group explains."
 excerptGenerated: false
+author: "Nicholas Einstein"
+authorSlug: "nicholas-einstein"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/shutterstock_1011946390-1-e1564081182653.jpg"
 categories: ["the-think-about-it-issue"]
 needsReview: []

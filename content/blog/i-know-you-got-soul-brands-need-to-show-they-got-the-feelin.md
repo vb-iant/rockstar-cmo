@@ -4,6 +4,8 @@ date: "2019-01-31"
 slug: "i-know-you-got-soul-brands-need-to-show-they-got-the-feelin"
 excerpt: "Your brand story doesn’t get you very far if you are just puffing your chest out and telling people what you think they want to hear, whether you are selling soft toys or software, to engage with a consumer every brand has to have a story with some soul and with the Bobby Byrd/James Brown hit “I Know You Got Soul” on repeat, Ian Truscott digs deeper."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/James-Brown_1973-e1548923833923.jpg"
 categories: ["brand-new-thang"]
 needsReview: []

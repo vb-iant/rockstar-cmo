@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "you-know-you-make-me-want-to-shout"
 excerpt: "Uh oh... this does not sound good, something has definitely got marketing journalist Morag Cuddeford-Jones riled up this month; it's time marketing prepared for voice..."
 excerptGenerated: false
+author: "Morag Cuddeford-Jones"
+authorSlug: "morag-cuddeford-jones"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/shutterstock_703129273-1-e1556202281909.jpg"
 categories: ["the-changesbowie-issue"]
 needsReview: []

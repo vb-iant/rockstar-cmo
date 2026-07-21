@@ -4,6 +4,8 @@ date: "2019-03-28"
 slug: "why-employees-need-to-be-empowered-to-stop-and-think"
 excerpt: "We live in a culture where the simple act of distraction free thinking has become alien, day dreaming has been replaced with scrolling through a feed on our smart phones and the office is a place for the hustle, not to think - Ted Rubin believes we are missing a trick."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/03/shutterstock_1184817265-e1553786879593.jpg"
 categories: ["employee-engagement", "the-ghost-in-the-machine-issue"]
 needsReview: []

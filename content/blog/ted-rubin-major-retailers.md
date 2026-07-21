@@ -4,6 +4,8 @@ date: "2018-03-23"
 slug: "ted-rubin-major-retailers"
 excerpt: "Retail continues to be disrupted, our malls and high syreets continue to change, but brands seem unwilling to change, maybe in the belief they are \"too big to fail\", Ted Rubin makes a bold prediction."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
 categories: ["sound-check"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-06-28"
 slug: "why-technology-will-change-content-marketing"
 excerpt: "Robert Rose takes a look at how technology will impact the way we craft and share our marketing tunes – and the dangers of a split in the C-suite band.﻿"
 excerptGenerated: false
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Robert-Rose-1-1.jpg"
 categories: ["ok-computer"]
 needsReview: []

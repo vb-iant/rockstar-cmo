@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "the-rise-of-the-marketing-machines-david-aponovich"
 excerpt: "We’ve heard the views of the marketers on the rise of the marketing machines, but what do the Martech industry insiders think? We asked David Aponovich for his take.﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/03/david-A-e1553784452269.png"
 categories: ["the-changesbowie-issue", "the-martech-mix-desk"]
 needsReview: []

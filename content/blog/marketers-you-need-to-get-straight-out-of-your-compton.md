@@ -4,6 +4,8 @@ date: "2018-07-26"
 slug: "marketers-you-need-to-get-straight-out-of-your-compton"
 excerpt: "Ian Truscott looks at rap past and present, and finds that NWA, Public Enemy and Lil Uzi Vert hold the secret to breaking out of your bubble to build a loyal, engaged community.﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/07/41FD4E7200000578-4660910-image-m-18_1499080541415-e1546170708194.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []

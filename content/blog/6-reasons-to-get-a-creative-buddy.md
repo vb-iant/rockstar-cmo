@@ -4,6 +4,8 @@ date: "2019-02-08"
 slug: "6-reasons-to-get-a-creative-buddy"
 excerpt: "There is a lot to juggle when you are leading a marketing team and creativity can be lost at the crucible of internal resistance and getting shit done, I know, I've been there. Help could be close at hand - get a creative buddy. ﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: null
 categories: ["b2b-marketing", "content-marketing", "marketing"]
 needsReview: []

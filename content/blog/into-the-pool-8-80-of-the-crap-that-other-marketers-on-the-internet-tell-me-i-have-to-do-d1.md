@@ -4,6 +4,8 @@ date: "2018-10-31"
 slug: "into-the-pool-8-80-of-the-crap-that-other-marketers-on-the-internet-tell-me-i-have-to-do-d1"
 excerpt: "Amber Osborne inspires Ian Truscott this month, as she tires of some of the crap marketing advice that’s being hawked across the internet."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/10/rosie-kerr-780185-unsplash-e1545846840533.jpg"
 categories: ["the-swimming-pool", "thriller"]
 needsReview: []

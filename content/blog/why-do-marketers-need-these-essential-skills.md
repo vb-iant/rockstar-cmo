@@ -4,6 +4,8 @@ date: "2022-08-05"
 slug: "why-do-marketers-need-these-essential-skills"
 excerpt: "The Five F'in Marketing Fundamentals form the basis of marketing enablement. It’s important for everyone in marketing to know the basic skill elements that comprise good marketing. And, it helps everyone appreciate their role in the marketing mix, like the lead singer appreciating what makes a good rhythm section."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2022/08/element5-digital-OyCl7Y4y0Bk-unsplash-scaled-e1659705975635.jpeg"
 categories: ["marketing", "marketing-education", "street-knowledge"]
 needsReview: []

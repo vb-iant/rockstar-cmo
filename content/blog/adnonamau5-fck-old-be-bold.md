@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "adnonamau5-fck-old-be-bold"
 excerpt: "Our anonymous insider goes to task on the agencies and people that are getting stale, warning that staying safe is killing you, your brand or your agency."
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-changesbowie-issue"]
 needsReview: []

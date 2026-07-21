@@ -4,6 +4,8 @@ date: "2020-07-18"
 slug: "backstage-qa-sally-yates-cmo-xceptor"
 excerpt: "Sally Yates is the Chief Marketing Officer at Xceptor, a fintech software house and in this interview, Ian Truscott got to find out what makes this UK based marketer in this hot software space tick"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/07/Sally-2-scaled-e1594926096229.jpg"
 categories: ["backstage", "the-miseducation-of-lauryn-hill-issue", "top-10"]
 needsReview: []

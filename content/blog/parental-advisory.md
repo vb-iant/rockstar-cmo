@@ -4,6 +4,8 @@ date: "2018-07-26"
 slug: "parental-advisory"
 excerpt: "When the sweary, sarcastic Deadpool crashed into our cinemas in 2016, it took over $130 million in its opening weekend, making it the biggest opening for an R-rated movie ever. With the second instalment proving just as successful, Stephen Kelly gets down and dirty, exploring how you can swear your way to an unforgettable campaign."
 excerptGenerated: false
+author: "Stephen Kelly"
+authorSlug: "stephen-kelly"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/07/Image_1_Deadpool-1-e1546174733605.png"
 categories: ["straight-outta-compton"]
 needsReview: ["embed_block"]

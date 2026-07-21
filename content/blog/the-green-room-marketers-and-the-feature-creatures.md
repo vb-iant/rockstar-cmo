@@ -4,6 +4,8 @@ date: "2020-02-07"
 slug: "the-green-room-marketers-and-the-feature-creatures"
 excerpt: "The Green Room, our excuse to do our best Colombo impression and ask \"Just one more thing\" to the wonderful Rockstar marketers we've gone backstage with. This month we chatted about marketings' relationship with product development."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/02/green-room-square.png"
 categories: ["the-features-creatures-issue"]
 needsReview: []

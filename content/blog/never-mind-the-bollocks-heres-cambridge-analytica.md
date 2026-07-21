@@ -4,6 +4,8 @@ date: "2018-05-31"
 slug: "never-mind-the-bollocks-heres-cambridge-analytica"
 excerpt: "Ian Truscott sits down with Misia Tramp – VP of customer experience strategy and insights at digital marketing agency Metia – to discuss Cambridge Analytica and the (mis)use of social data."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/DWqnsbqm-1.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []

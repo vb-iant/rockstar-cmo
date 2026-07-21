@@ -4,6 +4,8 @@ date: "2020-03-30"
 slug: "8-proven-techniques-to-address-the-big-data-paradox"
 excerpt: "Jasmine Martirossian VP of Marketing at TÜV SÜD Americas shares 8 approaches that will help you effectively deal with the big data paradox being faced by marketing"
 excerptGenerated: false
+author: "Jasmine Martirossian"
+authorSlug: "jasmine-martirossian"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/03/0.jpeg"
 categories: ["the-ghost-town-issue"]
 needsReview: []

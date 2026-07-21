@@ -4,6 +4,8 @@ date: "2020-10-17"
 slug: "what-dropped-in-the-podcast-last-month"
 excerpt: "The latest from the podcast this month. A fabulous line up stepped up to the mic and we have a few cocktails along the way."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/12/Rockstar-CMO-FM-Promo-1.png"
 categories: ["the-life-for-rent-issue"]
 needsReview: ["shortcode:buzzsprout"]

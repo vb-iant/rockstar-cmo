@@ -4,6 +4,8 @@ date: "2019-10-30"
 slug: "forget-the-buzzwords-influencer-marketing-is-about-building-relationships"
 excerpt: "Our resident Rockstar CMO, Ted Rubin, keeps it simple and tells it straight; influencer marketing is about looking people in the eye and building relationships."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
 categories: ["the-running-in-circles-issue"]
 needsReview: []

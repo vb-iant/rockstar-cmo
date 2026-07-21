@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "the-green-room-desert-island-marketing"
 excerpt: "In this issue Ian Truscott catches up with five of our Rockstars and gets his inspiration from a 77 year old radio show.. wait.. what?﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/shutterstock_620039804-1-e1556219042369.jpg"
 categories: ["the-changesbowie-issue", "the-green-room"]
 needsReview: []

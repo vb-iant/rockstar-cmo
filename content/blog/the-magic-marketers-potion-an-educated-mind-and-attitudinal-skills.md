@@ -4,6 +4,8 @@ date: "2020-07-18"
 slug: "the-magic-marketers-potion-an-educated-mind-and-attitudinal-skills"
 excerpt: "A debate is raging around whether it’s requisite for marketers to have a marketing degree. Does a marketing degree create a better marketer? Jasmine Martirossian, PhD, is the Vice President of Marketing at TÜV SÜD Americas, gives us her take."
 excerptGenerated: false
+author: "Jasmine Martirossian"
+authorSlug: "jasmine-martirossian"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/07/shutterstock_1018691803-1-e1595095639970.jpg"
 categories: ["the-miseducation-of-lauryn-hill-issue", "top-10"]
 needsReview: []

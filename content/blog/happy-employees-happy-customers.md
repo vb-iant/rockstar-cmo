@@ -4,6 +4,8 @@ date: "2019-12-31"
 slug: "happy-employees-happy-customers"
 excerpt: "A popular topic here on Rockstar CMO, pulling together the backing band of employees and colleagues to not just improve the experience for the customer, but to become evangalists in our increasingly connected world. Jane Scandurra shares her experience of how we can make that happen."
 excerptGenerated: false
+author: "Jane Scandurra"
+authorSlug: "jane-scandurra"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/12/shutterstock_1082672369-1-e1577809199860.jpg"
 categories: ["features-2", "employee-engagement", "the-future-starts-here-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-10-18"
 slug: "the-green-room-rent-or-build"
 excerpt: "This month four of our Rockstar CMOs chime in on the topic of this month's issue, when it comes to building an audience do you rent or build?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/10/the-green-room-promo-issue-29-square.png"
 categories: ["the-green-room", "the-life-for-rent-issue"]
 needsReview: []

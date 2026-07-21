@@ -4,6 +4,8 @@ date: "2018-08-30"
 slug: "beware-the-risks-of-arrogance-and-pride-in-business"
 excerpt: "Buzzing off those results you secured for your company? Feeling confident? Maybe even a little self-important? Time to check yourself, says Ted Rubin. ﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/08/rawpixel-250087-unsplash-e1546098283322.jpg"
 categories: ["sound-check", "top-10", "top-10-2020"]
 needsReview: []

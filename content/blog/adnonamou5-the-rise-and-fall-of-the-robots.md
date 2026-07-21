@@ -4,6 +4,8 @@ date: "2020-02-07"
 slug: "adnonamou5-the-rise-and-fall-of-the-robots"
 excerpt: "Marketing is ushering in an army of robots and the anonymous advertiser is not happy. He left his office, deep in the hipster heart of London and dropped by the Rockstar CMO penthouse, and we found this rant tied to a brick chucked into reception"
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-features-creatures-issue"]
 needsReview: []

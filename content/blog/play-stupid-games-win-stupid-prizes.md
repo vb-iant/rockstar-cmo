@@ -4,6 +4,8 @@ date: "2020-09-03"
 slug: "play-stupid-games-win-stupid-prizes"
 excerpt: "In the month that saw Tom Goodwin relieved of his duties at Publicis for sharing on social media content that wasn't to his employer's taste, we asked Robert Rose for his take on the blurry lines between professional and social"
 excerptGenerated: false
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_1488343280-1-e1599159772551.jpg"
 categories: ["the-blur-issue"]
 needsReview: []

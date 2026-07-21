@@ -4,6 +4,8 @@ date: "2022-06-11"
 slug: "how-to-gain-control-over-your-martech"
 excerpt: "Marketing leaders – Don’t fall under the influence from the Martech Industrial Complex! You know, the thousands of vendors that are eager to earn a share of your technology budget."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2022/06/adam-birkett-Wm4lmsUHv7M-unsplash2-scaled.jpg"
 categories: ["b2b-marketing", "martech", "rockstar-cmo-advisors", "street-knowledge", "the-martech-mix-desk"]
 needsReview: []

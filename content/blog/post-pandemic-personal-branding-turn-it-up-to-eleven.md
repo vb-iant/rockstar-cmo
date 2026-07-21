@@ -4,6 +4,8 @@ date: "2020-06-01"
 slug: "post-pandemic-personal-branding-turn-it-up-to-eleven"
 excerpt: "Personal branding expert Jane Scandurra shares 3 tips to turn your personal brand up to 11, to avoid being \"out of sight, out of mind\" in the wake of the current pandemic."
 excerptGenerated: false
+author: "Jane Scandurra"
+authorSlug: "jane-scandurra"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/06/shutterstock_1471011434-1-scaled-e1591037143836.jpg"
 categories: ["the-club-classics-volume-one-issue", "top-10", "top-10-2020"]
 needsReview: ["embed_block"]

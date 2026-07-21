@@ -4,6 +4,8 @@ date: "2019-09-02"
 slug: "the-green-room-diving-into-diversity"
 excerpt: "Every month we grab our backstage pass to our Rockstar CMO’s, hang out in the Green Room and over a glass of whatever we can find in the mini bar, pick a topic and chat. This month Ian Truscott asks how we address a diverse audience, diversify our teams and keep our ideas fresh."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/09/green-room-square.png"
 categories: ["the-people-are-people-issue"]
 needsReview: []

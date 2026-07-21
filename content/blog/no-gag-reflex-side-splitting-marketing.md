@@ -4,6 +4,8 @@ date: "2018-07-26"
 slug: "no-gag-reflex-side-splitting-marketing"
 excerpt: "Rock and comedy make strange bedfellows and the same can be said of marketing and mirth. Gareth May finds out why rib tickling isn’t always tickety-boo for the public image, and the power of laughter if you get it right.﻿"
 excerptGenerated: false
+author: "Gareth May"
+authorSlug: "gareth-may"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/07/Image_3_-_Groupon-e1546171503757.png"
 categories: ["straight-outta-compton"]
 needsReview: []

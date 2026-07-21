@@ -4,6 +4,8 @@ date: "2021-01-07"
 slug: "7-sure-fire-marketing-hits-to-top-the-charts-in-21"
 excerpt: "Our resident business development rockstar, Keith Smith returns for his annual predictions for the coming year, picked up from conversations with his guests on his brand new podcast."
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790489825.jpg"
 categories: ["the-youve-come-a-long-way-baby-issue"]
 needsReview: []

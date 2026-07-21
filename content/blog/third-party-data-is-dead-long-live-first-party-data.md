@@ -4,6 +4,8 @@ date: "2018-06-28"
 slug: "third-party-data-is-dead-long-live-first-party-data"
 excerpt: "In this new Trust economy, consent makes getting and using third-party data increasingly difficult. Lytics CMO Darren Guarnaccia on why third-party data is yesterday’s news…﻿"
 excerptGenerated: false
+author: "Darren Garnaccia"
+authorSlug: "darren-garnaccia"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/03/darren-guarnaccia.gif"
 categories: ["ok-computer"]
 needsReview: []

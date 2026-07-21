@@ -4,6 +4,8 @@ date: "2018-11-30"
 slug: "set-the-table-for-strategy-and-innovation-by-bringing-back-real-brainstorming"
 excerpt: "Brainstorming too often becomes the narrow view of a few (very) vocal people. Time to switch it up, create some truly effective strategies, and kick start some real thinking time, Ted Rubin argues, by opening the floor up to everyone."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/11/021717-PICZ-8919-e1545489329430.jpg"
 categories: ["we-are-family"]
 needsReview: []

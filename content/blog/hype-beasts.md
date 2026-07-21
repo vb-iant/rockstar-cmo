@@ -4,6 +4,8 @@ date: "2018-04-26"
 slug: "hype-beasts"
 excerpt: "Celebrity brand endorsements reached a whole new level when Kanye's cohort Virgil Abloh became artistic director of Louis Vuitton, one of the world's oldest fashion houses. Helene Dancer considers; is this the shape of hype to come?﻿"
 excerptGenerated: false
+author: "Helene Dancer"
+authorSlug: "helene-dancer"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/virgil-abloh-louis-vuitton-appointment-e1546193247534.jpg"
 categories: ["project-funk-da-world"]
 needsReview: []

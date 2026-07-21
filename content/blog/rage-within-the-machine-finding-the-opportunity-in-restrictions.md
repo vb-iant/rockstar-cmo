@@ -4,6 +4,8 @@ date: "2018-05-31"
 slug: "rage-within-the-machine-finding-the-opportunity-in-restrictions"
 excerpt: "The most rockin’ of rock stars know rules are made to be broken. Or are they? Gareth Mayfinds out whether the best way to get your brand over the line is not to cross it.﻿"
 excerptGenerated: false
+author: "Gareth May"
+authorSlug: "gareth-may"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/05/heather-m-edwards-1156542-unsplash-e1546188936352.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []

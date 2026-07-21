@@ -4,6 +4,8 @@ date: "2019-10-29"
 slug: "who-should-be-the-lead-singer-in-the-influencer-marketing-supergroup"
 excerpt: "Is there a fight for the microphone when it comes to leading influencer marketing programs? Lauren Bowden Chief Content Creator at The Comms Crowd suggests it's the work of the whole band."
 excerptGenerated: false
+author: "Lauren Bowden"
+authorSlug: "lauren-bowden"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/0.jpeg"
 categories: ["the-running-in-circles-issue"]
 needsReview: []

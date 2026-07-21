@@ -4,6 +4,8 @@ date: "2018-07-26"
 slug: "selling-death-row"
 excerpt: "It's the dilemma every marketer faces sooner or later: is it right to be selling this product? Dave Waller investigates and finds out that the answer's not as black and white as you might think…﻿"
 excerptGenerated: false
+author: "Dave Waller"
+authorSlug: "dave-waller"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/07/thom-masat-718630-unsplash-e1546170113539.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-05-29"
 slug: "tales-from-the-tour-bus-amber-osborne"
 excerpt: "Now on her third start-up, Amber Osborne is the CMO at Doghead Simulations (the company behind Rumii, a virtual reality conferencing and collaboration platform) and industry influencer. In this Tale from the Tour Bus, she reveals what it takes to launch something new and gives an insiders view of being an insider."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/164668_10101484668803661_297590743_n-1-e1546080603833.jpg"
 categories: ["tales-from-the-tour-bus", "the-invasion-of-privacy-issue"]
 needsReview: []

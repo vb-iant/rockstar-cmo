@@ -4,6 +4,8 @@ date: "2018-11-30"
 slug: "sign-up-join-in"
 excerpt: "As The Dandy Warhols sang in the late 1990s, “Heroin is so passé”. Surely the same could be said of getting a parcel in the post? Yet in the digital-drenched 21st century, consumers are signing up to endless snack clubs and perk clubs, electing to receive everything from coffee to cosmetics by mail. Gareth May unboxes the subscription economy, and the enduring appeal of the club.﻿"
 excerptGenerated: false
+author: "Gareth May"
+authorSlug: "gareth-may"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/11/record-1-e1545501468144.jpg"
 categories: ["features-2", "we-are-family"]
 needsReview: []

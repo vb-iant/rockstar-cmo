@@ -4,6 +4,8 @@ date: "2019-06-28"
 slug: "marketing-clouds-lip-syncing-fake-or-fab-four"
 excerpt: "We can't get the marketing technology song out of our head, it's a topic we keep returning to and in this article, we talk to four practitioners from across the industry and get their take on the latest solution to all of our problems - Marketing Clouds."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/martech-clouds-interviewers.png"
 categories: ["the-inside-in-inside-out-issue", "the-martech-mix-desk"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-04-09"
 slug: "5-reasons-successful-tech-start-ups-invest-in-content-marketing"
 excerpt: "The successful telling of the story around a product is recognized to be as important as the product itself. This is especially essential for start-ups looking to stake their claim in the market, Ian Truscott shares his experience."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: null
 categories: ["b2b-marketing", "content-marketing"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-07-26"
 slug: "traditional-retailers-are-failing-and-its-not-amazons-fault"
 excerpt: "Ted Rubin argues that instead of laying the blame for poor performance elsewhere, traditional retailers should be looking in the mirror, taking a closer look at their customers, and innovating to best serve those customers.﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/07/shutterstock_1043589361-e1546171890946.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []

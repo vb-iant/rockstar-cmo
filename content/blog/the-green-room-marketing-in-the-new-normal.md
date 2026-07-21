@@ -4,6 +4,8 @@ date: "2020-05-01"
 slug: "the-green-room-marketing-in-the-new-normal"
 excerpt: "Commentators are calling whatever we emerge from lockdown the \"new normal\" as a world we try and live with an immediate future of COVID-19. So, in this Green Room we turned to our Rockstar CMOs for advice on marketing in this changed world."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/05/green-room-promo-square.png"
 categories: ["the-green-room", "the-welcome-to-jamrock-issue"]
 needsReview: []

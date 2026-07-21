@@ -4,6 +4,8 @@ date: "2019-10-29"
 slug: "the-slim-chance-of-truth-in-the-influencer-siren-song"
 excerpt: "Influencer marketing is in a bit of state, as marketing writer Morag Cuddeford-Jones shares and consumers need to be aware and may be saved from themselves"
 excerptGenerated: false
+author: "Morag Cuddeford-Jones"
+authorSlug: "morag-cuddeford-jones"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/morag.jpeg"
 categories: ["the-running-in-circles-issue"]
 needsReview: []

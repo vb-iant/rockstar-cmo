@@ -4,6 +4,8 @@ date: "2020-11-30"
 slug: "thanks-to-the-podcast-this-month"
 excerpt: "A roundup of another splendid month on the podcast, with some fascinating guests, insightful cocktails, and some fun by the Rockstar CMO Swimming pool."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/11/podcast-this-month-promo.png"
 categories: ["the-come-together-issue"]
 needsReview: ["shortcode:buzzsprout", "reusable_block_ref"]

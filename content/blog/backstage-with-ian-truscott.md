@@ -4,6 +4,8 @@ date: "2018-03-21"
 slug: "backstage-with-ian-truscott"
 excerpt: "Over a career spanning two decades, Ian Truscott has launched various B2B software products, been a developer, a chief technology officer, an industry analyst, a product marketer and a strategic advisor to blue chip companies inc. Nasdaq and American Express."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/03/untitled-18-of-19-e1546108200205.jpg"
 categories: ["backstage", "sound-check"]
 needsReview: []

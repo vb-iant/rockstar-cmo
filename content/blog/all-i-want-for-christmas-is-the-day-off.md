@@ -4,6 +4,8 @@ date: "2019-11-28"
 slug: "all-i-want-for-christmas-is-the-day-off"
 excerpt: "In this holiday issue, freelance marketing writer Morag Cuddeford-Jones has a simple wish, not just for herself, but for all employees as time off could be a gift, not just to them. but to your organization and customers."
 excerptGenerated: false
+author: "Morag Cuddeford-Jones"
+authorSlug: "morag-cuddeford-jones"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/11/morag-cudderford-jones-1.png"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []

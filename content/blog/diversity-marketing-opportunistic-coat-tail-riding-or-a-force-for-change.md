@@ -4,6 +4,8 @@ date: "2019-09-02"
 slug: "diversity-marketing-opportunistic-coat-tail-riding-or-a-force-for-change"
 excerpt: "Are we squeezing marketing into a spangly new jumpsuit called Diversity for a comeback Vegas tour or is it time to rethink the whole act? Lauren Bowden makes the case for change."
 excerptGenerated: false
+author: "Lauren Bowden"
+authorSlug: "lauren-bowden"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/09/shutterstock_287700842-1-e1567410654715.jpg"
 categories: ["the-people-are-people-issue"]
 needsReview: ["embed_block"]

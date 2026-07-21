@@ -4,6 +4,8 @@ date: "2019-12-19"
 slug: "5-rs-of-great-b2b-marketing-blogs-with-examples"
 excerpt: "In the deluge of B2B content, how do you stand out? Try these 5 R's, with examples of organizations doing this well..."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: null
 categories: ["b2b-marketing", "content-marketing", "content-strategy"]
 needsReview: []

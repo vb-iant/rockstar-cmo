@@ -4,6 +4,8 @@ date: "2024-01-18"
 slug: "beware-of-the-roi-rabbit-hole"
 excerpt: "Jeff Clark shares 5 ROI fundamentals, hard-earned from decades of exec team meetings and a few conversations that went down a rabbit hole."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2024/01/anton-kotlovskii-pBNnC_4Vf7Q-unsplash-500px.png"
 categories: ["rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

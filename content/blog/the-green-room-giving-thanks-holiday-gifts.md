@@ -4,6 +4,8 @@ date: "2020-11-30"
 slug: "the-green-room-giving-thanks-holiday-gifts"
 excerpt: "It's been a crazy year, find out what our rocks star CMOs have found to be thankful for and what gifts of advice they would share with us, as we join them in the Green Room."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/11/shutterstock_1061601521-1-e1606764501588.jpg"
 categories: ["the-come-together-issue", "the-green-room"]
 needsReview: []

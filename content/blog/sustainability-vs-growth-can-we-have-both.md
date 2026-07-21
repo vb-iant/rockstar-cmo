@@ -4,6 +4,8 @@ date: "2022-06-03"
 slug: "sustainability-vs-growth-can-we-have-both"
 excerpt: "Is sustainability the enemy of growth? Depending on your personal ethos, you may say, “Yes” or “Of course not.” To have both, the answer may lie in incentives. For businesses to achieve sustainability, policy makers can provide the incentives to enable businesses to be driven by innovation, reduce physical waste and run on clean energy."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2022/06/growth-vs-sustainability-square.png"
 categories: ["rockstar-cmo-advisors", "street-knowledge", "sustainability"]
 needsReview: []

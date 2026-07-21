@@ -4,6 +4,8 @@ date: "2022-05-31"
 slug: "the-swimming-pool-30-cmos-as-social-influencers"
 excerpt: "In this trip to the Rockstar CMO Swimming Pool, Ian Truscott is inspired by Rebecca Biestman, the Chief Marketing Officer at Reputation, who, on the podcast, suggested \"the pressure on CMOs to be social influencers\". What do you think? Did he chuck it in?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2022/05/Swimming-pool-with-ring-square.png"
 categories: ["the-swimming-pool"]
 needsReview: ["raw_html_block", "iframe"]

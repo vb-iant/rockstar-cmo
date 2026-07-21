@@ -4,6 +4,8 @@ date: "2018-11-30"
 slug: "singing-is-optional-defining-a-brand-personality"
 excerpt: "Following an experience where a hotel offered him the opportunity to sing in the shower, Ian Truscott explores the art of creating a brand personality."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/11/IMG_0651-e1545493027172.jpg"
 categories: ["employee-engagement", "we-are-family"]
 needsReview: []

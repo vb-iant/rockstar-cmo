@@ -4,6 +4,8 @@ date: "2023-02-06"
 slug: "stop-random-acts-of-marketing"
 excerpt: "Are your marketing efforts falling flat? Do your colleagues on the executive team think that marketing is not providing business value? Jeff Clark, our resident Rockstar CMO Strategic Advisor, has some advice."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2023/02/ATby9v2yMMBDhLLCzSeH-4-1ad9n.jpg"
 categories: ["b2b-marketing", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

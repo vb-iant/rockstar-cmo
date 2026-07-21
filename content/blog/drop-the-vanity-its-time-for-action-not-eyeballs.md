@@ -4,6 +4,8 @@ date: "2019-05-31"
 slug: "drop-the-vanity-its-time-for-action-not-eyeballs"
 excerpt: "As we run with the theme of privacy this issue, we asked Rachel Miller, social and influencer marketing expert for her take on the topic and, of course, we were not disappointed."
 excerptGenerated: false
+author: "Rachel Miller"
+authorSlug: "rachel-miller"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/05/eyeball-500px.png"
 categories: ["features-2", "the-breaking-glass-issue", "the-invasion-of-privacy-issue"]
 needsReview: []

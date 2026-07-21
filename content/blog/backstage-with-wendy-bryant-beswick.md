@@ -4,6 +4,8 @@ date: "2018-09-26"
 slug: "backstage-with-wendy-bryant-beswick"
 excerpt: "Award-winning marketer with 20 years’ experience in the financial services industry and VP of Marketing at Service Credit Union, Wendy Bryant-Beswick shares how she starts with values."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/Wendy_Bryant-1-e1546001647454.jpeg"
 categories: ["backstage", "the-breaking-glass-issue", "nevermind"]
 needsReview: []

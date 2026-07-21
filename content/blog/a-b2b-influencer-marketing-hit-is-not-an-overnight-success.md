@@ -4,6 +4,8 @@ date: "2019-11-01"
 slug: "a-b2b-influencer-marketing-hit-is-not-an-overnight-success"
 excerpt: "Pull your marketing budget together, stick it in a big bag and hand it to a marketing celebrity. Bingo! You are topping the charts. But...is it really this easy to create a B2B influencer marketing hit? Barb Mosher Zinck suggests maybe not."
 excerptGenerated: false
+author: "Barb Mosher Zinck"
+authorSlug: "barb-mosher-zinck"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/10/barb.jpg"
 categories: ["the-running-in-circles-issue"]
 needsReview: ["embed_block"]

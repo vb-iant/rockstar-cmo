@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "three-campaigns-to-put-you-off-dead-celeb-ambassadors"
 excerpt: "Deepfake videos are on the rise, resurrecting dead icons. But before you start planning your next no-longer-with-us ambassador, these three campaigns will make you think twice about looking beyond the grave. ﻿"
 excerptGenerated: false
+author: "Ian Hsieh"
+authorSlug: "ian-hsieh"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/Image_2-1-e1551365613835.jpg"
 categories: ["the-pretender-issue"]
 needsReview: ["embed_block"]

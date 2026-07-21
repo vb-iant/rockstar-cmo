@@ -4,6 +4,8 @@ date: "2018-04-26"
 slug: "backstage-with-darren-guarnaccia"
 excerpt: "Darren chats to Ian Truscott and we discover what drive this marketing software veteran"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/DTG-1-e1546106373648.jpg"
 categories: ["backstage", "project-funk-da-world"]
 needsReview: []

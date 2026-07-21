@@ -4,6 +4,8 @@ date: "2023-01-06"
 slug: "know-thy-customer-marketers-resolution-2023"
 excerpt: "Many of the coming year’s predictions for marketing (and sales) relate to focusing on your existing customers. Let’s resolve to do a few things to help our companies win in 2023."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2023/01/resolutions.png"
 categories: ["rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

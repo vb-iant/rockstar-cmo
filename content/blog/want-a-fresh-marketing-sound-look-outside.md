@@ -4,6 +4,8 @@ date: "2019-09-02"
 slug: "want-a-fresh-marketing-sound-look-outside"
 excerpt: "Pop music has remained relevant through outside influences, Paul Simon wrote his classic album Graceland after becoming fascinated by a bootleg cassette of South African township music. In this article, Dennis Shiao suggests that we too need to look outside"
 excerptGenerated: false
+author: "Dennis Shiao"
+authorSlug: "dennis-shiao"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/247c71f0c83e0624b891f98515b65559_400x400.png"
 categories: ["the-people-are-people-issue"]
 needsReview: []

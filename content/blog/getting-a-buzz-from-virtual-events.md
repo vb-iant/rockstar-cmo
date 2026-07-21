@@ -4,6 +4,8 @@ date: "2020-04-30"
 slug: "getting-a-buzz-from-virtual-events"
 excerpt: "As we shared on the podcast, Dennis Shiao is a virtual event veteran. Although he admits that in the past they have left him cold, he shares how a new breed of virtual events is giving him a taste of the IRL (in real life) high."
 excerptGenerated: false
+author: "Dennis Shiao"
+authorSlug: "dennis-shiao"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/04/shutterstock_1498149011-1-e1588253923379.jpg"
 categories: ["street-knowledge", "the-welcome-to-jamrock-issue"]
 needsReview: ["embed_block"]

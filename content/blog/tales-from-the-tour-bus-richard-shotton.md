@@ -4,6 +4,8 @@ date: "2019-05-31"
 slug: "tales-from-the-tour-bus-richard-shotton"
 excerpt: "This issue we hop on the tour bus with the author of one of our favorite recent marketing reads, Richard Shotton, the writer of The Choice Factory, a best-selling book on using behavioral science in marketing. We find out what inspired this former media planner to write and set up his own consultancy."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/05/DSC_0782-e1559114504369.jpg"
 categories: ["tales-from-the-tour-bus", "the-invasion-of-privacy-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "make-your-advertising-a-part-of-the-customer-experience"
 excerpt: "Is there a disconnect between your advertising and your customer experience? Ted Rubin breaks down the importance of bringing the two together.﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/christian-erfurt-1131100-unsplash-1-e1551359658227.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []

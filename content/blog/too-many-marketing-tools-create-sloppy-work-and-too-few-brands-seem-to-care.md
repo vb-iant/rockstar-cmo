@@ -4,6 +4,8 @@ date: "2019-03-28"
 slug: "too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care"
 excerpt: "Ted Rubin tells it straight on the impact marketing automation tools are having on marketing and he highlights a couple of examples that have caught his eye.﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
 categories: ["the-ghost-in-the-machine-issue"]
 needsReview: []

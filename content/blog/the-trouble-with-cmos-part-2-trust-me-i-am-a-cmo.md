@@ -4,6 +4,8 @@ date: "2022-08-25"
 slug: "the-trouble-with-cmos-part-2-trust-me-i-am-a-cmo"
 excerpt: "Accomplished marketing and communications professional Irene Nehrkorn-Kayn continues to explore the trouble with CMOs. This week Irene wonders if, like a chef, the CMOs marketing recipe and method should be trusted and only judged by the results."
 excerptGenerated: false
+author: "Irene Nehrkorn-Kayn"
+authorSlug: "irene-nehrkorn-kayn"
 image: "https://rockstarcmo.com/wp-content/uploads/2022/08/INK-Trouble-with-CMOS-Square.png"
 categories: ["street-knowledge"]
 needsReview: []

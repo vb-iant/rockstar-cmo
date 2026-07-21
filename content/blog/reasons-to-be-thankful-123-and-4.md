@@ -4,6 +4,8 @@ date: "2020-11-30"
 slug: "reasons-to-be-thankful-123-and-4"
 excerpt: "Our regular business development headline act, Keith Smith, takes a moment from the hustle to give thanks. The title inspired by the late great Ian Dury and his track \"Reasons To Be Cheerful, Part 3\""
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790489825.jpg"
 categories: ["the-come-together-issue"]
 needsReview: []

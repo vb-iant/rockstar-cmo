@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "backstage-with-ahmed-hasan"
 excerpt: "Ian Truscott sits down with Ahmed Hasan,Global Head of Customer Engagement Marketing at Spark44 to talk Blink-182, the advantages of failing fast, and why now is a great time for lean thinking marketers. ﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/0.jpeg"
 categories: ["backstage", "the-pretender-issue"]
 needsReview: []

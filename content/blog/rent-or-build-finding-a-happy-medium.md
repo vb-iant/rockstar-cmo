@@ -4,6 +4,8 @@ date: "2020-10-18"
 slug: "rent-or-build-finding-a-happy-medium"
 excerpt: "Dennis Shiao runs a popular content marketing meet-up and newsletter and he shares how he uses rented platforms and attention to build on his own land."
 excerptGenerated: false
+author: "Dennis Shiao"
+authorSlug: "dennis-shiao"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/10/henry-co-3coKbdfnAFg-unsplash-1-scaled-e1603010350968.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: ["shortcode:buzzsprout"]

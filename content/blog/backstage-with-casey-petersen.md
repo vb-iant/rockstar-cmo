@@ -4,6 +4,8 @@ date: "2018-11-30"
 slug: "backstage-with-casey-petersen"
 excerpt: "We go back stage with Casey Petersen, Vice President of Marketing and Analytics at content creation app Photofy and has been a leader in digital marketing for over 15 years."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/11/casey-e1545490443660.jpeg"
 categories: ["backstage", "we-are-family"]
 needsReview: []

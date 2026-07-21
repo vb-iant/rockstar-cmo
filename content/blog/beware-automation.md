@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "beware-automation"
 excerpt: "What’s the key to an unwavering marketing focus? Our resident Rockstar Ted Rubin tells it like it is – keep the customer front and center, avoid unnecessary automation and ditch the bots."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-at-Laptop-questioning-e1545650103660.jpg"
 categories: ["the-martech-mix-desk", "the-think-about-it-issue"]
 needsReview: []

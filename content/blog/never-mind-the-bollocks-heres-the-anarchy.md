@@ -4,6 +4,8 @@ date: "2018-03-21"
 slug: "never-mind-the-bollocks-heres-the-anarchy"
 excerpt: "The 27 club knew a thing or two about sucking all the marrow out of life, and the recent Cloverfield Paradox shock-drop revealed the marketing industry is dealing in when it comes to the unexpected. From film to fashion, music to gaming, Gareth May explores the rise and rise of surprise."
 excerptGenerated: false
+author: "Gareth May"
+authorSlug: "gareth-may"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/202848445_b8785e1348_b-1-e1546277999198.jpg"
 categories: ["sound-check"]
 needsReview: []

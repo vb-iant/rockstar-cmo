@@ -4,6 +4,8 @@ date: "2019-02-21"
 slug: "create-art-with-a-content-hub"
 excerpt: "We are a fan of content hubs, low branded thought leadership web publications as a place for consumer and influencer engagement. Having created a few, in this post we share a bit of that experience."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: null
 categories: ["b2b-marketing", "content-marketing", "marketing"]
 needsReview: []

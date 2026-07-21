@@ -4,6 +4,8 @@ date: "2018-06-28"
 slug: "the-most-overlooked-and-critical-component-of-customer-experience"
 excerpt: "Our resident rock star Ted Rubin on why data needs to be used more intelligently in the quest for brand equity.﻿"
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/06/021717-PICZ-8919-1-e1546182517897.jpg"
 categories: ["ok-computer"]
 needsReview: []

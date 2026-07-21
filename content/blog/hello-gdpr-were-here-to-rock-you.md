@@ -4,6 +4,8 @@ date: "2018-05-31"
 slug: "hello-gdpr-were-here-to-rock-you"
 excerpt: "As the General Data Protection Regulation (GDPR) becomes law, Robert Rose argues why it’s not an obstacle, but an opportunity for marketers to engage…"
 excerptGenerated: true
+author: "Robert Rose"
+authorSlug: "robert-rose"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/05/We_Will_Rock_You_2459862472-e1546188179400.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []

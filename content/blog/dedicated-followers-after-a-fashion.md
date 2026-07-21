@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "dedicated-followers-after-a-fashion"
 excerpt: "Influencers are the latest group to buy fake followers in order to boost their appeal. But while a large follower count may look good, as Dave Waller discovers, this isn’t just a numbers game…"
 excerptGenerated: false
+author: "Dave Waller"
+authorSlug: "dave-waller"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/DW-Fake-3-1-e1551352669470.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []

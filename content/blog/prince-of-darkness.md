@@ -4,6 +4,8 @@ date: "2018-03-20"
 slug: "prince-of-darkness"
 excerpt: "Marketers are in a flap: private messaging platforms are on the rise, making it harder to track what people are saying about their products. Yet so-called ‘dark social’ is nothing to be frightened of. Dave Waller gets the skinny on going dark – no biting off bat heads required.﻿"
 excerptGenerated: false
+author: "Dave Waller"
+authorSlug: "dave-waller"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/matthew-henry-87142-unsplash.jpg"
 categories: ["sound-check"]
 needsReview: []

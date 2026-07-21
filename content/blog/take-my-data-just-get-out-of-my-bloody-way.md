@@ -4,6 +4,8 @@ date: "2019-05-31"
 slug: "take-my-data-just-get-out-of-my-bloody-way"
 excerpt: "Marketing journalist Morag Cuddeford-Jones thinks marketers’ data addiction is getting out of hand, we think she has a point.."
 excerptGenerated: false
+author: "Morag Cuddeford-Jones"
+authorSlug: "morag-cuddeford-jones"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/05/shutterstock_773613745-1-e1559203750968.jpg"
 categories: ["the-invasion-of-privacy-issue"]
 needsReview: []

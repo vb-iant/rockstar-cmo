@@ -4,6 +4,8 @@ date: "2024-02-29"
 slug: "marketing-ops-is-your-machine-in-tune"
 excerpt: "Jeff Clark asks whether you know if your machine needs lubrication, more oxygen or an overhaul, rather than the duct tape you've been using, to put your marketing team on the track."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2024/02/mike-hindle-urTBnMtWWYc-unsplash-scaled-e1708609031293.jpg"
 categories: ["b2b-marketing", "marketing-operations", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

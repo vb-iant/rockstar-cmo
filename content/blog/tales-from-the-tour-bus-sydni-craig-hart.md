@@ -4,6 +4,8 @@ date: "2019-09-02"
 slug: "tales-from-the-tour-bus-sydni-craig-hart"
 excerpt: "When Robert Rose interviewed this champion of small, minority and women owned businesses on his podcast, we had to jump on the Tour Bus with multicultural marketing expert Sydni Craig-Hart and find out more."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/08/Sydni-Craig-Hart.jpeg"
 categories: ["tales-from-the-tour-bus", "the-breaking-glass-issue", "the-people-are-people-issue"]
 needsReview: []

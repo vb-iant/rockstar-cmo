@@ -4,6 +4,8 @@ date: "2020-04-30"
 slug: "the-acceleration-of-retail-change"
 excerpt: "According to our resident retail expert, John Andrews, the sector was reacting to change like a frog slowly cooking in a pot, then comes Covid-19 and the heat has been cranked up. How should retailers react?"
 excerptGenerated: false
+author: "John Andrews"
+authorSlug: "john-andrews"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/03/freestocks-org-182581-unsplash-e1546272669987.jpg"
 categories: ["the-welcome-to-jamrock-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-12-20"
 slug: "the-rockstar-cmo-hall-of-fame"
 excerpt: "Every rock hero stands on the shoulders of giants: think Prince’s debt to little Richard, or Chuck Berry’s impact on the Stones. So as the final chords of 2018 reverb round the Rockstar CMO stage, we asked our backstage rock stars who they’d induct into the Marketing Hall of Fame."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Hall_of_Fame_for_Great_Americans-e1545817682347.jpg"
 categories: ["london-calling"]
 needsReview: []

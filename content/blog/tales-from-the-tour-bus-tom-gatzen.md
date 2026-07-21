@@ -4,6 +4,8 @@ date: "2019-01-31"
 slug: "tales-from-the-tour-bus-tom-gatzen"
 excerpt: "Taking us for a spin in his tour bus this issue is life-long Londoner Tom Gatzen, co-founder of ideal flatmate – a digital matching service for generation rent to find their perfect pairing. Better wave goodbye to those passive aggressive fridge notes…"
 excerptGenerated: false
+author: "Ian Hsieh"
+authorSlug: "ian-hsieh"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/TG_Photo-1-e1548929236595.jpg"
 categories: ["tales-from-the-tour-bus", "brand-new-thang"]
 needsReview: []

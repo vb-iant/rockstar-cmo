@@ -4,6 +4,8 @@ date: "2019-09-30"
 slug: "sales-and-marketing-less-when-two-tribes-go-to-war-more-it-takes-two"
 excerpt: "The \"leads are weak\" the sales lead singer laments to the marketing songwriters and backing band. Lauren Bowden of The Comms Crowd suggests on how to heal the band's creative differences."
 excerptGenerated: false
+author: "Lauren Bowden"
+authorSlug: "lauren-bowden"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/0.jpeg"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: ["raw_html_block", "iframe"]

@@ -4,6 +4,8 @@ date: "2019-03-07"
 slug: "cover-the-b2b-bases-with-5-content-types"
 excerpt: "We might not baseball experts, but we have a bit of experience creating content across customer journeys and in this article Ian Truscott outlines the five types of content needed to support a B2B buyer..."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: null
 categories: ["b2b-marketing", "content-marketing"]
 needsReview: []

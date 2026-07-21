@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "the-swimming-pool-banner-ads"
 excerpt: "In this issue, barely noticed and infrequently engaged with, is it time to put banner ads out of their lonely misery? Jasmine Martirossian, VP of Marketing at TÜV SÜD America certainly thinks so.."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/08/submergedcar-1-e1546092822257.jpg"
 categories: ["the-swimming-pool", "the-think-about-it-issue"]
 needsReview: []

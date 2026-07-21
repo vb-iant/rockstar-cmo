@@ -4,6 +4,8 @@ date: "2020-06-01"
 slug: "light-up-the-sky-like-a-flame-fame"
 excerpt: "He may not be Irene Cara, but this month Dennis Shiao tells his inspiring personal branding story. It’s something you might have got a hint of when we chatted to him on the podcast, from the Yankees, through virtual events to lights camera, action."
 excerptGenerated: false
+author: "Dennis Shiao"
+authorSlug: "dennis-shiao"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/06/dennis.jpeg"
 categories: ["the-club-classics-volume-one-issue"]
 needsReview: []

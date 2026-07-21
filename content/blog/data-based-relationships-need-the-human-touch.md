@@ -4,6 +4,8 @@ date: "2020-03-30"
 slug: "data-based-relationships-need-the-human-touch"
 excerpt: "In this article, our straight-talking resident Rockstar CMO Ted Rubin argues for the human touch in the relationship marketers have with their data."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/11/ted-square.jpeg"
 categories: ["the-ghost-town-issue"]
 needsReview: []

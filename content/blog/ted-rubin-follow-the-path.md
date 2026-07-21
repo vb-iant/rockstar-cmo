@@ -4,6 +4,8 @@ date: "2018-04-26"
 slug: "ted-rubin-follow-the-path"
 excerpt: "Photofy CMO, MC/Host of Brand Innovators Summits, and Co-Founder of Prevailing Path Ted Rubin is our resident rock star. Each issue, he’s sounding off on the challenges faced by the marketing industry today."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/photo-1447117219916-d8cb5f373434-e1546191679607.jpeg"
 categories: ["project-funk-da-world"]
 needsReview: []

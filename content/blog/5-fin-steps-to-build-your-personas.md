@@ -4,6 +4,8 @@ date: "2023-07-01"
 slug: "5-fin-steps-to-build-your-personas"
 excerpt: "A simple model for creating personas, the essential insight you need to differentiate and help your audience buy your products and services."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2023/07/marten-newhall-uAFjFsMS3YY-unsplash-square.jpg"
 categories: ["b2b-marketing", "content-marketing", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

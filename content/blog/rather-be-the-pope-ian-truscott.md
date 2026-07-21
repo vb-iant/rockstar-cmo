@@ -4,6 +4,8 @@ date: "2018-04-26"
 slug: "rather-be-the-pope-ian-truscott"
 excerpt: "Forget chasing the zeitgeist, says Ian Truscott. Have faith in your product. Trust your product. And figure out who your story is going to help – and how. ﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/angel-art-black-and-white-96127-e1546268951389.jpg"
 categories: ["project-funk-da-world"]
 needsReview: []

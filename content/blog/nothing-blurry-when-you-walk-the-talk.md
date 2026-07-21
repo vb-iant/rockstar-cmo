@@ -4,6 +4,8 @@ date: "2020-09-05"
 slug: "nothing-blurry-when-you-walk-the-talk"
 excerpt: "If you follow Kate Bradley Chernis, Co-Founder & CEO of Lately, an A.I. powered social media marketing platform, you'll know her as an extremely passionate entrepreneur that she puts it all out there. So who better to ask about the blur between home, work, and social?"
 excerptGenerated: false
+author: "Kate Bradley Chernis"
+authorSlug: "kate-bradley-chernis"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/09/Kate-Bradley-Chernis-Square-Color-Headshot-HighResolution_preview-thegem-blog-timeline-large.png"
 categories: ["the-blur-issue", "top-10"]
 needsReview: ["raw_html_block", "reusable_block_ref"]

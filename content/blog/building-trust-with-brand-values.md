@@ -4,6 +4,8 @@ date: "2023-05-25"
 slug: "building-trust-with-brand-values"
 excerpt: "Here on Rockstar CMO, we love to talk about the mission of marketing to create ART - Awareness, Revenue and Trust. In this guest article, Megan Isola shares how brand values build customer trust."
 excerptGenerated: false
+author: "Megan Isola"
+authorSlug: "megan-isola"
 image: "https://rockstarcmo.com/wp-content/uploads/2023/05/handshake-square.png"
 categories: ["branding", "street-knowledge"]
 needsReview: []

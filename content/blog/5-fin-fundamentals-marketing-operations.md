@@ -4,6 +4,8 @@ date: "2023-05-28"
 slug: "5-fin-fundamentals-marketing-operations"
 excerpt: "Next up in our series of 5 F'in' Fundamentals Jeff Clark has some advice for tuning up your marketing machine."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2023/05/michal-matlon-YTKh06aL7to-unsplash-scaled-e1685296334212.jpg"
 categories: ["marketing-operations", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

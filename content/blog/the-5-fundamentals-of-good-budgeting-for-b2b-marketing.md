@@ -4,6 +4,8 @@ date: "2024-08-31"
 slug: "the-5-fundamentals-of-good-budgeting-for-b2b-marketing"
 excerpt: "Effective budget planning is critical for B2B marketing leaders, particularly in a highly competitive and ever-changing market. Jeff shares his 5 fundamentals."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2024/08/roman-synkevych-aSjJ-aCzR7Q-unsplash-square-scaled-e1725126807660.jpg"
 categories: ["rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-05-31"
 slug: "into-the-pool-15-the-dumb-creepy-kind"
 excerpt: "Inspired by our backstage chat with David Howland, we ponder if we should chuck personalization into our portal to marketing hell, or maybe just the dumb, creepy kind."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
 categories: ["the-invasion-of-privacy-issue", "the-swimming-pool"]
 needsReview: []

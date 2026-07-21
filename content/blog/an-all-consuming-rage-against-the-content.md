@@ -4,6 +4,8 @@ date: "2019-06-28"
 slug: "an-all-consuming-rage-against-the-content"
 excerpt: "It’s not so much about ‘consuming’ content as having rubbish rammed down your throat, complains Morag Cuddeford-Jones"
 excerptGenerated: false
+author: "Morag Cuddeford-Jones"
+authorSlug: "morag-cuddeford-jones"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/rendered-e1561741149775.jpg"
 categories: ["the-inside-in-inside-out-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-05-31"
 slug: "the-risky-business-of-rockstar-marketers-and-their-briefs"
 excerpt: "The Brief, the essential song sheet that could decide if the work is a hit. We asked Bryce Groves, a freelance Creative Director with big-agency experience to lift the lid on the process, why the brief is so important, what makes a great brief and to spill the beans on the worst he's seen..."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/05/Tuesday-People_MG_5152-1-e1559291254287.jpeg"
 categories: ["the-invasion-of-privacy-issue"]
 needsReview: ["embed_block"]

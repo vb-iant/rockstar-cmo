@@ -4,6 +4,8 @@ date: "2019-08-30"
 slug: "just-a-formality"
 excerpt: "As a marketing journalist, Morag Cuddeford-Jones hears the same tune on repeat - how 'seamless' companies are making the customer experience and in this issue, this self-confessed \"data tart\" gives us a view from the real world and its endless forms..."
 excerptGenerated: false
+author: "Morag Cuddeford-Jones"
+authorSlug: "morag-cuddeford-jones"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/08/square-web-form.png"
 categories: ["project-funk-da-world"]
 needsReview: []

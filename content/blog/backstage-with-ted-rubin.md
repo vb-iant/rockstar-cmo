@@ -4,6 +4,8 @@ date: "2018-03-21"
 slug: "backstage-with-ted-rubin"
 excerpt: "Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits… Speaker, Author, Provocateur - Ted is our resident rock star."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-Rubin-e1545645433398.jpg"
 categories: ["backstage", "sound-check"]
 needsReview: []

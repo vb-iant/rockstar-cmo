@@ -4,6 +4,8 @@ date: "2018-10-31"
 slug: "grab-your-torches-and-pitchforks-folks-its-frankenstack"
 excerpt: "There’s a mind-boggling array of software available to marketers today. Designed to make your life easier or lurching around, threatening to destroy your business? Ian Truscott explores the perils and pitfalls of the Frankenstack.﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/10/Frankenstein_s_monster_Boris_Karloff-e1545994455677.jpg"
 categories: ["thriller"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-09-09"
 slug: "backstage-qa-eric-jan-van-putten-dynamicweb"
 excerpt: "This month we go backstage with a shiny new CMO, Eric Jan van Putten who is fresh in post at Dynamicweb, after a diverse marketing career working through the B2B tech marketing ranks, we find out d findwhere this new CMO finds his marketing mojo..."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/09/20200826_052112982_iOS-1-scaled-e1599570405333.jpg"
 categories: ["backstage", "the-blur-issue", "top-10"]
 needsReview: []

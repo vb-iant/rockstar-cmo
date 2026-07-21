@@ -4,6 +4,8 @@ date: "2019-11-29"
 slug: "into-the-pool-21-personalization-at-scale"
 excerpt: "This month we are hanging over the balcony with the fractional CMO and marketing strategist, J. Robert Slaughter, who has nominated ‘personalization at scale’ for the drop to it's watery demise."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
 categories: ["the-magic-of-christmas-issue", "the-swimming-pool"]
 needsReview: []

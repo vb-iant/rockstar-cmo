@@ -4,6 +4,8 @@ date: "2020-02-07"
 slug: "backstage-with-oliver-pilgerstorfer"
 excerpt: "IFS develops and delivers enterprise software for customers around the world and when their CMO, Oliver Pilgerstorfer, sat down with us and started an answer with \"I probably shouldn't admit this\" our editor Ian Truscott knew he was in for a fun interview..."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/02/Oliver-Pilgerstorfer-1-scaled-e1581097866255.jpg"
 categories: ["backstage", "the-features-creatures-issue", "top-10-2020"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-11-29"
 slug: "data-the-gift-that-keeps-on-giving"
 excerpt: "Christine Bailey, CMO of Valitor, an international payment solutions company has found success in thought leadership marketing and she has the data to prove it. And, you can too, as Christine gets into the holiday spirit with the gift of their research."
 excerptGenerated: false
+author: "Christine Bailey"
+authorSlug: "christine-bailey"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []

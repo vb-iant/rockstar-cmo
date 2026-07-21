@@ -4,6 +4,8 @@ date: "2020-03-30"
 slug: "the-green-room-data-vs-creativity-fight"
 excerpt: "This month the question we ask the Green Room - our Rockstar CMO panel How should marketers balance their decision-making between a healthy data obsession and creative thinking?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/03/green-room-square-ghost-issue.png"
 categories: ["the-ghost-town-issue", "the-green-room"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2020-11-30"
 slug: "love-the-one-youre-with"
 excerpt: "Inspired by a chat with Simon Daniels, marketing operations expert, Ian Truscott shares that you should love the one you're with when it comes to marketing technology."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/11/jon-tyson-nI8YlkExQoI-unsplash-1-scaled-e1606749572159.jpg"
 categories: ["the-come-together-issue"]
 needsReview: ["shortcode:buzzsprout"]

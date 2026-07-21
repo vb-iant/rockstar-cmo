@@ -4,6 +4,8 @@ date: "2019-05-31"
 slug: "interview-with-tim-beg-data-walters"
 excerpt: "Tim \"Beg Data\" Walters, Ph.D. works with an impressive list of organizations that seek out his advice on how to make their way through the complexity of consumer sensitivity and increasing legislation around GDPR and privacy. So, when we decided to theme this issue on privacy, an interview with \"Beg Data\" was the first on the list."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/05/techgdpr-tim-768x768-1-e1559285630751.jpg"
 categories: ["the-invasion-of-privacy-issue"]
 needsReview: []

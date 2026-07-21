@@ -4,6 +4,8 @@ date: "2019-05-26"
 slug: "adnonamau5-the-riseand-riseand-rise-of-the-illegitimate-expert"
 excerpt: "This month our anonymous adman sets his unforgiving sights on the self-proclaimed \"expert\", hoping we self regulate before we drown in the bullshit."
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-invasion-of-privacy-issue"]
 needsReview: []

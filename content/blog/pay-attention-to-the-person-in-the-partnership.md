@@ -4,6 +4,8 @@ date: "2019-09-30"
 slug: "pay-attention-to-the-person-in-the-partnership"
 excerpt: "When you find that potential partner, this advice, that our resident Rockstar Ted Rubin got for his first sales role, holds true today."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: []

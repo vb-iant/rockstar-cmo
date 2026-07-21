@@ -4,6 +4,8 @@ date: "2019-01-31"
 slug: "the-green-room-working-with-an-agency-backing-band"
 excerpt: "Each month in the Green Room we return backstage to pose a question to our Rockstar CMOs. This month Ian Truscott catches up with five of them and they share their advice on working with agencies."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/shutterstock_1075147661-1-e1548949410416.jpg"
 categories: ["brand-new-thang"]
 needsReview: []

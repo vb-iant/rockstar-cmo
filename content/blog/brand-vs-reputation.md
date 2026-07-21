@@ -4,6 +4,8 @@ date: "2018-03-20"
 slug: "brand-vs-reputation"
 excerpt: "The difference between your brand and your reputation can be easy to miss because so many marketing writers use the terms interchangeably. The fact that the terms really are similar in many ways does little to help with the confusion. Ted tells it straight..."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg"
 categories: ["sound-check"]
 needsReview: []

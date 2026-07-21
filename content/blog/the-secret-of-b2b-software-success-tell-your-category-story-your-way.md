@@ -4,6 +4,8 @@ date: "2018-11-17"
 slug: "the-secret-of-b2b-software-success-tell-your-category-story-your-way"
 excerpt: "Taking the time to define a brand story is necessary and fantastic, but changing the definition of a category, owning the story of the market in which you play is hugely powerful."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/11/shutterstock_326465084-e1652985531146.jpg"
 categories: ["archive", "b2b-marketing", "category-definition", "content-marketing", "street-knowledge"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2019-01-31"
 slug: "take-your-employee-advocacy-mindset-to-the-next-level"
 excerpt: "Your employees are more important to the success of your company than you might think. Our resident rock star Ted Rubin breaks down how you can build an environment that your employees can create, innovate and thrive in."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/01/shridhar-gupta-678685-unsplash-1-e1548938918684.jpg"
 categories: ["brand-new-thang"]
 needsReview: []

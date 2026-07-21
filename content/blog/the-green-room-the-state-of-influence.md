@@ -4,6 +4,8 @@ date: "2019-11-02"
 slug: "the-green-room-the-state-of-influence"
 excerpt: "Again we've grabbed the backstage pass to our Rockstar CMO’s, hang out in the Green Room and pick over the topic of the month. In this issue, we discuss the current state of influencer marketing."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/11/green-room.png"
 categories: ["the-green-room", "the-running-in-circles-issue"]
 needsReview: []

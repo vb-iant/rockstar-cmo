@@ -4,6 +4,8 @@ date: "2018-11-30"
 slug: "why-every-experience-with-your-brand-is-on-you"
 excerpt: "Casey Petersen, Photofy’s Vice President of Marketing and Analytics, on why marketing needs to consider every aspect of the consumer experience – from planning and strategy, all the way to customer service.﻿"
 excerptGenerated: false
+author: "Casey Petersen"
+authorSlug: "casey-petersen"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/11/girl-cafe-e1545491395724.jpg"
 categories: ["we-are-family"]
 needsReview: []

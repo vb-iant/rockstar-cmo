@@ -4,6 +4,8 @@ date: "2019-11-28"
 slug: "backstage-with-kate-bradley-chernis"
 excerpt: "In this backstage interview we find out how founder and CEO of Lately, Kate Bradley Chernis, a former DJ with an audience of 20 million listeners got Walmart dancing."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/11/kbc-square.png"
 categories: ["backstage", "the-breaking-glass-issue", "the-magic-of-christmas-issue", "top-10", "top-10-2020"]
 needsReview: []

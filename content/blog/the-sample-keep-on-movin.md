@@ -4,6 +4,8 @@ date: "2020-06-01"
 slug: "the-sample-keep-on-movin"
 excerpt: "Welcome to The Sample, where we whirl the dial on the interwebs, hit record, and sample what we hear about the topic in this issue. This month our attention is drawn to the tension in marketing right now, about moving forward, waiting and what's next."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/12/square-dial.jpg"
 categories: ["the-club-classics-volume-one-issue", "the-sample"]
 needsReview: []

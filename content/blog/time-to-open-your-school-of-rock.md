@@ -4,6 +4,8 @@ date: "2024-02-15"
 slug: "time-to-open-your-school-of-rock"
 excerpt: "In this article, Ian Truscott takes a look at educational content marketing as a strategy and goal, what you can do to engage the big bucket of future buyers and how we measure success."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2024/02/start-your-school-of-rock.png"
 categories: ["content-marketing", "content-strategy", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []

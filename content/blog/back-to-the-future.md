@@ -4,6 +4,8 @@ date: "2018-08-30"
 slug: "back-to-the-future"
 excerpt: "Vinyl records. Film photography. Vintage fashion. There’s no doubting it – the past has never been more alluring to young consumers. But in a digital world, Stephen Kelly explores the benefits – and pitfalls – of nostalgia.﻿"
 excerptGenerated: false
+author: "Stephen Kelly"
+authorSlug: "stephen-kelly"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/08/Image_1-e1546093414199.jpg"
 categories: ["seat-at-the-table"]
 needsReview: ["embed_block"]

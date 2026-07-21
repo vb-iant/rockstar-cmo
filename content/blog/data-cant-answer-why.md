@@ -4,6 +4,8 @@ date: "2020-03-30"
 slug: "data-cant-answer-why"
 excerpt: "In the interest of balance between data and creativity, maybe your fine-honed data-led campaign could use an emotional fire axe. Keith Smith, our resident business development expert explains..."
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/03/B101_Ax-1-e1585567141695.png"
 categories: ["the-ghost-town-issue"]
 needsReview: []

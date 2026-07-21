@@ -4,6 +4,8 @@ date: "2018-03-21"
 slug: "the-emperor-is-butt-naked-d1"
 excerpt: "Marketing is about the customer. Or is it? Lytics CMO Darren Guarnaccia argues that thanks to a modern world of hard, quantifiable data, marketers have lost touch with the very thing they’re supposed to champion: humanity."
 excerptGenerated: false
+author: "Darren Garnaccia"
+authorSlug: "darren-garnaccia"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/03/shutterstock_151396352-e1546277597327.jpg"
 categories: ["sound-check"]
 needsReview: []

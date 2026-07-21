@@ -4,6 +4,8 @@ date: "2018-09-26"
 slug: "even-better-than-the-real-thing"
 excerpt: "Authenticity is a seductive concept. So much so that marketers are conjuring ever more inauthentic ways to try to sell it. The good news is that authentic marketing needn’t be an oxymoron. You just have to be brave – and… drum roll… actually mean what you’re saying…"
 excerptGenerated: false
+author: "Dave Waller"
+authorSlug: "dave-waller"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/09/braydon-anderson-105552-unsplash-e1546087915945.jpg"
 categories: ["nevermind"]
 needsReview: []

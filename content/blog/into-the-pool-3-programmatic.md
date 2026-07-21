@@ -4,6 +4,8 @@ date: "2018-05-31"
 slug: "into-the-pool-3-programmatic"
 excerpt: "The pool guy is not going to be pleased with what he’s going to be scooping out in the morning. In this issue, more of that lazy and cheap shit is on its way down, as Robert Rose hands over programmatic and Ian Truscott does the honors."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/05/pool_guy-e1546186762372.jpg"
 categories: ["the-age-of-consent", "the-swimming-pool"]
 needsReview: []

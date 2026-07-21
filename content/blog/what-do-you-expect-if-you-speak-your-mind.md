@@ -4,6 +4,8 @@ date: "2020-09-03"
 slug: "what-do-you-expect-if-you-speak-your-mind"
 excerpt: "The blurry lines between personal opinion expressed on social media and those aligned with your employer seemed to have done it for Tom Goodwin at Publicis. Keith Smith, MD at the Advertist isn’t surprised and he has a theory about why this is more common as we’re working more from home."
 excerptGenerated: false
+author: "Keith Smith"
+authorSlug: "keith-smith"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790489825.jpg"
 categories: ["the-blur-issue"]
 needsReview: []

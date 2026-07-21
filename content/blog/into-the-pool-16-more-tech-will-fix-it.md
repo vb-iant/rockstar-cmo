@@ -4,6 +4,8 @@ date: "2019-06-28"
 slug: "into-the-pool-16-more-tech-will-fix-it"
 excerpt: "We find ourselves peering over the balcony pondering the fate of the idea that \"more tech will fix it\". We hear from a queue of folks on hand to help, will it make a splash?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
 categories: ["the-inside-in-inside-out-issue", "the-martech-mix-desk", "the-swimming-pool"]
 needsReview: []

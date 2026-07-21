@@ -4,6 +4,8 @@ date: "2019-06-28"
 slug: "teds-tips-and-tools-for-employee-advocacy"
 excerpt: "Our resident Rockstar CMO, Ted Rubin, shares his secrets and suggests tools for going from experiment to advocacy with employee engagement."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
 categories: ["employee-engagement", "the-inside-in-inside-out-issue"]
 needsReview: []

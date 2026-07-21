@@ -4,6 +4,8 @@ date: "2020-06-01"
 slug: "the-green-room-five-cmos-name-their-crisis-keepers"
 excerpt: "We ask five of our Rockstar CMOs what they’ve learned during the crisis and what practices we should keep as the world slowly emerges from lockdown."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/05/green-room-promo-square.png"
 categories: ["the-club-classics-volume-one-issue", "the-green-room"]
 needsReview: []

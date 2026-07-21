@@ -4,6 +4,8 @@ date: "2019-09-30"
 slug: "youve-got-a-friend-in-former-employees"
 excerpt: "Of all the collaborations we focus on as marketers, how often do we consider a duet with our former colleagues? There’s value in staying connected says Jane Scandurra"
 excerptGenerated: false
+author: "Jane Scandurra"
+authorSlug: "jane-scandurra"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/J-Scandurra-Headshot-e1561794109201.jpg"
 categories: ["employee-engagement", "the-one-nation-under-a-groove-issue"]
 needsReview: ["embed_block"]

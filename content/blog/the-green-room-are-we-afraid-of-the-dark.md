@@ -4,6 +4,8 @@ date: "2019-05-31"
 slug: "the-green-room-are-we-afraid-of-the-dark"
 excerpt: "Our audience is going dark, we ask 5 of our Rockstar CMOs what they think of the refusal of cookie consent, ad-blockers, incognito browsing and the prevailing view that we marketers are up to something...."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/05/shutterstock_52802965-1-e1559294031761.jpg"
 categories: ["the-green-room", "the-invasion-of-privacy-issue"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-12-20"
 slug: "unsubscribe-does-not-mean-send-me-more-emails"
 excerpt: "Ever unsubscribe from a mailing list only to keep getting emails from the brand in question? You’re not alone. It’s actually one of Ted Rubin’s biggest pet peeves, and here’s why."
 excerptGenerated: false
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-at-Laptop-questioning-e1545650103660.jpg"
 categories: ["london-calling"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2018-10-31"
 slug: "the-five-main-challenges-facing-cmos-today"
 excerpt: "From employee advocacy to peak data, Ted Rubin lays down the big challenges CMOs around the world are facing right now – and what they can do to ace…"
 excerptGenerated: true
+author: "Ted Rubin"
+authorSlug: "ted-rubin"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-Rubin-e1545645433398.jpg"
 categories: ["thriller"]
 needsReview: []

@@ -4,6 +4,8 @@ date: "2022-05-24"
 slug: "winning-during-changing-times"
 excerpt: "We are living in changing times, with concerns about the global supply chain, pandemic, war and climate change. But, is there an opportunity to take advantage of the resulting transitioning markets? Jeff Clark explains."
 excerptGenerated: false
+author: "Jeff Clark"
+authorSlug: "jeff-clark"
 image: "https://rockstarcmo.com/wp-content/uploads/2022/05/transition-article.png"
 categories: ["rockstar-cmo-advisors", "street-knowledge", "sustainability"]
 needsReview: []

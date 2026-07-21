@@ -4,6 +4,8 @@ date: "2021-01-02"
 slug: "top-of-the-2020-charts"
 excerpt: "Maybe there was something good to come out of 2020? In keeping with the theme of this issue, our editor looks back on the most popular articles from this year"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2021/01/top-20-of-2020-square.png"
 categories: ["the-youve-come-a-long-way-baby-issue"]
 needsReview: []

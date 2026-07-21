@@ -4,6 +4,8 @@ date: "2019-11-28"
 slug: "adnonamau5-an-advertisers-12-days-of-christmas"
 excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser adnonamau5 does his best work in a mask, as he reveals the dirty little secrets of life in a big agency. This month he seems a bit jollier, with a Christmas carol of wishes for the holidays, that we think we can all nod along with."
 excerptGenerated: false
+author: "adnonamau5"
+authorSlug: "adnonamau5"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []

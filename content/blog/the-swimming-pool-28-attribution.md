@@ -4,6 +4,8 @@ date: "2020-11-29"
 slug: "the-swimming-pool-28-attribution"
 excerpt: "This month, standing on the penthouse balcony overlooking it is Grant Johnson, veteran CMO, now plying his trade at Emburse, who's ready to commit 'attribution' to its watery demise."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/06/pool-for-homepage.png"
 categories: ["the-come-together-issue", "the-swimming-pool"]
 needsReview: ["shortcode:buzzsprout"]

@@ -4,6 +4,8 @@ date: "2019-04-25"
 slug: "into-the-swimming-pool-resistance-to-change"
 excerpt: "Ahmed Hasan is our inspiration as we peer over the balcony down to the Rockstar CMO Swimming Pool and we consider chucking “resistance to change” into its shimmering depths."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
 categories: ["the-changesbowie-issue", "the-swimming-pool"]
 needsReview: []

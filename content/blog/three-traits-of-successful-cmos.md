@@ -4,6 +4,8 @@ date: "2019-03-28"
 slug: "three-traits-of-successful-cmos"
 excerpt: "As a former Forrester analyst, B2B marketing leader and Senior Director of Digital Experience at Acquia, David Aponovich has earned his place as a respected industry voice and in this article he shares what he's seen that makes a CMO successful."
 excerptGenerated: false
+author: "David Aponovich"
+authorSlug: "david-aponovich"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/03/david-A-e1553784452269.png"
 categories: ["the-ghost-in-the-machine-issue"]
 needsReview: []

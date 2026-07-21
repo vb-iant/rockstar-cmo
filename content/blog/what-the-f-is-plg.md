@@ -4,6 +4,8 @@ date: "2022-05-09"
 slug: "what-the-f-is-plg"
 excerpt: "You may have heard that there is a new acronym kid on the tech product marketing block; Product Led Growth (PLG), but is this a hit or something only its mother will love?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2022/05/seed-image.png"
 categories: ["b2b-marketing", "marketing", "street-knowledge"]
 needsReview: []

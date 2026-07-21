@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "tales-from-the-tour-bus-hugh-thomas"
 excerpt: "In our second ride on the tour bus, FMCG disruptor Hugh Thomas, co-founder of challenger brand Ugly Drinks, tells us about marketing the ‘ugly truth’, and the challenges of taking things Stateside."
 excerptGenerated: false
+author: "Ian Hsieh"
+authorSlug: "ian-hsieh"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/IMG_4303-1-e1551353351321.jpg"
 categories: ["tales-from-the-tour-bus", "the-pretender-issue"]
 needsReview: []

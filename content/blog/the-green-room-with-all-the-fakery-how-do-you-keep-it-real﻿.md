@@ -4,6 +4,8 @@ date: "2019-02-28"
 slug: "the-green-room-with-all-the-fakery-how-do-you-keep-it-real%ef%bb%bf"
 excerpt: "We sit down with six of our Rockstar marketers and ask how we can keep it real and appeal to the cynical, empowered consumer that craves authenticity.﻿"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/02/green-room-the-pretender.png"
 categories: ["the-green-room", "the-pretender-issue"]
 needsReview: []

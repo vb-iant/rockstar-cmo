@@ -4,6 +4,8 @@ date: "2019-07-25"
 slug: "tales-from-the-tour-bus-dennis-shiao"
 excerpt: "Known by his Twitter fans for his passion for content marketing, expressed in his work and regular columns for CMSWire and The Content Marketing Institute, we hop on the tour bus with Dennis Shaio."
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/247c71f0c83e0624b891f98515b65559_400x400.png"
 categories: ["tales-from-the-tour-bus", "the-think-about-it-issue"]
 needsReview: []

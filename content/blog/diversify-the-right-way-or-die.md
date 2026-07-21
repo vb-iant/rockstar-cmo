@@ -4,6 +4,8 @@ date: "2018-04-26"
 slug: "diversify-the-right-way-or-die"
 excerpt: "From #OscarSoWhite to the realisation that the tech and creative industries are a white man’s playing field, the issue of diversity has exploded into our social consciousness like never before. Ian Hsieh talks with Walker & Company CEO, and Code2040 co-founder, Tristan Walker to find out if change is, at it seems, really gonna come."
 excerptGenerated: false
+author: "Ian Hsieh"
+authorSlug: "ian-hsieh"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/04/848A8963-e1546193661478.jpg"
 categories: ["the-people-are-people-issue", "project-funk-da-world"]
 needsReview: []

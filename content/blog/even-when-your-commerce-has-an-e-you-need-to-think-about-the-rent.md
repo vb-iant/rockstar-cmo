@@ -4,6 +4,8 @@ date: "2020-10-17"
 slug: "even-when-your-commerce-has-an-e-you-need-to-think-about-the-rent"
 excerpt: "We asked Eric Jan van Putten, VP Marketing at Dynamicweb, should we build our content strategy and audience on rented land? Eric gives us a great perspective through an eCommerce lens."
 excerptGenerated: false
+author: "Eric Jan van Putten"
+authorSlug: "eric-jan-van-putten"
 image: "https://rockstarcmo.com/wp-content/uploads/2020/10/erik-mclean-cIOwoljvd_Q-unsplash-1-scaled-e1603012528500.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: []

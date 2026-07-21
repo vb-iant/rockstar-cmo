@@ -4,6 +4,8 @@ date: "2018-10-31"
 slug: "graveyard-smash"
 excerpt: "The flash mob. Went viral, then... nothing. Where did it come from? Where the hell did it go? And is it rising from the dead? Samuel Crosby finds out.﻿"
 excerptGenerated: false
+author: "Samuel Crosby"
+authorSlug: "samuel-crosby"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/10/shutterstock_271972331-e1545996635129.jpg"
 categories: ["thriller"]
 needsReview: ["embed_block"]

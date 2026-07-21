@@ -4,6 +4,8 @@ date: "2019-11-28"
 slug: "thank-you-for-the-music"
 excerpt: "Dennis Shiao is definitely in the holiday mood as he reflects and gives thanks to the band that has inspired his marketing music."
 excerptGenerated: false
+author: "Dennis Shiao"
+authorSlug: "dennis-shiao"
 image: "https://rockstarcmo.com/wp-content/uploads/2019/07/247c71f0c83e0624b891f98515b65559_400x400.png"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: ["embed_block"]

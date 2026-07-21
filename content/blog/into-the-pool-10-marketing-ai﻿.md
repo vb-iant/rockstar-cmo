@@ -4,6 +4,8 @@ date: "2018-12-20"
 slug: "into-the-pool-10-marketing-ai%ef%bb%bf"
 excerpt: "Casey Petersen is conspiring with Ian Truscott to chuck Marketing AI into the Rockstar CMO swimming pool. Some would say a brave choice as artificial intelligence is such a darling of the current marketing zeitgeist. Do you agree?"
 excerptGenerated: false
+author: "Ian Truscott"
+authorSlug: "ian-truscott"
 image: "https://rockstarcmo.com/wp-content/uploads/2018/12/shutterstock_331696088-1-e1545660587459.jpg"
 categories: ["london-calling", "the-swimming-pool"]
 needsReview: []
