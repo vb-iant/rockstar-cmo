@@ -130,3 +130,11 @@ a {
   height: auto;
   border-radius: 8px;
 }
+
+.blog-hover-red {
+  transition: color 0.15s ease;
+}
+
+.blog-hover-red:hover {
+  color: #F22F29;
+}

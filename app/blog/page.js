@@ -49,14 +49,14 @@ export default function BlogIndex({ searchParams }) {
                 </Link>
               )}
               <div style={{ flex: "1 1 300px" }}>
-                <Link href={`/blog/${post.slug}`} style={{ textDecoration: "none", color: "inherit" }}>
+                <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ textDecoration: "none", color: "inherit" }}>
                   <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{post.title}</h2>
                 </Link>
                 <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
                   {formatDate(post.date)}
                 </p>
                 <p style={{ color: "#333", marginBottom: "0.5rem" }}>{post.excerpt}</p>
-                <Link href={`/blog/${post.slug}`} style={{ fontWeight: 600 }}>
+                <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ fontWeight: 600 }}>
                   Read more &rarr;
                 </Link>
               </div>
@@ -67,7 +67,7 @@ export default function BlogIndex({ searchParams }) {
 
       <nav style={{ display: "flex", justifyContent: "space-between", marginTop: "2rem" }}>
         {safePage > 1 ? (
-          <Link href={`/blog?page=${safePage - 1}`}>&larr; Newer</Link>
+          <Link href={`/blog?page=${safePage - 1}`} className="blog-hover-red">&larr; Newer</Link>
         ) : (
           <span />
         )}
@@ -75,7 +75,7 @@ export default function BlogIndex({ searchParams }) {
           Page {safePage} of {totalPages}
         </span>
         {safePage < totalPages ? (
-          <Link href={`/blog?page=${safePage + 1}`}>Older &rarr;</Link>
+          <Link href={`/blog?page=${safePage + 1}`} className="blog-hover-red">Older &rarr;</Link>
         ) : (
           <span />
         )}
