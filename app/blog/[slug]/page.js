@@ -1,6 +1,6 @@
 // app/blog/[slug]/page.js
 import Link from "next/link";
-import { getAllPosts, getPostBySlug, renderPostHtml } from "../../../lib/posts";
+import { getAllPosts, getPostBySlug, getRelatedPosts, renderPostHtml } from "../../../lib/posts";
 import { getTagByCollectsTag, tagHref } from "../../../lib/tags";
 import { notFound } from "next/navigation";
 
@@ -36,6 +36,8 @@ export default function BlogPostPage({ params }) {
   const tagLinks = (post.categories || [])
     .map((c) => getTagByCollectsTag(c))
     .filter(Boolean);
+
+  const relatedPosts = getRelatedPosts(post, 3);
 
   return (
     <main style={{ maxWidth: "var(--page-width)", margin: "0 auto", padding: "3rem 1.5rem" }}>
@@ -82,6 +84,46 @@ export default function BlogPostPage({ params }) {
         </div>
       )}
     </div>
+
+    {relatedPosts.length > 0 && (
+      <div style={{ marginTop: "3rem", paddingTop: "2rem", borderTop: "1px solid #e5e5e5" }}>
+        <h2 style={{ marginBottom: "1.5rem" }}>Related Posts</h2>
+        <div className="card-grid">
+          {relatedPosts.map((related) => (
+            <div key={related.slug}>
+              {related.image ? (
+                <Link href={`/blog/${related.slug}`} className="dymo-label-wrap">
+                  <img
+                    src={related.image}
+                    alt={related.title}
+                    width={500}
+                    height={500}
+                    className="blog-image index-card-image"
+                  />
+                  <h3 className="dymo-label"><span className="dymo-label-text">{related.title}</span></h3>
+                </Link>
+              ) : (
+                <Link href={`/blog/${related.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
+                  <h3 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{related.title}</h3>
+                </Link>
+              )}
+              <p style={{ color: "#666", fontSize: "0.9rem", marginTop: "0.5rem" }}>
+                {formatDate(related.date)}
+                {related.author && (
+                  <>
+                    {" "}
+                    &middot;{" "}
+                    <Link href={`/tags/author/${related.authorSlug}`} className="blog-hover-red">
+                      {related.author}
+                    </Link>
+                  </>
+                )}
+              </p>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
     </main>
   );
 }
