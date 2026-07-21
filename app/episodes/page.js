@@ -36,39 +36,37 @@ export default function EpisodesIndex({ searchParams }) {
   const pageEpisodes = episodes.slice(start, start + PER_PAGE);
 
   return (
-    <main style={{ maxWidth: "760px", margin: "0 auto", padding: "3rem 1.5rem" }}>
-      <h1>Episodes</h1>
+    <main style={{ maxWidth: "var(--page-width)", margin: "0 auto", padding: "3rem 1.5rem" }}>
+      <h1 style={{ marginBottom: "2rem" }}>Episodes</h1>
 
-      <ul style={{ listStyle: "none", padding: 0 }}>
+      <div className="card-grid" style={{ marginBottom: "2rem" }}>
         {pageEpisodes.map((ep) => (
-          <li key={ep.slug} style={{ marginBottom: "2rem", paddingBottom: "2rem", borderBottom: "1px solid #e5e5e5" }}>
-            <div style={{ display: "flex", gap: "1.25rem" }}>
-              {ep.image && (
-                <Link href={`/episodes/${ep.slug}`} style={{ flexShrink: 0 }}>
-                  <img
-                    src={ep.image}
-                    alt={ep.title}
-                    width={250}
-                    height={250}
-                    style={{ borderRadius: "8px", objectFit: "cover", display: "block", width: "250px", height: "250px" }}
-                  />
-                </Link>
-              )}
-              <div>
-                <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{ep.title}</h2>
-                <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
-                  {formatDate(ep.pubDate)}
-                  {ep.duration ? ` · ${ep.duration}` : ""}
-                </p>
-                <p style={{ color: "#333", marginBottom: "0.5rem" }}>{ep.description}</p>
-                <Link href={`/episodes/${ep.slug}`} style={{ fontWeight: 600 }}>
-                  Read more &rarr;
-                </Link>
-              </div>
-            </div>
-          </li>
+          <div key={ep.slug}>
+            {ep.image && (
+              <Link href={`/episodes/${ep.slug}`}>
+                <img
+                  src={ep.image}
+                  alt={ep.title}
+                  width={500}
+                  height={500}
+                  className="index-card-image"
+                />
+              </Link>
+            )}
+            <Link href={`/episodes/${ep.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
+              <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{ep.title}</h2>
+            </Link>
+            <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
+              {formatDate(ep.pubDate)}
+              {ep.duration ? ` · ${ep.duration}` : ""}
+            </p>
+            <p style={{ color: "#333", marginBottom: "0.5rem" }}>{ep.description}</p>
+            <Link href={`/episodes/${ep.slug}`} className="blog-hover-red" style={{ fontWeight: 600 }}>
+              Read more &rarr;
+            </Link>
+          </div>
         ))}
-      </ul>
+      </div>
 
       <nav style={{ display: "flex", justifyContent: "space-between", marginTop: "2rem" }}>
         {safePage > 1 ? (

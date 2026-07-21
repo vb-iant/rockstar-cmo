@@ -43,7 +43,8 @@ export default function EpisodePage({ params }) {
   }
 
   return (
-    <main style={{ maxWidth: "760px", margin: "0 auto", padding: "3rem 1.5rem" }}>
+    <main style={{ maxWidth: "var(--page-width)", margin: "0 auto", padding: "3rem 1.5rem" }}>
+    <div style={{ maxWidth: "var(--prose-width)", margin: "0 auto" }}>
       <Link href="/episodes" style={{ display: "inline-block", marginBottom: "1.5rem" }}>
         &larr; All episodes
       </Link>
@@ -91,6 +92,7 @@ export default function EpisodePage({ params }) {
       ) : (
         <p style={{ color: "#333" }}>{episode.description}</p>
       )}
+    </div>
     </main>
   );
 }

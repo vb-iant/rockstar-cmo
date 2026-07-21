@@ -29,50 +29,45 @@ export default function BlogIndex({ searchParams }) {
   const pagePosts = posts.slice(start, start + PER_PAGE);
 
   return (
-    <main style={{ maxWidth: "760px", margin: "0 auto", padding: "3rem 1.5rem" }}>
-      <h1>Blog</h1>
+    <main style={{ maxWidth: "var(--page-width)", margin: "0 auto", padding: "3rem 1.5rem" }}>
+      <h1 style={{ marginBottom: "2rem" }}>Blog</h1>
 
-      <ul style={{ listStyle: "none", padding: 0 }}>
+      <div className="card-grid" style={{ marginBottom: "2rem" }}>
         {pagePosts.map((post) => (
-          <li key={post.slug} style={{ marginBottom: "2rem", paddingBottom: "2rem", borderBottom: "1px solid #e5e5e5" }}>
-            <div style={{ display: "flex", gap: "1.25rem", flexWrap: "wrap" }}>
-              {post.image && (
-                <Link href={`/blog/${post.slug}`} style={{ flexShrink: 0 }}>
-                  <img
-                    src={post.image}
-                    alt={post.title}
-                    width={250}
-                    height={250}
-                    className="blog-image"
-                    style={{ borderRadius: "8px", objectFit: "cover", display: "block", width: "250px", height: "250px" }}
-                  />
-                </Link>
+          <div key={post.slug}>
+            {post.image && (
+              <Link href={`/blog/${post.slug}`}>
+                <img
+                  src={post.image}
+                  alt={post.title}
+                  width={500}
+                  height={500}
+                  className="blog-image index-card-image"
+                />
+              </Link>
+            )}
+            <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
+              <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{post.title}</h2>
+            </Link>
+            <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
+              {formatDate(post.date)}
+              {post.author && (
+                <>
+                  {" "}
+                  &middot;{" "}
+                  <Link href={`/tags/author/${post.authorSlug}`} className="blog-hover-red">
+                    {post.author}
+                  </Link>
+                </>
               )}
-              <div style={{ flex: "1 1 300px" }}>
-                <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
-                  <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{post.title}</h2>
-                </Link>
-                <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
-                  {formatDate(post.date)}
-                  {post.author && (
-                    <>
-                      {" "}
-                      &middot;{" "}
-                      <Link href={`/tags/author/${post.authorSlug}`} className="blog-hover-red">
-                        {post.author}
-                      </Link>
-                    </>
-                  )}
-                </p>
-                <p style={{ color: "#333", marginBottom: "0.5rem" }}>{post.excerpt}</p>
-                <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ fontWeight: 600 }}>
-                  Read more &rarr;
-                </Link>
-              </div>
-            </div>
-          </li>
+            </p>
+            <p style={{ color: "#333", marginBottom: "0.5rem" }}>{post.excerpt}</p>
+            <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ fontWeight: 600 }}>
+              Read more &rarr;
+            </Link>
+          </div>
         ))}
-      </ul>
+      </div>
 
       <nav style={{ display: "flex", justifyContent: "space-between", marginTop: "2rem" }}>
         {safePage > 1 ? (

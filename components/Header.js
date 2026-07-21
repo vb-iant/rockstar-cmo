@@ -11,7 +11,7 @@ export default function Header() {
     >
       <div
         style={{
-          maxWidth: "760px",
+          maxWidth: "var(--page-width)",
           margin: "0 auto",
           display: "flex",
           flexDirection: "column",

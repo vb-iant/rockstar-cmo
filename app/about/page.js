@@ -14,8 +14,11 @@ export default function AboutPage() {
   const html = marked.parse(markdown);
 
   return (
-    <main style={{ maxWidth: "760px", margin: "0 auto", padding: "3rem 1.5rem" }}>
-      <div style={{ color: "#333" }} dangerouslySetInnerHTML={{ __html: html }} />
+    <main style={{ maxWidth: "var(--page-width)", margin: "0 auto", padding: "3rem 1.5rem" }}>
+      <div
+        style={{ maxWidth: "var(--prose-width)", margin: "0 auto", color: "#333" }}
+        dangerouslySetInnerHTML={{ __html: html }}
+      />
     </main>
   );
 }

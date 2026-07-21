@@ -21,7 +21,7 @@ export default function Home() {
   const latest = episodes.slice(0, 5);
 
   return (
-    <main style={{ maxWidth: "760px", margin: "0 auto", padding: "3rem 1.5rem" }}>
+    <main style={{ maxWidth: "var(--page-width)", margin: "0 auto", padding: "3rem 1.5rem" }}>
       <p style={{ color: "#333", fontSize: "1.1rem", marginBottom: "2rem" }}>
         {show.description}
       </p>
