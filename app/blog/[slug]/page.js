@@ -37,7 +37,7 @@ export default function BlogPostPage({ params }) {
       {/* Featured image is index/card-only (like the excerpt) -- the post
           body frequently already includes its own inline image(s) from the
           original content, so rendering it again here would duplicate it. */}
-      <div style={{ color: "#333" }} dangerouslySetInnerHTML={{ __html: html }} />
+      <div className="blog-post-body" style={{ color: "#333" }} dangerouslySetInnerHTML={{ __html: html }} />
     </main>
   );
 }

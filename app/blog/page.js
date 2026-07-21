@@ -43,6 +43,7 @@ export default function BlogIndex({ searchParams }) {
                     alt={post.title}
                     width={250}
                     height={250}
+                    className="blog-image"
                     style={{ borderRadius: "8px", objectFit: "cover", display: "block", width: "250px", height: "250px" }}
                   />
                 </Link>

@@ -115,3 +115,18 @@ a {
 .platform-badge:hover {
   background-color: #F22F29;
 }
+
+/* Blog images: grayscale + boosted contrast, matching the consistent
+   look used across images on the original WordPress site. Applies to
+   index/card thumbnails (.blog-image) and inline images within post
+   body content (.blog-post-body img). */
+.blog-image,
+.blog-post-body img {
+  filter: grayscale(1) contrast(1.2);
+}
+
+.blog-post-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
