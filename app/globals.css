@@ -196,7 +196,7 @@ a {
   color: #fff;
   font-family: var(--font-dymo), "Courier New", monospace;
   font-weight: 700;
-  font-size: clamp(0.8rem, 2vw, 1.05rem);
+  font-size: clamp(1.6rem, 4vw, 2.1rem);
   line-height: 2.2;
   text-transform: uppercase;
   letter-spacing: 0.04em;
