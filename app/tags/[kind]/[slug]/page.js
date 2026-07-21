@@ -1,7 +1,7 @@
-// app/tags/[slug]/page.js
+// app/tags/[kind]/[slug]/page.js
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getAllTags, getTagBySlug, getPostsForTag } from "../../../lib/tags";
+import { getAllTags, getTagByKindAndSlug, getPostsForTag, tagHref } from "../../../../lib/tags";
 
 function formatDate(dateStr) {
   if (!dateStr) return "";
@@ -11,11 +11,11 @@ function formatDate(dateStr) {
 }
 
 export function generateStaticParams() {
-  return getAllTags().map((tag) => ({ slug: tag.slug }));
+  return getAllTags().map((tag) => ({ kind: tag.kind, slug: tag.slug }));
 }
 
 export function generateMetadata({ params }) {
-  const tag = getTagBySlug(params.slug);
+  const tag = getTagByKindAndSlug(params.kind, params.slug);
   if (!tag) return {};
   return {
     title: `${tag.title} | Rockstar CMO`,
@@ -24,7 +24,7 @@ export function generateMetadata({ params }) {
 }
 
 export default function TagIndexPage({ params }) {
-  const tag = getTagBySlug(params.slug);
+  const tag = getTagByKindAndSlug(params.kind, params.slug);
   if (!tag) notFound();
 
   const posts = getPostsForTag(tag.collectsTag);
@@ -82,7 +82,7 @@ export default function TagIndexPage({ params }) {
                     <>
                       {" "}
                       &middot;{" "}
-                      <Link href={`/tags/${post.authorSlug}`} className="blog-hover-red">
+                      <Link href={`/tags/author/${post.authorSlug}`} className="blog-hover-red">
                         {post.author}
                       </Link>
                     </>

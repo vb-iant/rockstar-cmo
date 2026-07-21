@@ -1,7 +1,7 @@
 // app/blog/[slug]/page.js
 import Link from "next/link";
 import { getAllPosts, getPostBySlug, renderPostHtml } from "../../../lib/posts";
-import { getTagByCollectsTag } from "../../../lib/tags";
+import { getTagByCollectsTag, tagHref } from "../../../lib/tags";
 import { notFound } from "next/navigation";
 
 function formatDate(dateStr) {
@@ -46,7 +46,7 @@ export default function BlogPostPage({ params }) {
           <>
             {" "}
             &middot; by{" "}
-            <Link href={`/tags/${post.authorSlug}`} className="blog-hover-red">
+            <Link href={`/tags/author/${post.authorSlug}`} className="blog-hover-red">
               {post.author}
             </Link>
           </>
@@ -62,7 +62,7 @@ export default function BlogPostPage({ params }) {
           {tagLinks.map((tag) => (
             <Link
               key={tag.slug}
-              href={`/tags/${tag.slug}`}
+              href={tagHref(tag)}
               className="blog-hover-red"
               style={{
                 display: "inline-block",

@@ -58,7 +58,7 @@ export default function BlogIndex({ searchParams }) {
                     <>
                       {" "}
                       &middot;{" "}
-                      <Link href={`/tags/${post.authorSlug}`} className="blog-hover-red">
+                      <Link href={`/tags/author/${post.authorSlug}`} className="blog-hover-red">
                         {post.author}
                       </Link>
                     </>
