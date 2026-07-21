@@ -49,7 +49,7 @@ export default function BlogIndex({ searchParams }) {
                 </Link>
               )}
               <div style={{ flex: "1 1 300px" }}>
-                <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ textDecoration: "none", color: "inherit" }}>
+                <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
                   <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{post.title}</h2>
                 </Link>
                 <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
