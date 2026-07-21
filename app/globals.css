@@ -195,11 +195,11 @@ a {
   background-color: #F22F29;
   color: #fff;
   font-family: var(--font-dymo), "Courier New", monospace;
-  font-weight: 700;
+  font-weight: 400;
   font-size: clamp(1.6rem, 4vw, 2.1rem);
   line-height: 2.2;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.03em;
   padding: 0.3em 0.5em;
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
