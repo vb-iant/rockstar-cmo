@@ -57,24 +57,43 @@ export default function TagIndexPage({ params }) {
         {posts.map((post) => (
           <li
             key={post.slug}
-            style={{ marginBottom: "1.5rem", paddingBottom: "1.5rem", borderBottom: "1px solid #e5e5e5" }}
+            style={{ marginBottom: "2rem", paddingBottom: "2rem", borderBottom: "1px solid #e5e5e5" }}
           >
-            <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
-              <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{post.title}</h2>
-            </Link>
-            <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
-              {formatDate(post.date)}
-              {post.author && post.authorSlug !== tag.collectsTag && (
-                <>
-                  {" "}
-                  &middot;{" "}
-                  <Link href={`/tags/${post.authorSlug}`} className="blog-hover-red">
-                    {post.author}
-                  </Link>
-                </>
+            <div style={{ display: "flex", gap: "1.25rem", flexWrap: "wrap" }}>
+              {post.image && (
+                <Link href={`/blog/${post.slug}`} style={{ flexShrink: 0 }}>
+                  <img
+                    src={post.image}
+                    alt={post.title}
+                    width={250}
+                    height={250}
+                    className="blog-image"
+                    style={{ borderRadius: "8px", objectFit: "cover", display: "block", width: "250px", height: "250px" }}
+                  />
+                </Link>
               )}
-            </p>
-            <p style={{ color: "#333" }}>{post.excerpt}</p>
+              <div style={{ flex: "1 1 300px" }}>
+                <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
+                  <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{post.title}</h2>
+                </Link>
+                <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
+                  {formatDate(post.date)}
+                  {post.author && post.authorSlug !== tag.collectsTag && (
+                    <>
+                      {" "}
+                      &middot;{" "}
+                      <Link href={`/tags/${post.authorSlug}`} className="blog-hover-red">
+                        {post.author}
+                      </Link>
+                    </>
+                  )}
+                </p>
+                <p style={{ color: "#333", marginBottom: "0.5rem" }}>{post.excerpt}</p>
+                <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ fontWeight: 600 }}>
+                  Read more &rarr;
+                </Link>
+              </div>
+            </div>
           </li>
         ))}
       </ul>
