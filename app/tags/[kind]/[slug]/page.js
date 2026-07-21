@@ -58,8 +58,8 @@ export default function TagIndexPage({ params }) {
       <div className="card-grid" style={{ marginBottom: "2rem" }}>
         {posts.map((post) => (
           <div key={post.slug}>
-            {post.image && (
-              <Link href={`/blog/${post.slug}`}>
+            {post.image ? (
+              <Link href={`/blog/${post.slug}`} className="dymo-label-wrap">
                 <img
                   src={post.image}
                   alt={post.title}
@@ -67,12 +67,14 @@ export default function TagIndexPage({ params }) {
                   height={500}
                   className="blog-image index-card-image"
                 />
+                <h2 className="dymo-label">{post.title}</h2>
+              </Link>
+            ) : (
+              <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
+                <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{post.title}</h2>
               </Link>
             )}
-            <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
-              <h2 style={{ marginBottom: "0.25rem", marginTop: 0 }}>{post.title}</h2>
-            </Link>
-            <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
+            <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem", marginTop: "0.5rem" }}>
               {formatDate(post.date)}
               {post.author && post.authorSlug !== tag.collectsTag && (
                 <>
