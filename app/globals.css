@@ -166,10 +166,16 @@ a {
   margin-bottom: 0.75rem;
 }
 
-/* Blog post title as a strip of red Dymo label-maker tape stuck across the
-   card image: bold white capitals "punched" into the tape (faked with a
-   dark emboss shadow), a slight tilt and drop shadow like a real strip
-   peeling slightly off the surface it's stuck to. */
+/* Blog post title as strips of red Dymo label-maker tape stuck across the
+   card image: bold white monospace capitals "punched" into the tape (faked
+   with a dark emboss shadow), a slight tilt, and a drop shadow like a real
+   strip peeling slightly off the surface it's stuck to.
+
+   .dymo-label is just a positioning box (no visual styling of its own).
+   The actual tape look lives on .dymo-label-text, and uses
+   box-decoration-break: clone so that when the title wraps onto a second
+   line, each line renders as its own independent strip -- background,
+   shadow and all -- rather than one tall box with two lines inside it. */
 .dymo-label-wrap {
   position: relative;
   display: block;
@@ -181,17 +187,25 @@ a {
   right: 5%;
   bottom: 8%;
   margin: 0;
-  background-color: #F22F29;
-  color: #fff;
-  font-family: var(--font-bevan), Georgia, serif;
-  font-size: clamp(0.85rem, 2.1vw, 1.15rem);
-  line-height: 1.35;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  padding: 0.55rem 0.9rem;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.35);
   transform: rotate(-1.2deg);
 }
+
+.dymo-label-text {
+  display: inline;
+  background-color: #F22F29;
+  color: #fff;
+  font-family: var(--font-dymo), "Courier New", monospace;
+  font-weight: 700;
+  font-size: clamp(0.8rem, 2vw, 1.05rem);
+  line-height: 2.2;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.3em 0.5em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.35);
+}
+
 
 

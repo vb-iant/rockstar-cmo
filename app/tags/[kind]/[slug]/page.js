@@ -67,7 +67,7 @@ export default function TagIndexPage({ params }) {
                   height={500}
                   className="blog-image index-card-image"
                 />
-                <h2 className="dymo-label">{post.title}</h2>
+                <h2 className="dymo-label"><span className="dymo-label-text">{post.title}</span></h2>
               </Link>
             ) : (
               <Link href={`/blog/${post.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
