@@ -20,7 +20,7 @@ function formatDate(dateStr) {
 }
 
 export default async function NewsletterPage() {
-  const { publication, issues } = await getNewsletterIssues(5);
+  const { publication, issues } = await getNewsletterIssues(6);
 
   return (
     <main style={{ maxWidth: "var(--page-width)", margin: "0 auto", padding: "3rem 1.5rem" }}>
@@ -57,7 +57,7 @@ export default async function NewsletterPage() {
             style={{ textDecoration: "none", color: "inherit" }}
           >
             {issue.image && (
-              <img src={issue.image} alt={issue.title} width={500} height={500} className="index-card-image" />
+              <img src={issue.image} alt={issue.title} width={500} height={281} className="newsletter-card-image" />
             )}
             <h3 className="blog-hover-red" style={{ marginBottom: "0.25rem" }}>
               {issue.title}

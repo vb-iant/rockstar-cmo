@@ -228,5 +228,21 @@ a {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.35);
 }
 
+/* Newsletter issue cover images: 16:9 box, but object-fit: contain (not
+   cover, like .index-card-image) so the whole cover image is always
+   visible rather than cropped -- beehiiv covers aren't guaranteed to be
+   16:9 themselves, so letterboxing on a neutral background is the
+   tradeoff for never cutting off part of the image. */
+.newsletter-card-image {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+
 
 
