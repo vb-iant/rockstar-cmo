@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-darren-guarnaccia/"
 
 **In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them a rock star, what excites them and what we might learn on our journey to marketing rock stardom.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/DTG-1-e1546106352585-1024x1024.jpg)
+![](/images/blog/99d89f86f25c.jpg)
 
 **Darren Guarnaccia has worked in digital marketing for the last 20 years, developing customer engagement strategies and experiences that customers actually, well, want. We sat down with the Lytics chief marketing officer to discuss storytelling, how to give your customers real value, and why quality trumps quantity.**
 

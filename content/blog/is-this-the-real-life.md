@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/is-this-the-real-life/"
 
 **The Fender Telecaster. The Wah-wah pedal. The 45rpm vinyl. Technology has always sparked new and powerful anthems from the fingertips of rock stars. Or it should, when harnessed the right way. The same is true in marketing, and now, there’s a new kid on the block: augmented reality. [Gareth May](/gareth-may)** **speaks to investigators and innovators about the latest tech to rock the brand landscape.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Lead_Image_-_Courtesy_Ikea-1-1024x663.jpg)
+![](/images/blog/899a07c341c0.jpg)
 
 When Pokémon GO conquered the world’s imagination in the summer of 2016, everyone understood the potential of augmented reality (AR); it was a gateway to a Labyrinth-esque other world (sans Bowie and baby Toby).
 
@@ -39,7 +39,7 @@ When pioneers of electronica, Kraftwerk, featured in a 1975 edition of *Rolling 
 
 Still, initial use cases of AR failed to capture the imagination. Big brands that took it on did so without understanding the role it could potentially play in creating a better buying experience for customers. They stayed within the lines of what was expected. When Starbucks — pioneers of mobile pay — turned to AR in 2012, they saw it purely as a gimmick; a way to [turn cups into Valentine’s Day cards](https://www.youtube.com/watch?v=8nvqOzjq10w). Kooky, but hardly cool.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_1_-_Engine_Creative-1.jpg)
+![](/images/blog/e5e8bb19aefe.jpg)
 
 Six years on and AR has earned the respect of investors and innovators — and with both [Apple](https://www.ft.com/content/fbf835ce-e01f-11e7-a8a4-0a1e63a52f9c) and [Google](https://www.cnbc.com/2017/11/07/google-augmented-reality-will-be-on-hundreds-of-millions-of-android-devices.html) pumping money into the emerging sector (some have called it the [‘next battleground’](https://www.theguardian.com/technology/2017/aug/30/ar-augmented-reality-apple-google-smartphone-ikea-pokemon-go) for the two software companies), [Digi-Capital predicts](https://www.digi-capital.com/news/2018/01/ubiquitous-90-billion-ar-to-dominate-focused-15-billion-vr-by-2022/#.Wyedky2ZOkY) the AR industry will reach $90 billion in revenue in five years.
 
@@ -51,7 +51,7 @@ Not before time. The next generation of digital natives, the ‘digital-first Ge
 
 AR is already exponentially transforming the way we buy both online and out and about. If you’ve ever wanted to get the Debbie Harry eyeliner look, or see if you could channel Noel Gallagher when you wear Ray Bans, now you can, in the safety of your home. [Virtual makeover](https://www.maybelline.com/virtual-makeover-makeup-tools) is changing the face of the beauty industry; Land Rover has let customers ‘drive’ their SUVs by clicking on a banner ad; and Snapchat is enabling portion control with [AR-functioning menus](https://next.reality.news/news/bareburgers-recipe-for-future-menus-includes-heaping-portion-augmented-reality-via-snapchat-0184108/). AR is traveling fast. “We don’t want to augment one image or page anymore,” says Key. “The whole world can be augmented now.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_2_-_VISA-1-1024x575.jpg)
+![](/images/blog/dd283254d362.jpg)
 
 Pushed to its limits, AR is a magical thing. It can even fill a [shopping mall with wild animals](https://www.youtube.com/watch?v=HqMVZm0klW0). The work of AR specialists [Lemon&Orange](http://lemonorange.pl/en/) for VISA, in Poland, is one of the largest interactive AR-based campaigns in the world. “In the hands of a creative mind, AR is limitless,” says the project’s manager, Karolina Nowicka. But, she’s quick to add that while AR campaigns can bring wonder to an audience, there’s a method behind the fun: “When something blurs the edges of reality, people rarely walk past unfazed.”
 
@@ -63,7 +63,7 @@ Figures show AR campaigns do indeed bring an unprecedented level of consumer int
 
 IKEA’s [AR solution](http://www.wired.co.uk/article/ikea-place-augmented-reality-app-space-10) (created with Apple’s AR development platform ARKit) is an example of what AR can do today. The smartphone app lets consumers place any of the company’s 2,000 products in its catalogue – from rugs, to sofas, to lamps (to scale) – anywhere in a room in your house, via the camera on your phone.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_3_-_Augmented_Research-1-1024x768.jpg)
+![](/images/blog/d3d80fd15b4f.jpg)
 
 Mathew Chylinski, of the UNSW Business School in Australia, is a lead researcher at [Augmented Research](http://augmented-research.wixsite.com/info), a global team of academics dedicated to exploring the value of AR technologies for consumers and marketers.
 
@@ -83,7 +83,7 @@ Yet ‘product visualization’ is only the tip of the AR iceberg. In musical te
 
 Chylinski, for one, believes we’re currently at an inflexion point, with current investment comparable to the early days of the internet — and once AR tech has miniaturized and developed to the point that it becomes unobtrusive (i.e. when we no longer rely on our phones to facilitate AR but it is integrated into our sunglasses, for example), we will then see profound implications for marketers and consumers.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_4_-_Augmented_Research_Product_Highlighting-1.png)
+![](/images/blog/c21bf8c1f26d.png)
 
 Consider future retail spaces. Today, customers look around the shelves for a product, they take their time, and get distracted by advertising. AR will bypass a lot of this, Chylinski explains. “AR will guide a consumer’s search, point out relative products, remove packaging, and only highlight a product a consumer wants to see. AR will increase the value of these products, and as a result we will be more inclined to buy and pay more for it,” he says.
 

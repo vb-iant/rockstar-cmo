@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/a-little-more-conversation-a-little-less-act
 
 **Ian Truscott argues that in this new age of marketing, you need to focus on the real, relevant and considered conversations you have with your audiences – and why anything else is just spam.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_149490410.jpg)
+![](/images/blog/f37ce87e7dc6.jpg)
 
 We are transforming marketing from the ‘coloring in’ department seen as a cost by the CFO to delivering on a strategic investment valued by the CEO, driven by efficiency and action and the craft of marketing is becoming more technical, analytical and measured.
 

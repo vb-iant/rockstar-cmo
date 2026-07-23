@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-amber-osborne/"
 
 **In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/09/164668_10101484668803661_297590743_n.jpg)
+![](/images/blog/1cd49e367bfa.jpg)
 
 **At the time of the interview,** [Amber Osborne](/amber-osborne) **was the CMO at Doghead Simulations – the company behind** [rumii](https://www.rumii.net)**, a social-virtual reality space that enables collaboration in VR.** **Now Amber is helping clients destroy their marketing boredom as a sought after business and marketing strategy consultant.**
 

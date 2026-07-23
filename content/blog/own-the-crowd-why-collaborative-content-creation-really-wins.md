@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/own-the-crowd-why-collaborative-content-crea
 
 **CEO of Photofy** [**John Andrews**](https://rockstarcmo.wpengine.com/john-andrews) **considers how collaboration with your employees could make your digital content sing…**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/borna-bevanda-377277-unsplash-1024x685.jpg)
+![](/images/blog/32dc9da5171f.jpg)
 
 Digital marketing today is a crowded arena. It’s become the primary tool for marketers in terms of dollars spent. But as spending has increased, saturation and diminishing returns have occurred at an alarming rate. There’s simply a finite amount of human attention and too much noise. More dollars continue to flow into programmatic media all seeking to reach the right shopper with the right message at the right time... in the fastest and easiest way possible.
 

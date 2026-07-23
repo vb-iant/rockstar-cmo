@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/cpg-brands-need-to-find-their-voice/"
 
 **Our resident rock star,** [Ted Rubin](https://rockstarcmo.wpengine.com/ted-rubin)**, on why the sound and voice of your brand is the next frontier to explore.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/bench-accounting-49907-unsplash-1024x683.jpg)
+![](/images/blog/1ec08baa3e3b.jpg)
 
 What does your CPG brand look like? No doubt you and your loyal customers could answer that question quickly. Colors, logo, branding, packaging, memorable advertisements and more add up to create a distinctive visual appearance for successful brands. If you're ordering a Coke, Pepsi  or Budweiser at a restaurant, you can still probably recall exactly what the packaging for those products looks like while you sit at the table. In a direct, voice-driven world, however, a new question emerges: ***What does your CPG brand sound like?***
 

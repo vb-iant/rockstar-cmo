@@ -17,9 +17,9 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-9-the-big-deal-today-about-cha
 
 ---
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_331696088.jpg)
+![](/images/blog/2d2ca53677c1.jpg)
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/mullen_passport.hi_res-684x1024.jpg)
+![](/images/blog/0792b0b4f2d2.jpg)
 
 Author of three books, launcher of five companies and the Internet Marketing Association’s Networker of the Year. [Jeanniey Mullen](https://rockstarcmo.wpengine.com/opinion/backstage-with-jeanniey-mullen) knows a thing or two about being a rockstar marketer.
 

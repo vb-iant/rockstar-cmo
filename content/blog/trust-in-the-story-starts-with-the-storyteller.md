@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/trust-in-the-story-starts-with-the-storytell
 
 **Think authenticity guarantees your brand success? You can be authentic all you like, argues** [**Robert Rose**](https://rockstarcmo.wpengine.com/robert-rose)**. But if your brand can’t be trusted, it won’t make any difference.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_1067782139.jpg)
+![](/images/blog/8178abe9769c.jpg)
 
 Authenticity. What is it?
 

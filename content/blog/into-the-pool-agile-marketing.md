@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-agile-marketing/"
 
 **You know how rockstars have this reputation for throwing stuff from the hotel window into the pool? Hell, Keith Moon even parked his Rolls Royce in the deep end once. In tribute, we’ll be throwing all the crap, bullshit acronyms, empty fads and snake oil of marketing, week on week, straight into the Rockstar CMO swimming pool.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/03/photo-1465198901163-2d15b88fecea-1024x683.jpeg)
+![](/images/blog/9e4b05b6ef23.jpg)
 
 **This week [Ian Truscott](/ian-truscott) is on the 11th floor, flinging agile marketing off the balcony, waiting for the splash… It’ll be one hell of a bill, but oh so worth it…**
 

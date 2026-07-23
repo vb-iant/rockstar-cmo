@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-wendy-bryant-beswick/"
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Wendy_Bryant-768x1024.jpeg)
+![](/images/blog/5e2e1b9499ee.jpg)
 
 **An award-winning marketer with 20 years’ experience in the financial services industry, Wendy Bryant-Beswick is currently VP of Marketing at Service Credit Union.**
 

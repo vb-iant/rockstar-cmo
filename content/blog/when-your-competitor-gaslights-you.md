@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/when-your-competitor-gaslights-you/"
 
 **Ever been badmouthed, undermined or falsified? [Robert Rose](/robert-rose) shares some valuable advice on the best way to deal with being 'gaslighted'.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_1024977274.jpg)
+![](/images/blog/324c38b4b97a.jpg)
 
 Distrust.
 

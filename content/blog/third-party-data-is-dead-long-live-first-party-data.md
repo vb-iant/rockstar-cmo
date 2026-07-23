@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/third-party-data-is-dead-long-live-first-par
 
 **Lytics CMO** [Darren Guarnaccia](/darren-guarnaccia) **on why third-party data is yesterday’s news…**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/annie-spratt-608002-unsplash-1024x683.jpg)
+![](/images/blog/0bdedcdf3eda.jpg)
 
 It’s funny how you undervalue the things in your own backyard, yet covet what is across the street. It is something so fundamentally human. We’ve always had access to data about our customers, and for that very reason, we tend to discount it. It’s understandable though; data about the people outside of our customer base is so alluring. As marketers, we always want to attract new customers, and having data about those persons yet known is attractive. Thus, we’ve collectively sailed down the third-party data road, and promptly gone too far.
 

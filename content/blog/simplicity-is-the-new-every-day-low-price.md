@@ -13,7 +13,7 @@ sourceId: "946"
 sourceUrl: "https://rockstarcmo.com/simplicity-is-the-new-every-day-low-price/"
 ---
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/011517-PICZ-5609-1-1024x682.jpg)
+![](/images/blog/8a974c778d90.jpg)
 
 [**Ted Rubin**](/ted-rubin) **on keeping retail simple…**
 

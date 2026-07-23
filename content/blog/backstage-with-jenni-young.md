@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-jenni-young/"
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/jenni-young.jpg)
+![](/images/blog/3fc416744864.jpg)
 
 **Ian Truscott sits down with Jenni Young, the CMO of [tappit](https://justtappit.com/) - a cashless payment platform for event organizers - to discuss the importance of company values, building solid relationships, and why creating a culture of risk can lead to marketing success. Oh, and Creme Eggs.**
 

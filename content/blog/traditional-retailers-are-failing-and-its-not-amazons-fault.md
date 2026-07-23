@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/traditional-retailers-are-failing-and-its-no
 
 [**Ted Rubin**](/ted-rubin) **argues that instead of laying the blame for poor performance elsewhere, traditional retailers should be looking in the mirror, taking a closer look at their customers, and innovating to best serve those customers.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_1043589361.jpg)
+![](/images/blog/f9036c15ca5a.jpg)
 
 Traditional retailers are failing, and while I know you'll find this hard to believe, President Trump has opinions on why that's the case. Is it because traditional retailers have lost touch with the needs of their customer base? Nope. Maybe because they're not doing a good enough job of integrating the eCommerce experience with traditional retail? Think again. Is it because they fail to deliver a customer experience that meets the demands of the modern consumer? Nah. Trump claims that big, bad digital businesses like Amazon are succeeding through unethical eCommerce practices, and he couldn't be further from the truth.
 

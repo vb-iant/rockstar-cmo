@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/no-gag-reflex-side-splitting-marketing/"
 
 **Billy Connolly introducing Elton John at Live Aid. Tenacious D and Flight of the Conchords going platinum. Madonna and #capegate. Rock and comedy make strange bedfellows and the same can be said of marketing and mirth. [Gareth May](/gareth-may) finds out why rib tickling isn’t always tickety-boo for the public image, and the power of laughter if you get it right.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Lead_Image-1024x683.jpg)
+![](/images/blog/e2d07177aecc.jpg)
 
 What’s the difference between God and Bono? God doesn’t walk round Dublin thinking he’s Bono. Yes. It’s a rare occasion when rock ‘n’ roll becomes rock ‘n’ roll around laughing. Some pop songs hit the mark (the recently revived ‘Three Lions’ comes to mind) and certain bands, like They Might Be Giants, burn off albums laced with satirical lyrics but generally, the relationship is more fling than familiar — and it’s not only music that struggles to maintain the marriage. Marketers corner and co-opt comedy too, with varied results.
 
@@ -43,7 +43,7 @@ And there is a particular type of humor that works better than others, says McGr
 
 With campaigns [narrowly escaping censure](https://www.campaignlive.co.uk/article/paddy-power-mass-debater-ad-cleared-ad-watchdog/1307619) and agencies proudly promoting their client as [‘no respecters of authority’](http://www.luckygenerals.com/campaigns/paddy-power-election/), Paddy Power consistently play on the idea of ‘political correctness gone mad’, giving viewers licence, when they watch their ads, to laugh at things they might think, but not want to say in front of others (for example, [before the 2016 Olympics, in response to the Russia doping scandal, they placed a medal amnesty box outside the Russian embassy](https://www.thedrum.com/news/2016/07/19/paddy-power-gives-russians-chance-come-clean-olympic-medal-amnesty-stunt)).
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_2_Paddy_Power.jpg)
+![](/images/blog/0d75e78c32ad.jpg)
 
 It’s a hard thing to do, but when you can hit that sweet spot over and over, it’s a currency few brands have. Lee Price, Head of PR at Paddy Power, admits the betting company’s strategy is “massively high-risk” — and not just because viewers might get offended, but also because the audience expect to experience that edginess, that ‘benign violation’,and they’re disappointed if they don’t.
 
@@ -73,7 +73,7 @@ Likewise, Groupon, the exclusive deals company, have built their success on play
 
 “Humor is personal, so in order to strike the right balance you have to ensure that the tone is correct for your brand,” she says. “Choosing when to use humor and when not to is crucial too. We are incredibly lucky that humor is in the Groupon DNA. Our brand is perceived as fun and quirky and this gives us a lot of scope to play.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_3_-_Groupon-1024x640.png)
+![](/images/blog/e51238fc920e.png)
 
 ## **The last laugh**
 

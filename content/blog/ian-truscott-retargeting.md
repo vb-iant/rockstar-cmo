@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/ian-truscott-retargeting/"
 
 **You know how rock stars have this reputation for throwing stuff from the hotel window into the pool? Hell, Keith Moon even parked his Rolls Royce in the deep end once. In tribute, we’ll be throwing all the crap, bullshit acronyms, empty fads and snake oil of marketing straight into the Rockstar CMO swimming pool.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/chuttersnap-523582-unsplash-1024x767.jpg)
+![](/images/blog/edbdd353e03f.jpg)
 
 **This month, [Ian Truscott](https://rockstarcmo.wpengine.com/ian-truscott) is heaving retargeting – and all those annoying (and slightly creepy) digital ads – over the balcony. Don’t agree? [Let us know why](https://rockstarcmo.wpengine.com/write-for-us).**
 

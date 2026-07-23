@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/unsubscribe-does-not-mean-send-me-more-email
 
 **Ever unsubscribe from a mailing list only to keep getting emails from the brand in question? You’re not alone. It’s actually one of** [**Ted Rubin’s**](https://rockstarcmo.wpengine.com/ted-rubin) **biggest pet peeves, and here’s why.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/andrew-neel-117763-unsplash-1024x697.jpg)
+![](/images/blog/8221b3f166b6.jpg)
 
 Isn’t it Great When You “Unsubscribe” and Start Getting MORE Emails???
 

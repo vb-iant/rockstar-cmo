@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/dealing-with-facebook-anxiety-you-can-still-
 
 **Times have changed. More than ever before, brands are finding it difficult to get their content in front of consumer eyeballs.** [**Casey Petersen**](/casey-petersen)**, VP marketing and analytics at social content creation app** [**Photofy**](http://www.photofy.com/)**, suggests switching up your approach and going back to basics.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/marc-schafer-631509-unsplash-842x1024.jpg)
+![](/images/blog/75d35a9a2ee9.jpg)
 
 ‘The content problem’ in content marketing is becoming more pronounced. More and more brands are making content that does nothing. [Ads are getting more and more expensive, and working less and less](https://blog.adstage.io/2017/09/18/facebook-cpms-increase-2017). [Many ad clicks are turning out to be fake](https://www.zdnet.com/article/ad-fraud-is-out-of-control-billions-lost-by-media-industry-says-a-new-report/). Organic reach, especially on Facebook . . . Well, forget about it.
 

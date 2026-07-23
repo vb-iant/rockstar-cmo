@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/stark-bollock-naked/"
 
 **To wear a sock, or not? Debates around radical transparency are heating up as experts, cynics and customers consider just how much they need to see in order to trust a brand.** [**Helene Dancer**](https://rockstarcmo.appropingo.com/helene-dancer) **investigates.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/hanna-postova-671356-unsplash-1024x683.jpg)
+![](/images/blog/e60e9429d029.jpg)
 
 Apple lying to its customers about the longevity of its iPhone batteries. VW tinkering with its vehicle emissions results to appear greener. Instagram-challenger Vero revealing it actually mined users' data for advertisers, despite ‘no advertising’ promises on the platform. With more and more stories emerging of brands actively lying to get their way, it’s little wonder consumers are fighting back. Demanding better behavior before buying into what’s being sold. The veil is being lifted. Blind groupies they are not.
 
@@ -41,7 +41,7 @@ He uses music as an example. “Great pop music is there to be consumed, chewed 
 
 So rather than flinging off clothes in wild abandon, perhaps it’s a case of knowing exactly what sort of brand you are to your consumers, before deciding whether to show what you’re made of? Radical transparency clearly won’t be right for everybody and in some cases it could even be damaging.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image-2-Transparency-1024x655.jpg)
+![](/images/blog/dc5336254a0e.jpg)
 
 “I've had conversations with a financial-services brand that isn't comfortable with being totally transparent because if they don't have anything to hide, they're opening themselves up to unwarranted suspicion,” says Ewen Haldane, business director at the School of Life. He raises an interesting point. Often if a brand is telling you it’s being honest, you can’t help but suspect something’s going on. Coming across as if you’re on the defensive does no one any good. “Opening up the hood to show you’ve got nothing to hide is quite a natural and logical step to win back trust,” Haldane continues, “but it's not genuine trust – it's more reassurance for the customer that they're not being screwed over. There's no real need for going down the transparency path for brands who aren't doing anything wrong.”
 

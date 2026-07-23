@@ -15,13 +15,13 @@ sourceUrl: "https://rockstarcmo.com/never-mind-the-bollocks-heres-cambridge-anal
 
 **In this, our occasional ‘Never Mind the Bollocks’ series, we take a look behind the bullshit that we’re hearing on a marketing topic, have a chat with the people in the know and share what we’ve learned and whether we should all be concerned. Or if we should, as the Sex Pistols put it, never mind the bollocks. This issue, [Ian Truscott](/ian-truscott) sits down with Misia Tramp – VP of customer experience strategy and insights at digital marketing agency [Metia](https://www.metia.com/) – to discuss Cambridge Analytica and the (mis)use of social data.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/data-1-1024x683.jpeg)
+![](/images/blog/124544b15658.jpg)
 
 In the wake of the Cambridge Analytica scandal, we’re all left wondering if they were the Roman Polanski of the marketing industry – their reputation and fame punctured by the heinous crime of abusing the innocent and rightly hounded out of town. Or, have Cambridge Analytica been vilified for a perfectly legal activity? Sacrificed on the altar of hype and the news agenda, caught wrong-footed by a change in the public mood?
 
 Or is it something in between? A U2 moment, [when one day in 2014](http://www.dailymail.co.uk/sciencetech/article-2753549/Apple-outrages-users-automatically-installing-U2-album-devices-firm-paid-100-million-privilege.html) we all woke up to find that their latest album had been downloaded to our iPhones in an act of dictatorial benevolence by Apple, causing outrage, raising questions about privacy and the power of this big corporate over the device that plays such an intimate role in our lives. They didn’t go bust like Cambridge Analytica. It dented U2’s legacy, but actually changed very little.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/DWqnsbqm-1.jpg)
+![](/images/blog/1b043b7088c5.jpg)
 
 Our guide on this is Misia Tramp, my go-to on such matters. The British-born, Seattle-adoptee is a 20-year veteran of using data to drive strategy and innovation. A successful entrepreneur, team builder and inventor of metrics, she was one of the early adopters of gaining insight through social data, helping organizations become data-led – since the dawn of these platforms – when her researcher instincts were quickly alerted to the value of what we’re all sharing on social.
 

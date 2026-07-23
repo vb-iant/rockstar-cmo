@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/generation-why-not-and-the-age-of-nothings-s
 
 **Lazy. Self-entitled. Unfocused. The youth of today get a lot of slack. But is it totally justified? According to [Darren Guarnaccia](https://rockstarcmo.wpengine.com/darren-guarnaccia), not so much.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/08/shutterstock_772424488-1024x683.jpg)
+![](/images/blog/0fe615f79492.jpg)
 
 Millennials and Generation Z get a lot of bad press about their lack of ambition, or unwillingness to pay their dues like Gen Xers and Baby Boomers did. While I can appreciate why some might feel that way as a Gen Xer myself, I also clearly remember getting painted with that same brush in my early twenties as well. It seems every generation feels the following generations are soft and lazy to some extent. But, there is something more to it as well. These younger generations have seen the impossible become possible, and are more empowered than any generation in the past to assert their demands for a better way.
 

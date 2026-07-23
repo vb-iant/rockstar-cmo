@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-jeanniey-mullen/"
 
 **In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/mullen_passport.hi_res-684x1024.jpg)
+![](/images/blog/0792b0b4f2d2.jpg)
 
 **Author of three books. Launcher of five companies. Establisher of the world’s first email marketing practice inside an advertising agency. And the Internet Marketing Association’s Networker of the Year – amongst other things. One thing’s clear: Jeanniey Mullen knows a thing or two about being a rockstar marketer.**
 

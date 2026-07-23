@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/going-supernova/"
 
 **If you’re over the age of 30 and you’re not au fait with the stylings of the Kardashian Klan, there’s a high chance you might never have heard of** [**FashionNova.com**](https://www.fashionnova.com)**. But let this be known; you should have. After all, they’re only one of the fastest growing fashion companies in the world.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Supernova_Image_1-1024x576.jpg)
+![](/images/blog/b447796c5624.jpg)
 
 The brand, which at the time of writing this boasted nearly 13 million followers on Instagram (that's more than Topshop and J Crew combined), is the brainchild of the notoriously elusive Iranian-American businessman Richard Saghian, and launched in 2006 with a physical store in Panorama City, California.
 
@@ -37,9 +37,9 @@ And Saghian, who famously told WWD that “over-priced fashion is dead”, knows
 
 Fashion Nova provides their customers with the goods at a rate so fast Cosmopolitan recently questioned whether they were using “magic” to push their products out. When Kylie Jenner recently turned 21, in less than 24 hours FN had not only mocked up copies of [*both* of her birthday looks](https://www.cosmopolitan.com/style-beauty/fashion/a22715135/fashion-nova-kylie-jenner-birthday-looks/), the samples had been created, shot and were being promoted on their site and social channels.
 
-![](http://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/38096919_305727313308843_2463305014320300032_n.jpg)
+![](/images/blog/cc789dc1408e.jpg)
 
-[Birthday Behavior ???? Coming Soon! ????⠀ When's your birthday?⠀ Search: "Birthday Bash Sequin Romper"⠀ Search: "Twenty Fun Satin Dress"⠀ Search: "Cut To The Chase Mini Dress" Search: "Those Are Fire Heeled Sandals" ✨www.FashionNova.com✨](http://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/38096919_305727313308843_2463305014320300032_n.jpg)
+[Birthday Behavior ???? Coming Soon! ????⠀ When's your birthday?⠀ Search: "Birthday Bash Sequin Romper"⠀ Search: "Twenty Fun Satin Dress"⠀ Search: "Cut To The Chase Mini Dress" Search: "Those Are Fire Heeled Sandals" ✨www.FashionNova.com✨](/images/blog/cc789dc1408e.jpg)
 
 Saghian has previously explained, “If there's something trending…. And we see that's where the Nova Babe wants to go, we will immediately start creating designs in that category or fabric or type of look."  They do this by working with over 1,000 manufacturers and with 80% of their clothing being made in LA in the summer, this means they can have samples in their hands within 24 hours.
 
@@ -59,7 +59,7 @@ Of course, in reality, it would be remiss not to note that many of their models�
 
 There is also a strong emphasis on using a racially diverse collection of models and influencers. Benenson explains, “Fashion Nova, unlike many other brands, have wholeheartedly embraced racial diversity at a time when there is an undeniable global swell in afro-rooted influence.” So, while brands like [Zara](http://fortune.com/2018/06/22/melania-trump-jacket-zara-controversy-swastika-holocaust-clothing/) and [H&M](http://www.bbc.co.uk/newsbeat/article/42717933/racist-hm-coolest-monkey-hoodie-banned-by-ebay) get blasted for racial insensitivity, Saghian continues to promote a message of inclusivity unparalleled in the fashion industry.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Untitled-7.png)
+![](/images/blog/dab09a22c3f4.png)
 
 ## You are who you know
 

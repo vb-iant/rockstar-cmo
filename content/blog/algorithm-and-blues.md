@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/algorithm-and-blues/"
 
 **Technology means we're getting ever more personal with our customers. Or so we think... [Helene Dancer](/helene-dancer) asks: Do too many algorithms mean we're actually beginning to lose the human touch?**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_1064420693-1-1024x683.jpg)
+![](/images/blog/31a3fca38ae1.jpg)
 
 The advert for your favorite band's new album is following you around the internet like an overenthusiastic fan backstage at a concert. Wherever you click, it appears, along with ads for a new t-shirt range from a brand you bought clothes from last week. It's like someone's been watching you... which is precisely what's going on here.
 
@@ -37,7 +37,7 @@ But some platforms, like Spotify, base their entire operations on recommendation
 
 “Part of the reason Spotify is cheap is because they make their product based on everyone's data – their recommendations. They monetize the data but they're ploughing it back into the platform. It's pretty symmetrical. You know what's happening with the data.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_1-1-1024x638.png)
+![](/images/blog/e86b56b7f039.png)
 
 Facebook, on the other hand, isn't as transparent, as the recent [Cambridge Analytica furore](https://rockstarcmo.wpengine.com/opinion/never-mind-the-bollocks-heres-cambridge-analytica) shows. “Facebook builds up a pretty detailed picture about you and you don't know what they're doing with that picture,” says Ali. Of course, the targeted advertising on the platform gives some clue as to what the collected data is being used for – but he cites the example of Cambridge Analytica targeting black people to dissuade them from voting for Hillary Clinton in the US elections as a more insidious example. “By people not understanding what Facebook is doing with their data, they can't make an informed decision.”
 
@@ -49,7 +49,7 @@ Technology is also changing the world of traditional market research from within
 
 For Magda, any backlash towards hyper-targeted advertising comes from a generational difference. “I grew up thinking of myself as a private entity and it feels difficult to share, but younger generations growing up in a social media world find it much easier to share.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_2-2-1024x667.jpg)
+![](/images/blog/c663492112bc.jpg)
 
 Convenience is also a major factor that sweetens the pill. “If you were to ask me six years ago if I would ever consider doing my shopping online, I'd say no, never. But now I only buy online because of the convenience. I don't need to go into a shop and have the human experience,” she says. “As a consumer I'm bombarded with ads anyway, regardless of the algorithms. Now they're just more relevant to me – and more likely to tempt me.”
 

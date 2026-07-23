@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/risky-business/"
 
 **A few years ago, it was brand suicide to align yourself openly with a political or social justice cause. Now, everyone’s at it. But why? Doing it successfully is harder than it looks, too. And as Ian Hsieh discovers, the stakes have never been higher.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Risky_Business_Image_1-1024x576.jpg)
+![](/images/blog/d198294a056d.jpg)
 
 “There’s a human in my forest, and I don’t know what to do,” voices Emma Thompson over a black-and-white scene in which a tiny orangutan watches in horror as his home is razed to the ground. “He destroyed all of our trees for your food and your shampoo. There’s a human in my forest, and I don’t know what to do. He took away my mother and I’m scared he’ll take me too.”
 

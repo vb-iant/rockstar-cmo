@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-john-andrews/"
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them a rock star, what excites them and what we might learn on our journey to marketing rock stardom.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/120716_20PICZ-0260-1-1024x682.jpg)
+![](/images/blog/98fada880ea7.jpg)
 
 **John Andrews is the head honcho at Photofy – a content creation app that enables users to transform ordinary photos into slick, professional images that can be easily shared on social platforms. With over 20 years’ experience in digital marketing, [Ian Truscott](/ian-truscott) sat down with the Raleigh, North Carolina-based CEO to discuss brand relevancy, the power of word of mouth, and why you should never, ever, stop learning.**
 
@@ -61,7 +61,7 @@ Jeff Bezos, Sam Walton and Phil Knight.
 
 ### **Any final words before you drop the mic?**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/120716_20PICZ-0060-1-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 
 Great marketing is what others say about you, not what you say about yourself. If no one is talking about your brand except you, it isn’t relevant.
 

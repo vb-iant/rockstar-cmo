@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/could-unilever-be-marketings-bob-geldof/"
 
 **Unilever has taken a stand over the fast and loose approach that social platforms are taking to their social responsibilities, yet in marketing we a similar reputation of being self-serving, more excited when someone does something cool that sells more Oreos than saving the world. Ian Truscott if brands will take the high road and follow Unilever...**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/sommi-257178-unsplash-1024x683.jpg)
+![](/images/blog/04e519a9f963.jpg)
 
 In 1994 chart topping artists from the UK got together to raise awareness for famine victims in Ethiopia, creating a holiday tune, ‘Do They Know It’s Christmas?’, that 23 years later still has a confirmed place in the UK Christmas playlist.
 

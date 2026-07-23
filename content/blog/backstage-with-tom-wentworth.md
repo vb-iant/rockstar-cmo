@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-tom-wentworth/"
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rock stars, what excites them and what we might learn on our journey to marketing rockstardom.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/tomwentworth.jpg)
+![](/images/blog/19245c26c2f9.jpg)
 
 **Tom Wentworth is Chief Marketing Officer at Boston-based RapidMiner, a software platform for data science teams, where he heads up global go-to-market strategy, product marketing and communications. He also works as an advisor for** [**Drift**](https://www.drift.com/) **and** [**Jebbit.**](https://www.jebbit.com/) **[Ian Truscott](/ian-truscott) sat down with the Smashing Pumpkins fan to talk about saying ‘no’, the secret to successful recruiting, and why in the end, the brand is key.**
 

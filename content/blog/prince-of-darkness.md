@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/prince-of-darkness/"
 
 **Marketers are in a flap: private messaging platforms are on the rise, making it harder to track what people are saying about their products. Yet so-called ‘dark social’ is nothing to be frightened of. Dave Waller gets the skinny on going dark – no biting off bat heads required.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/matthew-henry-87142-unsplash-1024x683.jpg)
+![](/images/blog/5fb95765b22c.jpg)
 
 ‘Dark social’ may spark images of a backstage after-party in a basement, volume cranked up and eyeliner thicker than icing. The reality is, however, far less menacing: dark social is simply an umbrella term for any content sharing that happens in private channels, whether that’s the instant messaging platforms provided by Facebook and Google, or project management/ industrial-scale distraction engines like Slack. If you’ve ever copied, pasted and emailed your partner a link to that Ramones t-shirt you’ve been banging on about for your birthday, that’s dark social; as is sharing a link to a Tom Petty tribute (RIP) with your mates on WhatsApp.
 
@@ -35,7 +35,7 @@ So, it seems, good old fashioned private conversation is back in town – and wh
 
 Andre van Loon is research and insight director at [We Are Social](https://wearesocial.com/uk/), a global marketing agency with offices in London. He believes that, while dark social has most marketers sat under their desk shaking, it does in fact present a huge opportunity to learn about social trends.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/andre-van-loon.jpg)
+![](/images/blog/1ea6a881f23d.jpg)
 
 “Dark social is a valid concern,” he says, “but I like to shift the narrative away from it simply being the latest problem we face, and towards how we can use it.”
 

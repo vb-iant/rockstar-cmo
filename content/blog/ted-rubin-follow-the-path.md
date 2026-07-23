@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/ted-rubin-follow-the-path/"
 
 **Photofy CMO, MC/Host of Brand Innovators Summits, and Co-Founder of Prevailing Path** [**Ted Rubin**](/ted-rubin) **is our resident rock star. Each issue, he’s sounding off on the challenges faced by the marketing industry today.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/photo-1447117219916-d8cb5f373434-2.jpeg)
+![](/images/blog/6c9a4d5c276b.jpg)
 
 Sometimes, your favourite concepts take on a life of their own, and #FollowThePath definitely qualifies for me. It's an idea that encompasses much of what I believe is important in business and in life – so naturally it's based on the ideas that have stuck with me most over the years. I look at it as a way to improve building relationships with customers and building a sustainable, long-term audience for what you have to offer. But it's also an approach to self-improvement – a way to stay motivated, and a reminder to keep your head up when the going gets tough. Staying focused, no matter where, when, and for what reason.
 

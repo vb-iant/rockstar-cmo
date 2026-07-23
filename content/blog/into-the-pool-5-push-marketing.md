@@ -15,13 +15,13 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-5-push-marketing/"
 
 **This month, [Ian Truscott](/ian-truscott) has been hanging out with Photofy CEO [John Andrews](/john-andrews). And push marketing is the subject of their wrath. Don’t agree with what they’re saying? [Tell us why](/write-for-us).**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Lead_-shutterstock_1099572593.jpg)
+![](/images/blog/df0b392fbe57.jpg)
 
 I’m seeing a pattern, our marketing rock stars do not like anything that’s easy, cheap, driven by the machine and annoys 99.99% of the people it touches. We’ve already chucked out [retargeting](https://rockstarcmo.wpengine.com/opinion/ian-truscott-retargeting) and [programmatic](https://rockstarcmo.wpengine.com/opinion/into-the-pool-3-programmatic) and in this issue, inspired by our backstage chat with [John Andrews](https://rockstarcmo.wpengine.com/opinion/backstage-with-john-andrews) from the [last issue](https://rockstarcmo.wpengine.com/ok-computer), we're casting an eye over push marketing to see how many of us it will take to lift it off the balcony.
 
 In John’s opinion:
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/120716_20PICZ-0060-1-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 > Push marketing. It’s dead, dead, dead. Unwanted messaging is simply spam, in any format. Stop it.
 
 I think the keyword is “unwanted”. Personally, I love it when Lufthansa push a message that tells me about a gate change or…

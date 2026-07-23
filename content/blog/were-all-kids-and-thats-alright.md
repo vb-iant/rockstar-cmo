@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/were-all-kids-and-thats-alright/"
 
 Ian Truscott **explores the issue of ageism in marketing, and the attributes that all marketers – regardless of whether they’re young or old – need to embrace in order to truly make a difference.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/header-image-hustle-be-remarkable-photo-1518732355562-7f21052c89e5.jpeg)
+![](/images/blog/f4997f2efb2d.jpg)
 
 The ignorance of ageism is a rot in many workplaces, robbing organizations of ideas, talent and knowledge at either end of the age scale. And this seems especially true in marketing – both agency and client-side – a field that in some organizations already struggles to be taken seriously, as something more than just the “coloring in department”.
 

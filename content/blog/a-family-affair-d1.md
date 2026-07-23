@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/a-family-affair-d1/"
 
 **50 years ago, family was a simple proposition: mum, dad, two kids – maybe three, maybe more. In 2018, things aren’t so simple – a modern family can be many things. Single parent? Sure. Same sex parents? Absolutely. Families of divorce? Definitely.** [**Stephen Kelly**](/stephen-kelly) **discovers that to succeed today, brands need to represent the modern family realistically.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/11/shutterstock_367907396-e1545502970561-1024x1024.jpg)
+![](/images/blog/eb6fd0d67e9f.jpg)
 
 ---
 
@@ -51,7 +51,7 @@ The aforementioned Oxo family of the ’60s, and their more grounded successors 
 
 “Technologically, there are ways for you to actually target a particular relevant category,” he continues. “The entire idea of Instagram and Facebook is all about clever segmentation. So as a brand, you can target the nuclear family, the gay family, the single mum. That’s easy. The difficult thing is the likability component, which is to be liked by as many people as possible. So narratives and the stories as to how they perceive a brand are quite important.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/family-1024x427.png)
+![](/images/blog/67b17a1af0b2.png)
 
 ### **Sticking to your guns**
 

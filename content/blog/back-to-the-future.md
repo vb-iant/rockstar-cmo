@@ -15,13 +15,13 @@ sourceUrl: "https://rockstarcmo.com/back-to-the-future/"
 
 **Vinyl records. Film photography. Vintage fashion. There’s no doubting it – the past has never been more alluring to young consumers. But in a digital world, there’s more to good marketing than throwing back to times past. [Stephen Kelly](http://rockstar.com/stephen-kelly) explores the benefits – and pitfalls – of nostalgia.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_1-1-1024x683.jpg)
+![](/images/blog/ce20deacc098.jpg)
 
 If the past is indeed a foreign country, then its tourism industry is booming. Sales of vinyl are at a record high; Hollywood can’t stop rebooting long-gone franchises; filmmakers such as Greta Gerwig and Jonah Hill are revisiting their childhoods in films like *Lady Bird* and the forthcoming *Mid90s*; the success of Netflix’s ’80s hit *Stranger Things*; the success of *Pokemon Go*; the re-release last year of the [Nintendo SNES as the Nintendo Classic Mini](https://www.theverge.com/2018/8/2/17642236/nes-classic-npd-sales-data-june-2018).
 
 “Analog in general has seen a massive resurgence in recent years,” says Joanna Della-Ragione, creative producer at Kodak, “and there’s something very zeitgeist-y about that. Aesthetically, there’s a romanticism with the Super 8 format too – it’s very nostalgic and it harks back to a simpler time in a way. Traditionally that’s what home videos were shot in. So, everyone kind of sees this picture – and even if they don’t know exactly what it is, or even if they’re not familiar with different film stock or don’t themselves shoot film – people see Super 8 and immediately have this emotional affection, this connection to it.”
 
-![Image_2.jpg](http://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_2.jpg)
+![Image_2.jpg](/images/blog/783ed670f925.jpg)
 
 Nostalgia is powerful. In terms of psychology, it has gone from being seen as a 17th century disorder – blamed by medical student Johannes Hofer for driving soldiers mad with longing – to a state understood by contemporary psychologist Constantine Sedikides to [“elevate meaningfulness, connectedness and continuity in the past.”](http://www.theguardian.com/society/2014/nov/09/look-back-in-joy-the-power-of-nostalgia) In terms of marketing, this means the potential to resonate with the consumer on a personal level, to connect in a way other forms of marketing can’t. Not to mention that nostalgic products tend to retail for premium prices – and that nostalgia [has been shown](http://academic.oup.com/jcr/article-abstract/41/3/713/2907535) to “weaken desire for money”, meaning that people are more likely to make wilful purchases.
 

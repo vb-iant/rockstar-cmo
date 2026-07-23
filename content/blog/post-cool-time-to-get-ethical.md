@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/post-cool-time-to-get-ethical/"
 
 **Bob Dylan said it right when he sang *The Times They Are A-Changin’*. Today, if brands want to win consumers it’s not enough to be visually pleasing, or endorsed by celebrities, or nicely and neatly boxed. They need to speak truth.** [**Gareth May**](https://rockstarcmo.wpengine.com/gareth-may) **welcomes you to the post-cool era.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_1_Colin_Kaepernick_-1024x576.png)
+![](/images/blog/2a34865990a4.png)
 
 Sex, drugs, and rock ‘n’ roll. It’s the holy trinity of fun, right? Yet we’re fast approaching an age where the first two carry little weight. We love stories of Ozzy Osbourne [snorting ants](https://www.culturecreature.com/ozzy-osbourne-snorted-ants-motley-crue/) and [P](https://www.theguardian.com/music/2018/mar/09/he-tried-to-get-out-of-the-car-at-80mph-the-stories-behind-nmes-greatest-covers)[e](https://www.theguardian.com/music/2018/mar/09/he-tried-to-get-out-of-the-car-at-80mph-the-stories-behind-nmes-greatest-covers)[te Doherty](https://www.theguardian.com/music/2018/mar/09/he-tried-to-get-out-of-the-car-at-80mph-the-stories-behind-nmes-greatest-covers) threatening to throw music journos out of moving cars. What came first, the music or the madness? We’re guessing it’s the drugs.
 
@@ -35,7 +35,7 @@ According to a [Euromonitor report on consumer behaviour for 2017](https://blog.
 
 To survive in this new world, brands are fast learning that standing up and supporting something has currency. Take UK cosmetics brand Illamasqua. They snapped up transgender model and activist Munroe Bergdorf as their new face after Bergdorf had been fired by L’Oreal for commenting on race and gender. And earlier this year when EA faced a backlash for putting a woman on the cover of war game *Battlefield V* – with the [#NotMyBattlefield](https://www.theverge.com/2018/6/12/17453728/ea-women-in-battlefield-v-backlash-response) hashtag – EA chief creative officer Patrick Söderlund told media: “We stand up for the cause… those people who don’t understand it, well, you have two choices: either accept it or don’t buy the game.”
 
-![](http://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/21568492_1929793487294742_5446470701189955584_n.jpg)
+![](/images/blog/599d8f8c8bce.jpg)
 
 ["It's not about being a girl, it's not about being a boy. It's about being free to explore your individuality; celebrating who you are today, and who you want to be tomorrow." Illamasqua is a beauty brand with a voice, and encourages you to have one too. We are not afraid to be provocative and talk about the complex issues that affect our generation - whether they be religion, race, gender or the environment. That's why for our next campaign, we will be exploring gender. Featuring long-term Illamasqua collaborator and activist, @munroebergdorf, alongside 'gender capitalist', @raindovemodel. All will be revealed in November.... #humanup #gender #illamasqua #illamafia #genderisover](https://scontent-iad3-1.cdninstagram.com/vp/dc795270e70b6ec309ce4f4b44a78418/5C624FE5/t51.2885-15/e35/21568492_1929793487294742_5446470701189955584_n.jpg)
 
@@ -47,7 +47,7 @@ When Nike launched a controversial advertising campaign featuring former NFL qua
 
 But just like the aging rock star who gets off on the thrill of an AA meeting only to get in their car and swig on a bottle of Jim Beam, be careful if you get found out. Co-opting a fervent uprising or controversial cultural icon doesn’t always result in a touchdown. Brands can get it incredibly wrong.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/jenner2.png)
+![](/images/blog/fd8e622434d5.png)
 
 Last year, when Pepsi launched an ad featuring [Kendall Jenner](https://www.seattletimes.com/business/pepsi-says-its-pulling-widely-mocked-ad/) giving a police officer a coke (a nod to the protests surrounding the Black Lives Matter movement), it got pulled after social media outrage (even Bernice King, son of civil rights leader Martin Luther King Jr, tweeted and mocked the spot). As a result, the company released a statement that said, “We missed the mark.” And Larry Chiagouris, a professor of marketing at Pace University, summed it up by saying that Pepsi were “late to the party” – resulting in a campaign that felt exploitative instead of inclusive.
 

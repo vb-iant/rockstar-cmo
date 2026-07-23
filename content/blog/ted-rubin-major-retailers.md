@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/ted-rubin-major-retailers/"
 
 **Retail continues to be disrupted, our malls and high syreets continue to change, but brands seem unwilling to change, maybe in the belief they are "too big to fail", Ted Rubin makes a bold prediction.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_619347797-1.jpg)
+![](/images/blog/8e9ad8645abc.jpg)
 
 **Visit your favorite shopping mall – if you still have a favorite – and you can already see the seismic shift in retail taking place across the country. When was the last time you visited a Sports Authority, or RadioShack? What about bargain retailers like Payless Shoes, or kid-friendly stops like Gymboree?**
 

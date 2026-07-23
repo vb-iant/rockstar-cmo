@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/reach-out-and-touch/"
 
 **This summer thousands of revelers sought out the ultimate festival experience. Though it wasn’t guitar shredding or whiplash they were hoping for. For this growing community, the rockstar headliners are brewers, chefs and potters.** **How exactly have these artisans become headline acts?** [**Amie Knights**](https://rockstarcmo.wpengine.com/amie-knights) **talks to the Craft Revolution, furniture maker Heather Scott and design journalist Katie Treggiden, to get the backstage scoop.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/nick-karvounis-156112-unsplash-1024x683.jpg)
+![](/images/blog/0636aebd92a2.jpg)
 
 Over the August bank holiday [Make More festival](https://makemore.art) came to London’s Victoria Park, to give punters the chance to get hands-on with everything from iron forging and butchery to bread making. Coupled with the success of TV shows like *The Great British Bake Off* and YouTube celebs DIYing their socks off, this sold out craft concert is just one more cue that ‘maker culture’ is no one-hit wonder. In fact, the Craft Council recently reported that the craft industry contributes £3.4 billion to the UK economy – a figure that shocked even the researchers. Clearly making means business. And marketers need to start taking note.
 
@@ -25,7 +25,7 @@ Over the August bank holiday [Make More festival](https://makemore.art) came to 
 
 Lou Rainbow, [Craft Learning Programme Manager at Craft Revolution](https://www.dartington.org/whats-on/programme/craft-revolution/follow-us/) has experienced firsthand the increasing number of people showing interest in making. She believes this is because they are tired of screen-based interactions. “We’re working with local makers who are wanting to make things that have heart in them, and that have a purpose,” she says. “I think people are just waking up to thinking ‘I wish I could actually *do* something’. They just want to explore working with their hands again.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/devin-edwards-776950-unsplash-1024x683.jpg)
+![](/images/blog/72710b80508b.jpg)
 
 Events like the Make More festival, which provide practical craft workshops, have snowballed in recent years. In 2015 [London Craft Week](http://www.londoncraftweek.com) held 60 events, a number that pales in comparison to the 230 events programmed this year. And yes, every one was filled. Furniture designer and maker [Heather Scott](http://www.heatherscott.org.uk) isn’t surprised. “People love these workshops because they get a moment to make something, and be reminded of these human skills that are so intuitive, but are becoming alien. We’ve been steadily losing touch with our own natural abilities,” she says. “Making allows you to experience what it is to be human in this slightly disengaged world.”
 
@@ -45,7 +45,7 @@ This sense of individuality can be found in consuming these goods too. “You ca
 
 ### **Finding balance**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/rachael-gorjestani-282049-unsplash-1024x683.jpg)
+![](/images/blog/9c65d4618d19.jpg)
 
 So is making really a counterfoil to staring at a screen? Are we simply rejecting bits in favors of atoms? Well, as with most things, it’s not quite so cut and dry. The rising numbers of people engaging in the craft movement demonstrates we’re trying to get away from our over-reliance on all things digital, but in order for these global craft trends to thrive and in fact, become more than just trends but viable businesses, digital platforms are becoming instrumental.
 

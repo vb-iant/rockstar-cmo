@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-casey-petersen/"
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/11/casey-e1545490443660.jpeg)
+![](/images/blog/4e89b02251b7.jpg)
 
 Vice President of Marketing and Analytics at content creation app [Photofy](https://photofy.com/), [Casey Petersen](/casey-petersen) has been a leader in digital marketing for over 15 years. Ian Truscott caught up with him to discuss the power of employee empowerment, throwing all assumptions out the window, and why marketing is ultimately about understanding human motivation.
 

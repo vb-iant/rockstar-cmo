@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/ted-rubin-retail-times-are-changin/"
 
 **Photofy CMO, MC/Host of Brand Innovators Summits, and Co-Founder of Prevailing Path** [**Ted Rubin**](/ted-rubin) **is our resident rock star. Each issue, he’s sounding off on the challenges faced by the marketing industry today.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/pexels-photo-230544-1.jpeg)
+![](/images/blog/8af3d67256f4.jpg)
 
 The world of retail has been shifting beneath our feet – and it’s doing so because the digital age has fundamentally changed everything about how we live. It’s changed how we communicate, how we work, how we travel, and how we buy things. And just like the digital revolution that brought us to this point, there’s no turning back.
 

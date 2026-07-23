@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/even-better-than-the-real-thing/"
 
 **Authenticity is a seductive concept. So much so that marketers are conjuring ever more inauthentic ways to try to sell it. The good news is that authentic marketing needn’t be an oxymoron. You just have to be brave – and… drum roll… actually mean what you’re saying…**[**Dave Waller**](https://rockstarcmo.wpengine.com/dave-waller) investigates.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/braydon-anderson-105552-unsplash-1024x683.jpg)
+![](/images/blog/79139eb5cc56.jpg)
 
 Another morning on planet Earth, waking up in her pink and grey bedroom. Time for a photo. Frame in the pillow with the word ‘DREAM’ stitched on it. And the board next to it saying ‘Good Morning’. And there she is, immaculately made up, sat in her PJs with her feet up on the bed and a nice cup of coffee. Yay. But, it seems, the cup is empty. And her plate of strawberry-topped pancakes is actually a pile of tortillas. All those heart-shaped balloons surrounding the bed would surely terrify anyone waking up under them. As would that blanket – it seems to feature a giant selfie of the woman, stood in front of a load of pink roses. Bit weird. And everything in the room is so disturbingly immaculate that the bottle of Listerine she’s casually left on the bedside cabinet sticks out like a wonky tooth.
 
@@ -43,7 +43,7 @@ There’s little doubt that the brains behind the VW or Dove campaigns would hap
 
 ### Doing the conscious thing
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Chris_Sharpe_Kinsu_2-1024x681.jpg)
+![](/images/blog/37b669a91dd0.jpg)
 
 “Everyone hates insurance, and there are good reasons why,” says Chris Sharpe, over the phone. Sharpe is the founder of Kinsu, an app-based insurance business that’s trying to correct what he sees as a fraught relationship between the industry and customers. He clearly likes a challenge.
 
@@ -75,7 +75,7 @@ Others have flipped the marketing model and managed to make a more honest approa
 
 Simpson points to irreverent ads by Old Spice, Kiss Lip Plumper and Dollar Shave Club as examples. Then there’s Oasis’ ‘refreshingly’ frank summer ‘we’ve got sales targets’ campaign.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/oasis-1024x609.jpg)
+![](/images/blog/902484792ef7.jpg)
 
 ### No shortcuts
 

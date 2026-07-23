@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-10-marketing-ai%ef%bb%bf/"
 
 **Oh it’s a biggie this month; Casey Petersen is conspiring with Ian Truscott to chuck Marketing AI into the Rockstar CMO swimming pool. Some would say a brave choice as artificial intelligence is such a darling of the current marketing zeitgeist. Do you agree?** [Get in touch.](/contact-us)
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_331696088.jpg)
+![](/images/blog/2d2ca53677c1.jpg)
 
 [Casey Petersen](/casey-petersen) has been a leader in digital marketing for over 15 years and is currently Vice President of Marketing and Analytics at content creation app [Photofy](http://photofy.com). A glance at [Casey’s LinkedIn profile](https://www.linkedin.com/in/patrickcpetersen/) will tell you that this member of our extended Rockstar CMO band is results-orientated, and when I interviewed him for our Backstage series, he told it to me straight.
 

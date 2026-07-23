@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/graveyard-smash/"
 
 **The flash mob. Remember that? Social experiment, turned viral, turned marketing bandwagon. Then... nothing. Where did it come from? Where the hell did it go? And is it rising from the dead? Samuel Crosby finds out.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_271972331-1024x652.jpg)
+![](/images/blog/103ca37f17da.jpg)
 
 An everyday highstreet scene. Suddenly a commotion breaks out. A beat begins to pulse. The crowd moves in time, stamping, twisting, spinning, leaping. Onlookers are thrilled. And there's not a rock star in sight. This is the power of participation; the thrill of the joining urge. Of belonging. Of surprise. In seconds the mob will be broadcast outward, reaching millions more people at the touch of a button.
 
@@ -43,7 +43,7 @@ So what does that leave us with? What can contemporary marketers learn from the 
 
 It all started with Bill Wasik in New York City. From May 2003 onwards, he designed some events to poke around in the theory of *deindividuation* which says that inhibitions disappear when individuals feel anonymous within a bigger group. His chosen group: hipsters.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/antonela-martincevic-1071102-unsplash-1024x683.jpg)
+![](/images/blog/7dcad38cdbc7.jpg)
 
 After staying anonymous for the first three years, Wasik broke his silence in March 2006. He revealed himself with an article in Harper's magazine: [My Crowd: A report from the inventor of the flash mob](https://harpers.org/archive/2006/03/my-crowd/2/)*.*
 
@@ -99,7 +99,7 @@ A branded flash mob is, at its heart, an ad. Whether the company name is up fron
 
 And key to the success of this type of ad, is emotional connection. The staying power of the flash mob is a testament to the power of emotion in brand messaging. Joy and surprise, even presented in a replicated formula of group dance, landed with consumers time and time again for the best part of 10 years.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/706908-unsplash_IMAGE_3-1024x723.jpg)
+![](/images/blog/4b215167596b.jpg)
 
 “Only when people have a strong affective response to the video content, such as humor, fear, sadness or inspiration, will they be willing to forward it to others,” says Philip S Grant in the Journal of Marketing Communications. “Branded flash mobs have proven to elicit a heightened affective response in consumers and have a proven record to be successful virally.”
 

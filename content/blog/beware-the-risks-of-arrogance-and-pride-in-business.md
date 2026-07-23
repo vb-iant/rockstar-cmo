@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/beware-the-risks-of-arrogance-and-pride-in-b
 
 **Buzzing off those results you secured for your company? Feeling confident? Maybe even a little self-important? Time to check yourself, says** [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin)**.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/rawpixel-250087-unsplash-1024x699.jpg)
+![](/images/blog/579eb06ec04f.jpg)
 
 Ever work with someone who always had all the answers, even if they weren't paying any attention to the questions? Have you ever *been* that person? It's human nature for success to breed confidence; however, allowing that confidence to veer into arrogance is a dangerous thing in business and marketing. It's hard to build a team-first culture when key members of the team think they are above the rules and above the rest of the group. And when a whole team becomes arrogant, success gives way to complacency. Beware of these risks at every level of your business.
 

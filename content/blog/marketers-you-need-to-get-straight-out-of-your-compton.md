@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/marketers-you-need-to-get-straight-out-of-yo
 
 **[Ian Truscott](/ian-truscott) looks at rap past and present, and finds that NWA, Public Enemy and Lil Uzi Vert hold the secret to breaking out of your bubble to build a loyal, engaged community.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Lead_Image_NWA-1-1024x683.jpeg)
+![](/images/blog/f06621e958d7.jpg)
 
 The fame and fortune of the stars of hip-hop and rap was not made by selling records to their fans in their own ‘hoods like Compton, Queens or the 8 Mile in Detroit: it was made by breaking out, through the adoption of their experience and stories by working and middle-class kids in other communities across the world who could relate to the very different experiences expressed in the rhymes and co-opt them as their own.
 

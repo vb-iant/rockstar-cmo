@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-five-main-challenges-facing-cmos-today/"
 
 **From employee advocacy to peak data,** [**Ted Rubin**](/ted-rubin) **lays down the big challenges CMOs around the world are facing right now – and what they can do to ace their marketing in each area.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/011517-PICZ-5609-1024x682.jpg)
+![](/images/blog/8a974c778d90.jpg)
 
 **1. Understanding and embracing the power of employee advocacy**
 

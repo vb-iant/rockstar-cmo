@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-most-overlooked-and-critical-component-o
 
 **Our resident rock star** [**Ted Rubin**](/ted-rubin) **on why data needs to be used more intelligently in the quest for brand equity.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg)
+![](/images/blog/f04796e0e527.jpg)
 
 In quantum mechanics there is a rule: when particles are observed, they behave differently. We found out in the late ’90s, via various experiments, that electrons act as either particles or waves, depending on whether they were observed. What does that have to do with marketing, you say?
 

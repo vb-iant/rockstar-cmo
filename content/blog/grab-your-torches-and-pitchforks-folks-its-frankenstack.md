@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/grab-your-torches-and-pitchforks-folks-its-f
 
 **There’s a mind-boggling array of software available to marketers today. Shiny, new, advanced systems designed to make your life easier. But do they? Or are they actually just lurching around, threatening to destroy your business?** [**Ian Truscott**](/ian-truscott) **explores the perils and pitfalls of the Frankenstack.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Frankenstein_s_monster_Boris_Karloff-816x1024.jpg)
+![](/images/blog/8fb96fb8fceb.jpg)
 
 *Darkness falls across the land  
 The midnight hour is close at hand  

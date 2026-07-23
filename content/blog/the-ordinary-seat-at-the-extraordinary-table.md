@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-ordinary-seat-at-the-extraordinary-table
 
 **[Robert Rose](https://rockstarcmo.wpengine.com/robert-rose) on why celebrating the ordinary things in our lives can lead to, well, the extraordinary.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/08/omar-lopez-246581-unsplash-1024x683.jpg)
+![](/images/blog/ed0e59209cea.jpg)
 
 Hustle. Be remarkable. Be special. Live off coffee. Sleep is for the weak. Obsess or be average. Differentiate. Be extraordinary.
 

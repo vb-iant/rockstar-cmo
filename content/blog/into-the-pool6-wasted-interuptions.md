@@ -15,13 +15,13 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool6-wasted-interuptions/"
 
 **This week,** [**Ian Truscott**](https://rockstarcmo.wpengine.com/ian-truscott) **has been hanging out in the proverbial penthouse with** [**Christine Bailey**](https://rockstarcmo.wpengine.com/christine-bailey)**. As usual, the conversation quickly bubbled with ire. The subject: interruption marketing and wasted advertising. Feel differently? Then let us know.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/08/submergedcar.jpg)
+![](/images/blog/fcd5c181562b.jpg)
 
 Elsewhere in this issue, resident CMO rock star [Ted Rubin](/ted-rubin) urges us to [walk in the shoes](https://rockstarcmo.wpengine.com/opinion/digital-marketers-need-to-be-reminded-walk-in-your-customers-shoes) of the people receiving our marketing. I get the feeling Christine Bailey spends a lot of time doing just that: that’s why she’s so desperate to chuck interruption marketing and wasted advertising into the pool.
 
 I’m reminded of the time we went [backstage with her](https://rockstarcmo.wpengine.com/opinion/backstage-with-christine-bailey):
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Christine-crop-768x1024.jpg)
+![](/images/blog/62fbd2207b5e.jpg)
 
 > "Personally, I hate interruption marketing and wasted advertising," Christine said. "I went to an exhibition recently and there was a sign in the bathroom: 'Please do not throw advertising circulars in the toilets'. Says it all really."
 

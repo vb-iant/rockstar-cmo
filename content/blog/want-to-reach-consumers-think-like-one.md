@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/want-to-reach-consumers-think-like-one/"
 
 **Our resident rock star,** [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin)**, on why empathy for your consumer will always result in a better, more effective marketing plan.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/011517-PICZ-5609-1-1024x682.jpg)
+![](/images/blog/8a974c778d90.jpg)
 
 It's pretty easy to sit in a room and come up with a flashy marketing plan that's sure to please other marketing experts. That doesn't mean it will be a *good* marketing plan or that it will be at all relevant to your consumers, but you're certainly free to try the locked room method. Plenty do. The plan often fails; the team repeats the process all over again, and somehow nobody realizes that the key ingredient for success has been missing the whole time.
 

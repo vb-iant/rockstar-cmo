@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-christine-bailey/"
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/chris-1-723x1024.png)
+![](/images/blog/a5ce41d719a5.png)
 
 **Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. [Ian Truscott](/ian-truscott) caught up with the London-based CMO to discuss her marketing heroes, the power of experiments, and why your network could be the most important thing in your life.**
 

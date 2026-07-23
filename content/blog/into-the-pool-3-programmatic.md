@@ -15,13 +15,13 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-3-programmatic/"
 
 **You know how rock stars have this reputation for throwing stuff from the hotel window into the pool? Hell, Keith Moon even parked his Rolls Royce in the deep end once. In tribute, we’ll be throwing all the crap, bullshit acronyms, empty fads and snake oil of marketing straight into the Rockstar CMO swimming pool.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/pool_guy.jpg)
+![](/images/blog/37bb45d95509.jpg)
 
 **After dumping remarketing and retargeting into the pool [in the last issue](https://rockstarcmo.wpengine.com/opinion/ian-truscott-retargeting), there are whole chunks of lazy, cheap marketing clogging up the filter. And the pool guy is not going to be pleased with what he’s going to be scooping out in the morning. In this issue, more of that lazy and cheap shit is on its way down, as Robert Rose hands over programmatic and [Ian Truscott](/ian-truscott) does the honors. Don’t agree? [Let us know why](https://rockstarcmo.wpengine.com/write-for-us).**
 
 ---
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/robertrose_1369869647_72-1-1024x496.jpg)
+![](/images/blog/2ff421f7a604.jpg)
 
 When we sat down [with Robert Rose for our Backstage series](https://rockstarcmo.wpengine.com/opinion/backstage-with-robert-rose) and asked him what he thought was getting old in marketing right now, he replied:
 

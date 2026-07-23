@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/all-the-young-prudes/"
 
 **Not so long ago society feared young people. The media called them “hoodies” and “hooligans”. Corner shops even banned teenagers from entering in groups. Today, youths are ridiculed for their overwhelmingly realistic and sensible approach to life. Amie Knights explores how we got from there to here in just one generation, and what that means for marketers across the world.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_619927808.jpg)
+![](/images/blog/655f191fe17e.jpg)
 
 Millennials are often described as entitled. As one of them, let me explain. We were born into a time of relative peace and prosperity, and were promised the world. Then, just as we were stepping into university and work, everything came crashing down – much like the economy. The events of 9/11 and the Great Recession tore up our aspirations and tossed them in the trash. We’re simply products of our times. Just like the new kids on the block, Generation Z, are products of theirs.
 
@@ -39,7 +39,7 @@ To survive this generation’s scrupulous selection process, you’d better make
 >
 > Kate Nightingale
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Generation_Sensible_Image_2-1024x683.jpg)
+![](/images/blog/5bedf22d1a0a.jpg)
 
 ## **Sell the end game**
 
@@ -59,7 +59,7 @@ The key to keeping up? Dialogue. Generation Z are being called ‘culture creato
 
 — Kate Nightingale
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/08/shutterstock_390663577-1024x682.jpg)
+![](/images/blog/e17f8342d739.jpg)
 
 ## **Stand for something**
 

@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/what-everyone-gets-wrong-with-personalisatio
 
 **Personalization is good – if you do it right. [Darren Guarnaccia](/darren-guarnaccia) breaks down how you can avoid using it as a weapon of mass irritation, instead changing it into something that can offer real value to consumers.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/cristi-tohatan-789483-unsplash-1024x768.jpg)
+![](/images/blog/4e1c3391714f.jpg)
 
 Personalization has to be one of the most abused words in today’s marketing world. It’s the answer to everything it seems. It’s talked about as a strategy, a goal, an outcome or an ideal state. Honestly, this drives me nuts. Personalization is a tactic, nothing more. It’s a way to deliver specific content to specific people. If you’re really feeling saucy, you can even toss in the right time and place. But it’s still just a tactic. It’s not a strategy. Brands use personalization to achieve a strategy. But that’s it. It’s a tool, not the goal.
 

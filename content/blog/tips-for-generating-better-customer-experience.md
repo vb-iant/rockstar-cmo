@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/tips-for-generating-better-customer-experien
 
 **Success in marketing goes hand in hand with good customer experience. Need to up your customer experience game?**[**Ted Rubin**](/ted-rubin)**breaks down how.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/06/shutterstock_526104310-1024x684.jpg)
+![](/images/blog/0fdc80b0de03.jpg)
 
 It's not always easy to boil a big, complex topic like marketing down to its most basic, important elements, but sometimes the truth is simple. No matter what you're doing, what your strategy says, or who you're trying to reach, it's crucial to remember that marketing success depends on achieving your goals without doing damage to your brand.
 

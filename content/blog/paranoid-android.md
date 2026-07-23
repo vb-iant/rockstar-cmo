@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/paranoid-android/"
 
 **Facial recognition is a pervasive and powerful tool, offering brands near-limitless possibilities when it comes to engaging their target audiences. But despite the benefits it can afford both brand and customer, is it just too, well, sinister? [Dave Waller](/dave-waller) talks to futurist Mark Stevenson and investigates…**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/437541_1287311921_large-1024x597.jpg)
+![](/images/blog/b48dc2da49fc.jpg)
 
 Marvin: I've been communicating with the ship.  
 Ford: What did it say?  
@@ -85,7 +85,7 @@ With the onset of GDPR, people are slowly waking up to the fact that their behav
 
 So what of Stevenson’s question, of whether facial recognition can make the world a better place? It seems, in small ways, that it can. In 2015, Listerine ran a campaign using a facial recognition app that [helped blind people ‘see’ smiles](https://www.fastcompany.com/3050622/a-new-facial-recognition-mobile-app-from-listerine-helps-blind-people-see-smiles) – their phone would vibrate when it recognized one. Users reported being very touched by the effect. Meanwhile domestic abuse charity Women’s Aid ran an outdoor campaign in which [a model’s bruises disappeared from her face as more people watched the screen](https://www.womensaid.org.uk/what-we-do/blind-eye/) – a powerful way of showing that such problems can be tackled if we pay attention.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_3_-_Women_s_Aid.jpg)
+![](/images/blog/629babd56c2b.jpg)
 
 There are, of course, massive legal issues around all this. Facial recognition technology is as yet unregulated, but questions are being asked, and Parliament is currently debating the expansion of oversight of facial recognition and related data. The issue is, of course, that the technology is moving far faster than the legislation. So for any marketer concerned about personal freedoms as well as profits, legal guidelines will be of less use here than moral ones.
 

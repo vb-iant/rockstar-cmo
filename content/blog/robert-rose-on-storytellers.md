@@ -29,7 +29,7 @@ Critics of the word ‘storytelling’ for marketers will tell you that those th
 
 'Storyteller' is not a title. It’s not an earned achievement. It’s a job, an activity. It’s an attribute that anyone wears like a coat for some period of time. When I tell my ten-year-old niece a bed time tale, I’m a storyteller, even if I’m an accountant by trade. It’s, you know, kind of like the word ‘president’. But let’s not dwell there.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/robertrose_1369869647_72-1-1024x496.jpg)
+![](/images/blog/2ff421f7a604.jpg)
 > ““Today, creating a great tag line that momentarily grabs a customer’s attention just isn’t good enough. If you aren’t focused on interesting stories, then you’re not going to last long.””
 
 So yes, we marketers – as some meaningful portion of our ongoing activity – can be (and quite frankly better be) storytellers. Today, creating a great tag line that momentarily grabs a customer’s attention, or crafting that three-, six-, or even 30-second spot with the catchy jingle just isn’t good enough. If you haven't focused at least some part of your company’s effort on being the trusted source of interesting stories, then you aren’t going to last very long.

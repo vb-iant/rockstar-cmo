@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/selling-death-row/"
 
 **It's the dilemma every marketer faces sooner or later: is it right to be selling this product? [Dave Waller](/dave-waller) investigates and finds out that the answer's not as black and white as you might think…**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_1021764193.jpg)
+![](/images/blog/19c3445cf514.jpg)
 
 It's 1995. *The Chronic*, the debut solo LP by Dr Dre, the former NWA producer and MC, is on its way to going triple platinum. But there's a side-effect: by now, the guns, drugs and incendiary stories that had made NWA's gangsta rap so popular with teens from Compton to Cullompton has leapt from the grooves of the records to the corridors of the record companies themselves. Interscope Records has bought Dre’s label, Death Row, and installed it in an office on the same floor.
 
@@ -33,7 +33,7 @@ Other marketers will probably ask themselves similar questions at some point in 
 
 Haycock points out that the experience of holding two sets of values or tasks that aren’t compatible with each other can be deeply uncomfortable. The phenomenon is known as cognitive dissonance: you want to do well in your work, to feed your family, to please your boss, to release gut-wrenchingly ground-breaking music. But you don’t want to fund Hamas.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/thom-masat-718630-unsplash-1024x683.jpg)
+![](/images/blog/2c0a4fc24374.jpg)
 
 ## To market, or not to market?
 
@@ -61,7 +61,7 @@ You don't have to dig too hard to see that phenomenon at work. Last year PR firm
 
 Most issues, however, are not so black and white. Even gangsta rap. Yes, the music has taken a huge amount of flak over the past 30 years for its role in damaging society – both black and white. Yet this year, Dre and Iovine's latest protégé, Kendrick Lamar, won a Pulitzer Prize for his nuanced, complex, introspective expression of what's it's like to be a young, black male on the streets of Compton – having grown up there inspired by the music of NWA and Dre. No NWA, no Kendrick, no Pulitzer Prize for a kid from Compton.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/stock-photo-los-angeles-ca-august-kendrick-lamar-in-the-press-room-for-the-mtv-video-music-736475518-1024x889.jpg)
+![](/images/blog/1dfae13fc3f1.jpg)
 
 For the marketer trying to do the right thing, there's a clear problem: it can be hard to know what the right thing is – even in a world where, as Ford's experiences would suggest, brands are shouting about values and purpose more than ever before. Take an issue as seemingly straightforward as plastic. Thanks to some high-profile campaigns involving the likes of David Attenborough, the nation's shops, cafes and bars have jumped on board the apparently progressive drive to ban plastic straws. This has, however, sparked anger among disabled people, many of whom need straws to drink.
 

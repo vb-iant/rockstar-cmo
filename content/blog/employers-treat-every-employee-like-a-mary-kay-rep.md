@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/employers-treat-every-employee-like-a-mary-k
 
 **Our resident rock star,** [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin)**, on why empowering your employees will ultimately result in success for your brand.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/rhett-wesley-343206-unsplash-1024x683.jpg)
+![](/images/blog/ab9009eceffd.jpg)
 
 Every retail employee is an individual with their own unique skills, outlook, and ability to solve problems. With the right training, an employee can learn to be a true ambassador for your brand, an asset to your company's image, and a key reason that loyal customers keep coming back to your business. However, many brands put their public-facing employees into a box, with a selection of scripted responses and not many tools for genuinely addressing the problems of their customers. For them, promoting the brand is an afterthought and customer service is a means to an end.
 

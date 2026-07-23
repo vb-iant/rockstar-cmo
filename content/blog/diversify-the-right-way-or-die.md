@@ -15,13 +15,13 @@ sourceUrl: "https://rockstarcmo.com/diversify-the-right-way-or-die/"
 
 **From #OscarSoWhite to the realisation that the tech and creative industries are a white man’s playing field, the issue of diversity has exploded into our social consciousness like never before. Ian Hsieh talks with Walker & Company CEO, and Code2040 co-founder, Tristan Walker to find out if change is, at it seems, really gonna come.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/848A0906-1-1024x683.jpg)
+![](/images/blog/efb92a8a245b.jpg)
 
 It’s December 2013, and Tristan Walker has just rolled the dice on his new venture: Walker & Company. It’s a startup based in Silicon Valley, backed by Silicon Valley money, with Silicon Valley values like good design, creativity and outside-the-box thinking coursing through its veins. It’s all, well, pretty standard if you run in tech startup circles.
 
 But look a little closer, and you’ll realise that this startup doesn’t deal in apps or social media – it doesn’t even operate in the technology space. Instead, it makes single-blade razors for black men. And its founder is a young African American from Queens, New York, in an overwhelmingly white industry. Outside Walker & Company’s offices, the neighbourhood is, in terms of diversity, bleak: just 2% of Google’s 46,000 employees are black. And Facebook? A paltry 1%.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/bathroom-1-1024x574.jpg)
+![](/images/blog/46eff02f33c4.jpg)
 
 Fast forward to 2018, and it’s safe to say that for the last four-and-a-bit years, Tristan Walker has been unravelling Silicon Valley norms and gleefully using them as deluxe toilet paper. In its short existence, Walker & Company – and its [hyper-diverse team](http://walkerandcompany.com/) – has come a long way. Bevel (the Walker & Co. brand that started it all off) has added a competition-killing trimmer endorsed by hip-hop icon Nas to its original line-up of razors, priming oils, shaving cream and balms. It boasts an adoring fan base (including [Barack Obama’s personal barber](https://getbevel.com/bevelcode/interviews/the-first-barber-of-the-united-states)) that’s evangelical about its products – which are now sold in Target and Amazon. And if that wasn’t enough for Walker, last year he launched FORM under the Walker & Co. umbrella – a personalised, high-end collection of hair care products designed to work for women, no matter what their hair type.
 
@@ -36,7 +36,7 @@ Last year, the UK government revealed that in 2016, black, Asian and minority et
 
 We speak with Tristan Walker just as he lands in New York for a slew of meetings. Apologetic about moving our chat forward an hour to accommodate his packed schedule, the 33-year-old CEO is affable and gracious with a dry wit. And it’s clear he takes zero shit when it comes to business. We discuss the rise of diversity, the importance of values to a company, and why if you embrace diversity for the wrong reasons, you better be prepared to kiss goodbye to your brand.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/848A8963-1-1024x682.jpg)
+![](/images/blog/569394103984.jpg)
 
 #### Why is diversity such a huge part of our consciousness right now?
 
@@ -88,7 +88,7 @@ I’d ask the question why go the scripted route?
 
 But this goes back to what I said earlier – the brand’s not what I say it is, it’s what they say it is. I know we have a brand that works if their message is consistent. And if you look at those videos, they’re very consistent.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/848A0889-1-1024x683.jpg)
+![](/images/blog/80ea5675b644.jpg)
 
 ***“Isn’t that the goal? To have customers giving you the pitch that you set out to start the company with? Unscripted?”***
 

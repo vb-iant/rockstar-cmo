@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/you-have-my-full-attention-dont-waste-it/"
 
 [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin) **breaks down why the act of customer service is the only time you have your customer’s undivided attention – and why you should be on your A-game when that opportunity arises**.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_533074990.jpg)
+![](/images/blog/111cf54463db.jpg)
 
 It is very, very rare to have your customer's full attention. No matter how good your marketing is, people are still thinking about the food in the oven, the letter they have to mail, or the game they watched last night. Even when someone comes into your store, they'll be focused on the products they came to see. So assuming you have the right stuff and it's easy to find, you won’t get much chance to tell them anything else.
 
@@ -39,7 +39,7 @@ Every customer is unique, and not every customer service attention opportunity w
 
 There’s also a lesson here in the benefits of empowering your employees to provide great customer service, which will build and power your brand. An employee who’s well trained in how to interact with customers will understand your company values – and have the common sense to improvise when needed. That’s a major asset. When an employee has the power to do something about a customer's problem, they're far more likely to make a positive, lasting impression.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Dd0bP43VQAAKjC5-e1546084345278-1024x789.jpg)
+![](/images/blog/011e4ef9c9af.jpg)
 
 A positive customer experience is about so much more than just what happens when a customer walks into your store. The interactions that occur when someone needs something from you can make all the difference in earning that customer's long-term business, their advocacy and their referrals.
 

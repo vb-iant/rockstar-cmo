@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/virtual-reality-marketing-trick-or-treat/"
 
 [**Amber Osborne**](/amber-osborne)**, CMO at** [**Doghead Simulations**](https://www.dogheadsimulations.com) **(and** [**@MissDestructo**](https://twitter.com/MissDestructo?ref_src=twsrc%5Eappleosx%7Ctwcamp%5Esafari%7Ctwgr%5Eprofile) **to her 40,000 Twitter followers) knows virtual reality and she reckons it’s time to open the Pandora’s box let the possibilities loose. It turns out the future of consumer marketing’s not so scary after all.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/lucrezia-carnelos-1081230-unsplash-1024x768.jpg)
+![](/images/blog/85f13ac51a15.jpg)
 
 If there was a crowd here, I’d ask how many of you have used virtual reality (or VR) in the past. Probably, a few hands would nervously go up. You may be thinking of VR as a Pandora’s box – there’s plenty of fear surrounding this developing technology. People have many questions around the existence and uses of VR: [“Will it make me sick?”](http://fortune.com/2018/02/06/virtual-reality-motion-sickness/), “Will it be too expensive? Where are the consumers?” and, my all-time favorite, “Isn’t it going to just be used for porn?” But are we, as marketers, scaring ourselves out of the reality that VR might just be one of the greatest new treats in our bag of tricks?
 
@@ -23,7 +23,7 @@ Most people have tried a form of virtual or augmented reality (AR) without knowi
 
 VR is becoming more than just a trendy new toy or entertainment system to play games on. It isn’t a future thing, it’s here and already being used in incredible ways. VR is a way to bring people together, to connect customers with products and experiences in the comfort of their own homes. It can create familiarity with products before purchase, and allow consumers ways to virtually try before they buy. In the near future, I believe we’ll even be A/B testing audiences in VR. Can you imagine being able to prototype expensive products such as cars, stores, and even theme park rides, and test them on consumers in a VR environment before building?
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Picture2.png)
+![](/images/blog/95a6264e793b.png)
 
 Recently, Full Sail University (Orlando, FL) built a realistic 3D model of a full scale [eSports arena called “The Fortress”](https://www.fullsail.edu/press-releases/2018/full-sail-university-unveils-plans-to-build-largest-on-campus-collegiate-esports-arena-in-the-us) before construction, displayed in VR meeting and collaboration software called [rumii](http://dogheadsimulations.com/). It enabled them to give tours and have meetings in the venue before being built.
 
@@ -35,7 +35,7 @@ Which brings me to my most important and overall point; the encore of this perfo
 
 Empathy as a marketing tool should be used wisely. We have a responsibility as marketers to use this technology properly, not to manipulate, not to just sell or promote, but to educate others on the human experience through the eyes of others; to bring light and perspective and connect consumers further – with causes, brand stories, and product uses. As Depeche Mode sang, “Try walking in my shoes”.  VR lets us do that. [Excedrin’s Migrane Simulator](https://digiday.com/marketing/excedrin-using-virtual-reality-show-migraines-like/) experience, for example, allows the viewer to experience different situations from the point of view of people who suffer migraines with the use of disorientating auras, light and sound. It’s not for the faint of heart, but it enables empathy for someone with this affliction.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/excedrin-1024x509.jpg)
+![](/images/blog/b93944478ff9.jpg)
 
 And, on the topic of feeling, haptics has added a whole new layer to VR. You might have seen it in the movie *Ready Player One*, where the VR users wear haptic suits that allow them to feel touch. (I know, get your mind out of the gutter for this one.) We haven’t got that far with the technology at the consumer level yet, but what is being developed is pretty darn cool. A company called [HaptX](https://haptx.com/) has developed haptic gloves, that let you grab and touch in VR environments. Livestreaming product announcements will no longer mean waiting to feel and try products. Consumers will be able to put on a headset and pair of haptic gloves and be able to feel and hold the newest piece of technology, without having to fight through crowds or worry about dropping and breaking expensive prototypes.
 

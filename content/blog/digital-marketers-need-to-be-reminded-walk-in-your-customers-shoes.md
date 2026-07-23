@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/digital-marketers-need-to-be-reminded-walk-i
 
 **Our resident rock star,** [**Ted Rubin**](/ted-rubin)**, on why marketers need to really understand what their audiences want, before they – and their products – become irrelevant.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_347739638.jpg)
+![](/images/blog/c6d6a5e20b1d.jpg)
 
 Does it appear that you’re followed around online with ads for things you already own? A case in point... I own three Nests, nine Nest smoke detectors and two Nest cams. So, why am I continually seeing ads for this product? Yes, I like the brand. That much was probably obvious after my first few purchases. But I've got enough Nests! With all the data they get from me, they *really* can't find a way to stop showing me ads for products I already own, and show me something new instead?
 

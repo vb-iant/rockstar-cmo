@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/why-technology-will-change-content-marketing
 
 **[Robert Rose](/robert-rose) takes a look at how technology will impact the way we craft and share our marketing tunes – and the dangers of a split in the C-suite band.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/06/shutterstock_583869832-1024x683.jpg)
+![](/images/blog/18db05e40b2c.jpg)
 
 Albert Einstein (yeah, doesn’t every post start with an Einstein quote these days) once said, “It has become appallingly obvious that our technology has exceeded our humanity.” And, I think if you ask most marketers these days, you’d get some vigorous head nodding that “Um, yeah, we’d agree!”
 
@@ -55,7 +55,7 @@ This is not a physical architecture of a specific technology solution, but rathe
 * **Engagement Management:** This middle layer of technology should be able to interface with anything above and below it. It provides the interface into, and out of, the Core Data Management layer and provides optimization based on business rules that can be applied to display content contextually.
 * **Content Channel and Experience Management:** This top layer should be as flexible, portable, and/or disposable as any media strategy used to be. Content channels such as YouTube, Facebook, or blogs are the marketer’s new ‘media buy’. They are important only so long as they are useful. This layer will be constantly changing and morphing, so it should aim for zero-friction in order to add or dispose elements easily.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/robertrose_1369869647_72-1-1024x496.jpg)
+![](/images/blog/2ff421f7a604.jpg)
 
 *“One of the biggest dangers for enterprise marketing groups today is the temptation to repeat the mistake made during ‘Web 1.0’.”*
 

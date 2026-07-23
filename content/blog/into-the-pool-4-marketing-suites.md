@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-4-marketing-suites/"
 
 **Maybe it’s the Jack Daniels. Like pouring water on a Gremlin and bad stuff happening, this month the parties got a bit rowdy. And while we promised we wouldn’t do it this time, we just heard Truscott shout “stand aside” as he again takes aim at the Rockstar CMO pool with another hunk of marketing crap.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_418715536.jpg)
+![](/images/blog/7b5911b083bf.jpg)
 
 **This month, with the theme of** ***OK Computer*, [Ian Truscott](/ian-truscott) has been hanging with one of our marketing technology rock stars, [Darren Guarnaccia](/darren-guarnaccia). We're taking bets on the size of splash that single vendor marketing suites are going to make as he offers up his bugbear. Don’t agree?** **[Let us know why](/write-for-us).**
 
@@ -23,7 +23,7 @@ When we [went backstage with Darren](https://rockstarcmo.wpengine.com/opinion/ba
 
 Darren’s contribution to the Rockstar Swimming Pool:
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/darren-guarnaccia.gif)
+![](/images/blog/ea83d1166086.gif)
 
 “Single vendor marketing suites. When's the last time you saw a Stackies award winner with a homogeneous stack? Never. Everyone has best of breed architectures and uses the best tools for the job. There is no single vendor stack that will solve all of marketing.”
 

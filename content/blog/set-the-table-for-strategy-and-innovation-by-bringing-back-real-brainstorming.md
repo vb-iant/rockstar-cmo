@@ -13,7 +13,7 @@ sourceId: "653"
 sourceUrl: "https://rockstarcmo.com/set-the-table-for-strategy-and-innovation-by-bringing-back-real-brainstorming/"
 ---
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/011517%2BPICZ%2B-5933.JPG)
+![](/images/blog/356f30a6c56c.jpg)
 
 **Brainstorming too often becomes the narrow view of a few (very) vocal people. Time to switch it up, create some truly effective strategies, and kick start some real thinking time,** [**Ted Rubin**](/ted-rubin) **argues, by opening the floor up to everyone.**
 

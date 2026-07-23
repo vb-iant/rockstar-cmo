@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/fantasy-land/"
 
 **Spectacular. Mind-bending. Out of this world. All words increasingly used to describe experiential marketing campaigns that are growing more awe inspiring than ever.** [**Helene Dancer**](/helene-dancer) **finds out why, in an age of screens, experiences are more important than ever… And the trick? It’s all in the treat.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_1134379079.jpg)
+![](/images/blog/311ac293c45f.jpg)
 
 Snow falling when it's not snowing. A yoga class on a rooftop in Central London. A man leaping to Earth from space. Experiential marketing has, literally, hit new heights. And it's going to continue to do so, as brands come to realize that orchestrating a memorable real-world experience can connect with audiences on an emotional level like never before.
 
@@ -31,7 +31,7 @@ It's also a time where some of the world's biggest super brands – Google, Amaz
 >
 > Sarah Trumble, Circus
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Experiential_Image_2-1024x682.jpg)
+![](/images/blog/cb4b8b388969.jpg)
 
 It’s something Amazon is remedying with its launch of actual brick-and-mortar stores, but each with a twist. Seattle's [Amazon Go](https://blog.aboutamazon.com/shopping/amazon-4-star) is the world's first check-out-free shop, where customers' purchases are tracked by cameras and sensors, and they're automatically billed via credit card. Amazon has also launched [another store in New York](https://blog.aboutamazon.com/shopping/amazon-4-star), stocked only with goods boasting an online rating of four stars or more.
 
@@ -61,7 +61,7 @@ Mair's focus is on the fashion industry and she says she's seen a rise in the in
 
 Trumble agrees that it's essential for the experience to resonate with its intended audience in an authentic way. “If I talk to any brand these days, their first question is: ‘how do we talk to millennials?’ Millennials are not interested in being sold to, but experiences really play to that sweet spot of being able to engage. Experiences that are authentic and true to the brand. You can't just put something on for the sake of it, otherwise people will see through what you're doing.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Experiential_Image_3-1024x576.jpg)
+![](/images/blog/be0a6e1b2b8a.jpg)
 
 ### **Power to the people**
 

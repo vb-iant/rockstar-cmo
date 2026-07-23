@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/rage-within-the-machine-finding-the-opportun
 
 **The most rockin’ of rock stars know rules are made to be broken. Or are they? [Gareth May](/gareth-may) finds out whether the best way to get your brand over the line is not to cross it.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/heather-m-edwards-1156542-unsplash-e1546188817970-1024x1024.jpg)
+![](/images/blog/d0d9c533c2c0.jpg)
 
 Sex, drugs and rock ‘n’ roll. The classic habits of any rock band are not always the best bedfellows for musical success (especially when core members of a band end up dead). Sometimes, you have to find cleverer ways to rebel. Think Johnny Cash playing live at San Quentin State Prison, Beth Ditto posing nude for NME, or even Radiohead releasing their album, *In* *Rainbows*, for pay-what-you-want.
 
@@ -27,7 +27,7 @@ When the UK’s leading online sex toy retailer [Lovehoney](https://www.lovehone
 
 “Many categories and products have marketing and advertising regulations so, in that respect, it’s about adhering to those as a responsible advertiser and brand,” says Helen Balmer, Lovehoney’s brand and marketing director, explaining that marketing adult toys has extra restrictions, outside the standard advertising and consumer regulations. “Mainstream PR media do not show realistic products in their content, for understandable reasons, and we cannot – and would not want to – show products before the watershed, so that children do not see them whilst watching TV.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Cupcakes_from_Lovehoney_TV_ad-1024x575.jpg)
+![](/images/blog/b0c7d6f68507.jpg)
 
 As such, Balmer says, the internal creative team at LoveHoney works hard to create clever ways to stay within the limitations of advertising and as the first sex toy company to advertise on TV, they’ve worked closely with regulatory bodies to make sure the ads they make are compliant with regulations. They've had their fingers burned though. The [company’s 2011 commercial](https://www.campaignlive.co.uk/article/lovehoney-daytime-sex-toy-ad-pulled-itv/1096164) featuring a couple having a fully-clothed, if raunchy, embrace was pulled from its 10.15am ITV2 spot, despite clearance from regulators and a wellbeing brand repositioning, with a strapline that read: ‘the sexual happiness people’.
 
@@ -47,7 +47,7 @@ WoodRocket’s own popular SFW series, ‘[Ask A Porn Star](https://www.youtube.
 
 Like Pornhub, Myers has learned that simply creating a popular product isn’t enough; providing valuable, share-able, and honest content that your audience wants is what really cuts through promotionally. Especially in such a heavily restricted and hugely competitive digital landscape.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/photo-1536819114556-1e10f967fb61-1024x683.jpeg)
+![](/images/blog/7936e73b6804.jpg)
 
 ### The dutchie? Pass
 

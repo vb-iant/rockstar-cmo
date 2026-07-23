@@ -15,13 +15,13 @@ sourceUrl: "https://rockstarcmo.com/zombies-are-eating-your-audience-heres-how-t
 
 **This is the story of a major national retailer. A national retailer that cut one too many corners in growing its social media channels, and inadvertently created the Social Zombie Apocalypse. VP Marketing & Product at Photofy,** [**Casey Petersen**](/casey-petersen)**, recounts the grisly tale and shares five tips for fighting the undead.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/10/shutterstock_421682224-1024x684.jpg)
+![](/images/blog/c893ac4ea71f.jpg)
 
 Truth be told, many of us are plagued by an undead audience. We see their bodies, but they lurk in the shadows, not actually buying anything. They never speak. They never wave and say "Hi." As a matter of fact, anything that would clue us in that an actual human being is present there is totally absent. We simply march on, proudly reminding everyone that we have 30 million followers. Yes, we are dragging the undead corpses of 29,996,500 of them behind us through the mud… but 30 million! It’s a big number!
 
 We've all heard the ‘smart people’ telling us how to do social in 2018: Video! Influencers! Local-geo-incentivizationalized, shopability-enabled, socially-aware, AI-powered, branded, marketing content!
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Screen_Shot_2018-10-25_at_09.40.50-1024x840.png)
+![](/images/blog/eb32eb70aa43.png)
 
 Walmart checked every box on a recent post – a major teen star, a connection with a media company, video, and even a contest. Plus A.I. (Seriously, everyone does A.I. Haven't you heard?) And from their 30+ million followers, only 665 people interacted with the post. I'll do the math for you: that is less than a .002% engagement rate. As a matter of fact, if you look at Walmart's non-promoted Facebook posts, we can assume that only roughly 3,000 people from their audience are actually alive.
 
@@ -39,7 +39,7 @@ How can we fight back against the undead hordes and prevent the Social Zombie Ap
 4. **Engage**. Stop reading this and find your top 10 most engaged followers. Send them a gift, coupon, or even just a special note. Find an image a customer shared on social and show them off proudly as one of your favorite customers. Find a forum where people are confused about one of your products, or heck – even a competitor's products, and teach them how to use it.
 5. **Make content people want to see.**Engaging as a human is a really big part of the battle – however you do still need to understand your customers and create content they enjoy. Think about how people want to consume content and give them content that makes sense in that context. For instance – your customers are looking at your content on a phone. Period. Don't serve them content that works better on a desktop. 85% of your customers watch video with the sound off. Don't give them a video of a random person's face talking with no other visuals or captions.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_740193271-1024x678.jpg)
+![](/images/blog/21d85a735086.jpg)
 
 The undead plague is currently attempting to infect your followers. You've probably seen it – less reach, less engagement, and lower sales. Don't abandon social. Double down on celebrating and engaging with the humans in your audience. Relationships will always bring a return, and will insulate you from zombie invasion.
 

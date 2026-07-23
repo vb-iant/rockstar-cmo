@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/brand-vs-reputation/"
 
 **The difference between your brand and your reputation can be easy to miss because so many marketing writers use the terms interchangeably. The fact that the terms *really are* similar in many ways does little to help with the confusion. Both concepts have a major influence on how your business is perceived, but your brand is only a part of the whole that forms your reputation.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/pexels-photo-786003-1024x683.jpeg)
+![](/images/blog/416105a85550.jpg)
 
 ### **Why brand doesn’t equal reputation**
 
@@ -37,7 +37,7 @@ Social is the great equaliser. It’s very, very difficult to escape a bad reput
 
 By prioritising relationships, living up to your values, and capitalising on memorable moments, you lay the foundation for a positive reputation. Your business brand is certainly important, but it’s only a small part of what customers see when they look at your business.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg)
+![](/images/blog/f04796e0e527.jpg)
 
 **Your brand/business is what you do; your reputation is what people remember and share.**
 

@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/bad-influence/"
 
 **From hyper celebrities like Kim Kardashian endorsing haircare vitamins (and announcing it to an eye-watering 111 million followers on Instagram), to a host of micro-influencers taking on creative briefs from influencer marketing platforms like [Tribe](https://www.tribegroup.co/), our social channels are saturated with brands looking to sell us something. Maude Churchill talks with ENDLESSLOVESHOW founder Kazim Rashid and asks: Have we reached peak influencer?**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Lead_image-e1546190675638.jpeg)
+![](/images/blog/4be8c82b6d1e.jpg)
 
 Welcome to the age of the individual. Where customers expect their individual needs to be met by personal, customized experiences. From the ways they shop in store, to how they navigate the internet, bespoke is best. That’s why in this day and age it’s no surprise that marketing began to look towards influential individuals for advertising, instead of targeting the masses as a whole. As a form of advertising, influencer marketing can be incredibly powerful, comparably inexpensive and much more efficient at reaching the desired audience. Or so it would seem.
 
@@ -31,7 +31,7 @@ Influencer marketing is a false economy. As a form of advertising it grew expone
 
 “Ultimately I think it’s really lazy, on both sides,” says Kazim Rashid, a music manager, creative director at Mixcloud, and founder of creative consultancy [ENDLESSLOVESHOW](http://www.endlessloveshow.com/) – an individual who has experienced things from both sides of the influencer coin. “The brand is being lazy because it’s just going after metrics so they can sell the dream upwards internally in the agency, and the marketer is being lazy because they’re often applying solutions simply because they believe them to be trackable with metrics. It’s a lazy exchange.” Influencer marketing is so overdone that consumers are already clocking on to it, and it’s leaving a bad taste in the mouth.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_1-1-1-1024x765.png)
+![](/images/blog/92f96482f150.png)
 
 But can it ever be done well? It would seem the age old adage of slow and steady wins the race is applicable here, because genuine influence doesn’t come through immediate viral traction. Much to a brand’s chagrin. “The problem with today’s climate of influencer marketing is that everybody wants super quick validation and cause and effect. They want to pay an influencer, they want to record loads of positive metrics, and they want to see that a product is influencing a market place. But I just don’t think it works like that,” explains Rashid.
 
@@ -51,7 +51,7 @@ Seeding products is nothing new, but when the brand is clever about exactly *whe
 
 Another brand that’s shown exactly how to make the most of influencer marketing is [Glossier](https://www.glossier.com/). The online-first beauty brand finessed the marketing model in a way that speaks directly to their consumer base. Their [September 2017 ad campaign](https://www.glamour.com/story/glossier-body-hero-campaign-real-bodies) featured five women with real bodies, real attitudes and real jobs – not looks – to aspire to. It included basketball player and Olympic Gold medallist Swin Cash Canal, clinical research coordinator Mekdes Mersha, [Outdoor Voices](https://www.outdoorvoices.com/) founder Tyler Haney, creative director Lara Pia Arrobio, and model Paloma Elsesser. It emboldened the young women that make up their target market to aim beyond the superficiality that most beauty campaigns fixate on.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_2-1-1.jpg)
+![](/images/blog/f1295049e1a4.jpg)
 
 Glossier has become a pioneer in [BFF marketing](https://www.businessoffashion.com/articles/intelligence/how-bff-marketing-became-the-m-o-for-womens-direct-to-consumer-brands). Its approach is chatty, inclusive and intimate, predicated on the notion that a brand is your friend, thinks you’re special and is designing products especially for you. They react to the requests of their fan base, launching new products when the demand is there. They seed items – not to influencers with huge followings – but to their most loyal customers. People who are already posting the products on social media do so because they actually want to talk about them, not because they’re getting paid to.
 

@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/liquid-power-how-the-flavour-mavericks-are-m
 
 **Glam rock. What a mind f\*\*k. The ’70s era of glitter and gutsy stage presence took bonkers to a whole new level. OTT experiences aren’t only the domain of Alice Cooper and co. though. Beyond trendy pop-ups, #foodporn and fawning whisky adverts, food and drink has its own wild ones. [Gareth May](/gareth-may) takes a bite out of the mavericks’ cookbook and finds out how to really market taste.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Alex_Lawrence_Laverstoke_Park_Spritz-1-683x1024.jpg)
+![](/images/blog/91fc6c6f88db.jpg)
 
 We’ve all seen the bog-standard food and drink marketing: “Buy this beer, hop on a train, meet cool friends, become popular”. Products sold on the notion of an instant existence upgrade; a beer purchased off the back of a promise of a better life.
 
@@ -33,7 +33,7 @@ Focused on experimental gastronomical design and immersive flavour-based experie
 
 Alex Lawrence, head bartender of [Dandelyan](https://www.morganshotelgroup.com/mondrian/mondrian-london/eat-drink/Dandelyan) (winner of the 2018 Bartender of the Year and consultant to brands including the bar at Selfridges) says the key to a good idea is to “never be contrived and always be interesting” – and that it’s critical to find that balance.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Alex_Lawrence_Headshots-6-2-1024x683.jpg)
+![](/images/blog/cb1ace913ff3.jpg)
 
 “Understanding the [client’s] message is so important,” he says. “We develop our ideas by looking at a theme and thinking laterally rather than literally. And, for us, mostly this comes from the world of botany as it’s our focus.”
 
@@ -51,13 +51,13 @@ Scent, smell and sight features in a lot of Marks’ work and previous creations
 >
 > Tasha Marks, AVM Curiosities
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Traces-Lives-Loves-Loss_by_AVM_Curiosities_©_Traces_Giovanna_Del_Sarto_2016-3-1.jpg)
+![](/images/blog/ea2e09cae9b5.jpg)
 
 Marks says that taste and smell are the senses most closely linked to memory, making them a key tool in brand awareness and engagement. “The senses are a storyteller, a brand builder in a way that is human and physical,” she says. “We are driven by forces of nostalgia and novelty when it comes to food. We want comfort and also to push the boundaries, so the scope of the senses and the urge for the experiential, is endless.”
 
 Lawrence agrees, adding that because humans are programmed to appreciate things, the senses are always relatable, and used in the right way the power of taste can not only deliver nourishment, but new experiences too. “Everyone remembers their favourite food from their favourite brand,” he says. “Memory recall can be a powerful marketing tool.”
 
-![df-logo3.png](http://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/df-logo3.png)
+![df-logo3.png](/images/blog/2a4ac40ac472.png)
 
 Zoe Burgess is the head of research and development for [Drink Factory](https://www.thedrinkfactory.com). They create incredible flavours for brands, venues, and hospitality clients – and always promise to deliver the unforgettable. “Flavour works in a very similar way to scent,” she says, “in that it’s a very personal experience that’s intertwined closely with memory.”
 
@@ -93,7 +93,7 @@ But sharing an event isn’t all about the ephemeral pomp and circumstance; as m
 >
 > Alex Lawrence, Dandelyan
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/barrie-1.jpg)
+![](/images/blog/9f7beacd972b.jpg)
 
 Barrie Wilson is co-founder of [Scotch + Limon](http://scotchlimon.com/), a drinks consultancy that works with several high profile brands and their marketing teams. He most recently created a serve for Jura whisky – a highball topped with sparkling blood orange they called The Jura Sunset – that was developed through a magical moment on the isle of Jura paired with the base spirit’s tasting notes. According to Wilson, when it comes to marketing spirits, creating an aspirational world is great. But if a serve doesn’t taste good, the success will be short lived.
 

@@ -15,11 +15,11 @@ sourceUrl: "https://rockstarcmo.com/parental-advisory/"
 
 **When the sweary, sarcastic *Deadpool* crashed into our cinemas in 2016, it took over $130 million in its opening weekend, making it the biggest opening for an R-rated movie ever. With the second instalment proving just as successful, Stephen Kelly gets down and dirty, exploring how you can swear your way to an unforgettable campaign.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/07/Image_1_Deadpool-1024x594.png)
+![](/images/blog/a1373a23dbc6.png)
 
 The metaphorical nation state of Marketing is, by and large, a neutral power — and the language that’s spoken there is a generally safe and vanilla one; everything to everybody. Hence why, whenever they rise, an anarchic figure like comic book anti-hero Deadpool — he of the R-rated fourth-wall-breaking film franchise — feels so uniquely revolutionary.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Image_2_Deadpool-1024x389.jpg)
+![](/images/blog/a84f2cfc3485.jpg)
 
 The marketing campaigns for both *Deadpool* and *Deadpool 2* were unlike anything seen before. The first film, for example, brought the character’s self-aware sense of humor to life through stunts such as a billboard which advertised *Deadpool* as a Valentine’s Day romance. The sequel, however, which was released earlier this year, went even further: crossing over with brands such as Good Housekeeping magazine, Mexican tequila Espolòn, Trolli Candy, supermarket giant Walmart and um, Celine Dion. All of which were funny, smart, meta, consistent and most interestingly of all, either played with or explicitly used profanity — a regular feature of everyday speech, but a relative rarity in the clean-cut world of marketing.
 
@@ -55,7 +55,7 @@ The risks of misfiring are well-established, but the benefits can be worth takin
 
 “At the moment consumers are over-exposed to messages, images, senses, atmospherics,” says Dr. Dimitrios Tsivrikos, consumer psychologist at University College London (UCL). “We are in an age where we bombard consumers with everything and anything to get their attention. So the rationale for brands using foul language, or slogans people would not expect, is to actually stop people in their tracks, to capture their attention. But it’s what they then do with their attention that is then important.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/TBWG_04078_0033126A-1024x768.jpg)
+![](/images/blog/fe3e93b3c7ea.jpg)
 
 If employed cleverly, and usually with knowing humor, edgy language can make a brand seem confident, persuasive, and most magically of all, authentic. “If you do it well, it definitely can signal confidence,” says Kessler. “It is a confident thing to do, to go ahead and swear and say, ‘I am me.’ It comes off as unguarded and passionate. It can resonate with like-minded people, so if you have a sweary audience, and you know you’re selling to young guys, and they’re super sweary, it signals, ‘We’re like you. We are you.’ And that can be useful.”
 

@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/zombie-marketing-bringing-back-dead-ideas/"
 
 **The graveyard of marketing is ripe with bodies. Print, video, and billboards are moaning in their plots, killed at the hands of social media, QR codes, and digital PR. But are they gone for good?** [**Gareth May**](/gareth-may) **explores the brands and associations breathing new life into old marketing strategies.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Zombie_Image_1.jpg)
+![](/images/blog/725b139201d0.jpg)
 
 Zombies and rock. It’s a marriage that suitably won’t die. Performers from [Blondie](https://www.youtube.com/watch?time_continue=15&v=-3mBObJM0ss) to [Bastille](https://www.independent.co.uk/arts-entertainment/tv/news/game-of-thrones-bastille-cameo-season-7-finale-the-dragon-and-the-wold-a7917566.html) have embraced the pop culture trend that refuses to stay six feet under, hooking into the undead currency of George A Romero and *The Walking Dead*, in the hope that it will earn them some cool currency. In the US alone, [the zombie industry is worth $5 billion](http://theweek.com/articles/480679/americas-5-billion-zombie-industry-by-numbers). Who wouldn’t want a bite of that?
 
@@ -41,7 +41,7 @@ Exposure isn’t the only element at play here. As Freitas says, “consumers ar
 
 “OOH is a literal stake in the ground that gives brands creative impact, contextual relevance, and the ability to amplify an integrated media plan,” says Freitas. “Billboards and other OOH advertising formats are always on; they can’t be blocked or skipped. You can’t scroll past them or turn the channel.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Zombie_Image_2-1024x690.jpg)
+![](/images/blog/c4ebedd61297.jpg)
 
 Support for static OOH is coming from some strange quarters, with two giants of the digital age turning back the marketing clock. Music streaming site [Spotify turned heads](https://www.adweek.com/creativity/spotify-builds-more-funny-ads-around-user-data-this-time-saluting-goofy-playlist-names/) last year with an innovative billboard promotion mocking its own users choice of playlist titles, and Apple exploited the very notion of non-stop exposure with their international OOH campaign Shot on iPhone, where the company curated real photos from real iPhone users. Both were campaigns that celebrated technology without foregoing the human touch; all too often the bogeyman of Silicone Valley.
 
@@ -61,7 +61,7 @@ Rather, as Freitas says, the two have fed off each other – and not in a neck-m
 
 “DOOH allows for dynamic, real-time content, with flexibility and immediacy; while printed OOH is ideal for eye-catching brand awareness that sustains brand building over time,” says Freitas. “OOH is the perfect complement to online and mobile advertising, directing consumers from big screens to the small screens in the palm of their hands.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Zombie_Image_3-1024x601.jpg)
+![](/images/blog/c5c35ccd052e.jpg)
 
 The apex of this modern blend is at its best when DOOH uses technology and data to “better inform campaign executions” says Freitas, citing a recent campaign by Target Stores, which used real-time atmospheric data to serve relevant ads based on the weather. If it was raining, for example, umbrellas would advertise on digital OOH locations. If it was sunny, the ads could promote gardening supplies. Dove used similar weather-based data in a campaign that showed a [woman showering when it rained](https://www.thedrum.com/news/2016/04/29/dove-experiments-weather-sensitive-billboard-april-showers-campaign). Both are examples of new metrics working with old techniques – and it’s a relationship that’s a two way street.
 

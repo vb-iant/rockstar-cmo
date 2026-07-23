@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/rather-be-the-pope-ian-truscott/"
 
 **Forget chasing the zeitgeist, says [Ian Truscott](/ian-truscott). Have faith in your product. Trust your product. And figure out who your story is going to help – and how.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/angel-art-black-and-white-96127-1-1024x683.jpg)
+![](/images/blog/6837c56c7790.jpg)
 
 Prince once sang, “You can be the president, I’d rather be the pope.”
 
@@ -25,7 +25,7 @@ If you’ve been around marketing and advertising for a while, you might be fami
 
 The latest scandals around Facebook data don’t help the cause. OK, so most of the spotlight is on political influence right now, but, let’s face it, this industry does have a reputation that sits more on the president’s end of the Lying Bastard Scale than the pope’s.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/reach-out-touch-faith-1024x1024.jpg)
+![](/images/blog/24a46d8ca9ef.jpg)
 
 But, that’s not why I choose the pope.
 

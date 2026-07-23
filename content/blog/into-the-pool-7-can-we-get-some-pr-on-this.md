@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-7-can-we-get-some-pr-on-this/"
 
 ***This month, Ian Truscott has been shooting the shit with Jenni Young, the CMO of [tappit](https://justtappit.com/) – a cashless payment platform for event organizers The discussion quickly turned to PR and, well, let’s just say you’d better steer clear of the pool. Think they’re wrong? Let us know.***
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_418715536.jpg)
+![](/images/blog/7b5911b083bf.jpg)
 
 ---
 

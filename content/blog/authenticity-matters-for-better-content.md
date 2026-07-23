@@ -13,7 +13,7 @@ sourceId: "888"
 sourceUrl: "https://rockstarcmo.com/authenticity-matters-for-better-content/"
 ---
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/04/ted-rubin-3-1024x640.jpg)
+![](/images/blog/4ca20206ca97.jpg)
 
 **You want a recipe for boring, cookie-cutter content? Probably not, but I’m going to give you one anyway. Start out by considering your own opinion, and then forget all about it. Instead, work on producing what you think other people want to see, and saying what they want to hear in the way that you think they want to hear it. Avoid saying anything that could remotely be construed as controversial, mix in some loosely relevant jargon, and put a bow on it with a vague inspirational quote.**
 

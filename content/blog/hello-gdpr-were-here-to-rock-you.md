@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/hello-gdpr-were-here-to-rock-you/"
 
 **As the General Data Protection Regulation (GDPR) becomes law, [Robert Rose](/robert-rose) argues why it’s not an obstacle, but an opportunity for marketers to engage their audiences like never before.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/robertrose_1369869647_72-1-1024x496.jpg)
+![](/images/blog/2ff421f7a604.jpg)
 
 Well, like just about every over-hyped spring rock & roll festival, GDPR’s data apocalypse day of May 25th came and went with varying degrees of destruction in its wake. Some companies got blackout drunk, panicked, deleted their EU citizens from their databases and added even more annoying pop-ups and policy updates. Some (as in the case of a few US newspapers) waited too long to even show up to the show and decided to [go dark for EU citizens](http://money.cnn.com/2018/05/25/media/gdpr-news-websites-la-times-tronc/index.html).
 

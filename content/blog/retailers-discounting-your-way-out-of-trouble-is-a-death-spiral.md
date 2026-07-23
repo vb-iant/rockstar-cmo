@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/retailers-discounting-your-way-out-of-troubl
 
 **Why ditching the discount and dialling up the customer experience (with a focus on flexibility) is more likely to deliver success.** [**Ted Rubin**](/ted-rubin) **tells all…**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/ted-rubin-3-1-1024x640.jpg)
+![](/images/blog/4ca20206ca97.jpg)
 
 When a [marquee brand](https://cheddar.com/videos/retail-stocks-tumble-tuesday) or [major, traditional retailer](https://cheddar.com/videos/j-jill-shares-tumble-by-half-2) releases a disastrous earnings outlook, what is the first thing they usually do in an effort to bail themselves out? Far too often, they believe that they can discount and promote their way back into customers' hearts, which misses the entire point of why they're in trouble in the first place.
 

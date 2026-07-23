@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-emperor-is-butt-naked-d1/"
 
 **Marketing is about the customer. Or is it? Lytics CMO Darren Guarnaccia argues that thanks to a modern world of hard, quantifiable data, marketers have lost touch with the very thing they’re supposed to champion: humanity.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/shutterstock_151396352-1.jpg)
+![](/images/blog/14d154019e83.jpg)
 
 The signs are all there, everywhere you look, but somehow we don’t see it. Every day, the withdrawal of permission advances, and still no one seems to notice. It’s alarming when you see it, the steady increases in things like ad blockers, incognito and private browsing mode usage, and consumers clearing their cookies on a regular basis. We shrug off massive unsubscription rates that continue to climb – or worse, the massive percentage of your email list that haven't opened a single email from you in years. And still, we don’t seem to care or notice.
 
@@ -23,7 +23,7 @@ What the hell are we doing in marketing? How have we not seen that our customers
 
 We’ve lost our way in marketing. Somewhere along the road to marketing effectiveness and the brave new world of data-driven marketing, we’ve lost our humanity. It’s not our fault really. These shiny news tools finally gave us the credibility we marketers always wanted. Instead of hand-wringing, wishy-washy answers about the power of brand, we could finally point to the hard evidence of the value marketing was bringing to the party. It was enticing and seductive. And multiplied across a dozen different channels and tools, it has led us to this terrible place.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/03/darren-guarnaccia.gif)
+![](/images/blog/ea83d1166086.gif)
 > “Gone are the days when marketers worked to understand customers as people, with their wants, needs and intents. That’s way too fluffy. We’re now driven by hard metrics and shortsighted tactics.”
 
 The law of unintended consequences has come home to roost, and these tools have fostered an 'ends justifies the means' mentality, breeding a generation of marketers that are blasting consumers into oblivion. Gone are the days when marketers worked to understand customers as people, with their wants, needs and intents. That’s too hard in this world of tools, channels and silos – and way too fluffy. We’re now driven by hard metrics and shortsighted tactics.

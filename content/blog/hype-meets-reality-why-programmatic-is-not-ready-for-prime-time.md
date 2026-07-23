@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/hype-meets-reality-why-programmatic-is-not-r
 
 **Our resident rock star** [**Ted Rubin**](/ted-rubin) **on the slew of pitfalls presented by programmatic media buying – and why you should go old school and place your own ads.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/4981810037_f92989c61a_b-1024x683.jpg)
+![](/images/blog/6942dd406698.jpg)
 
 Programmatic media buying, marketing and advertising is the “algorithmic purchase and sale of advertising space in real time”, and it has been around a couple of years. Software is used to automate buying, placement, and optimization of media inventory by way of a bidding system. As with everything new and shiny, it was supposed to save the media buying world, I think. Given all the hype that we had heard, it was hard for many marketers to expect much less. But even when it was first launched it was easy to see that there were always going to be major drawbacks. Automation is never as smooth as it's made to sound in marketing materials, and it's no surprise that a real-time, automated online marketplace has become fertile ground for fraud and destructive business practices. Now that programmatic has “grown up” a bit, the only thing steadier than the continuing hype is the apparent, and most often ignored, unfulfilled expectations.
 

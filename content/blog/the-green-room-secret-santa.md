@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-secret-santa/"
 
 **Every month in the Green Room Ian Truscott poses a question to our Rockstar CMOs that’s top of mind for us in the Rockstar CMO penthouse. As this issue drops during the season of goodwill, we’re thinking about gifts. So we wondered, what would this fine and generous band of marketers gift to our marketing community?**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/queue-management-for-busy-christmas-events.jpg)
+![](/images/blog/61fc7159ef17.jpg)
 
 Whatever your tradition, if you like it or loath it, this time of year is arguably defined by marketing. One of the most obvious holiday icons was shaped by our Madison Avenue rockstar forebears, who did a rather fabulous job of claiming and shaping the [traditional image of Santa Claus.](https://www.coca-colacompany.com/stories/coke-lore-santa-claus)
 
@@ -35,7 +35,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 \*P.S. I believe mid-level managers are learning from their senior execs, emulating them, and forming the same bad habits. Please remember that your brand is what you do; Your reputation is what people remember AND share! AND it's what you are passing along to those who look up to you and you mentor, either intentionally or simply via your position.”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Ted-Rubin-e1545645433398.jpg)
+![](/images/blog/4fb8b2ef4554.jpg)
 
 [Ted Rubin](https://rockstarcmo.wpengine.com/ted-rubin) is a leading social marketing strategist, keynote speaker, [Photofy CMO/advisor](https://photofy.com/), MC/host for [Brand Innovators Summits](http://brand-innovators.com/), speaker, author, provocateur. Ted is our resident rockstar and tells it straight in his regular column.
 
@@ -43,7 +43,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 ### The gift of headspace.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/WMa2J9bB_400x400.jpeg)
+![](/images/blog/993901066a1b.jpg)
 
 *“My answer is headspace. Space to think gives you the chance to come up with great solutions. It’s absolutely no coincidence that some of the most creative and innovative companies have ‘thinking time’ built in to their work schedules and culture.”*
 
@@ -53,7 +53,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 ### The gift of insight into real shopper behavior
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/120716_20PICZ-0060-4.JPG)
+![](/images/blog/f6c50b5d7f07.jpg)
 
 *“’Right message, right place, right time’ has always been a mantra for marketers, shopper-marketers especially. Digital originally promised to turbo-charge marketers’ ability to deliver on this goal, yet how many times has it fallen short, by overwhelming shoppers with needless messages that aren't relevant at all?*
 
@@ -65,7 +65,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 ### The gift of positivity
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/164668_10101484668803661_297590743_n-1-e1545651592303.jpg)
+![](/images/blog/d81588ae76c1.jpg)
 
 *“For me, it would have to be putting out as much positivity as possible. The world really needs it right now. You don't have to become a sugary sweet type of person to do this, even saying ‘hello’ to someone that looks like they are going through a rough time, or shooting someone a smile can brighten up one’s day.”*
 
@@ -85,7 +85,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 ## Christine Bailey
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/Christine-crop-768x1024.jpg)
+![](/images/blog/62fbd2207b5e.jpg)
 
 ### A packed stocking of many Gifts!
 

@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-ted-rubin/"
 
 In this series of articles we go backstage with a marketing rockstar. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/03/011517-PICZ-5925-1024x640.jpg)
+![](/images/blog/aad9cc1587d8.jpg)
 
 **How do we define a rockstar? Well, being the most followed CMO on Twitter is a pretty good start. Ted Rubin fulfils the industry rockstar brief, one of the most interesting CMOs on Twitter according to Say Media, #13 on Forbes Top 50 Social Media Power Influencers, and number #2 on the Leadtail list of Top 25 People Most Mentioned by digital marketers. This guy tops the charts...**
 

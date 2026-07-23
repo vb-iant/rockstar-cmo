@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-8-80-of-the-crap-that-other-ma
 
 [**Amber Osborne**](/amber-osborne) **inspires** [**Ian Truscott**](/ian-truscott) **this month, as she tires of some of the crap marketing advice that’s being hawked across the internet. Think they’re wrong?** [**Let us know**](https://rockstarcmo.wpengine.com/contact-us)**.**
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/rosie-kerr-780185-unsplash-1024x791.jpg)
+![](/images/blog/9b339fae8b00.jpg)
 
 It’s Halloween, things are getting a bit out of hand and oh yes, we are going there. Inspired by Doghead Simulations CMO Amber Osborne and her [fantastic Backstage Q&A](https://rockstarcmo.wpengine.com/opinion/backstage-with-amber-osborne), we are practically throwing ourselves in the pool as we shove “80% of the crap that other marketers on the internet tell me I have to do” off the hotel balcony – well, once Amber is done with the karaoke.
 
@@ -29,7 +29,7 @@ And yet we marketers, by nature, are sharers. And some days you feel that the in
 
 > “I don’t listen to 80% of the crap that other marketers on the internet tell me I have to do”
 
-![](https://rockstarcmo.appropingo.com/wp-content/uploads/2018/12/164668_10101484668803661_297590743_n-1-e1545651592303.jpg)
+![](/images/blog/d81588ae76c1.jpg)
 
 “I don’t listen to 80% of the crap that other marketers on the internet tell me I have to do,” said Amber in her Backstage interview. “It is great to learn and try out things, but use the processes that work best for your company.”
 
