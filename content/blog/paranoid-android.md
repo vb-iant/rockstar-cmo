@@ -1,16 +1,21 @@
 ---
-title: "Paranoid Android"
-date: "2018-06-28"
-slug: "paranoid-android"
-excerpt: "Facial recognition is a pervasive and powerful tool, offering brands near-limitless possibilities when it comes to engaging their target audiences. But despite the benefits it can afford both brand and customer, is it just too, well, sinister? Dave Waller talks to futurist Mark Stevenson and investigates…﻿"
+title: Paranoid Android
+date: '2018-06-28'
+slug: paranoid-android
+excerpt: "Facial recognition is a pervasive and powerful tool, offering brands near-limitless\
+  \ possibilities when it comes to engaging their target audiences. But despite the\
+  \ benefits it can afford both brand and customer, is it just too, well, sinister?\
+  \ Dave Waller talks to futurist Mark Stevenson and investigates…\uFEFF"
 excerptGenerated: false
-author: "Dave Waller"
-authorSlug: "dave-waller"
-image: "/images/blog/d7d9d9b5a209.jpg"
-categories: ["ok-computer"]
+author: Dave Waller
+authorSlug: dave-waller
+image: /images/blog/d7d9d9b5a209.jpg
+tags: []
+series:
+- ok-computer
 needsReview: []
-sourceId: "982"
-sourceUrl: "https://rockstarcmo.com/paranoid-android/"
+sourceId: '982'
+sourceUrl: https://rockstarcmo.com/paranoid-android/
 ---
 
 **Facial recognition is a pervasive and powerful tool, offering brands near-limitless possibilities when it comes to engaging their target audiences. But despite the benefits it can afford both brand and customer, is it just too, well, sinister? [Dave Waller](/dave-waller) talks to futurist Mark Stevenson and investigates…**

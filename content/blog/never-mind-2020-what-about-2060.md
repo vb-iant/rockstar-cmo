@@ -1,16 +1,19 @@
 ---
-title: "Never mind 2020, what about 2060?"
-date: "2019-12-31"
-slug: "never-mind-2020-what-about-2060"
-excerpt: "Keith Smith looks beyond 2020 and imagines the world of 2060 – will there even be marketers, let alone Rockstar ones?"
+title: Never mind 2020, what about 2060?
+date: '2019-12-31'
+slug: never-mind-2020-what-about-2060
+excerpt: Keith Smith looks beyond 2020 and imagines the world of 2060 – will there
+  even be marketers, let alone Rockstar ones?
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/8ddb7d8ae6c1.jpg"
-categories: ["the-future-starts-here-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/8ddb7d8ae6c1.jpg
+tags: []
+series:
+- the-future-starts-here-issue
 needsReview: []
-sourceId: "4993"
-sourceUrl: "https://rockstarcmo.com/never-mind-2020-what-about-2060/"
+sourceId: '4993'
+sourceUrl: https://rockstarcmo.com/never-mind-2020-what-about-2060/
 ---
 
 ***Now, as they say, for something completely different as Keith Smith, MD of business development platform [The Advertist](https://www.theadvertist.com/) looks beyond 2020 and imagines the world of 2060 – will there even be marketers, let alone Rockstar ones?***

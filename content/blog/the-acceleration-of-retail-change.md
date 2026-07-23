@@ -1,16 +1,20 @@
 ---
-title: "The acceleration of retail change"
-date: "2020-04-30"
-slug: "the-acceleration-of-retail-change"
-excerpt: "According to our resident retail expert, John Andrews, the sector was reacting to change like a frog slowly cooking in a pot, then comes Covid-19 and the heat has been cranked up. How should retailers react?"
+title: The acceleration of retail change
+date: '2020-04-30'
+slug: the-acceleration-of-retail-change
+excerpt: According to our resident retail expert, John Andrews, the sector was reacting
+  to change like a frog slowly cooking in a pot, then comes Covid-19 and the heat
+  has been cranked up. How should retailers react?
 excerptGenerated: false
-author: "John Andrews"
-authorSlug: "john-andrews"
-image: "/images/blog/49af3ceb3775.jpg"
-categories: ["the-welcome-to-jamrock-issue"]
+author: John Andrews
+authorSlug: john-andrews
+image: /images/blog/49af3ceb3775.jpg
+tags: []
+series:
+- the-welcome-to-jamrock-issue
 needsReview: []
-sourceId: "5644"
-sourceUrl: "https://rockstarcmo.com/the-acceleration-of-retail-change/"
+sourceId: '5644'
+sourceUrl: https://rockstarcmo.com/the-acceleration-of-retail-change/
 ---
 
 ***According to our resident retail expert, John Andrews, the sector was reacting to change like a frog slowly cooking in a pot, then comes Covid-19 and the heat has been cranked up. How should retailers react?***

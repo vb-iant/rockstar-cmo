@@ -1,16 +1,21 @@
 ---
-title: "Just a formality"
-date: "2019-08-30"
-slug: "just-a-formality"
-excerpt: "As a marketing journalist, Morag Cuddeford-Jones hears the same tune on repeat - how 'seamless' companies are making the customer experience and in this issue, this self-confessed \"data tart\" gives us a view from the real world and its endless forms..."
+title: Just a formality
+date: '2019-08-30'
+slug: just-a-formality
+excerpt: As a marketing journalist, Morag Cuddeford-Jones hears the same tune on repeat
+  - how 'seamless' companies are making the customer experience and in this issue,
+  this self-confessed "data tart" gives us a view from the real world and its endless
+  forms...
 excerptGenerated: false
-author: "Morag Cuddeford-Jones"
-authorSlug: "morag-cuddeford-jones"
-image: "/images/blog/d09ee1e4da59.png"
-categories: ["project-funk-da-world"]
+author: Morag Cuddeford-Jones
+authorSlug: morag-cuddeford-jones
+image: /images/blog/d09ee1e4da59.png
+tags: []
+series:
+- project-funk-da-world
 needsReview: []
-sourceId: "4265"
-sourceUrl: "https://rockstarcmo.com/just-a-formality/"
+sourceId: '4265'
+sourceUrl: https://rockstarcmo.com/just-a-formality/
 ---
 
 ***As a marketing journalist, Morag Cuddeford-Jones hears the same tune on repeat - how 'seamless' companies are making the customer experience and in this issue, this self-confessed "data tart" gives us a view from the real world and its endless forms...***

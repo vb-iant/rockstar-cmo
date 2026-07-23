@@ -1,16 +1,20 @@
 ---
-title: "Case Studies: How to Create Marketing Gold"
-date: "2019-04-05"
-slug: "case-studies-how-to-create-marketing-gold"
-excerpt: "In a world seemingly more and more cynical of sales and marketing, the authentic voice of a someone “like them” is compelling. Ian Truscott shares his experience on how to create this marketing gold."
+title: 'Case Studies: How to Create Marketing Gold'
+date: '2019-04-05'
+slug: case-studies-how-to-create-marketing-gold
+excerpt: In a world seemingly more and more cynical of sales and marketing, the authentic
+  voice of a someone “like them” is compelling. Ian Truscott shares his experience
+  on how to create this marketing gold.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/28e6da9251f7.png"
-categories: ["b2b-marketing"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/28e6da9251f7.png
+tags:
+- b2b-marketing
+series: []
 needsReview: []
-sourceId: "1403"
-sourceUrl: "https://rockstarcmo.com/case-studies-how-to-create-marketing-gold/"
+sourceId: '1403'
+sourceUrl: https://rockstarcmo.com/case-studies-how-to-create-marketing-gold/
 ---
 
 ***Case studies are marketing gold, in a world seemingly more and more cynical of sales and marketing, the authentic voice of a someone “like them” using your product builds the trust that is the vital link between awareness and revenue. In this article Ian Truscott shares his experience on how to smelt this marketing gold.***

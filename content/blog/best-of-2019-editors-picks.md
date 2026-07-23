@@ -1,16 +1,21 @@
 ---
-title: "Best of 2019: Editors picks"
-date: "2019-12-29"
-slug: "best-of-2019-editors-picks"
-excerpt: "While the majority of this issue we are looking forward to the future of marketing, the turn of the year is also a time for reflection, we take a step back through 2019 and share some of the highlights."
+title: 'Best of 2019: Editors picks'
+date: '2019-12-29'
+slug: best-of-2019-editors-picks
+excerpt: While the majority of this issue we are looking forward to the future of
+  marketing, the turn of the year is also a time for reflection, we take a step back
+  through 2019 and share some of the highlights.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/f1d80ae1201a.png"
-categories: ["the-future-starts-here-issue"]
-needsReview: ["gallery"]
-sourceId: "5107"
-sourceUrl: "https://rockstarcmo.com/best-of-2019-editors-picks/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/f1d80ae1201a.png
+tags: []
+series:
+- the-future-starts-here-issue
+needsReview:
+- gallery
+sourceId: '5107'
+sourceUrl: https://rockstarcmo.com/best-of-2019-editors-picks/
 ---
 
 ![](/images/blog/60c7f75b7187.png)

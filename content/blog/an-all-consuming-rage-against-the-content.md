@@ -1,16 +1,19 @@
 ---
-title: "An all-consuming RAGE against the content"
-date: "2019-06-28"
-slug: "an-all-consuming-rage-against-the-content"
-excerpt: "It’s not so much about ‘consuming’ content as having rubbish rammed down your throat, complains Morag Cuddeford-Jones"
+title: An all-consuming RAGE against the content
+date: '2019-06-28'
+slug: an-all-consuming-rage-against-the-content
+excerpt: It’s not so much about ‘consuming’ content as having rubbish rammed down
+  your throat, complains Morag Cuddeford-Jones
 excerptGenerated: false
-author: "Morag Cuddeford-Jones"
-authorSlug: "morag-cuddeford-jones"
-image: "/images/blog/1d3a51b06065.jpg"
-categories: ["the-inside-in-inside-out-issue"]
+author: Morag Cuddeford-Jones
+authorSlug: morag-cuddeford-jones
+image: /images/blog/1d3a51b06065.jpg
+tags: []
+series:
+- the-inside-in-inside-out-issue
 needsReview: []
-sourceId: "3832"
-sourceUrl: "https://rockstarcmo.com/an-all-consuming-rage-against-the-content/"
+sourceId: '3832'
+sourceUrl: https://rockstarcmo.com/an-all-consuming-rage-against-the-content/
 ---
 
 ***It’s not so much about ‘consuming’ content as having rubbish rammed down your throat, complains Morag Cuddeford-Jones***

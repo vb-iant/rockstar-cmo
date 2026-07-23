@@ -1,16 +1,22 @@
 ---
-title: "Beware the Martech Industrial Complex￼"
-date: "2022-06-11"
-slug: "how-to-gain-control-over-your-martech"
-excerpt: "Marketing leaders – Don’t fall under the influence from the Martech Industrial Complex! You know, the thousands of vendors that are eager to earn a share of your technology budget."
+title: Beware the Martech Industrial Complex￼
+date: '2022-06-11'
+slug: how-to-gain-control-over-your-martech
+excerpt: Marketing leaders – Don’t fall under the influence from the Martech Industrial
+  Complex! You know, the thousands of vendors that are eager to earn a share of your
+  technology budget.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/02ca623291f5.jpg"
-categories: ["b2b-marketing", "martech", "rockstar-cmo-advisors", "street-knowledge", "the-martech-mix-desk"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/02ca623291f5.jpg
+tags:
+- b2b-marketing
+- martech
+series:
+- the-martech-mix-desk
 needsReview: []
-sourceId: "7270"
-sourceUrl: "https://rockstarcmo.com/how-to-gain-control-over-your-martech/"
+sourceId: '7270'
+sourceUrl: https://rockstarcmo.com/how-to-gain-control-over-your-martech/
 ---
 
 ***Are you bothered by vendors who pester you or your staff with the latest piece of shiny technology? Is your team on a binge of buying tools that promise marketing nirvana? It’s time to kick the habit and make sure that you’re charge of your own martech destiny. Jeff Clark offers a six-step method for seizing control.***

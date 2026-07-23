@@ -1,16 +1,21 @@
 ---
-title: "Bad For Business: Automation Will Remove Human Interaction"
-date: "2019-04-25"
-slug: "bad-for-business-automation-will-remove-human-interaction"
-excerpt: "We welcome a new writer, Theresa Michelle to the Rockstar CMO penthouse and she continues the theme from The Ghost in the Machine Issue, suggesting that all this automation is actually bad for business.﻿"
+title: 'Bad For Business: Automation Will Remove Human Interaction'
+date: '2019-04-25'
+slug: bad-for-business-automation-will-remove-human-interaction
+excerpt: "We welcome a new writer, Theresa Michelle to the Rockstar CMO penthouse\
+  \ and she continues the theme from The Ghost in the Machine Issue, suggesting that\
+  \ all this automation is actually bad for business.\uFEFF"
 excerptGenerated: false
-author: "Theresa Michelle"
-authorSlug: "theresa-michelle"
-image: "/images/blog/b583205fc4ff.jpg"
-categories: ["the-changesbowie-issue", "the-martech-mix-desk"]
+author: Theresa Michelle
+authorSlug: theresa-michelle
+image: /images/blog/b583205fc4ff.jpg
+tags: []
+series:
+- the-changesbowie-issue
+- the-martech-mix-desk
 needsReview: []
-sourceId: "3547"
-sourceUrl: "https://rockstarcmo.com/bad-for-business-automation-will-remove-human-interaction/"
+sourceId: '3547'
+sourceUrl: https://rockstarcmo.com/bad-for-business-automation-will-remove-human-interaction/
 ---
 
 ***We welcome a brand new writer, Theresa Michelle to the Rockstar CMO penthouse, inspired by [Ted Rubin](https://rockstarcmo.wpengine.com/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care/) she continues the theme from [The Ghost in the Machine Issue](https://rockstarcmo.wpengine.com/the-ghost-in-the-machine-issue/), suggesting that all this automation is actually bad for business.***

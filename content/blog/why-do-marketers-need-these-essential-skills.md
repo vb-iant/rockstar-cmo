@@ -1,16 +1,22 @@
 ---
-title: "Why Do Marketers Need an F’in Education?"
-date: "2022-08-05"
-slug: "why-do-marketers-need-these-essential-skills"
-excerpt: "The Five F'in Marketing Fundamentals form the basis of marketing enablement. It’s important for everyone in marketing to know the basic skill elements that comprise good marketing. And, it helps everyone appreciate their role in the marketing mix, like the lead singer appreciating what makes a good rhythm section."
+title: Why Do Marketers Need an F’in Education?
+date: '2022-08-05'
+slug: why-do-marketers-need-these-essential-skills
+excerpt: The Five F'in Marketing Fundamentals form the basis of marketing enablement.
+  It’s important for everyone in marketing to know the basic skill elements that comprise
+  good marketing. And, it helps everyone appreciate their role in the marketing mix,
+  like the lead singer appreciating what makes a good rhythm section.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/968a56340afd.jpg"
-categories: ["marketing", "marketing-education", "street-knowledge"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/968a56340afd.jpg
+tags:
+- marketing
+- marketing-education
+series: []
 needsReview: []
-sourceId: "7353"
-sourceUrl: "https://rockstarcmo.com/why-do-marketers-need-these-essential-skills/"
+sourceId: '7353'
+sourceUrl: https://rockstarcmo.com/why-do-marketers-need-these-essential-skills/
 ---
 
 ***Do you agree that marketers are in dire need of training, whether it’s on the basics of marketing or specific skills that help them on their career path? A recent survey thinks we’re at a crisis point in terms of skilled marketing talent. It’s time to address this shortfall with your marketing team. Jeff Clark with RockstarCMO colleague Ian Truscott, created the Five Essential Skills of Marketing to help.***

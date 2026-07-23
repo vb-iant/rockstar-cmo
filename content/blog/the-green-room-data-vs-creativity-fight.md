@@ -1,16 +1,21 @@
 ---
-title: "The Green Room: Data vs Creativity: Fight!"
-date: "2020-03-30"
-slug: "the-green-room-data-vs-creativity-fight"
-excerpt: "This month the question we ask the Green Room - our Rockstar CMO panel How should marketers balance their decision-making between a healthy data obsession and creative thinking?"
+title: 'The Green Room: Data vs Creativity: Fight!'
+date: '2020-03-30'
+slug: the-green-room-data-vs-creativity-fight
+excerpt: This month the question we ask the Green Room - our Rockstar CMO panel How
+  should marketers balance their decision-making between a healthy data obsession
+  and creative thinking?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/87a3856efc83.png"
-categories: ["the-ghost-town-issue", "the-green-room"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/87a3856efc83.png
+tags: []
+series:
+- the-ghost-town-issue
+- the-green-room
 needsReview: []
-sourceId: "5471"
-sourceUrl: "https://rockstarcmo.com/the-green-room-data-vs-creativity-fight/"
+sourceId: '5471'
+sourceUrl: https://rockstarcmo.com/the-green-room-data-vs-creativity-fight/
 ---
 
 ![](/images/blog/34e11df1145d.png)

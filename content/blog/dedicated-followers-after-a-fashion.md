@@ -1,16 +1,20 @@
 ---
-title: "Dedicated Followers (After a Fashion)"
-date: "2019-02-28"
-slug: "dedicated-followers-after-a-fashion"
-excerpt: "Influencers are the latest group to buy fake followers in order to boost their appeal. But while a large follower count may look good, as Dave Waller discovers, this isn’t just a numbers game…"
+title: Dedicated Followers (After a Fashion)
+date: '2019-02-28'
+slug: dedicated-followers-after-a-fashion
+excerpt: Influencers are the latest group to buy fake followers in order to boost
+  their appeal. But while a large follower count may look good, as Dave Waller discovers,
+  this isn’t just a numbers game…
 excerptGenerated: false
-author: "Dave Waller"
-authorSlug: "dave-waller"
-image: "/images/blog/04de8ee4cc35.jpg"
-categories: ["the-pretender-issue"]
+author: Dave Waller
+authorSlug: dave-waller
+image: /images/blog/04de8ee4cc35.jpg
+tags: []
+series:
+- the-pretender-issue
 needsReview: []
-sourceId: "3255"
-sourceUrl: "https://rockstarcmo.com/dedicated-followers-after-a-fashion/"
+sourceId: '3255'
+sourceUrl: https://rockstarcmo.com/dedicated-followers-after-a-fashion/
 ---
 
 **Fakery

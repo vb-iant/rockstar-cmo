@@ -1,16 +1,20 @@
 ---
-title: "Stark Bollock Naked"
-date: "2018-05-31"
-slug: "stark-bollock-naked"
-excerpt: "To wear a sock, or not? Debates around radical transparency are heating up as experts, cynics and customers consider just how much they need to see in order to trust a brand. Helene Dancer investigates.﻿"
+title: Stark Bollock Naked
+date: '2018-05-31'
+slug: stark-bollock-naked
+excerpt: "To wear a sock, or not? Debates around radical transparency are heating\
+  \ up as experts, cynics and customers consider just how much they need to see in\
+  \ order to trust a brand. Helene Dancer investigates.\uFEFF"
 excerptGenerated: false
-author: "Helene Dancer"
-authorSlug: "helene-dancer"
-image: "/images/blog/e68214f9254b.jpg"
-categories: ["the-age-of-consent"]
+author: Helene Dancer
+authorSlug: helene-dancer
+image: /images/blog/e68214f9254b.jpg
+tags: []
+series:
+- the-age-of-consent
 needsReview: []
-sourceId: "1080"
-sourceUrl: "https://rockstarcmo.com/stark-bollock-naked/"
+sourceId: '1080'
+sourceUrl: https://rockstarcmo.com/stark-bollock-naked/
 ---
 
 **To wear a sock, or not? Debates around radical transparency are heating up as experts, cynics and customers consider just how much they need to see in order to trust a brand.** [**Helene Dancer**](https://rockstarcmo.appropingo.com/helene-dancer) **investigates.**

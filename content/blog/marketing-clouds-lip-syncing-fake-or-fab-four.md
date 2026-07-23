@@ -1,16 +1,22 @@
 ---
-title: "Marketing Clouds: Lip-syncing Fake or Fab Four?"
-date: "2019-06-28"
-slug: "marketing-clouds-lip-syncing-fake-or-fab-four"
-excerpt: "We can't get the marketing technology song out of our head, it's a topic we keep returning to and in this article, we talk to four practitioners from across the industry and get their take on the latest solution to all of our problems - Marketing Clouds."
+title: 'Marketing Clouds: Lip-syncing Fake or Fab Four?'
+date: '2019-06-28'
+slug: marketing-clouds-lip-syncing-fake-or-fab-four
+excerpt: We can't get the marketing technology song out of our head, it's a topic
+  we keep returning to and in this article, we talk to four practitioners from across
+  the industry and get their take on the latest solution to all of our problems -
+  Marketing Clouds.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/374a97721d47.png"
-categories: ["the-inside-in-inside-out-issue", "the-martech-mix-desk"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/374a97721d47.png
+tags: []
+series:
+- the-inside-in-inside-out-issue
+- the-martech-mix-desk
 needsReview: []
-sourceId: "3837"
-sourceUrl: "https://rockstarcmo.com/marketing-clouds-lip-syncing-fake-or-fab-four/"
+sourceId: '3837'
+sourceUrl: https://rockstarcmo.com/marketing-clouds-lip-syncing-fake-or-fab-four/
 ---
 
 ***We can't get the marketing technology song out of our head, it's a topic we keep returning to and in this article, we talk to four practitioners from across the industry and get their take on the latest solution to all of our problems - Marketing Clouds.***

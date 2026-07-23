@@ -1,16 +1,23 @@
 ---
-title: "Backstage with John Howe-Marshall"
-date: "2020-04-30"
-slug: "backstage-with-john-howe-marshall"
-excerpt: "Gamers are emerging as the new celebrities of a new media age, and the popularity of this entertainment genre has been accelerated by the lockdown. So, who better to catch up with than the Chief Marketing Officer of SplitmediaLabs a platform on the leading edge of enabling gamers to get published? Ian Truscott chats with John Howe-Marshall."
+title: Backstage with John Howe-Marshall
+date: '2020-04-30'
+slug: backstage-with-john-howe-marshall
+excerpt: Gamers are emerging as the new celebrities of a new media age, and the popularity
+  of this entertainment genre has been accelerated by the lockdown. So, who better
+  to catch up with than the Chief Marketing Officer of SplitmediaLabs a platform on
+  the leading edge of enabling gamers to get published? Ian Truscott chats with John
+  Howe-Marshall.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/c2af4b9993cb.jpg"
-categories: ["backstage", "the-welcome-to-jamrock-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/c2af4b9993cb.jpg
+tags: []
+series:
+- backstage
+- the-welcome-to-jamrock-issue
 needsReview: []
-sourceId: "5624"
-sourceUrl: "https://rockstarcmo.com/backstage-with-john-howe-marshall/"
+sourceId: '5624'
+sourceUrl: https://rockstarcmo.com/backstage-with-john-howe-marshall/
 ---
 
 ***Gamers are emerging as the new celebrities of a new media age, and the popularity of this entertainment genre has been accelerated by the lockdown. So, who better to catch up with than the Chief Marketing Officer of ***SplitmediaLabs****** ***a platform on the leading edge of enabling gamers to get published? Ian Truscott chats with John Howe-Marshall.***

@@ -1,16 +1,20 @@
 ---
-title: "Don't rent, co-own"
-date: "2020-10-18"
-slug: "dont-rent-co-own"
-excerpt: "Ted Rubin has built an audience, you don't become the most followed CMO on Twitter without one. So, what is his advice; should we build our content strategy and audience on rented land"
+title: Don't rent, co-own
+date: '2020-10-18'
+slug: dont-rent-co-own
+excerpt: Ted Rubin has built an audience, you don't become the most followed CMO on
+  Twitter without one. So, what is his advice; should we build our content strategy
+  and audience on rented land
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/8d3538dc095b.jpg"
-categories: ["the-life-for-rent-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/8d3538dc095b.jpg
+tags: []
+series:
+- the-life-for-rent-issue
 needsReview: []
-sourceId: "6063"
-sourceUrl: "https://rockstarcmo.com/dont-rent-co-own/"
+sourceId: '6063'
+sourceUrl: https://rockstarcmo.com/dont-rent-co-own/
 ---
 
 ***Ted Rubin has definitely built an audience, you don't become the most followed CMO on Twitter (according to Social Media Marketing Magazine) without one. So, who better to ask for advice on the theme for this month's issue; should we develop our content strategy and audience on rented land (social media, LinkedIn, Medium, and the rest?) or build it ourselves?***

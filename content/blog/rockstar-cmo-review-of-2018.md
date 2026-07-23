@@ -1,16 +1,20 @@
 ---
-title: "Rockstar CMO Review of 2018"
-date: "2019-01-01"
-slug: "rockstar-cmo-review-of-2018"
-excerpt: "If you've visited before, you'll see we've entered the new year with a fresh new look and as we combed through our first 10 issues, we thought this was a great opportunity to reflect and celebrate the fantastic folks that have contributed to our community in 2018."
+title: Rockstar CMO Review of 2018
+date: '2019-01-01'
+slug: rockstar-cmo-review-of-2018
+excerpt: If you've visited before, you'll see we've entered the new year with a fresh
+  new look and as we combed through our first 10 issues, we thought this was a great
+  opportunity to reflect and celebrate the fantastic folks that have contributed to
+  our community in 2018.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/75a5066888bb.jpg"
-categories: ["featured"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/75a5066888bb.jpg
+tags: []
+series: []
 needsReview: []
-sourceId: "2881"
-sourceUrl: "https://rockstarcmo.com/rockstar-cmo-review-of-2018/"
+sourceId: '2881'
+sourceUrl: https://rockstarcmo.com/rockstar-cmo-review-of-2018/
 ---
 
 **If you've visited before, you'll see we've entered the new year with a fresh new look and as we combed through our first 10 issues, we thought this was a great opportunity to reflect and celebrate the fantastic folks that have contributed to our community in 2018.**

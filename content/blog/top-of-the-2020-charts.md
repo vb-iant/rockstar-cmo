@@ -1,16 +1,19 @@
 ---
-title: "Top of the 2020 Charts"
-date: "2021-01-02"
-slug: "top-of-the-2020-charts"
-excerpt: "Maybe there was something good to come out of 2020? In keeping with the theme of this issue, our editor looks back on the most popular articles from this year"
+title: Top of the 2020 Charts
+date: '2021-01-02'
+slug: top-of-the-2020-charts
+excerpt: Maybe there was something good to come out of 2020? In keeping with the theme
+  of this issue, our editor looks back on the most popular articles from this year
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/31bba28ec90f.png"
-categories: ["the-youve-come-a-long-way-baby-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/31bba28ec90f.png
+tags: []
+series:
+- the-youve-come-a-long-way-baby-issue
 needsReview: []
-sourceId: "6292"
-sourceUrl: "https://rockstarcmo.com/top-of-the-2020-charts/"
+sourceId: '6292'
+sourceUrl: https://rockstarcmo.com/top-of-the-2020-charts/
 ---
 
 ***Maybe there was something good to come out of 2020? In keeping with the theme of this issue, as we reflect on 2020 and look forward to the new year, our editor looks back on the most popular articles from this year.***

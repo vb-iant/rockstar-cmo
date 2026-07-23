@@ -1,16 +1,20 @@
 ---
-title: "Jam tomorrow and jam yesterday - but never jam today"
-date: "2020-10-18"
-slug: "jam-tomorrow-and-jam-yesterday-but-never-jam-today"
-excerpt: "Keith Smith weighs in on the theme of this month's issue: Should we build our audience on rented land, like social media, or develop a property of our own? And it's typically no-nonsense.."
+title: Jam tomorrow and jam yesterday - but never jam today
+date: '2020-10-18'
+slug: jam-tomorrow-and-jam-yesterday-but-never-jam-today
+excerpt: 'Keith Smith weighs in on the theme of this month''s issue: Should we build
+  our audience on rented land, like social media, or develop a property of our own?
+  And it''s typically no-nonsense..'
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/fbc5d6bfc58f.png"
-categories: ["the-life-for-rent-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/fbc5d6bfc58f.png
+tags: []
+series:
+- the-life-for-rent-issue
 needsReview: []
-sourceId: "6071"
-sourceUrl: "https://rockstarcmo.com/jam-tomorrow-and-jam-yesterday-but-never-jam-today/"
+sourceId: '6071'
+sourceUrl: https://rockstarcmo.com/jam-tomorrow-and-jam-yesterday-but-never-jam-today/
 ---
 
 ***Quoting Lewis Carroll, Keith Smith, the voice of business development in our house band, weighs in on the theme of this month's issue: Should we build our audience on rented land, like social media, or develop a property of our own? And it's typically no-nonsense..***

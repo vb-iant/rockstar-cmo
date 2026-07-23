@@ -1,16 +1,23 @@
 ---
-title: "The Swimming Pool #30: CMOs as Social Influencers"
-date: "2022-05-31"
-slug: "the-swimming-pool-30-cmos-as-social-influencers"
-excerpt: "In this trip to the Rockstar CMO Swimming Pool, Ian Truscott is inspired by Rebecca Biestman, the Chief Marketing Officer at Reputation, who, on the podcast, suggested \"the pressure on CMOs to be social influencers\". What do you think? Did he chuck it in?"
+title: 'The Swimming Pool #30: CMOs as Social Influencers'
+date: '2022-05-31'
+slug: the-swimming-pool-30-cmos-as-social-influencers
+excerpt: In this trip to the Rockstar CMO Swimming Pool, Ian Truscott is inspired
+  by Rebecca Biestman, the Chief Marketing Officer at Reputation, who, on the podcast,
+  suggested "the pressure on CMOs to be social influencers". What do you think? Did
+  he chuck it in?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/0ce574c0ea60.png"
-categories: ["the-swimming-pool"]
-needsReview: ["raw_html_block", "iframe"]
-sourceId: "7236"
-sourceUrl: "https://rockstarcmo.com/the-swimming-pool-30-cmos-as-social-influencers/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/0ce574c0ea60.png
+tags: []
+series:
+- the-swimming-pool
+needsReview:
+- raw_html_block
+- iframe
+sourceId: '7236'
+sourceUrl: https://rockstarcmo.com/the-swimming-pool-30-cmos-as-social-influencers/
 ---
 
 ***In this trip to the Rockstar CMO Swimming Pool, Ian Truscott is inspired by [Rebecca Biestman](https://www.linkedin.com/in/rebecca-biestman-4247137/), the Chief Marketing Officer at [Reputation](https://reputation.com/), who, on the podcast, suggested "the pressure on CMOs to be social influencers". What do you think? Did he chuck it in?***

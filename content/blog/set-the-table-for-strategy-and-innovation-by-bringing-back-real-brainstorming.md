@@ -1,16 +1,20 @@
 ---
-title: "Set the Table for Strategy and Innovation by Bringing Back Real Brainstorming"
-date: "2018-11-30"
-slug: "set-the-table-for-strategy-and-innovation-by-bringing-back-real-brainstorming"
-excerpt: "Brainstorming too often becomes the narrow view of a few (very) vocal people. Time to switch it up, create some truly effective strategies, and kick start some real thinking time, Ted Rubin argues, by opening the floor up to everyone."
+title: Set the Table for Strategy and Innovation by Bringing Back Real Brainstorming
+date: '2018-11-30'
+slug: set-the-table-for-strategy-and-innovation-by-bringing-back-real-brainstorming
+excerpt: Brainstorming too often becomes the narrow view of a few (very) vocal people.
+  Time to switch it up, create some truly effective strategies, and kick start some
+  real thinking time, Ted Rubin argues, by opening the floor up to everyone.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/6d8a106965eb.jpg"
-categories: ["we-are-family"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/6d8a106965eb.jpg
+tags: []
+series:
+- we-are-family
 needsReview: []
-sourceId: "653"
-sourceUrl: "https://rockstarcmo.com/set-the-table-for-strategy-and-innovation-by-bringing-back-real-brainstorming/"
+sourceId: '653'
+sourceUrl: https://rockstarcmo.com/set-the-table-for-strategy-and-innovation-by-bringing-back-real-brainstorming/
 ---
 
 ![](/images/blog/356f30a6c56c.jpg)

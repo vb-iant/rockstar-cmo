@@ -1,16 +1,21 @@
 ---
-title: "5 Reasons Successful Tech Start-ups invest in Content Marketing"
-date: "2019-04-09"
-slug: "5-reasons-successful-tech-start-ups-invest-in-content-marketing"
-excerpt: "The successful telling of the story around a product is recognized to be as important as the product itself. This is especially essential for start-ups looking to stake their claim in the market, Ian Truscott shares his experience."
+title: 5 Reasons Successful Tech Start-ups invest in Content Marketing
+date: '2019-04-09'
+slug: 5-reasons-successful-tech-start-ups-invest-in-content-marketing
+excerpt: The successful telling of the story around a product is recognized to be
+  as important as the product itself. This is especially essential for start-ups looking
+  to stake their claim in the market, Ian Truscott shares his experience.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
+author: Ian Truscott
+authorSlug: ian-truscott
 image: null
-categories: ["b2b-marketing", "content-marketing"]
+tags:
+- b2b-marketing
+- content-marketing
+series: []
 needsReview: []
-sourceId: "1482"
-sourceUrl: "https://rockstarcmo.com/5-reasons-successful-tech-start-ups-invest-in-content-marketing/"
+sourceId: '1482'
+sourceUrl: https://rockstarcmo.com/5-reasons-successful-tech-start-ups-invest-in-content-marketing/
 ---
 
 ***The successful telling of the story around a product is recognized to be as important as the product itself. This is especially essential for start-ups looking to stake their claim in the market, Ian Truscott shares his experience.***

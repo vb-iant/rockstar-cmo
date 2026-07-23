@@ -1,16 +1,22 @@
 ---
-title: "The Green Room – Holiday potluck lunch"
-date: "2019-11-29"
-slug: "the-green-room-holiday-potluck-lunch"
-excerpt: "We’ve grabbed our backstage pass for holiday treats in the Green Room. In a tradition we’ve borrowed from the US, the potluck lunch where everyone brings a favorite to share, we’ve asked our Rockstars what they would bring from this year to share with the world of marketing."
+title: The Green Room – Holiday potluck lunch
+date: '2019-11-29'
+slug: the-green-room-holiday-potluck-lunch
+excerpt: We’ve grabbed our backstage pass for holiday treats in the Green Room. In
+  a tradition we’ve borrowed from the US, the potluck lunch where everyone brings
+  a favorite to share, we’ve asked our Rockstars what they would bring from this year
+  to share with the world of marketing.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/a8d0adf8f944.png"
-categories: ["the-green-room", "the-magic-of-christmas-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/a8d0adf8f944.png
+tags: []
+series:
+- the-green-room
+- the-magic-of-christmas-issue
 needsReview: []
-sourceId: "4708"
-sourceUrl: "https://rockstarcmo.com/the-green-room-holiday-potluck-lunch/"
+sourceId: '4708'
+sourceUrl: https://rockstarcmo.com/the-green-room-holiday-potluck-lunch/
 ---
 
 ***In this issue we’ve grabbed our backstage pass for holiday treats in the Green Room. In a tradition we’ve borrowed from the US, the potluck lunch where everyone brings a favorite of theirs to share, we’ve asked our Rockstars what they would bring from this year to share with the world of marketing.***

@@ -1,16 +1,21 @@
 ---
-title: "The Swimming Pool #29: The entire year of 2020"
-date: "2021-01-07"
-slug: "the-swimming-pool-29-the-entire-year-of-2020"
-excerpt: "What do you reckon? Should we chuck 2020 into the Rockstar CMO Swimming Pool, our portal to marketing hell? Or should we give it a reprieve? Ian Truscott has a suggestion inspired by Robert Rose."
+title: 'The Swimming Pool #29: The entire year of 2020'
+date: '2021-01-07'
+slug: the-swimming-pool-29-the-entire-year-of-2020
+excerpt: What do you reckon? Should we chuck 2020 into the Rockstar CMO Swimming Pool,
+  our portal to marketing hell? Or should we give it a reprieve? Ian Truscott has
+  a suggestion inspired by Robert Rose.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/5e8820203841.png"
-categories: ["the-swimming-pool", "the-youve-come-a-long-way-baby-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/5e8820203841.png
+tags: []
+series:
+- the-swimming-pool
+- the-youve-come-a-long-way-baby-issue
 needsReview: []
-sourceId: "6308"
-sourceUrl: "https://rockstarcmo.com/the-swimming-pool-29-the-entire-year-of-2020/"
+sourceId: '6308'
+sourceUrl: https://rockstarcmo.com/the-swimming-pool-29-the-entire-year-of-2020/
 ---
 
 ***What do you reckon? Should we chuck 2020 into the Rockstar CMO Swimming Pool, our portal to marketing hell? Or should we give it a reprieve? Ian Truscott has a suggestion inspired by Robert Rose.***

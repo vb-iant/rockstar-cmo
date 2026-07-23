@@ -1,16 +1,19 @@
 ---
-title: "Zombies are Eating your Audience – Here's How to Fight Back"
-date: "2018-10-31"
-slug: "zombies-are-eating-your-audience-heres-how-to-fight-back"
-excerpt: "This is the story of a major national retailer. A national retailer that cut one too many corners in growing its social media channels, and…"
+title: Zombies are Eating your Audience – Here's How to Fight Back
+date: '2018-10-31'
+slug: zombies-are-eating-your-audience-heres-how-to-fight-back
+excerpt: This is the story of a major national retailer. A national retailer that
+  cut one too many corners in growing its social media channels, and…
 excerptGenerated: true
-author: "Casey Petersen"
-authorSlug: "casey-petersen"
-image: "/images/blog/c0366ffae149.jpg"
-categories: ["thriller"]
+author: Casey Petersen
+authorSlug: casey-petersen
+image: /images/blog/c0366ffae149.jpg
+tags: []
+series:
+- thriller
 needsReview: []
-sourceId: "913"
-sourceUrl: "https://rockstarcmo.com/zombies-are-eating-your-audience-heres-how-to-fight-back/"
+sourceId: '913'
+sourceUrl: https://rockstarcmo.com/zombies-are-eating-your-audience-heres-how-to-fight-back/
 ---
 
 **This is the story of a major national retailer. A national retailer that cut one too many corners in growing its social media channels, and inadvertently created the Social Zombie Apocalypse. VP Marketing & Product at Photofy,** [**Casey Petersen**](/casey-petersen)**, recounts the grisly tale and shares five tips for fighting the undead.**

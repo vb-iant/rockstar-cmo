@@ -1,16 +1,20 @@
 ---
-title: "The Green Room: Marketers and the features creatures"
-date: "2020-02-07"
-slug: "the-green-room-marketers-and-the-feature-creatures"
-excerpt: "The Green Room, our excuse to do our best Colombo impression and ask \"Just one more thing\" to the wonderful Rockstar marketers we've gone backstage with. This month we chatted about marketings' relationship with product development."
+title: 'The Green Room: Marketers and the features creatures'
+date: '2020-02-07'
+slug: the-green-room-marketers-and-the-feature-creatures
+excerpt: The Green Room, our excuse to do our best Colombo impression and ask "Just
+  one more thing" to the wonderful Rockstar marketers we've gone backstage with. This
+  month we chatted about marketings' relationship with product development.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/f1ddcde522d5.png"
-categories: ["the-features-creatures-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/f1ddcde522d5.png
+tags: []
+series:
+- the-features-creatures-issue
 needsReview: []
-sourceId: "5161"
-sourceUrl: "https://rockstarcmo.com/the-green-room-marketers-and-the-feature-creatures/"
+sourceId: '5161'
+sourceUrl: https://rockstarcmo.com/the-green-room-marketers-and-the-feature-creatures/
 ---
 
 ***The Green Room, our excuse to do our best Colombo impression and ask "Just one more thing" to the wonderful Rockstar marketers we've gone [backstage](https://rockstarcmo.wpengine.com/category/features/backstage/) with. This month in keeping with the theme, [The Features Creatures](https://rockstarcmo.wpengine.com/the-features-creatures-issue/), we chatted about marketings' relationship with product development.***

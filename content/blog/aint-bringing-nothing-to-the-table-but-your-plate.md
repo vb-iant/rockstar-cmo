@@ -1,16 +1,20 @@
 ---
-title: "Ain't bringing nothing to the table but your plate"
-date: "2020-11-30"
-slug: "aint-bringing-nothing-to-the-table-but-your-plate"
-excerpt: "It's unlikely that rapper Meghan Thee Stallion and personal branding Jane Scandurra have been seen in the same room, but Jane's thoughts of thanks have inspired Ian Truscott to share something inspired by Hot Girl Meg."
+title: Ain't bringing nothing to the table but your plate
+date: '2020-11-30'
+slug: aint-bringing-nothing-to-the-table-but-your-plate
+excerpt: It's unlikely that rapper Meghan Thee Stallion and personal branding Jane
+  Scandurra have been seen in the same room, but Jane's thoughts of thanks have inspired
+  Ian Truscott to share something inspired by Hot Girl Meg.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/734b47953565.jpg"
-categories: ["the-come-together-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/734b47953565.jpg
+tags: []
+series:
+- the-come-together-issue
 needsReview: []
-sourceId: "6185"
-sourceUrl: "https://rockstarcmo.com/aint-bringing-nothing-to-the-table-but-your-plate/"
+sourceId: '6185'
+sourceUrl: https://rockstarcmo.com/aint-bringing-nothing-to-the-table-but-your-plate/
 ---
 
 ***Sometimes inspiration comes from a juxtaposition and it's unlikely that rapper Meghan Thee Stallion and personal branding Jane Scandurra have been seen in the same room. But, Jane's thoughts of thanks have inspired Ian Truscott to share something inspired by Hot Girl Meg, and of course who can resist an image bit of Oliver Twist during the holidays...***

@@ -1,16 +1,20 @@
 ---
-title: "adnonamau5: New Year’s resolutions for agency leaders"
-date: "2019-12-31"
-slug: "adnonamau5-new-years-resolutions-for-agency-leaders"
-excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser dons a mask and he dropped by the Rockstar CMO penthouse to say it like it is and he has some harsh new year’s resolutions for his peers"
+title: 'adnonamau5: New Year’s resolutions for agency leaders'
+date: '2019-12-31'
+slug: adnonamau5-new-years-resolutions-for-agency-leaders
+excerpt: Like the legendary DJ Deadmau5, our anonymous advertiser dons a mask and
+  he dropped by the Rockstar CMO penthouse to say it like it is and he has some harsh
+  new year’s resolutions for his peers
 excerptGenerated: false
-author: "adnonamau5"
-authorSlug: "adnonamau5"
-image: "/images/blog/77524b88be2d.png"
-categories: ["the-future-starts-here-issue"]
+author: adnonamau5
+authorSlug: adnonamau5
+image: /images/blog/77524b88be2d.png
+tags: []
+series:
+- the-future-starts-here-issue
 needsReview: []
-sourceId: "5020"
-sourceUrl: "https://rockstarcmo.com/adnonamau5-new-years-resolutions-for-agency-leaders/"
+sourceId: '5020'
+sourceUrl: https://rockstarcmo.com/adnonamau5-new-years-resolutions-for-agency-leaders/
 ---
 
 ***Like the legendary DJ Deadmau5, our anonymous advertiser dons a mask. By day he is the leader of an international creative agency, but once a month he drops by the Rockstar CMO penthouse to say it like it is. For this issue, as the year turns and the decade ends, he has some new year’s resolutions for his peers***

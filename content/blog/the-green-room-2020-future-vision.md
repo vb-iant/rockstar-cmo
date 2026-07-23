@@ -1,16 +1,20 @@
 ---
-title: "The Green Room: 2020 future vision"
-date: "2020-01-01"
-slug: "the-green-room-2020-future-vision"
-excerpt: "Hanging out with rock stars backstage rarely gives anyone 2020 vision, but as we welcome a new decade, what do they think is the future for marketing?"
+title: 'The Green Room: 2020 future vision'
+date: '2020-01-01'
+slug: the-green-room-2020-future-vision
+excerpt: Hanging out with rock stars backstage rarely gives anyone 2020 vision, but
+  as we welcome a new decade, what do they think is the future for marketing?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/c662c78e5808.png"
-categories: ["the-future-starts-here-issue", "the-green-room"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/c662c78e5808.png
+tags: []
+series:
+- the-future-starts-here-issue
+- the-green-room
 needsReview: []
-sourceId: "4975"
-sourceUrl: "https://rockstarcmo.com/the-green-room-2020-future-vision/"
+sourceId: '4975'
+sourceUrl: https://rockstarcmo.com/the-green-room-2020-future-vision/
 ---
 
 ![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2020/01/2020-green-room-promo.png?fit=834%2C437&ssl=1)

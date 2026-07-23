@@ -1,16 +1,20 @@
 ---
-title: "Ted's Tips and Tools for Employee Advocacy"
-date: "2019-06-28"
-slug: "teds-tips-and-tools-for-employee-advocacy"
-excerpt: "Our resident Rockstar CMO, Ted Rubin, shares his secrets and suggests tools for going from experiment to advocacy with employee engagement."
+title: Ted's Tips and Tools for Employee Advocacy
+date: '2019-06-28'
+slug: teds-tips-and-tools-for-employee-advocacy
+excerpt: Our resident Rockstar CMO, Ted Rubin, shares his secrets and suggests tools
+  for going from experiment to advocacy with employee engagement.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/91eb73950e06.jpg"
-categories: ["employee-engagement", "the-inside-in-inside-out-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/91eb73950e06.jpg
+tags:
+- employee-engagement
+series:
+- the-inside-in-inside-out-issue
 needsReview: []
-sourceId: "3811"
-sourceUrl: "https://rockstarcmo.com/teds-tips-and-tools-for-employee-advocacy/"
+sourceId: '3811'
+sourceUrl: https://rockstarcmo.com/teds-tips-and-tools-for-employee-advocacy/
 ---
 
 ***In*** ***keeping with the theme of this issue of engaging our colleagues outside marketing to amplify our sound, we asked our resident Rockstar CMO, Ted Rubin for his take***.

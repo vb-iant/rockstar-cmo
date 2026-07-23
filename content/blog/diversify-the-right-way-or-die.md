@@ -1,16 +1,23 @@
 ---
-title: "Diversify (the Right Way) or Die"
-date: "2018-04-26"
-slug: "diversify-the-right-way-or-die"
-excerpt: "From #OscarSoWhite to the realisation that the tech and creative industries are a white man’s playing field, the issue of diversity has exploded into our social consciousness like never before. Ian Hsieh talks with Walker & Company CEO, and Code2040 co-founder, Tristan Walker to find out if change is, at it seems, really gonna come."
+title: Diversify (the Right Way) or Die
+date: '2018-04-26'
+slug: diversify-the-right-way-or-die
+excerpt: 'From #OscarSoWhite to the realisation that the tech and creative industries
+  are a white man’s playing field, the issue of diversity has exploded into our social
+  consciousness like never before. Ian Hsieh talks with Walker & Company CEO, and
+  Code2040 co-founder, Tristan Walker to find out if change is, at it seems, really
+  gonna come.'
 excerptGenerated: false
-author: "Ian Hsieh"
-authorSlug: "ian-hsieh"
-image: "/images/blog/d052c7d3861d.jpg"
-categories: ["the-people-are-people-issue", "project-funk-da-world"]
+author: Ian Hsieh
+authorSlug: ian-hsieh
+image: /images/blog/d052c7d3861d.jpg
+tags: []
+series:
+- the-people-are-people-issue
+- project-funk-da-world
 needsReview: []
-sourceId: "904"
-sourceUrl: "https://rockstarcmo.com/diversify-the-right-way-or-die/"
+sourceId: '904'
+sourceUrl: https://rockstarcmo.com/diversify-the-right-way-or-die/
 ---
 
 **From #OscarSoWhite to the realisation that the tech and creative industries are a white man’s playing field, the issue of diversity has exploded into our social consciousness like never before. Ian Hsieh talks with Walker & Company CEO, and Code2040 co-founder, Tristan Walker to find out if change is, at it seems, really gonna come.**

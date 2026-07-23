@@ -1,16 +1,20 @@
 ---
-title: "7 sure-fire marketing hits to top the charts in '21"
-date: "2021-01-07"
-slug: "7-sure-fire-marketing-hits-to-top-the-charts-in-21"
-excerpt: "Our resident business development rockstar, Keith Smith returns for his annual predictions for the coming year, picked up from conversations with his guests on his brand new podcast."
+title: 7 sure-fire marketing hits to top the charts in '21
+date: '2021-01-07'
+slug: 7-sure-fire-marketing-hits-to-top-the-charts-in-21
+excerpt: Our resident business development rockstar, Keith Smith returns for his annual
+  predictions for the coming year, picked up from conversations with his guests on
+  his brand new podcast.
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/7dd93fd70b3d.jpg"
-categories: ["the-youve-come-a-long-way-baby-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/7dd93fd70b3d.jpg
+tags: []
+series:
+- the-youve-come-a-long-way-baby-issue
 needsReview: []
-sourceId: "6295"
-sourceUrl: "https://rockstarcmo.com/7-sure-fire-marketing-hits-to-top-the-charts-in-21/"
+sourceId: '6295'
+sourceUrl: https://rockstarcmo.com/7-sure-fire-marketing-hits-to-top-the-charts-in-21/
 ---
 
 ***Our resident business development rock star, Keith Smith returns for his annual predictions for the coming year, picked up from conversations with his guests on his brand new podcast. And the title? Well, he does have a prediction about link bait...***

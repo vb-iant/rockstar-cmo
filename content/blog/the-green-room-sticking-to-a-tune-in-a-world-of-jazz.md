@@ -1,16 +1,22 @@
 ---
-title: "The Green Room: Sticking to a Tune in a World of Jazz"
-date: "2019-07-25"
-slug: "the-green-room-sticking-to-a-tune-in-a-world-of-jazz"
-excerpt: "Each month in the Green Room we return backstage to pose a question to a group of our Rockstar CMOs. In this issue, Ian Truscott catches up with seven of them to talk about how to stay focused on a marketing strategy, when it's so easy to be distracted by channels, tech and tactics."
+title: 'The Green Room: Sticking to a Tune in a World of Jazz'
+date: '2019-07-25'
+slug: the-green-room-sticking-to-a-tune-in-a-world-of-jazz
+excerpt: Each month in the Green Room we return backstage to pose a question to a
+  group of our Rockstar CMOs. In this issue, Ian Truscott catches up with seven of
+  them to talk about how to stay focused on a marketing strategy, when it's so easy
+  to be distracted by channels, tech and tactics.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/13ea5d685fbc.jpg"
-categories: ["the-green-room", "the-think-about-it-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/13ea5d685fbc.jpg
+tags: []
+series:
+- the-green-room
+- the-think-about-it-issue
 needsReview: []
-sourceId: "4099"
-sourceUrl: "https://rockstarcmo.com/the-green-room-sticking-to-a-tune-in-a-world-of-jazz/"
+sourceId: '4099'
+sourceUrl: https://rockstarcmo.com/the-green-room-sticking-to-a-tune-in-a-world-of-jazz/
 ---
 
 ***Each month in the Green Room we return backstage to pose a question to a group of our Rockstar CMOs. In this issue, Ian Truscott catches up with seven of them to talk about how to stay focused on a marketing strategy, when it's so easy to be distracted by channels, tech and tactics***.

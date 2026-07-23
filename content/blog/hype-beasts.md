@@ -1,16 +1,20 @@
 ---
-title: "Hype Beasts"
-date: "2018-04-26"
-slug: "hype-beasts"
-excerpt: "Celebrity brand endorsements reached a whole new level when Kanye's cohort Virgil Abloh became artistic director of Louis Vuitton, one of the world's oldest fashion houses. Helene Dancer considers; is this the shape of hype to come?﻿"
+title: Hype Beasts
+date: '2018-04-26'
+slug: hype-beasts
+excerpt: "Celebrity brand endorsements reached a whole new level when Kanye's cohort\
+  \ Virgil Abloh became artistic director of Louis Vuitton, one of the world's oldest\
+  \ fashion houses. Helene Dancer considers; is this the shape of hype to come?\uFEFF"
 excerptGenerated: false
-author: "Helene Dancer"
-authorSlug: "helene-dancer"
-image: "/images/blog/7c3a8bc7c05a.jpg"
-categories: ["project-funk-da-world"]
+author: Helene Dancer
+authorSlug: helene-dancer
+image: /images/blog/7c3a8bc7c05a.jpg
+tags: []
+series:
+- project-funk-da-world
 needsReview: []
-sourceId: "1038"
-sourceUrl: "https://rockstarcmo.com/hype-beasts/"
+sourceId: '1038'
+sourceUrl: https://rockstarcmo.com/hype-beasts/
 ---
 
 **Celebrity brand endorsements reached a whole new level when Kanye's cohort Virgil Abloh became artistic director of Louis Vuitton, one of the world's oldest fashion houses. [Helene Dancer](/helene-dancer) considers; is this the shape of hype to come?**

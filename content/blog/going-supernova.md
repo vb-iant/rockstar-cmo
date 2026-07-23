@@ -1,16 +1,22 @@
 ---
-title: "Going Supernova"
-date: "2018-08-30"
-slug: "going-supernova"
-excerpt: "If you’re over the age of 30 and you’re not au fait with the stylings of the Kardashian Klan, there’s a high chance you might never have heard of FashionNova.com. But let this be known; you should have. After all, they’re only one of the fastest growing fashion companies in the world."
+title: Going Supernova
+date: '2018-08-30'
+slug: going-supernova
+excerpt: If you’re over the age of 30 and you’re not au fait with the stylings of
+  the Kardashian Klan, there’s a high chance you might never have heard of FashionNova.com.
+  But let this be known; you should have. After all, they’re only one of the fastest
+  growing fashion companies in the world.
 excerptGenerated: false
-author: "Olivia Foster"
-authorSlug: "olivia-foster"
-image: "/images/blog/43ad8ffb36c4.jpg"
-categories: ["seat-at-the-table"]
-needsReview: ["embed_block"]
-sourceId: "1168"
-sourceUrl: "https://rockstarcmo.com/going-supernova/"
+author: Olivia Foster
+authorSlug: olivia-foster
+image: /images/blog/43ad8ffb36c4.jpg
+tags: []
+series:
+- seat-at-the-table
+needsReview:
+- embed_block
+sourceId: '1168'
+sourceUrl: https://rockstarcmo.com/going-supernova/
 ---
 
 **If you’re over the age of 30 and you’re not au fait with the stylings of the Kardashian Klan, there’s a high chance you might never have heard of** [**FashionNova.com**](https://www.fashionnova.com)**. But let this be known; you should have. After all, they’re only one of the fastest growing fashion companies in the world.**

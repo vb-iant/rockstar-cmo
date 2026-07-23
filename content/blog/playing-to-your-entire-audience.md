@@ -1,16 +1,20 @@
 ---
-title: "Playing to your entire audience"
-date: "2019-08-31"
-slug: "playing-to-your-entire-audience"
-excerpt: "The Relevancy Group’s most recent research indicates that marketers are currently ignoring a large section of their crowd. Chief Research Officer Nicholas Einstein explains."
+title: Playing to your entire audience
+date: '2019-08-31'
+slug: playing-to-your-entire-audience
+excerpt: The Relevancy Group’s most recent research indicates that marketers are currently
+  ignoring a large section of their crowd. Chief Research Officer Nicholas Einstein
+  explains.
 excerptGenerated: false
-author: "Nicholas Einstein"
-authorSlug: "nicholas-einstein"
-image: "/images/blog/0f64bcd80eb0.jpg"
-categories: ["the-people-are-people-issue"]
+author: Nicholas Einstein
+authorSlug: nicholas-einstein
+image: /images/blog/0f64bcd80eb0.jpg
+tags: []
+series:
+- the-people-are-people-issue
 needsReview: []
-sourceId: "4223"
-sourceUrl: "https://rockstarcmo.com/playing-to-your-entire-audience/"
+sourceId: '4223'
+sourceUrl: https://rockstarcmo.com/playing-to-your-entire-audience/
 ---
 
 ***Data from The Relevancy Group’s most recent research indicates that marketers are currently ignoring or underserving a large section of their crowd. Chief Research Officer Nicholas Einstein shares his insight.***

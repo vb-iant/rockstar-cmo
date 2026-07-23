@@ -1,16 +1,20 @@
 ---
-title: "Winning During Changing Times"
-date: "2022-05-24"
-slug: "winning-during-changing-times"
-excerpt: "We are living in changing times, with concerns about the global supply chain, pandemic, war and climate change. But, is there an opportunity to take advantage of the resulting transitioning markets? Jeff Clark explains."
+title: Winning During Changing Times
+date: '2022-05-24'
+slug: winning-during-changing-times
+excerpt: We are living in changing times, with concerns about the global supply chain,
+  pandemic, war and climate change. But, is there an opportunity to take advantage
+  of the resulting transitioning markets? Jeff Clark explains.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/c3b6a7837232.png"
-categories: ["rockstar-cmo-advisors", "street-knowledge", "sustainability"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/c3b6a7837232.png
+tags:
+- sustainability
+series: []
 needsReview: []
-sourceId: "7193"
-sourceUrl: "https://rockstarcmo.com/winning-during-changing-times/"
+sourceId: '7193'
+sourceUrl: https://rockstarcmo.com/winning-during-changing-times/
 ---
 
 ****We are living in changing times,* *with concerns about the global supply chain, pandemic, war and climate change.* But, is there an opportunity to take advantage of the resulting transitioning markets? And what role do we play as marketers? Jeff Clark explains.***

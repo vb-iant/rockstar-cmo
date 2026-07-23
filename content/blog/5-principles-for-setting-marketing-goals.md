@@ -1,16 +1,19 @@
 ---
-title: "5 Principles for Setting Marketing Goals"
-date: "2023-04-09"
-slug: "5-principles-for-setting-marketing-goals"
-excerpt: "Created your OKRs? Jeff Clark takes us through the next step to get us started on creating a marketing metrics dashboard..."
+title: 5 Principles for Setting Marketing Goals
+date: '2023-04-09'
+slug: 5-principles-for-setting-marketing-goals
+excerpt: Created your OKRs? Jeff Clark takes us through the next step to get us started
+  on creating a marketing metrics dashboard...
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/3923b3424d42.jpg"
-categories: ["measurement", "rockstar-cmo-advisors", "street-knowledge"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/3923b3424d42.jpg
+tags:
+- measurement
+series: []
 needsReview: []
-sourceId: "7647"
-sourceUrl: "https://rockstarcmo.com/5-principles-for-setting-marketing-goals/"
+sourceId: '7647'
+sourceUrl: https://rockstarcmo.com/5-principles-for-setting-marketing-goals/
 ---
 
 ***Having shared the 5 f'in' fundamentals for creating marketing Objectives and Key Results (OKRs) on the podcast and his [last article](https://rockstarcmo.com/okrs-kpis-roi-omg/), Jeff Clark takes us through the next step to get us started on creating a marketing metrics dashboard...***

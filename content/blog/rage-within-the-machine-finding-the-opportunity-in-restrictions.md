@@ -1,16 +1,20 @@
 ---
-title: "Rage Within the Machine: Finding the Opportunity in Restrictions"
-date: "2018-05-31"
-slug: "rage-within-the-machine-finding-the-opportunity-in-restrictions"
-excerpt: "The most rockin’ of rock stars know rules are made to be broken. Or are they? Gareth Mayfinds out whether the best way to get your brand over the line is not to cross it.﻿"
+title: 'Rage Within the Machine: Finding the Opportunity in Restrictions'
+date: '2018-05-31'
+slug: rage-within-the-machine-finding-the-opportunity-in-restrictions
+excerpt: "The most rockin’ of rock stars know rules are made to be broken. Or are\
+  \ they? Gareth Mayfinds out whether the best way to get your brand over the line\
+  \ is not to cross it.\uFEFF"
 excerptGenerated: false
-author: "Gareth May"
-authorSlug: "gareth-may"
-image: "/images/blog/acec961e5042.jpg"
-categories: ["the-age-of-consent"]
+author: Gareth May
+authorSlug: gareth-may
+image: /images/blog/acec961e5042.jpg
+tags: []
+series:
+- the-age-of-consent
 needsReview: []
-sourceId: "1003"
-sourceUrl: "https://rockstarcmo.com/rage-within-the-machine-finding-the-opportunity-in-restrictions/"
+sourceId: '1003'
+sourceUrl: https://rockstarcmo.com/rage-within-the-machine-finding-the-opportunity-in-restrictions/
 ---
 
 **The most rockin’ of rock stars know rules are made to be broken. Or are they? [Gareth May](/gareth-may) finds out whether the best way to get your brand over the line is not to cross it.**

@@ -1,16 +1,21 @@
 ---
-title: "Don’t call me, I ain’t listening"
-date: "2019-06-29"
-slug: "dont-call-me-i-aint-listening"
-excerpt: "In 1980 Blondie urged us to \"CALL ME\" but in 2019 as a way to build a business, the telephone seems as outdated as the cassette tape I first heard her say that on. But.. not so fast, some of the best commercial relationships start with the coldest of calls, as business development expert Keith Smith explores."
+title: Don’t call me, I ain’t listening
+date: '2019-06-29'
+slug: dont-call-me-i-aint-listening
+excerpt: In 1980 Blondie urged us to "CALL ME" but in 2019 as a way to build a business,
+  the telephone seems as outdated as the cassette tape I first heard her say that
+  on. But.. not so fast, some of the best commercial relationships start with the
+  coldest of calls, as business development expert Keith Smith explores.
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/fdc28b9073d9.jpg"
-categories: ["the-inside-in-inside-out-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/fdc28b9073d9.jpg
+tags: []
+series:
+- the-inside-in-inside-out-issue
 needsReview: []
-sourceId: "3852"
-sourceUrl: "https://rockstarcmo.com/dont-call-me-i-aint-listening/"
+sourceId: '3852'
+sourceUrl: https://rockstarcmo.com/dont-call-me-i-aint-listening/
 ---
 
 ***In 1980 Blondie urged us to "CALL ME", but in 2019 as a way to build a business, the telephone seems as outdated as the cassette tape I first heard her say that on. But.. not so fast, some of the best commercial relationships start with the coldest of calls, as business development expert Keith Smith explores.***

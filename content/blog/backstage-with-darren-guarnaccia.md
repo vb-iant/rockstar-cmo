@@ -1,16 +1,20 @@
 ---
-title: "Backstage with Darren Guarnaccia"
-date: "2018-04-26"
-slug: "backstage-with-darren-guarnaccia"
-excerpt: "Darren chats to Ian Truscott and we discover what drive this marketing software veteran"
+title: Backstage with Darren Guarnaccia
+date: '2018-04-26'
+slug: backstage-with-darren-guarnaccia
+excerpt: Darren chats to Ian Truscott and we discover what drive this marketing software
+  veteran
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/0cb3a7d1a139.jpg"
-categories: ["backstage", "project-funk-da-world"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/0cb3a7d1a139.jpg
+tags: []
+series:
+- backstage
+- project-funk-da-world
 needsReview: []
-sourceId: "142"
-sourceUrl: "https://rockstarcmo.com/backstage-with-darren-guarnaccia/"
+sourceId: '142'
+sourceUrl: https://rockstarcmo.com/backstage-with-darren-guarnaccia/
 ---
 
 **In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them a rock star, what excites them and what we might learn on our journey to marketing rock stardom.**

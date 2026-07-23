@@ -1,16 +1,21 @@
 ---
-title: "Light up the sky like a flame, fame!"
-date: "2020-06-01"
-slug: "light-up-the-sky-like-a-flame-fame"
-excerpt: "He may not be Irene Cara, but this month Dennis Shiao tells his inspiring personal branding story. It’s something you might have got a hint of when we chatted to him on the podcast, from the Yankees, through virtual events to lights camera, action."
+title: Light up the sky like a flame, fame!
+date: '2020-06-01'
+slug: light-up-the-sky-like-a-flame-fame
+excerpt: He may not be Irene Cara, but this month Dennis Shiao tells his inspiring
+  personal branding story. It’s something you might have got a hint of when we chatted
+  to him on the podcast, from the Yankees, through virtual events to lights camera,
+  action.
 excerptGenerated: false
-author: "Dennis Shiao"
-authorSlug: "dennis-shiao"
-image: "/images/blog/288f71ec3333.jpg"
-categories: ["the-club-classics-volume-one-issue"]
+author: Dennis Shiao
+authorSlug: dennis-shiao
+image: /images/blog/288f71ec3333.jpg
+tags: []
+series:
+- the-club-classics-volume-one-issue
 needsReview: []
-sourceId: "5747"
-sourceUrl: "https://rockstarcmo.com/light-up-the-sky-like-a-flame-fame/"
+sourceId: '5747'
+sourceUrl: https://rockstarcmo.com/light-up-the-sky-like-a-flame-fame/
 ---
 
 ***He may not be Irene Cara, but this month Dennis Shiao tells his inspiring personal branding story. It’s something you might have got a hint of when we chatted to him on the podcast, from the Yankees, through virtual events to lights camera, action.***

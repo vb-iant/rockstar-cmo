@@ -1,16 +1,19 @@
 ---
-title: "Pay attention to the person in the partnership"
-date: "2019-09-30"
-slug: "pay-attention-to-the-person-in-the-partnership"
-excerpt: "When you find that potential partner, this advice, that our resident Rockstar Ted Rubin got for his first sales role, holds true today."
+title: Pay attention to the person in the partnership
+date: '2019-09-30'
+slug: pay-attention-to-the-person-in-the-partnership
+excerpt: When you find that potential partner, this advice, that our resident Rockstar
+  Ted Rubin got for his first sales role, holds true today.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/91eb73950e06.jpg"
-categories: ["the-one-nation-under-a-groove-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/91eb73950e06.jpg
+tags: []
+series:
+- the-one-nation-under-a-groove-issue
 needsReview: []
-sourceId: "4397"
-sourceUrl: "https://rockstarcmo.com/pay-attention-to-the-person-in-the-partnership/"
+sourceId: '4397'
+sourceUrl: https://rockstarcmo.com/pay-attention-to-the-person-in-the-partnership/
 ---
 
 ***In this issue, we’ve focused on who marketing leaders should duet with to make beautiful marketing music. When you find that potential partner, this advice, that our resident Rockstar Ted Rubin got for his first sales role, holds true today, it's all about paying attention and remembering that business relationships are with people.***

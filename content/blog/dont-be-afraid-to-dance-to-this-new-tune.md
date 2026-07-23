@@ -1,16 +1,21 @@
 ---
-title: "Don’t be afraid to dance to this new tune"
-date: "2020-04-30"
-slug: "dont-be-afraid-to-dance-to-this-new-tune"
-excerpt: "Deep in lock down, our resident business development rock star Keith Smith, offers us a pep talk. Although personally difficult, the role of sales and marketing is to bring change and to get the crowd to dance to a different tune. Well, a new tune has dropped, time to get on the dance floor."
+title: Don’t be afraid to dance to this new tune
+date: '2020-04-30'
+slug: dont-be-afraid-to-dance-to-this-new-tune
+excerpt: Deep in lock down, our resident business development rock star Keith Smith,
+  offers us a pep talk. Although personally difficult, the role of sales and marketing
+  is to bring change and to get the crowd to dance to a different tune. Well, a new
+  tune has dropped, time to get on the dance floor.
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/281748889f97.jpg"
-categories: ["the-welcome-to-jamrock-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/281748889f97.jpg
+tags: []
+series:
+- the-welcome-to-jamrock-issue
 needsReview: []
-sourceId: "5646"
-sourceUrl: "https://rockstarcmo.com/dont-be-afraid-to-dance-to-this-new-tune/"
+sourceId: '5646'
+sourceUrl: https://rockstarcmo.com/dont-be-afraid-to-dance-to-this-new-tune/
 ---
 
 ***Deep in lock down, our resident business development rock star Keith Smith, offers us a pep talk. Although personally difficult, the role of sales and marketing is to bring change and to get the crowd to dance to a different tune. Well, a new tune has dropped, time to get on the dance floor.***

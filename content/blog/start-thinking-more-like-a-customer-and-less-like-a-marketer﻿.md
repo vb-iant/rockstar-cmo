@@ -1,16 +1,20 @@
 ---
-title: "Start Thinking More Like a Customer and Less Like a Marketer"
-date: "2019-04-25"
-slug: "start-thinking-more-like-a-customer-and-less-like-a-marketer%ef%bb%bf"
-excerpt: "We are all consumers, so why do we find it so easy to forget what ticks us off as consumers when we design our marketing? Ted Rubin has some straightforward advice."
+title: Start Thinking More Like a Customer and Less Like a Marketer
+date: '2019-04-25'
+slug: start-thinking-more-like-a-customer-and-less-like-a-marketer%ef%bb%bf
+excerpt: We are all consumers, so why do we find it so easy to forget what ticks us
+  off as consumers when we design our marketing? Ted Rubin has some straightforward
+  advice.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/91eb73950e06.jpg"
-categories: ["the-changesbowie-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/91eb73950e06.jpg
+tags: []
+series:
+- the-changesbowie-issue
 needsReview: []
-sourceId: "3568"
-sourceUrl: "https://rockstarcmo.com/start-thinking-more-like-a-customer-and-less-like-a-marketer%ef%bb%bf/"
+sourceId: '3568'
+sourceUrl: https://rockstarcmo.com/start-thinking-more-like-a-customer-and-less-like-a-marketer%ef%bb%bf/
 ---
 
 ![](/images/blog/7cfd62094ce5.jpg)

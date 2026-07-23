@@ -1,16 +1,20 @@
 ---
-title: "Tales from The Tour Bus: Rachel \"Wackadoos\" Miller"
-date: "2020-03-30"
-slug: "tales-from-the-tour-bus-rachel-wackadoos-miller"
-excerpt: "We catch-up with Rachel Miller, who recently joined SAP as Global Influencer Marketing Lead. We get some tips on B2B marketing, beer and what she would chuck into the pool."
+title: 'Tales from The Tour Bus: Rachel "Wackadoos" Miller'
+date: '2020-03-30'
+slug: tales-from-the-tour-bus-rachel-wackadoos-miller
+excerpt: We catch-up with Rachel Miller, who recently joined SAP as Global Influencer
+  Marketing Lead. We get some tips on B2B marketing, beer and what she would chuck
+  into the pool.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/c3f67e303652.jpg"
-categories: ["the-ghost-town-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/c3f67e303652.jpg
+tags: []
+series:
+- the-ghost-town-issue
 needsReview: []
-sourceId: "5502"
-sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-rachel-wackadoos-miller/"
+sourceId: '5502'
+sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-rachel-wackadoos-miller/
 ---
 
 ![](/images/blog/1869ab3c5e54.jpg)

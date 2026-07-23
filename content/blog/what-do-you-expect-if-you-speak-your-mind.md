@@ -1,16 +1,21 @@
 ---
-title: "What do you expect if you speak your mind?"
-date: "2020-09-03"
-slug: "what-do-you-expect-if-you-speak-your-mind"
-excerpt: "The blurry lines between personal opinion expressed on social media and those aligned with your employer seemed to have done it for Tom Goodwin at Publicis. Keith Smith, MD at the Advertist isn’t surprised and he has a theory about why this is more common as we’re working more from home."
+title: What do you expect if you speak your mind?
+date: '2020-09-03'
+slug: what-do-you-expect-if-you-speak-your-mind
+excerpt: The blurry lines between personal opinion expressed on social media and those
+  aligned with your employer seemed to have done it for Tom Goodwin at Publicis. Keith
+  Smith, MD at the Advertist isn’t surprised and he has a theory about why this is
+  more common as we’re working more from home.
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/7dd93fd70b3d.jpg"
-categories: ["the-blur-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/7dd93fd70b3d.jpg
+tags: []
+series:
+- the-blur-issue
 needsReview: []
-sourceId: "5954"
-sourceUrl: "https://rockstarcmo.com/what-do-you-expect-if-you-speak-your-mind/"
+sourceId: '5954'
+sourceUrl: https://rockstarcmo.com/what-do-you-expect-if-you-speak-your-mind/
 ---
 
 ***The blurry lines between personal opinion expressed on social media and those aligned with your employer seemed to have done it for Tom Goodwin at Publicis. Keith Smith, MD at the Advertist isn’t surprised and he has a theory about why this is more common as we’re working more from home.***

@@ -1,16 +1,22 @@
 ---
-title: "Backstage with Margaret Molloy"
-date: "2019-01-31"
-slug: "backstage-with-margaret-molloy"
-excerpt: "Margaret Molloy, Forbes Top 5 Most Influential CMOs talks about the power of simplicity, always staying relevant to the customer, and building brands into movements."
+title: Backstage with Margaret Molloy
+date: '2019-01-31'
+slug: backstage-with-margaret-molloy
+excerpt: Margaret Molloy, Forbes Top 5 Most Influential CMOs talks about the power
+  of simplicity, always staying relevant to the customer, and building brands into
+  movements.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/af25fc422a87.jpg"
-categories: ["backstage", "brand-new-thang", "the-breaking-glass-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/af25fc422a87.jpg
+tags: []
+series:
+- backstage
+- brand-new-thang
+- the-breaking-glass-issue
 needsReview: []
-sourceId: "3129"
-sourceUrl: "https://rockstarcmo.com/backstage-with-margaret-molloy/"
+sourceId: '3129'
+sourceUrl: https://rockstarcmo.com/backstage-with-margaret-molloy/
 ---
 
 **Global Chief Marketing Officer and Head of Business Development at [Siegel+Gale](https://www.siegelgale.com/), Margaret Molloy is renowned for bringing sense and sensibility – a potent blend of analytics and creative thinking – to everything she does. Ian Truscott sat down with the Forbes Top 5 Most Influential CMO on Social Media to talk about the power of simplicity, always staying relevant to the customer, and building brands into movements.**

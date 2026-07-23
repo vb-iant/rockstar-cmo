@@ -1,16 +1,20 @@
 ---
-title: "Reach Out and Touch"
-date: "2018-09-26"
-slug: "reach-out-and-touch"
-excerpt: "How exactly have these artisans become headline acts? Amie Knights talks to the Craft Revolution, furniture maker Heather Scott and design journalist Katie Treggiden, to get the backstage scoop."
+title: Reach Out and Touch
+date: '2018-09-26'
+slug: reach-out-and-touch
+excerpt: How exactly have these artisans become headline acts? Amie Knights talks
+  to the Craft Revolution, furniture maker Heather Scott and design journalist Katie
+  Treggiden, to get the backstage scoop.
 excerptGenerated: false
-author: "Amie Knights"
-authorSlug: "amie-knights"
-image: "/images/blog/07c4580955aa.jpg"
-categories: ["nevermind"]
+author: Amie Knights
+authorSlug: amie-knights
+image: /images/blog/07c4580955aa.jpg
+tags: []
+series:
+- nevermind
 needsReview: []
-sourceId: "1119"
-sourceUrl: "https://rockstarcmo.com/reach-out-and-touch/"
+sourceId: '1119'
+sourceUrl: https://rockstarcmo.com/reach-out-and-touch/
 ---
 
 **This summer thousands of revelers sought out the ultimate festival experience. Though it wasn’t guitar shredding or whiplash they were hoping for. For this growing community, the rockstar headliners are brewers, chefs and potters.** **How exactly have these artisans become headline acts?** [**Amie Knights**](https://rockstarcmo.wpengine.com/amie-knights) **talks to the Craft Revolution, furniture maker Heather Scott and design journalist Katie Treggiden, to get the backstage scoop.**

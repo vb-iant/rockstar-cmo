@@ -1,16 +1,22 @@
 ---
-title: "Could Unilever be Marketing’s Bob Geldof?"
-date: "2018-03-21"
-slug: "could-unilever-be-marketings-bob-geldof"
-excerpt: "Unilever has taken a stand over the fast and loose approach that social platforms are taking to their social responsibilities, yet in marketing we a similar reputation of being self-serving, more excited when someone does something cool that sells more Oreos than saving the world. Ian Truscott if brands will take the high road and follow Unilever... ﻿"
+title: Could Unilever be Marketing’s Bob Geldof?
+date: '2018-03-21'
+slug: could-unilever-be-marketings-bob-geldof
+excerpt: "Unilever has taken a stand over the fast and loose approach that social\
+  \ platforms are taking to their social responsibilities, yet in marketing we a similar\
+  \ reputation of being self-serving, more excited when someone does something cool\
+  \ that sells more Oreos than saving the world. Ian Truscott if brands will take\
+  \ the high road and follow Unilever... \uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/8c9a8925e1c0.jpg"
-categories: ["sound-check"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/8c9a8925e1c0.jpg
+tags: []
+series:
+- sound-check
 needsReview: []
-sourceId: "892"
-sourceUrl: "https://rockstarcmo.com/could-unilever-be-marketings-bob-geldof/"
+sourceId: '892'
+sourceUrl: https://rockstarcmo.com/could-unilever-be-marketings-bob-geldof/
 ---
 
 **Unilever has taken a stand over the fast and loose approach that social platforms are taking to their social responsibilities, yet in marketing we a similar reputation of being self-serving, more excited when someone does something cool that sells more Oreos than saving the world. Ian Truscott if brands will take the high road and follow Unilever...**

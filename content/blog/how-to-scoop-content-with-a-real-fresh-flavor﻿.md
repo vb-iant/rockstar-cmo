@@ -1,16 +1,21 @@
 ---
-title: "How To Scoop Content With a Real Fresh Flavor"
-date: "2019-01-31"
-slug: "how-to-scoop-content-with-a-real-fresh-flavor%ef%bb%bf"
-excerpt: "Casey Petersen on how an ice cream shop employee reminded him of the best way to smash those 2019 marketing goals. Changing your attitude to employee generated content."
+title: How To Scoop Content With a Real Fresh Flavor
+date: '2019-01-31'
+slug: how-to-scoop-content-with-a-real-fresh-flavor%ef%bb%bf
+excerpt: Casey Petersen on how an ice cream shop employee reminded him of the best
+  way to smash those 2019 marketing goals. Changing your attitude to employee generated
+  content.
 excerptGenerated: false
-author: "Casey Petersen"
-authorSlug: "casey-petersen"
-image: "/images/blog/6e7d6e8776cc.jpg"
-categories: ["brand-new-thang", "employee-engagement"]
+author: Casey Petersen
+authorSlug: casey-petersen
+image: /images/blog/6e7d6e8776cc.jpg
+tags:
+- employee-engagement
+series:
+- brand-new-thang
 needsReview: []
-sourceId: "3143"
-sourceUrl: "https://rockstarcmo.com/how-to-scoop-content-with-a-real-fresh-flavor%ef%bb%bf/"
+sourceId: '3143'
+sourceUrl: https://rockstarcmo.com/how-to-scoop-content-with-a-real-fresh-flavor%ef%bb%bf/
 ---
 
 [**Photofy’s**](https://photofy.com/) **Vice President of Marketing, Casey Petersen, on how an ice cream shop employee reminded him of the best way to smash those 2019 marketing goals. Changing your attitude to employee generated content.**

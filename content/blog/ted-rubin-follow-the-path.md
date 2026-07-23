@@ -1,16 +1,20 @@
 ---
-title: "Don’t Follow the Crowd, #FollowThePath"
-date: "2018-04-26"
-slug: "ted-rubin-follow-the-path"
-excerpt: "Photofy CMO, MC/Host of Brand Innovators Summits, and Co-Founder of Prevailing Path Ted Rubin is our resident rock star. Each issue, he’s sounding off on the challenges faced by the marketing industry today."
+title: 'Don’t Follow the Crowd, #FollowThePath'
+date: '2018-04-26'
+slug: ted-rubin-follow-the-path
+excerpt: Photofy CMO, MC/Host of Brand Innovators Summits, and Co-Founder of Prevailing
+  Path Ted Rubin is our resident rock star. Each issue, he’s sounding off on the challenges
+  faced by the marketing industry today.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/6671507a6440.jpg"
-categories: ["project-funk-da-world"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/6671507a6440.jpg
+tags: []
+series:
+- project-funk-da-world
 needsReview: []
-sourceId: "953"
-sourceUrl: "https://rockstarcmo.com/ted-rubin-follow-the-path/"
+sourceId: '953'
+sourceUrl: https://rockstarcmo.com/ted-rubin-follow-the-path/
 ---
 
 **Photofy CMO, MC/Host of Brand Innovators Summits, and Co-Founder of Prevailing Path** [**Ted Rubin**](/ted-rubin) **is our resident rock star. Each issue, he’s sounding off on the challenges faced by the marketing industry today.**

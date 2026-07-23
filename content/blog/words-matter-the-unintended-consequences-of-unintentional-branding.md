@@ -1,16 +1,21 @@
 ---
-title: "Words matter: The unintended consequences of unintentional branding"
-date: "2021-01-08"
-slug: "words-matter-the-unintended-consequences-of-unintentional-branding"
-excerpt: "Personal branding expert, Jane Scandurra, has been our font of knowledge and rockstar life coach for how we've coped with the pandemic and all that 2020 has thrown at us. In this article, she focuses on the words that have summarized 2020, and most of all the specter of being \"non-essential\"."
+title: 'Words matter: The unintended consequences of unintentional branding'
+date: '2021-01-08'
+slug: words-matter-the-unintended-consequences-of-unintentional-branding
+excerpt: Personal branding expert, Jane Scandurra, has been our font of knowledge
+  and rockstar life coach for how we've coped with the pandemic and all that 2020
+  has thrown at us. In this article, she focuses on the words that have summarized
+  2020, and most of all the specter of being "non-essential".
 excerptGenerated: false
-author: "Jane Scandurra"
-authorSlug: "jane-scandurra"
-image: "/images/blog/8c57e5f1acb9.jpg"
-categories: ["street-knowledge", "the-youve-come-a-long-way-baby-issue"]
+author: Jane Scandurra
+authorSlug: jane-scandurra
+image: /images/blog/8c57e5f1acb9.jpg
+tags: []
+series:
+- the-youve-come-a-long-way-baby-issue
 needsReview: []
-sourceId: "6297"
-sourceUrl: "https://rockstarcmo.com/words-matter-the-unintended-consequences-of-unintentional-branding/"
+sourceId: '6297'
+sourceUrl: https://rockstarcmo.com/words-matter-the-unintended-consequences-of-unintentional-branding/
 ---
 
 ***Personal branding expert, Jane Scandurra, has been our font of knowledge and rockstar life coach for how we've coped with the pandemic and all that 2020 has thrown at us. In this article, she focuses on the words that have summarized 2020, and most of all the specter of being "non-essential".***

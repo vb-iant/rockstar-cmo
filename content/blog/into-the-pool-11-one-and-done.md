@@ -1,16 +1,20 @@
 ---
-title: "Into the Pool #11: One and DONE!"
-date: "2019-01-31"
-slug: "into-the-pool-11-one-and-done"
-excerpt: "This month, Ian Truscott is inspired by Wendy Bryant-Beswick, VP of Marketing at Service Credit Union, and ponders if time is up for ‘one and done’ marketing."
+title: 'Into the Pool #11: One and DONE!'
+date: '2019-01-31'
+slug: into-the-pool-11-one-and-done
+excerpt: This month, Ian Truscott is inspired by Wendy Bryant-Beswick, VP of Marketing
+  at Service Credit Union, and ponders if time is up for ‘one and done’ marketing.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/88d48006f2fe.jpg"
-categories: ["brand-new-thang", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/88d48006f2fe.jpg
+tags: []
+series:
+- brand-new-thang
+- the-swimming-pool
 needsReview: []
-sourceId: "3123"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-11-one-and-done/"
+sourceId: '3123'
+sourceUrl: https://rockstarcmo.com/into-the-pool-11-one-and-done/
 ---
 
 ![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/aftab-chandsha-433315-unsplash-1.jpg?fit=834%2C486)

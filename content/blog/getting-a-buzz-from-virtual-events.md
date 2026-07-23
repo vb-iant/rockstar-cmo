@@ -1,16 +1,21 @@
 ---
-title: "Getting a buzz from virtual events"
-date: "2020-04-30"
-slug: "getting-a-buzz-from-virtual-events"
-excerpt: "As we shared on the podcast, Dennis Shiao is a virtual event veteran. Although he admits that in the past they have left him cold, he shares how a new breed of virtual events is giving him a taste of the IRL (in real life) high."
+title: Getting a buzz from virtual events
+date: '2020-04-30'
+slug: getting-a-buzz-from-virtual-events
+excerpt: As we shared on the podcast, Dennis Shiao is a virtual event veteran. Although
+  he admits that in the past they have left him cold, he shares how a new breed of
+  virtual events is giving him a taste of the IRL (in real life) high.
 excerptGenerated: false
-author: "Dennis Shiao"
-authorSlug: "dennis-shiao"
-image: "/images/blog/0ee5c1c40546.jpg"
-categories: ["street-knowledge", "the-welcome-to-jamrock-issue"]
-needsReview: ["embed_block"]
-sourceId: "5631"
-sourceUrl: "https://rockstarcmo.com/getting-a-buzz-from-virtual-events/"
+author: Dennis Shiao
+authorSlug: dennis-shiao
+image: /images/blog/0ee5c1c40546.jpg
+tags: []
+series:
+- the-welcome-to-jamrock-issue
+needsReview:
+- embed_block
+sourceId: '5631'
+sourceUrl: https://rockstarcmo.com/getting-a-buzz-from-virtual-events/
 ---
 
 ***As we shared [on the podcast](https://rockstarcmo.com/rockstar-cmo-fm-getting-virtual-with-dennis-shiao/), Dennis Shiao is a virtual event veteran. Although he admits that in the past they have left him cold, he shares how a new breed of virtual events is giving him a taste of the IRL (in real life) high.***

@@ -1,16 +1,21 @@
 ---
-title: "Tales from the Tour Bus: Dennis Shiao"
-date: "2019-07-25"
-slug: "tales-from-the-tour-bus-dennis-shiao"
-excerpt: "Known by his Twitter fans for his passion for content marketing, expressed in his work and regular columns for CMSWire and The Content Marketing Institute, we hop on the tour bus with Dennis Shaio."
+title: 'Tales from the Tour Bus: Dennis Shiao'
+date: '2019-07-25'
+slug: tales-from-the-tour-bus-dennis-shiao
+excerpt: Known by his Twitter fans for his passion for content marketing, expressed
+  in his work and regular columns for CMSWire and The Content Marketing Institute,
+  we hop on the tour bus with Dennis Shaio.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/d68fbde458f0.png"
-categories: ["tales-from-the-tour-bus", "the-think-about-it-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/d68fbde458f0.png
+tags: []
+series:
+- tales-from-the-tour-bus
+- the-think-about-it-issue
 needsReview: []
-sourceId: "4002"
-sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-dennis-shiao/"
+sourceId: '4002'
+sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-dennis-shiao/
 ---
 
 ***This month we hopped onto the Tour Bus with Dennis Shiao, a long-time influential content marketer, today known for his regular columns for*** [***CMSWire***](https://cmswire.com)***,*** [***The Content Marketing Institute***](https://contentmarketinginstitute.com/blog/) ***and his previous work at DNN Software.***

@@ -1,16 +1,21 @@
 ---
-title: "Fantasy Land"
-date: "2018-10-31"
-slug: "fantasy-land"
-excerpt: "Helene Dancer finds out why, in an age of screens, experiences are more important than ever… And the trick? It’s all in the treat. ﻿"
+title: Fantasy Land
+date: '2018-10-31'
+slug: fantasy-land
+excerpt: "Helene Dancer finds out why, in an age of screens, experiences are more\
+  \ important than ever… And the trick? It’s all in the treat. \uFEFF"
 excerptGenerated: false
-author: "Helene Dancer"
-authorSlug: "helene-dancer"
-image: "/images/blog/311ac293c45f.jpg"
-categories: ["thriller"]
-needsReview: ["raw_html_block", "iframe"]
-sourceId: "1134"
-sourceUrl: "https://rockstarcmo.com/fantasy-land/"
+author: Helene Dancer
+authorSlug: helene-dancer
+image: /images/blog/311ac293c45f.jpg
+tags: []
+series:
+- thriller
+needsReview:
+- raw_html_block
+- iframe
+sourceId: '1134'
+sourceUrl: https://rockstarcmo.com/fantasy-land/
 ---
 
 **Spectacular. Mind-bending. Out of this world. All words increasingly used to describe experiential marketing campaigns that are growing more awe inspiring than ever.** [**Helene Dancer**](/helene-dancer) **finds out why, in an age of screens, experiences are more important than ever… And the trick? It’s all in the treat.**

@@ -1,16 +1,20 @@
 ---
-title: "Maintaining a bitchin’ relationship"
-date: "2019-09-29"
-slug: "maintaining-a-bitchin-relationship"
-excerpt: "Marketing journalist Morag Cuddeford-Jones casts a cynical eye over the true nature of the relationships between marketing, their agencies and tech vendors, but has some positive advice on how to turn bitchin' to a bitchin' relationship."
+title: Maintaining a bitchin’ relationship
+date: '2019-09-29'
+slug: maintaining-a-bitchin-relationship
+excerpt: Marketing journalist Morag Cuddeford-Jones casts a cynical eye over the true
+  nature of the relationships between marketing, their agencies and tech vendors,
+  but has some positive advice on how to turn bitchin' to a bitchin' relationship.
 excerptGenerated: false
-author: "Morag Cuddeford-Jones"
-authorSlug: "morag-cuddeford-jones"
-image: "/images/blog/0e4799f0cdb6.jpg"
-categories: ["the-one-nation-under-a-groove-issue"]
+author: Morag Cuddeford-Jones
+authorSlug: morag-cuddeford-jones
+image: /images/blog/0e4799f0cdb6.jpg
+tags: []
+series:
+- the-one-nation-under-a-groove-issue
 needsReview: []
-sourceId: "4424"
-sourceUrl: "https://rockstarcmo.com/maintaining-a-bitchin-relationship/"
+sourceId: '4424'
+sourceUrl: https://rockstarcmo.com/maintaining-a-bitchin-relationship/
 ---
 
 ![](/images/blog/e32f18b1589c.jpg)

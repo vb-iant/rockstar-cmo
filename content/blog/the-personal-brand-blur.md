@@ -1,16 +1,20 @@
 ---
-title: "The personal brand blur"
-date: "2020-09-04"
-slug: "the-personal-brand-blur"
-excerpt: "Accomplished B2B marketer and marketing writer Dennis Shiao shares his experience of balancing his personal brand with that of his employers and what he learned about that blurry line early in his career."
+title: The personal brand blur
+date: '2020-09-04'
+slug: the-personal-brand-blur
+excerpt: Accomplished B2B marketer and marketing writer Dennis Shiao shares his experience
+  of balancing his personal brand with that of his employers and what he learned about
+  that blurry line early in his career.
 excerptGenerated: false
-author: "Dennis Shiao"
-authorSlug: "dennis-shiao"
-image: "/images/blog/98ae74d8c46d.jpg"
-categories: ["the-blur-issue"]
+author: Dennis Shiao
+authorSlug: dennis-shiao
+image: /images/blog/98ae74d8c46d.jpg
+tags: []
+series:
+- the-blur-issue
 needsReview: []
-sourceId: "5971"
-sourceUrl: "https://rockstarcmo.com/the-personal-brand-blur/"
+sourceId: '5971'
+sourceUrl: https://rockstarcmo.com/the-personal-brand-blur/
 ---
 
 ***When we talk about the blur between our professional persona and our personal persona the topic of our personal brand sits right on that cusp. But, it's a fine line. Be too dull and corporate, nobody cares about you. Lean in too far with the personality, and you could look like that boring accountant at the party who overcompensates with a loud tie. Or, express an opinion your employer doesn't align with and we know how that can go.***

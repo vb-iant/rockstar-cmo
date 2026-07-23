@@ -1,16 +1,21 @@
 ---
-title: "The Rise Of the Marketing Machines: David Aponovich"
-date: "2019-04-25"
-slug: "the-rise-of-the-marketing-machines-david-aponovich"
-excerpt: "We’ve heard the views of the marketers on the rise of the marketing machines, but what do the Martech industry insiders think? We asked David Aponovich for his take.﻿"
+title: 'The Rise Of the Marketing Machines: David Aponovich'
+date: '2019-04-25'
+slug: the-rise-of-the-marketing-machines-david-aponovich
+excerpt: "We’ve heard the views of the marketers on the rise of the marketing machines,\
+  \ but what do the Martech industry insiders think? We asked David Aponovich for\
+  \ his take.\uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/3d436c57bac2.png"
-categories: ["the-changesbowie-issue", "the-martech-mix-desk"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/3d436c57bac2.png
+tags: []
+series:
+- the-changesbowie-issue
+- the-martech-mix-desk
 needsReview: []
-sourceId: "3603"
-sourceUrl: "https://rockstarcmo.com/the-rise-of-the-marketing-machines-david-aponovich/"
+sourceId: '3603'
+sourceUrl: https://rockstarcmo.com/the-rise-of-the-marketing-machines-david-aponovich/
 ---
 
 ***We’ve heard the views of the marketers in last month’s Green Room on the rise of the marketing machines, but what do the Martech industry insiders think? In the first of these interviews, we asked David Aponovich for his take.***

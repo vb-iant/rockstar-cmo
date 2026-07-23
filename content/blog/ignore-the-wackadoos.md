@@ -1,16 +1,19 @@
 ---
-title: "Ignore the Wackadoos, Create Community and Value through Meaningful Engagement"
-date: "2019-03-28"
-slug: "ignore-the-wackadoos"
-excerpt: "It's time to up your game from vanity metrics to getting value from building relationships, as Rachel Miller, social and influencer marketing expert explains."
+title: Ignore the Wackadoos, Create Community and Value through Meaningful Engagement
+date: '2019-03-28'
+slug: ignore-the-wackadoos
+excerpt: It's time to up your game from vanity metrics to getting value from building
+  relationships, as Rachel Miller, social and influencer marketing expert explains.
 excerptGenerated: false
-author: "Rachel Miller"
-authorSlug: "rachel-miller"
-image: "/images/blog/7bed9db1f5c3.jpg"
-categories: ["the-ghost-in-the-machine-issue"]
+author: Rachel Miller
+authorSlug: rachel-miller
+image: /images/blog/7bed9db1f5c3.jpg
+tags: []
+series:
+- the-ghost-in-the-machine-issue
 needsReview: []
-sourceId: "3394"
-sourceUrl: "https://rockstarcmo.com/ignore-the-wackadoos/"
+sourceId: '3394'
+sourceUrl: https://rockstarcmo.com/ignore-the-wackadoos/
 ---
 
 ***It's time to up your game from vanity metrics to getting value from building relationships, as Rachel Miller, social and influencer marketing expert explains.***

@@ -1,16 +1,21 @@
 ---
-title: "Why the Future of Retail is Not About the US"
-date: "2018-03-21"
-slug: "why-future-of-retail-not-about-the-us"
-excerpt: "Think America is the be-all and end-all of retail? Think again. Ted Rubin, acting CMO of Brand Innovators and co-founder of Prevailing Path, explores why we need to look further than the States to understand where the future of retail really lies."
+title: Why the Future of Retail is Not About the US
+date: '2018-03-21'
+slug: why-future-of-retail-not-about-the-us
+excerpt: Think America is the be-all and end-all of retail? Think again. Ted Rubin,
+  acting CMO of Brand Innovators and co-founder of Prevailing Path, explores why we
+  need to look further than the States to understand where the future of retail really
+  lies.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/49af3ceb3775.jpg"
-categories: ["sound-check"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/49af3ceb3775.jpg
+tags: []
+series:
+- sound-check
 needsReview: []
-sourceId: "147"
-sourceUrl: "https://rockstarcmo.com/why-future-of-retail-not-about-the-us/"
+sourceId: '147'
+sourceUrl: https://rockstarcmo.com/why-future-of-retail-not-about-the-us/
 ---
 
 **Think America is the be-all and end-all of retail? Think again. Ted Rubin, acting CMO of Brand Innovators and co-founder of Prevailing Path, explores why we need to look further than the States to understand where the future of retail really lies.**

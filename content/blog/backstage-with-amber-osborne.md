@@ -1,16 +1,22 @@
 ---
-title: "Backstage with Amber Osborne"
-date: "2018-09-26"
-slug: "backstage-with-amber-osborne"
-excerpt: "Amber Osborne, Forbes #2 Most Influential CMO on Social, discusses feeling like an imposter, destroying stereotypes in business, and the challenges disruptive markets.﻿"
+title: Backstage with Amber Osborne
+date: '2018-09-26'
+slug: backstage-with-amber-osborne
+excerpt: "Amber Osborne, Forbes #2 Most Influential CMO on Social, discusses feeling\
+  \ like an imposter, destroying stereotypes in business, and the challenges disruptive\
+  \ markets.\uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/65d600f186b3.jpg"
-categories: ["backstage", "the-breaking-glass-issue", "nevermind"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/65d600f186b3.jpg
+tags: []
+series:
+- backstage
+- the-breaking-glass-issue
+- nevermind
 needsReview: []
-sourceId: "794"
-sourceUrl: "https://rockstarcmo.com/backstage-with-amber-osborne/"
+sourceId: '794'
+sourceUrl: https://rockstarcmo.com/backstage-with-amber-osborne/
 ---
 
 **In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.**

@@ -1,16 +1,20 @@
 ---
-title: "Marketing to Kids Through Their Parents"
-date: "2018-07-26"
-slug: "marketing-to-kids-through-their-parents"
-excerpt: "Photofy CEO – and father – John Andrews on why parents banning their kids from games like Fortnite might be counterproductive, and marketers should be proactive in transforming a product that’s Parental Advisory, into one that’s Parental Recommended."
+title: Marketing to Kids Through Their Parents
+date: '2018-07-26'
+slug: marketing-to-kids-through-their-parents
+excerpt: Photofy CEO – and father – John Andrews on why parents banning their kids
+  from games like Fortnite might be counterproductive, and marketers should be proactive
+  in transforming a product that’s Parental Advisory, into one that’s Parental Recommended.
 excerptGenerated: false
-author: "John Andrews"
-authorSlug: "john-andrews"
-image: "/images/blog/4d23d7c818ce.jpg"
-categories: ["straight-outta-compton"]
+author: John Andrews
+authorSlug: john-andrews
+image: /images/blog/4d23d7c818ce.jpg
+tags: []
+series:
+- straight-outta-compton
 needsReview: []
-sourceId: "1174"
-sourceUrl: "https://rockstarcmo.com/marketing-to-kids-through-their-parents/"
+sourceId: '1174'
+sourceUrl: https://rockstarcmo.com/marketing-to-kids-through-their-parents/
 ---
 
 **Photofy CEO – and father – [John Andrews](/john-andrews) on why parents banning their kids from games like Fortnite might be counterproductive, and that to ease nervous parents’ minds, marketers should be proactive in transforming a product that’s Parental Advisory, into one that’s Parental Recommended.**

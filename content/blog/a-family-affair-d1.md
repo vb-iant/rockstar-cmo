@@ -1,16 +1,23 @@
 ---
-title: "A Family Affair"
-date: "2018-11-30"
-slug: "a-family-affair-d1"
-excerpt: "50 years ago, family was a simple proposition: mum, dad, two kids – maybe three, maybe more. In 2018, things aren’t so simple – a modern family can be many things. Single parent? Sure. Same sex parents? Absolutely. Families of divorce? Definitely. Stephen Kelly discovers that to succeed today, brands need to represent the modern family realistically. ﻿"
+title: A Family Affair
+date: '2018-11-30'
+slug: a-family-affair-d1
+excerpt: "50 years ago, family was a simple proposition: mum, dad, two kids – maybe\
+  \ three, maybe more. In 2018, things aren’t so simple – a modern family can be many\
+  \ things. Single parent? Sure. Same sex parents? Absolutely. Families of divorce?\
+  \ Definitely. Stephen Kelly discovers that to succeed today, brands need to represent\
+  \ the modern family realistically. \uFEFF"
 excerptGenerated: false
-author: "Stephen Kelly"
-authorSlug: "stephen-kelly"
-image: "/images/blog/781f421593a2.jpg"
-categories: ["features-2", "we-are-family"]
-needsReview: ["embed_block"]
-sourceId: "616"
-sourceUrl: "https://rockstarcmo.com/a-family-affair-d1/"
+author: Stephen Kelly
+authorSlug: stephen-kelly
+image: /images/blog/781f421593a2.jpg
+tags: []
+series:
+- we-are-family
+needsReview:
+- embed_block
+sourceId: '616'
+sourceUrl: https://rockstarcmo.com/a-family-affair-d1/
 ---
 
 **50 years ago, family was a simple proposition: mum, dad, two kids – maybe three, maybe more. In 2018, things aren’t so simple – a modern family can be many things. Single parent? Sure. Same sex parents? Absolutely. Families of divorce? Definitely.** [**Stephen Kelly**](/stephen-kelly) **discovers that to succeed today, brands need to represent the modern family realistically.**

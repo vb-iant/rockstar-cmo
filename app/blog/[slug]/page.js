@@ -30,10 +30,10 @@ export default function BlogPostPage({ params }) {
 
   const html = renderPostHtml(post);
 
-  // Only linkify categories that actually have a tag-index page built for
-  // them yet (issues + series) -- the rest of the raw WP category soup is
-  // carried through in frontmatter but not surfaced as clickable tags.
-  const tagLinks = (post.categories || [])
+  // Only linkify series/issue values that actually have a tag-index page
+  // built for them yet -- genuine topic tags (post.tags) don't have their
+  // own tag-index pages yet, so they aren't surfaced as clickable badges.
+  const tagLinks = (post.series || [])
     .map((c) => getTagByCollectsTag(c))
     .filter(Boolean);
 

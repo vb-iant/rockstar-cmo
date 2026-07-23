@@ -1,16 +1,19 @@
 ---
-title: "adnonamau5: The rise…and rise…and rise of the illegitimate expert"
-date: "2019-05-26"
-slug: "adnonamau5-the-riseand-riseand-rise-of-the-illegitimate-expert"
-excerpt: "This month our anonymous adman sets his unforgiving sights on the self-proclaimed \"expert\", hoping we self regulate before we drown in the bullshit."
+title: 'adnonamau5: The rise…and rise…and rise of the illegitimate expert'
+date: '2019-05-26'
+slug: adnonamau5-the-riseand-riseand-rise-of-the-illegitimate-expert
+excerpt: This month our anonymous adman sets his unforgiving sights on the self-proclaimed
+  "expert", hoping we self regulate before we drown in the bullshit.
 excerptGenerated: false
-author: "adnonamau5"
-authorSlug: "adnonamau5"
-image: "/images/blog/77524b88be2d.png"
-categories: ["the-invasion-of-privacy-issue"]
+author: adnonamau5
+authorSlug: adnonamau5
+image: /images/blog/77524b88be2d.png
+tags: []
+series:
+- the-invasion-of-privacy-issue
 needsReview: []
-sourceId: "3708"
-sourceUrl: "https://rockstarcmo.com/adnonamau5-the-riseand-riseand-rise-of-the-illegitimate-expert/"
+sourceId: '3708'
+sourceUrl: https://rockstarcmo.com/adnonamau5-the-riseand-riseand-rise-of-the-illegitimate-expert/
 ---
 
 ***Like the legendary DJ***[***Deadmau5***](https://twitter.com/deadmau5)***, our anonymous advertiser Adnonamau5 (pronounced ad-nonymous) puts on the mask, drops by the Rockstar CMO penthouse and tells us how it really is This month he sets his unforgiving sights on the self-proclaimed "expert", hoping we self regulate before we drown in the bullshit.***

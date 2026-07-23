@@ -1,16 +1,21 @@
 ---
-title: "The Swimming Pool #23: Brand purpose"
-date: "2020-03-30"
-slug: "the-swimming-pool-23-brand-purpose"
-excerpt: "In this trip to the Rockstar CMO Swimming Pool, we are inspired by Peter Morgan, Metia’s VP of Demand and our recent trip on the tour bus with him. Should 'brand purpose' be the next big splash in our portal to marketing hell?"
+title: 'The Swimming Pool #23: Brand purpose'
+date: '2020-03-30'
+slug: the-swimming-pool-23-brand-purpose
+excerpt: In this trip to the Rockstar CMO Swimming Pool, we are inspired by Peter
+  Morgan, Metia’s VP of Demand and our recent trip on the tour bus with him. Should
+  'brand purpose' be the next big splash in our portal to marketing hell?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/45e339d48f11.jpg"
-categories: ["the-ghost-town-issue", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/45e339d48f11.jpg
+tags: []
+series:
+- the-ghost-town-issue
+- the-swimming-pool
 needsReview: []
-sourceId: "5493"
-sourceUrl: "https://rockstarcmo.com/the-swimming-pool-23-brand-purpose/"
+sourceId: '5493'
+sourceUrl: https://rockstarcmo.com/the-swimming-pool-23-brand-purpose/
 ---
 
 ***In this trip to the Rockstar CMO Swimming Pool, we are inspired by Peter Morgan, [Metia](https://www.metia.com/)’s VP of Demand and our recent trip on the tour bus with him. Should 'brand purpose' be the next big splash in our portal to marketing hell?***

@@ -1,16 +1,21 @@
 ---
-title: "Into the Pool #7: Can We Get Some PR On This?"
-date: "2018-09-26"
-slug: "into-the-pool-7-can-we-get-some-pr-on-this"
-excerpt: "This month, Ian Truscott has been shooting the shit with Jenni Young. The discussion quickly turned to PR and, well, let’s just say you’d better steer clear of the pool."
+title: 'Into the Pool #7: Can We Get Some PR On This?'
+date: '2018-09-26'
+slug: into-the-pool-7-can-we-get-some-pr-on-this
+excerpt: This month, Ian Truscott has been shooting the shit with Jenni Young. The
+  discussion quickly turned to PR and, well, let’s just say you’d better steer clear
+  of the pool.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/41d974894852.jpg"
-categories: ["featured", "nevermind", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/41d974894852.jpg
+tags: []
+series:
+- nevermind
+- the-swimming-pool
 needsReview: []
-sourceId: "867"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-7-can-we-get-some-pr-on-this/"
+sourceId: '867'
+sourceUrl: https://rockstarcmo.com/into-the-pool-7-can-we-get-some-pr-on-this/
 ---
 
 ***This month, Ian Truscott has been shooting the shit with Jenni Young, the CMO of [tappit](https://justtappit.com/) – a cashless payment platform for event organizers The discussion quickly turned to PR and, well, let’s just say you’d better steer clear of the pool. Think they’re wrong? Let us know.***

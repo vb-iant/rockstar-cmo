@@ -1,16 +1,20 @@
 ---
-title: "Who should be the Lead singer in the Influencer Marketing supergroup?"
-date: "2019-10-29"
-slug: "who-should-be-the-lead-singer-in-the-influencer-marketing-supergroup"
-excerpt: "Is there a fight for the microphone when it comes to leading influencer marketing programs? Lauren Bowden Chief Content Creator at The Comms Crowd suggests it's the work of the whole band."
+title: Who should be the Lead singer in the Influencer Marketing supergroup?
+date: '2019-10-29'
+slug: who-should-be-the-lead-singer-in-the-influencer-marketing-supergroup
+excerpt: Is there a fight for the microphone when it comes to leading influencer marketing
+  programs? Lauren Bowden Chief Content Creator at The Comms Crowd suggests it's the
+  work of the whole band.
 excerptGenerated: false
-author: "Lauren Bowden"
-authorSlug: "lauren-bowden"
-image: "/images/blog/42a3c56b7784.jpg"
-categories: ["the-running-in-circles-issue"]
+author: Lauren Bowden
+authorSlug: lauren-bowden
+image: /images/blog/42a3c56b7784.jpg
+tags: []
+series:
+- the-running-in-circles-issue
 needsReview: []
-sourceId: "4535"
-sourceUrl: "https://rockstarcmo.com/who-should-be-the-lead-singer-in-the-influencer-marketing-supergroup/"
+sourceId: '4535'
+sourceUrl: https://rockstarcmo.com/who-should-be-the-lead-singer-in-the-influencer-marketing-supergroup/
 ---
 
 ***Is there a fight for the microphone when it comes to leading influencer marketing programs? Lauren Bowden Chief Content Creator at The Comms Crowd suggests it's the work of the whole band.***

@@ -1,16 +1,20 @@
 ---
-title: "Adnonamau5: In the Land of the Blind…the Consultant is King"
-date: "2020-06-01"
-slug: "adnonamau5-in-the-land-of-the-blindthe-consultant-is-king"
-excerpt: "Like the legendary DJ Deadmau5, this month our anonymous agency executive anonomau5 dons a mask to do his best work. This month his head honchos are clearly hanging out with men in gray suits."
+title: 'Adnonamau5: In the Land of the Blind…the Consultant is King'
+date: '2020-06-01'
+slug: adnonamau5-in-the-land-of-the-blindthe-consultant-is-king
+excerpt: Like the legendary DJ Deadmau5, this month our anonymous agency executive
+  anonomau5 dons a mask to do his best work. This month his head honchos are clearly
+  hanging out with men in gray suits.
 excerptGenerated: false
-author: "adnonamau5"
-authorSlug: "adnonamau5"
-image: "/images/blog/77524b88be2d.png"
-categories: ["the-club-classics-volume-one-issue"]
+author: adnonamau5
+authorSlug: adnonamau5
+image: /images/blog/77524b88be2d.png
+tags: []
+series:
+- the-club-classics-volume-one-issue
 needsReview: []
-sourceId: "5811"
-sourceUrl: "https://rockstarcmo.com/adnonamau5-in-the-land-of-the-blindthe-consultant-is-king/"
+sourceId: '5811'
+sourceUrl: https://rockstarcmo.com/adnonamau5-in-the-land-of-the-blindthe-consultant-is-king/
 ---
 
 ***Like the legendary DJ Deadmau5, our anonymous agency executive anonomau5 dons a mask to do his best work. This month his head honchos are clearly hanging out with men in gray suits.***

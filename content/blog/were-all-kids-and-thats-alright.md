@@ -1,16 +1,20 @@
 ---
-title: "We’re All Kids and That’s Alright"
-date: "2018-08-30"
-slug: "were-all-kids-and-thats-alright"
-excerpt: "Ian Truscott explores the issue of ageism in marketing, and the attributes that all marketers – regardless of whether they’re young or old – need to embrace in order to truly make a difference."
+title: We’re All Kids and That’s Alright
+date: '2018-08-30'
+slug: were-all-kids-and-thats-alright
+excerpt: Ian Truscott explores the issue of ageism in marketing, and the attributes
+  that all marketers – regardless of whether they’re young or old – need to embrace
+  in order to truly make a difference.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/96864fdda292.jpg"
-categories: ["seat-at-the-table"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/96864fdda292.jpg
+tags: []
+series:
+- seat-at-the-table
 needsReview: []
-sourceId: "1144"
-sourceUrl: "https://rockstarcmo.com/were-all-kids-and-thats-alright/"
+sourceId: '1144'
+sourceUrl: https://rockstarcmo.com/were-all-kids-and-thats-alright/
 ---
 
 Ian Truscott **explores the issue of ageism in marketing, and the attributes that all marketers – regardless of whether they’re young or old – need to embrace in order to truly make a difference.**

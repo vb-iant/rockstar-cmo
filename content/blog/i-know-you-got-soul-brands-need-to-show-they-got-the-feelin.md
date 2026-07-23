@@ -1,16 +1,22 @@
 ---
-title: "I Know You Got Soul - Brands Need to Show They Got the Feelin'"
-date: "2019-01-31"
-slug: "i-know-you-got-soul-brands-need-to-show-they-got-the-feelin"
-excerpt: "Your brand story doesn’t get you very far if you are just puffing your chest out and telling people what you think they want to hear, whether you are selling soft toys or software, to engage with a consumer every brand has to have a story with some soul and with the Bobby Byrd/James Brown hit “I Know You Got Soul” on repeat, Ian Truscott digs deeper."
+title: I Know You Got Soul - Brands Need to Show They Got the Feelin'
+date: '2019-01-31'
+slug: i-know-you-got-soul-brands-need-to-show-they-got-the-feelin
+excerpt: Your brand story doesn’t get you very far if you are just puffing your chest
+  out and telling people what you think they want to hear, whether you are selling
+  soft toys or software, to engage with a consumer every brand has to have a story
+  with some soul and with the Bobby Byrd/James Brown hit “I Know You Got Soul” on
+  repeat, Ian Truscott digs deeper.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/36c4c3e422a6.jpg"
-categories: ["brand-new-thang"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/36c4c3e422a6.jpg
+tags: []
+series:
+- brand-new-thang
 needsReview: []
-sourceId: "3091"
-sourceUrl: "https://rockstarcmo.com/i-know-you-got-soul-brands-need-to-show-they-got-the-feelin/"
+sourceId: '3091'
+sourceUrl: https://rockstarcmo.com/i-know-you-got-soul-brands-need-to-show-they-got-the-feelin/
 ---
 
 **Your brand story doesn’t get you very far if you are just puffing your chest out and telling people what you think they want to hear, with the most ‘leading’, ‘innovative’, mealy words that your bored copywriter can muster. Today, whether you are selling soft toys or software, to engage with a consumer every brand has to have a story with some soul – and a social point of view. With the Bobby Byrd/James Brown hit “I Know You Got Soul” on repeat, Ian Truscott digs deeper.**

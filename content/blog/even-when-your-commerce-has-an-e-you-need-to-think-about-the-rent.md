@@ -1,16 +1,20 @@
 ---
-title: "Even when your Commerce has an 'e', you need to think about the rent"
-date: "2020-10-17"
-slug: "even-when-your-commerce-has-an-e-you-need-to-think-about-the-rent"
-excerpt: "We asked Eric Jan van Putten, VP Marketing at Dynamicweb, should we build our content strategy and audience on rented land? Eric gives us a great perspective through an eCommerce lens."
+title: Even when your Commerce has an 'e', you need to think about the rent
+date: '2020-10-17'
+slug: even-when-your-commerce-has-an-e-you-need-to-think-about-the-rent
+excerpt: We asked Eric Jan van Putten, VP Marketing at Dynamicweb, should we build
+  our content strategy and audience on rented land? Eric gives us a great perspective
+  through an eCommerce lens.
 excerptGenerated: false
-author: "Eric Jan van Putten"
-authorSlug: "eric-jan-van-putten"
-image: "/images/blog/876c578d834a.jpg"
-categories: ["the-life-for-rent-issue"]
+author: Eric Jan van Putten
+authorSlug: eric-jan-van-putten
+image: /images/blog/876c578d834a.jpg
+tags: []
+series:
+- the-life-for-rent-issue
 needsReview: []
-sourceId: "6060"
-sourceUrl: "https://rockstarcmo.com/even-when-your-commerce-has-an-e-you-need-to-think-about-the-rent/"
+sourceId: '6060'
+sourceUrl: https://rockstarcmo.com/even-when-your-commerce-has-an-e-you-need-to-think-about-the-rent/
 ---
 
 ***We asked Eric Jan van Putten, VP Marketing at Dynamicweb about the theme for this month; should we build our content strategy and audience on rented land (social media channels, LinkedIn, Medium, and all the others)? Eric gives us a great perspective through an eCommerce lens.***

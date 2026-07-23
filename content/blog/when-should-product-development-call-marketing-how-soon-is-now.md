@@ -1,16 +1,22 @@
 ---
-title: "When should product development call marketing? How soon is now?"
-date: "2020-02-07"
-slug: "when-should-product-development-call-marketing-how-soon-is-now"
-excerpt: "In the classic hit “How soon is now”, Morrissey from The Smiths lamented “I am human, and I need to be loved, just like everybody else does.” A feeling shared by customers when products, developed in a vacuum are thrust onto an unsuspecting world. Dennis Shiao suggests the remedy is the timing of when marketing gets involved. When? How soon is now?"
+title: When should product development call marketing? How soon is now?
+date: '2020-02-07'
+slug: when-should-product-development-call-marketing-how-soon-is-now
+excerpt: In the classic hit “How soon is now”, Morrissey from The Smiths lamented
+  “I am human, and I need to be loved, just like everybody else does.” A feeling shared
+  by customers when products, developed in a vacuum are thrust onto an unsuspecting
+  world. Dennis Shiao suggests the remedy is the timing of when marketing gets involved.
+  When? How soon is now?
 excerptGenerated: false
-author: "Dennis Shiao"
-authorSlug: "dennis-shiao"
-image: "/images/blog/7b5601fd0154.jpg"
-categories: ["the-features-creatures-issue"]
+author: Dennis Shiao
+authorSlug: dennis-shiao
+image: /images/blog/7b5601fd0154.jpg
+tags: []
+series:
+- the-features-creatures-issue
 needsReview: []
-sourceId: "5157"
-sourceUrl: "https://rockstarcmo.com/when-should-product-development-call-marketing-how-soon-is-now/"
+sourceId: '5157'
+sourceUrl: https://rockstarcmo.com/when-should-product-development-call-marketing-how-soon-is-now/
 ---
 
 ***In the classic hit “How soon is now” released back in 1985, Morrissey from the English band The Smiths lamented “I am human, and I need to be loved, just like everybody else does.” A feeling shared by customers when products are developed in a vacuum and thrust onto an unsuspecting world. Dennis Shiao suggests the remedy is the timing of when marketing gets involved. When? How soon is now?***

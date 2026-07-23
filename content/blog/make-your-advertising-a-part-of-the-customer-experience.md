@@ -1,16 +1,19 @@
 ---
-title: "Make Your Advertising a Part of the Customer Experience"
-date: "2019-02-28"
-slug: "make-your-advertising-a-part-of-the-customer-experience"
-excerpt: "Is there a disconnect between your advertising and your customer experience? Ted Rubin breaks down the importance of bringing the two together.﻿"
+title: Make Your Advertising a Part of the Customer Experience
+date: '2019-02-28'
+slug: make-your-advertising-a-part-of-the-customer-experience
+excerpt: "Is there a disconnect between your advertising and your customer experience?\
+  \ Ted Rubin breaks down the importance of bringing the two together.\uFEFF"
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/692aef415f41.jpg"
-categories: ["the-pretender-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/692aef415f41.jpg
+tags: []
+series:
+- the-pretender-issue
 needsReview: []
-sourceId: "3298"
-sourceUrl: "https://rockstarcmo.com/make-your-advertising-a-part-of-the-customer-experience/"
+sourceId: '3298'
+sourceUrl: https://rockstarcmo.com/make-your-advertising-a-part-of-the-customer-experience/
 ---
 
 **Is there a disconnect between your advertising and your customer experience? Ted Rubin breaks down the importance of bringing the two together.**

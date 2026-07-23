@@ -1,16 +1,21 @@
 ---
-title: "The Green Room: Are we afraid of the dark?"
-date: "2019-05-31"
-slug: "the-green-room-are-we-afraid-of-the-dark"
-excerpt: "Our audience is going dark, we ask 5 of our Rockstar CMOs what they think of the refusal of cookie consent, ad-blockers, incognito browsing and the prevailing view that we marketers are up to something...."
+title: 'The Green Room: Are we afraid of the dark?'
+date: '2019-05-31'
+slug: the-green-room-are-we-afraid-of-the-dark
+excerpt: Our audience is going dark, we ask 5 of our Rockstar CMOs what they think
+  of the refusal of cookie consent, ad-blockers, incognito browsing and the prevailing
+  view that we marketers are up to something....
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/0456b040d489.jpg"
-categories: ["the-green-room", "the-invasion-of-privacy-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/0456b040d489.jpg
+tags: []
+series:
+- the-green-room
+- the-invasion-of-privacy-issue
 needsReview: []
-sourceId: "3752"
-sourceUrl: "https://rockstarcmo.com/the-green-room-are-we-afraid-of-the-dark/"
+sourceId: '3752'
+sourceUrl: https://rockstarcmo.com/the-green-room-are-we-afraid-of-the-dark/
 ---
 
 ***Refusal of cookie consent, ad-blockers, incognito browsing and the prevailing view that we marketers are up to something means our audience is going dark. In this month's Green Room we ask five of our Rockstar CMOs if we should be afraid.***

@@ -1,16 +1,20 @@
 ---
-title: "Into the Pool #8: The Crap Other Marketers on the Internet Tell Me to Do"
-date: "2018-10-31"
-slug: "into-the-pool-8-80-of-the-crap-that-other-marketers-on-the-internet-tell-me-i-have-to-do-d1"
-excerpt: "Amber Osborne inspires Ian Truscott this month, as she tires of some of the crap marketing advice that’s being hawked across the internet."
+title: 'Into the Pool #8: The Crap Other Marketers on the Internet Tell Me to Do'
+date: '2018-10-31'
+slug: into-the-pool-8-80-of-the-crap-that-other-marketers-on-the-internet-tell-me-i-have-to-do-d1
+excerpt: Amber Osborne inspires Ian Truscott this month, as she tires of some of the
+  crap marketing advice that’s being hawked across the internet.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/e2466972366d.jpg"
-categories: ["the-swimming-pool", "thriller"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/e2466972366d.jpg
+tags: []
+series:
+- the-swimming-pool
+- thriller
 needsReview: []
-sourceId: "912"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-8-80-of-the-crap-that-other-marketers-on-the-internet-tell-me-i-have-to-do-d1/"
+sourceId: '912'
+sourceUrl: https://rockstarcmo.com/into-the-pool-8-80-of-the-crap-that-other-marketers-on-the-internet-tell-me-i-have-to-do-d1/
 ---
 
 [**Amber Osborne**](/amber-osborne) **inspires** [**Ian Truscott**](/ian-truscott) **this month, as she tires of some of the crap marketing advice that’s being hawked across the internet. Think they’re wrong?** [**Let us know**](https://rockstarcmo.wpengine.com/contact-us)**.**

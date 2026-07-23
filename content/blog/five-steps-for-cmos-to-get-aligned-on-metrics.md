@@ -1,16 +1,21 @@
 ---
-title: "Five Steps for CMOs to Get Aligned on Metrics"
-date: "2024-07-17"
-slug: "five-steps-for-cmos-to-get-aligned-on-metrics"
-excerpt: "Inspired by a recent conversation on the podcast with six-time CMO and former boss Grant Johnson about his Marketing Performance Index (MPI) framework, in this article Jeff Clark asks if we now have a framework for what CMOs should report, how do you get to the point where this reporting strategy is accepted?"
+title: Five Steps for CMOs to Get Aligned on Metrics
+date: '2024-07-17'
+slug: five-steps-for-cmos-to-get-aligned-on-metrics
+excerpt: Inspired by a recent conversation on the podcast with six-time CMO and former
+  boss Grant Johnson about his Marketing Performance Index (MPI) framework, in this
+  article Jeff Clark asks if we now have a framework for what CMOs should report,
+  how do you get to the point where this reporting strategy is accepted?
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/20456d714c30.jpg"
-categories: ["measurement", "rockstar-cmo-advisors", "street-knowledge"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/20456d714c30.jpg
+tags:
+- measurement
+series: []
 needsReview: []
-sourceId: "8530"
-sourceUrl: "https://rockstarcmo.com/five-steps-for-cmos-to-get-aligned-on-metrics/"
+sourceId: '8530'
+sourceUrl: https://rockstarcmo.com/five-steps-for-cmos-to-get-aligned-on-metrics/
 ---
 
 ***Inspired by a recent conversation on the podcast with six-time CMO and former boss Grant Johnson about his Marketing Performance Index (MPI) framework, in this article Jeff Clark asks if we now have a framework for what CMOs should report, how do you get to the point where this reporting strategy is accepted?***

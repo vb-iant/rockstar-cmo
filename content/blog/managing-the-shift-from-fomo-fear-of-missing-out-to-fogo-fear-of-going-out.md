@@ -1,16 +1,22 @@
 ---
-title: "Managing the shift from FOMO (Fear of Missing Out) to FOGO (Fear of Going Out)"
-date: "2020-04-30"
-slug: "managing-the-shift-from-fomo-fear-of-missing-out-to-fogo-fear-of-going-out"
-excerpt: "In this article Jane Scandurra, global marketing consultant and coach, suggests a path of sensitivity and empathy for addressing consumers whose behaviour may have been irrevocably changed by the current crisis."
+title: Managing the shift from FOMO (Fear of Missing Out) to FOGO (Fear of Going Out)
+date: '2020-04-30'
+slug: managing-the-shift-from-fomo-fear-of-missing-out-to-fogo-fear-of-going-out
+excerpt: In this article Jane Scandurra, global marketing consultant and coach, suggests
+  a path of sensitivity and empathy for addressing consumers whose behaviour may have
+  been irrevocably changed by the current crisis.
 excerptGenerated: false
-author: "Jane Scandurra"
-authorSlug: "jane-scandurra"
-image: "/images/blog/2869edc9fd04.jpg"
-categories: ["top-10", "the-welcome-to-jamrock-issue", "top-10-2020"]
+author: Jane Scandurra
+authorSlug: jane-scandurra
+image: /images/blog/2869edc9fd04.jpg
+tags: []
+series:
+- top-10
+- the-welcome-to-jamrock-issue
+- top-10-2020
 needsReview: []
-sourceId: "5639"
-sourceUrl: "https://rockstarcmo.com/managing-the-shift-from-fomo-fear-of-missing-out-to-fogo-fear-of-going-out/"
+sourceId: '5639'
+sourceUrl: https://rockstarcmo.com/managing-the-shift-from-fomo-fear-of-missing-out-to-fogo-fear-of-going-out/
 ---
 
 ***In this article Jane Scandurra, global marketing consultant and coach, suggests a path of sensitivity and empathy for addressing consumers whose behaviour may have been irrevocably changed by the current crisis.***

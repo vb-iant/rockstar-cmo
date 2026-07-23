@@ -1,16 +1,21 @@
 ---
-title: "Into the Pool #20: Marketing can’t be measured"
-date: "2019-11-01"
-slug: "into-the-swimming-pool-marketing-cant-be-measured"
-excerpt: "This month we are hanging over the balcony with Acquia CMO Lynne Capozzi, who nominated “marketing can’t be measured” for the drop from the penthouse to splashdown into the portal to our special place in marketing hell"
+title: 'Into the Pool #20: Marketing can’t be measured'
+date: '2019-11-01'
+slug: into-the-swimming-pool-marketing-cant-be-measured
+excerpt: This month we are hanging over the balcony with Acquia CMO Lynne Capozzi,
+  who nominated “marketing can’t be measured” for the drop from the penthouse to splashdown
+  into the portal to our special place in marketing hell
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/45e339d48f11.jpg"
-categories: ["the-running-in-circles-issue", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/45e339d48f11.jpg
+tags: []
+series:
+- the-running-in-circles-issue
+- the-swimming-pool
 needsReview: []
-sourceId: "4602"
-sourceUrl: "https://rockstarcmo.com/into-the-swimming-pool-marketing-cant-be-measured/"
+sourceId: '4602'
+sourceUrl: https://rockstarcmo.com/into-the-swimming-pool-marketing-cant-be-measured/
 ---
 
 ***This month we are hanging over the balcony with Acquia CMO Lynne Capozzi, who nominated “marketing can’t be measured” for the drop from the penthouse to splashdown into the portal to our special place in marketing hell for the all the snake oil, bullshit and bad advice that is peddled in our industry.***

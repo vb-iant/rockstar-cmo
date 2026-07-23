@@ -1,16 +1,20 @@
 ---
-title: "Rent or build? Hedge your digital property bets"
-date: "2020-10-18"
-slug: "rent-or-build-hedge-your-digital-property-bets"
-excerpt: "Carmine Mastropierro brings us some practical advice on the theme of this months issue, should you build or rent your digital property? Carmine suggests we hedge..."
+title: Rent or build? Hedge your digital property bets
+date: '2020-10-18'
+slug: rent-or-build-hedge-your-digital-property-bets
+excerpt: Carmine Mastropierro brings us some practical advice on the theme of this
+  months issue, should you build or rent your digital property? Carmine suggests we
+  hedge...
 excerptGenerated: false
-author: "Carmine Mastropierro"
-authorSlug: "carmine-mastropierro"
-image: "/images/blog/8fe63cae5181.jpg"
-categories: ["the-life-for-rent-issue"]
+author: Carmine Mastropierro
+authorSlug: carmine-mastropierro
+image: /images/blog/8fe63cae5181.jpg
+tags: []
+series:
+- the-life-for-rent-issue
 needsReview: []
-sourceId: "6076"
-sourceUrl: "https://rockstarcmo.com/rent-or-build-hedge-your-digital-property-bets/"
+sourceId: '6076'
+sourceUrl: https://rockstarcmo.com/rent-or-build-hedge-your-digital-property-bets/
 ---
 
 ***Experienced digital marketing consultant and copywriter Carmine Mastropierro brings us some practical advice on the theme of this months issue, should you build or rent your digital property? Carmine suggests we hedge...***

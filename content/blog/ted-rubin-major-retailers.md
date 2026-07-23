@@ -1,16 +1,20 @@
 ---
-title: "Closing Time: 18 Major Retailers that Likely Won't Exist in 10 Years"
-date: "2018-03-23"
-slug: "ted-rubin-major-retailers"
-excerpt: "Retail continues to be disrupted, our malls and high syreets continue to change, but brands seem unwilling to change, maybe in the belief they are \"too big to fail\", Ted Rubin makes a bold prediction."
+title: 'Closing Time: 18 Major Retailers that Likely Won''t Exist in 10 Years'
+date: '2018-03-23'
+slug: ted-rubin-major-retailers
+excerpt: Retail continues to be disrupted, our malls and high syreets continue to
+  change, but brands seem unwilling to change, maybe in the belief they are "too big
+  to fail", Ted Rubin makes a bold prediction.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/91eb73950e06.jpg"
-categories: ["sound-check"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/91eb73950e06.jpg
+tags: []
+series:
+- sound-check
 needsReview: []
-sourceId: "961"
-sourceUrl: "https://rockstarcmo.com/ted-rubin-major-retailers/"
+sourceId: '961'
+sourceUrl: https://rockstarcmo.com/ted-rubin-major-retailers/
 ---
 
 **Retail continues to be disrupted, our malls and high syreets continue to change, but brands seem unwilling to change, maybe in the belief they are "too big to fail", Ted Rubin makes a bold prediction.**

@@ -1,16 +1,19 @@
 ---
-title: "Retailers: Discounting Your Way Out of Trouble is a Death Spiral"
-date: "2018-05-31"
-slug: "retailers-discounting-your-way-out-of-trouble-is-a-death-spiral"
-excerpt: "Why ditching the discount and dialling up the customer experience (with a focus on flexibility) is more likely to deliver success. Ted Rubin tells all…﻿"
+title: 'Retailers: Discounting Your Way Out of Trouble is a Death Spiral'
+date: '2018-05-31'
+slug: retailers-discounting-your-way-out-of-trouble-is-a-death-spiral
+excerpt: "Why ditching the discount and dialling up the customer experience (with\
+  \ a focus on flexibility) is more likely to deliver success. Ted Rubin tells all…\uFEFF"
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/0e4109888ad3.jpg"
-categories: ["the-age-of-consent"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/0e4109888ad3.jpg
+tags: []
+series:
+- the-age-of-consent
 needsReview: []
-sourceId: "950"
-sourceUrl: "https://rockstarcmo.com/retailers-discounting-your-way-out-of-trouble-is-a-death-spiral/"
+sourceId: '950'
+sourceUrl: https://rockstarcmo.com/retailers-discounting-your-way-out-of-trouble-is-a-death-spiral/
 ---
 
 **Why ditching the discount and dialling up the customer experience (with a focus on flexibility) is more likely to deliver success.** [**Ted Rubin**](/ted-rubin) **tells all…**

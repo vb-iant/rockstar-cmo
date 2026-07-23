@@ -1,16 +1,24 @@
 ---
-title: "Backstage with Kate Bradley Chernis"
-date: "2019-11-28"
-slug: "backstage-with-kate-bradley-chernis"
-excerpt: "In this backstage interview we find out how founder and CEO of Lately, Kate Bradley Chernis, a former DJ with an audience of 20 million listeners got Walmart dancing."
+title: Backstage with Kate Bradley Chernis
+date: '2019-11-28'
+slug: backstage-with-kate-bradley-chernis
+excerpt: In this backstage interview we find out how founder and CEO of Lately, Kate
+  Bradley Chernis, a former DJ with an audience of 20 million listeners got Walmart
+  dancing.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/0e106a22f94a.png"
-categories: ["backstage", "the-breaking-glass-issue", "the-magic-of-christmas-issue", "top-10", "top-10-2020"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/0e106a22f94a.png
+tags: []
+series:
+- backstage
+- the-breaking-glass-issue
+- the-magic-of-christmas-issue
+- top-10
+- top-10-2020
 needsReview: []
-sourceId: "4691"
-sourceUrl: "https://rockstarcmo.com/backstage-with-kate-bradley-chernis/"
+sourceId: '4691'
+sourceUrl: https://rockstarcmo.com/backstage-with-kate-bradley-chernis/
 ---
 
 ***As marketers, sometimes we are not the rock stars, but the DJs that drop their tunes. However, founder and CEO of [Lately](https://www.trylately.com/), Kate Bradley Chernis, ticks both boxes. As a former DJ with an audience of 20 million listeners, she’s dropped the tunes and in this backstage interview we find out how this experience made her a Rockstar marketer that even got Walmart dancing.***

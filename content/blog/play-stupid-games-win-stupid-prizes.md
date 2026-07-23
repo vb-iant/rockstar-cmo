@@ -1,16 +1,20 @@
 ---
-title: "Play Stupid Games. Win Stupid Prizes"
-date: "2020-09-03"
-slug: "play-stupid-games-win-stupid-prizes"
-excerpt: "In the month that saw Tom Goodwin relieved of his duties at Publicis for sharing on social media content that wasn't to his employer's taste, we asked Robert Rose for his take on the blurry lines between professional and social"
+title: Play Stupid Games. Win Stupid Prizes
+date: '2020-09-03'
+slug: play-stupid-games-win-stupid-prizes
+excerpt: In the month that saw Tom Goodwin relieved of his duties at Publicis for
+  sharing on social media content that wasn't to his employer's taste, we asked Robert
+  Rose for his take on the blurry lines between professional and social
 excerptGenerated: false
-author: "Robert Rose"
-authorSlug: "robert-rose"
-image: "/images/blog/149bfcb1713f.jpg"
-categories: ["the-blur-issue"]
+author: Robert Rose
+authorSlug: robert-rose
+image: /images/blog/149bfcb1713f.jpg
+tags: []
+series:
+- the-blur-issue
 needsReview: []
-sourceId: "5967"
-sourceUrl: "https://rockstarcmo.com/play-stupid-games-win-stupid-prizes/"
+sourceId: '5967'
+sourceUrl: https://rockstarcmo.com/play-stupid-games-win-stupid-prizes/
 ---
 
 ***The theme this month is the blurred lines between our home and work as we all shelter from the pandemic. A blur that's also been happening in our social media lives. So, in the month that saw outspoken marketing commentator [Tom Goodwin relieved of his duties at Publicis](https://www.campaignlive.co.uk/article/tom-goodwin-leaves-publicis-following-combative-tweets-coronavirus/1691119) for sharing on social media content that wasn't to his employer's taste, we asked Robert Rose, Chief Trouble Maker at [The Content Advisory](https://contentadvisory.net) for his take and his advice for employees and marketing leaders.***

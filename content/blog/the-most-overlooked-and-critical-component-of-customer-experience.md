@@ -1,16 +1,19 @@
 ---
-title: "The Most Overlooked and Critical Component of Customer Experience"
-date: "2018-06-28"
-slug: "the-most-overlooked-and-critical-component-of-customer-experience"
-excerpt: "Our resident rock star Ted Rubin on why data needs to be used more intelligently in the quest for brand equity.﻿"
+title: The Most Overlooked and Critical Component of Customer Experience
+date: '2018-06-28'
+slug: the-most-overlooked-and-critical-component-of-customer-experience
+excerpt: "Our resident rock star Ted Rubin on why data needs to be used more intelligently\
+  \ in the quest for brand equity.\uFEFF"
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/aed068faa5ed.jpg"
-categories: ["ok-computer"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/aed068faa5ed.jpg
+tags: []
+series:
+- ok-computer
 needsReview: []
-sourceId: "937"
-sourceUrl: "https://rockstarcmo.com/the-most-overlooked-and-critical-component-of-customer-experience/"
+sourceId: '937'
+sourceUrl: https://rockstarcmo.com/the-most-overlooked-and-critical-component-of-customer-experience/
 ---
 
 **Our resident rock star** [**Ted Rubin**](/ted-rubin) **on why data needs to be used more intelligently in the quest for brand equity.**

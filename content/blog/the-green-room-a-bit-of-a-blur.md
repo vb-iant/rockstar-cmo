@@ -1,16 +1,21 @@
 ---
-title: "The Green Room: A bit of a blur"
-date: "2020-09-04"
-slug: "the-green-room-a-bit-of-a-blur"
-excerpt: "Sounds very rockstar, but this month's Green Room is literally a bit of a blur. We've had an extended period of pandemic lockdown and the separation between home and work has become blurred. We asked six of our rockstar CMOs for their advice."
+title: 'The Green Room: A bit of a blur'
+date: '2020-09-04'
+slug: the-green-room-a-bit-of-a-blur
+excerpt: Sounds very rockstar, but this month's Green Room is literally a bit of a
+  blur. We've had an extended period of pandemic lockdown and the separation between
+  home and work has become blurred. We asked six of our rockstar CMOs for their advice.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/7178298fcca8.png"
-categories: ["the-blur-issue", "the-green-room"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/7178298fcca8.png
+tags: []
+series:
+- the-blur-issue
+- the-green-room
 needsReview: []
-sourceId: "5976"
-sourceUrl: "https://rockstarcmo.com/the-green-room-a-bit-of-a-blur/"
+sourceId: '5976'
+sourceUrl: https://rockstarcmo.com/the-green-room-a-bit-of-a-blur/
 ---
 
 ***Sounds very rockstar, but this month's Green Room is literally a bit of a blur. We've had an extended period of pandemic lockdown and the separation between home and work has become blurred. We asked six of our rockstar CMOs for their advice.***

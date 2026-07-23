@@ -1,16 +1,20 @@
 ---
-title: "What Everyone Gets Wrong With Personalization"
-date: "2018-05-31"
-slug: "what-everyone-gets-wrong-with-personalisation"
-excerpt: "Personalization is good – if you do it right. Darren Guarnaccia breaks down how you can avoid using it as a weapon of mass irritation, instead changing it into something that can offer real value to consumers.﻿"
+title: What Everyone Gets Wrong With Personalization
+date: '2018-05-31'
+slug: what-everyone-gets-wrong-with-personalisation
+excerpt: "Personalization is good – if you do it right. Darren Guarnaccia breaks down\
+  \ how you can avoid using it as a weapon of mass irritation, instead changing it\
+  \ into something that can offer real value to consumers.\uFEFF"
 excerptGenerated: false
-author: "Darren Garnaccia"
-authorSlug: "darren-garnaccia"
-image: "/images/blog/03c09c5d95c5.jpg"
-categories: ["the-age-of-consent"]
+author: Darren Garnaccia
+authorSlug: darren-garnaccia
+image: /images/blog/03c09c5d95c5.jpg
+tags: []
+series:
+- the-age-of-consent
 needsReview: []
-sourceId: "1085"
-sourceUrl: "https://rockstarcmo.com/what-everyone-gets-wrong-with-personalisation/"
+sourceId: '1085'
+sourceUrl: https://rockstarcmo.com/what-everyone-gets-wrong-with-personalisation/
 ---
 
 **Personalization is good – if you do it right. [Darren Guarnaccia](/darren-guarnaccia) breaks down how you can avoid using it as a weapon of mass irritation, instead changing it into something that can offer real value to consumers.**

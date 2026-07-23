@@ -1,16 +1,21 @@
 ---
-title: "Time to hit the reset button"
-date: "2020-04-30"
-slug: "time-to-hit-the-reset-button"
-excerpt: "We asked Ted Rubin, our resident Rockstar CMO, \"What does the post Coronavirus new normal mean for you, your organization, and marketing in general?\" and as usual we got more than we bargained for, with this fantastic, straight-up advice. It's time to hit reset."
+title: Time to hit the reset button
+date: '2020-04-30'
+slug: time-to-hit-the-reset-button
+excerpt: We asked Ted Rubin, our resident Rockstar CMO, "What does the post Coronavirus
+  new normal mean for you, your organization, and marketing in general?" and as usual
+  we got more than we bargained for, with this fantastic, straight-up advice. It's
+  time to hit reset.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/9e62a1986d47.jpg"
-categories: ["the-welcome-to-jamrock-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/9e62a1986d47.jpg
+tags: []
+series:
+- the-welcome-to-jamrock-issue
 needsReview: []
-sourceId: "5649"
-sourceUrl: "https://rockstarcmo.com/time-to-hit-the-reset-button/"
+sourceId: '5649'
+sourceUrl: https://rockstarcmo.com/time-to-hit-the-reset-button/
 ---
 
 ***We asked Ted Rubin, our resident Rockstar CMO, "What does the post Coronavirus new normal mean for you, your organization, and marketing in general?" and as usual we got more than we bargained for, with this fantastic, straight-up advice. It's time to hit reset.***

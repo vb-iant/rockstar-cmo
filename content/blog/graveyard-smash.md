@@ -1,16 +1,20 @@
 ---
-title: "Graveyard Smash"
-date: "2018-10-31"
-slug: "graveyard-smash"
-excerpt: "The flash mob. Went viral, then... nothing. Where did it come from? Where the hell did it go? And is it rising from the dead? Samuel Crosby finds out.﻿"
+title: Graveyard Smash
+date: '2018-10-31'
+slug: graveyard-smash
+excerpt: "The flash mob. Went viral, then... nothing. Where did it come from? Where\
+  \ the hell did it go? And is it rising from the dead? Samuel Crosby finds out.\uFEFF"
 excerptGenerated: false
-author: "Samuel Crosby"
-authorSlug: "samuel-crosby"
-image: "/images/blog/868c6e3f876b.jpg"
-categories: ["thriller"]
-needsReview: ["embed_block"]
-sourceId: "1133"
-sourceUrl: "https://rockstarcmo.com/graveyard-smash/"
+author: Samuel Crosby
+authorSlug: samuel-crosby
+image: /images/blog/868c6e3f876b.jpg
+tags: []
+series:
+- thriller
+needsReview:
+- embed_block
+sourceId: '1133'
+sourceUrl: https://rockstarcmo.com/graveyard-smash/
 ---
 
 **The flash mob. Remember that? Social experiment, turned viral, turned marketing bandwagon. Then... nothing. Where did it come from? Where the hell did it go? And is it rising from the dead? Samuel Crosby finds out.**

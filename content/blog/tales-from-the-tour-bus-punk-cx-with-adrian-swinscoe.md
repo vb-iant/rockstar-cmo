@@ -1,16 +1,21 @@
 ---
-title: "Tales from the Tour Bus: Punk CX with Adrian Swinscoe"
-date: "2019-07-25"
-slug: "tales-from-the-tour-bus-punk-cx-with-adrian-swinscoe"
-excerpt: "This month we heard a whisper of someone taking a punk beat and applying it to the overblown prod rock of customer experience and we had to find the source. Ian Truscott tracks down the author of Punk CX, Adrian Swinscoe."
+title: 'Tales from the Tour Bus: Punk CX with Adrian Swinscoe'
+date: '2019-07-25'
+slug: tales-from-the-tour-bus-punk-cx-with-adrian-swinscoe
+excerpt: This month we heard a whisper of someone taking a punk beat and applying
+  it to the overblown prod rock of customer experience and we had to find the source.
+  Ian Truscott tracks down the author of Punk CX, Adrian Swinscoe.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/62a5366f999d.jpg"
-categories: ["tales-from-the-tour-bus", "the-think-about-it-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/62a5366f999d.jpg
+tags: []
+series:
+- tales-from-the-tour-bus
+- the-think-about-it-issue
 needsReview: []
-sourceId: "4010"
-sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-punk-cx-with-adrian-swinscoe/"
+sourceId: '4010'
+sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-punk-cx-with-adrian-swinscoe/
 ---
 
 ***This month we heard a whisper of someone taking a punk beat and applying it to the overblown prod rock of customer experience and we had to find the source. Ian Truscott tracks down the author of Punk CX, Adrian Swinscoe.***

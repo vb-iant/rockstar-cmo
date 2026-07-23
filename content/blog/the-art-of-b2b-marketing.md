@@ -1,16 +1,19 @@
 ---
-title: "What is the ART of B2B Marketing?"
-date: "2018-11-19"
-slug: "the-art-of-b2b-marketing"
-excerpt: "What do we mean by creating ART for B2B? Ian Truscott shares his successful philosophy."
+title: What is the ART of B2B Marketing?
+date: '2018-11-19'
+slug: the-art-of-b2b-marketing
+excerpt: What do we mean by creating ART for B2B? Ian Truscott shares his successful
+  philosophy.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
+author: Ian Truscott
+authorSlug: ian-truscott
 image: null
-categories: ["b2b-marketing"]
+tags:
+- b2b-marketing
+series: []
 needsReview: []
-sourceId: "6272"
-sourceUrl: "https://rockstarcmo.com/the-art-of-b2b-marketing/"
+sourceId: '6272'
+sourceUrl: https://rockstarcmo.com/the-art-of-b2b-marketing/
 ---
 
 **B2B marketing today is a fascinating business practice, we have so much data available, channels to influence the buyer with and a constant stream of best practices and advice and perhaps, sometimes we get lost in all this and make our lives complicated.**

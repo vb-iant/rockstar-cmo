@@ -1,16 +1,22 @@
 ---
-title: "Into the Pool #16 – More Tech Will Fix It"
-date: "2019-06-28"
-slug: "into-the-pool-16-more-tech-will-fix-it"
-excerpt: "We find ourselves peering over the balcony pondering the fate of the idea that \"more tech will fix it\". We hear from a queue of folks on hand to help, will it make a splash?"
+title: 'Into the Pool #16 – More Tech Will Fix It'
+date: '2019-06-28'
+slug: into-the-pool-16-more-tech-will-fix-it
+excerpt: We find ourselves peering over the balcony pondering the fate of the idea
+  that "more tech will fix it". We hear from a queue of folks on hand to help, will
+  it make a splash?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/45e339d48f11.jpg"
-categories: ["the-inside-in-inside-out-issue", "the-martech-mix-desk", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/45e339d48f11.jpg
+tags: []
+series:
+- the-inside-in-inside-out-issue
+- the-martech-mix-desk
+- the-swimming-pool
 needsReview: []
-sourceId: "3816"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-16-more-tech-will-fix-it/"
+sourceId: '3816'
+sourceUrl: https://rockstarcmo.com/into-the-pool-16-more-tech-will-fix-it/
 ---
 
 ***This issue, we find ourselves peering over the balcony pondering the fate of the idea that "more tech will fix it"***. ***We hear from a queue of folks on hand to help, will it make a splash?***

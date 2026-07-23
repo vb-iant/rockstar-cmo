@@ -1,16 +1,21 @@
 ---
-title: "“Wait…What’s in it for ME?”"
-date: "2019-06-29"
-slug: "waitwhats-in-it-for-me"
-excerpt: "If marketing wants to tap into the power of having an employee fan club, we need to rock their world not ours, as global marketing consultant and coach Jane Scandurra explains."
+title: “Wait…What’s in it for ME?”
+date: '2019-06-29'
+slug: waitwhats-in-it-for-me
+excerpt: If marketing wants to tap into the power of having an employee fan club,
+  we need to rock their world not ours, as global marketing consultant and coach Jane
+  Scandurra explains.
 excerptGenerated: false
-author: "Jane Scandurra"
-authorSlug: "jane-scandurra"
-image: "/images/blog/09a44b241ee9.jpg"
-categories: ["features-2", "the-breaking-glass-issue", "the-inside-in-inside-out-issue"]
+author: Jane Scandurra
+authorSlug: jane-scandurra
+image: /images/blog/09a44b241ee9.jpg
+tags: []
+series:
+- the-breaking-glass-issue
+- the-inside-in-inside-out-issue
 needsReview: []
-sourceId: "3862"
-sourceUrl: "https://rockstarcmo.com/waitwhats-in-it-for-me/"
+sourceId: '3862'
+sourceUrl: https://rockstarcmo.com/waitwhats-in-it-for-me/
 ---
 
 ***If marketing wants to tap into the power of having an employee fan club, we need to rock their world not ours, as global marketing consultant and coach Jane Scandurra explains.***

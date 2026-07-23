@@ -1,16 +1,20 @@
 ---
-title: "Read All About It!"
-date: "2018-12-20"
-slug: "read-all-about-it"
-excerpt: "Stand aside Twitter. Pipe down Facebook. You’re old news. Reddit is a little corner of the digital world that packs a powerful punch. Gareth May finds out what this means for brands."
+title: Read All About It!
+date: '2018-12-20'
+slug: read-all-about-it
+excerpt: Stand aside Twitter. Pipe down Facebook. You’re old news. Reddit is a little
+  corner of the digital world that packs a powerful punch. Gareth May finds out what
+  this means for brands.
 excerptGenerated: false
-author: "Gareth May"
-authorSlug: "gareth-may"
-image: "/images/blog/07b7aa387198.jpg"
-categories: ["features-2", "london-calling"]
+author: Gareth May
+authorSlug: gareth-may
+image: /images/blog/07b7aa387198.jpg
+tags: []
+series:
+- london-calling
 needsReview: []
-sourceId: "1755"
-sourceUrl: "https://rockstarcmo.com/read-all-about-it/"
+sourceId: '1755'
+sourceUrl: https://rockstarcmo.com/read-all-about-it/
 ---
 
 **Stand aside Twitter. Pipe down Facebook. You’re old news. With its hive of niche markets, fervent and anti-fakery consumers, and controversial or conversational ‘Ask Me Anything’ Q&As, Reddit is a little corner of the digital world that packs a powerful punch. Gareth May finds out how a brand can get a splash on the ‘front page of the internet’.**

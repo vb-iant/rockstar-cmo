@@ -1,16 +1,21 @@
 ---
-title: "The magic marketer's potion: An educated mind and attitudinal skills"
-date: "2020-07-18"
-slug: "the-magic-marketers-potion-an-educated-mind-and-attitudinal-skills"
-excerpt: "A debate is raging around whether it’s requisite for marketers to have a marketing degree. Does a marketing degree create a better marketer? Jasmine Martirossian, PhD, is the Vice President of Marketing at TÜV SÜD Americas, gives us her take."
+title: 'The magic marketer''s potion: An educated mind and attitudinal skills'
+date: '2020-07-18'
+slug: the-magic-marketers-potion-an-educated-mind-and-attitudinal-skills
+excerpt: A debate is raging around whether it’s requisite for marketers to have a
+  marketing degree. Does a marketing degree create a better marketer? Jasmine Martirossian,
+  PhD, is the Vice President of Marketing at TÜV SÜD Americas, gives us her take.
 excerptGenerated: false
-author: "Jasmine Martirossian"
-authorSlug: "jasmine-martirossian"
-image: "/images/blog/c984e37fc19e.jpg"
-categories: ["the-miseducation-of-lauryn-hill-issue", "top-10"]
+author: Jasmine Martirossian
+authorSlug: jasmine-martirossian
+image: /images/blog/c984e37fc19e.jpg
+tags: []
+series:
+- the-miseducation-of-lauryn-hill-issue
+- top-10
 needsReview: []
-sourceId: "5857"
-sourceUrl: "https://rockstarcmo.com/the-magic-marketers-potion-an-educated-mind-and-attitudinal-skills/"
+sourceId: '5857'
+sourceUrl: https://rockstarcmo.com/the-magic-marketers-potion-an-educated-mind-and-attitudinal-skills/
 ---
 
 ![](/images/blog/42d5ca1e43f3.jpg)

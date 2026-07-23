@@ -1,16 +1,19 @@
 ---
-title: "Welcome to the Ministry of Half-Baked Ideas"
-date: "2020-02-07"
-slug: "welcome-to-the-ministry-of-half-baked-ideas"
-excerpt: "We asked Keith Smith our resident business development Rockstar whether he thought marketing should be involved when products are being developed."
+title: Welcome to the Ministry of Half-Baked Ideas
+date: '2020-02-07'
+slug: welcome-to-the-ministry-of-half-baked-ideas
+excerpt: We asked Keith Smith our resident business development Rockstar whether he
+  thought marketing should be involved when products are being developed.
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/4ac3d3baef8d.jpg"
-categories: ["the-features-creatures-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/4ac3d3baef8d.jpg
+tags: []
+series:
+- the-features-creatures-issue
 needsReview: []
-sourceId: "5175"
-sourceUrl: "https://rockstarcmo.com/welcome-to-the-ministry-of-half-baked-ideas/"
+sourceId: '5175'
+sourceUrl: https://rockstarcmo.com/welcome-to-the-ministry-of-half-baked-ideas/
 ---
 
 ***Continuing on the theme of the relationship between product development and marketing in this issue, we asked Keith Smith our resident business development Rockstar whether he thought marketing should be involved when products are being developed.***

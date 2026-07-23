@@ -1,16 +1,21 @@
 ---
-title: "Into the Swimming Pool #14: Resistance to Change"
-date: "2019-04-25"
-slug: "into-the-swimming-pool-resistance-to-change"
-excerpt: "Ahmed Hasan is our inspiration as we peer over the balcony down to the Rockstar CMO Swimming Pool and we consider chucking “resistance to change” into its shimmering depths."
+title: 'Into the Swimming Pool #14: Resistance to Change'
+date: '2019-04-25'
+slug: into-the-swimming-pool-resistance-to-change
+excerpt: Ahmed Hasan is our inspiration as we peer over the balcony down to the Rockstar
+  CMO Swimming Pool and we consider chucking “resistance to change” into its shimmering
+  depths.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/45e339d48f11.jpg"
-categories: ["the-changesbowie-issue", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/45e339d48f11.jpg
+tags: []
+series:
+- the-changesbowie-issue
+- the-swimming-pool
 needsReview: []
-sourceId: "3564"
-sourceUrl: "https://rockstarcmo.com/into-the-swimming-pool-resistance-to-change/"
+sourceId: '3564'
+sourceUrl: https://rockstarcmo.com/into-the-swimming-pool-resistance-to-change/
 ---
 
 ***This month Ahmed Hasan is my co-conspirator as we peer over the balcony down to the Rockstar CMO Swimming Pool (our portal to marketing hell for all the BS, shady outdated practices, snake oil or over-hyped buzzwords) and we consider chucking “resistance to change” into its shimmering depths.***

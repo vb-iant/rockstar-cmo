@@ -1,16 +1,21 @@
 ---
-title: "Into the Pool #10: Marketing AI"
-date: "2018-12-20"
-slug: "into-the-pool-10-marketing-ai%ef%bb%bf"
-excerpt: "Casey Petersen is conspiring with Ian Truscott to chuck Marketing AI into the Rockstar CMO swimming pool. Some would say a brave choice as artificial intelligence is such a darling of the current marketing zeitgeist. Do you agree?"
+title: 'Into the Pool #10: Marketing AI'
+date: '2018-12-20'
+slug: into-the-pool-10-marketing-ai%ef%bb%bf
+excerpt: Casey Petersen is conspiring with Ian Truscott to chuck Marketing AI into
+  the Rockstar CMO swimming pool. Some would say a brave choice as artificial intelligence
+  is such a darling of the current marketing zeitgeist. Do you agree?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/c1923168375e.jpg"
-categories: ["london-calling", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/c1923168375e.jpg
+tags: []
+series:
+- london-calling
+- the-swimming-pool
 needsReview: []
-sourceId: "1623"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-10-marketing-ai%ef%bb%bf/"
+sourceId: '1623'
+sourceUrl: https://rockstarcmo.com/into-the-pool-10-marketing-ai%ef%bb%bf/
 ---
 
 **Oh it’s a biggie this month; Casey Petersen is conspiring with Ian Truscott to chuck Marketing AI into the Rockstar CMO swimming pool. Some would say a brave choice as artificial intelligence is such a darling of the current marketing zeitgeist. Do you agree?** [Get in touch.](/contact-us)

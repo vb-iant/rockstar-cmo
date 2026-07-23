@@ -1,16 +1,21 @@
 ---
-title: "adnonamau5  - an advertisers 12 days of Christmas"
-date: "2019-11-28"
-slug: "adnonamau5-an-advertisers-12-days-of-christmas"
-excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser adnonamau5 does his best work in a mask, as he reveals the dirty little secrets of life in a big agency. This month he seems a bit jollier, with a Christmas carol of wishes for the holidays, that we think we can all nod along with."
+title: adnonamau5  - an advertisers 12 days of Christmas
+date: '2019-11-28'
+slug: adnonamau5-an-advertisers-12-days-of-christmas
+excerpt: Like the legendary DJ Deadmau5, our anonymous advertiser adnonamau5 does
+  his best work in a mask, as he reveals the dirty little secrets of life in a big
+  agency. This month he seems a bit jollier, with a Christmas carol of wishes for
+  the holidays, that we think we can all nod along with.
 excerptGenerated: false
-author: "adnonamau5"
-authorSlug: "adnonamau5"
-image: "/images/blog/77524b88be2d.png"
-categories: ["the-magic-of-christmas-issue"]
+author: adnonamau5
+authorSlug: adnonamau5
+image: /images/blog/77524b88be2d.png
+tags: []
+series:
+- the-magic-of-christmas-issue
 needsReview: []
-sourceId: "4670"
-sourceUrl: "https://rockstarcmo.com/adnonamau5-an-advertisers-12-days-of-christmas/"
+sourceId: '4670'
+sourceUrl: https://rockstarcmo.com/adnonamau5-an-advertisers-12-days-of-christmas/
 ---
 
 ***Like the legendary DJ Deadmau5, our anonymous advertiser adnonamau5 does his best work in a mask, as he reveals the dirty little secrets of life in a big agency. This month he seems a bit jollier, with a Christmas carol of wishes for the holidays, that we think we can all nod along with.***

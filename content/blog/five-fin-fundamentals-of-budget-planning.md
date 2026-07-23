@@ -1,16 +1,19 @@
 ---
-title: "Five F'in' Fundamentals of Budget Planning"
-date: "2023-11-15"
-slug: "five-fin-fundamentals-of-budget-planning"
-excerpt: "An F'in' practical set of Fundamentals to prepare for a new budget year from Jeff Clark."
+title: Five F'in' Fundamentals of Budget Planning
+date: '2023-11-15'
+slug: five-fin-fundamentals-of-budget-planning
+excerpt: An F'in' practical set of Fundamentals to prepare for a new budget year from
+  Jeff Clark.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/bb7037503b43.jpg"
-categories: ["rockstar-cmo-advisors", "street-knowledge"]
-needsReview: ["embed_block"]
-sourceId: "7897"
-sourceUrl: "https://rockstarcmo.com/five-fin-fundamentals-of-budget-planning/"
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/bb7037503b43.jpg
+tags: []
+series: []
+needsReview:
+- embed_block
+sourceId: '7897'
+sourceUrl: https://rockstarcmo.com/five-fin-fundamentals-of-budget-planning/
 ---
 
 ***Here's an F'in' practical set of Fundamentals as you prepare for a new year. Jeff Clark has offered up some pearls from years of dealing with the eccentricities of working within the business to get the budget CMOs need to be successful***.

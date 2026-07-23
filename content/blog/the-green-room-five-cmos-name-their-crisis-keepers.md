@@ -1,16 +1,20 @@
 ---
-title: "The Green Room: Five CMOs name their crisis keepers"
-date: "2020-06-01"
-slug: "the-green-room-five-cmos-name-their-crisis-keepers"
-excerpt: "We ask five of our Rockstar CMOs what they’ve learned during the crisis and what practices we should keep as the world slowly emerges from lockdown."
+title: 'The Green Room: Five CMOs name their crisis keepers'
+date: '2020-06-01'
+slug: the-green-room-five-cmos-name-their-crisis-keepers
+excerpt: We ask five of our Rockstar CMOs what they’ve learned during the crisis and
+  what practices we should keep as the world slowly emerges from lockdown.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/d2dd37f937ba.png"
-categories: ["the-club-classics-volume-one-issue", "the-green-room"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/d2dd37f937ba.png
+tags: []
+series:
+- the-club-classics-volume-one-issue
+- the-green-room
 needsReview: []
-sourceId: "5759"
-sourceUrl: "https://rockstarcmo.com/the-green-room-five-cmos-name-their-crisis-keepers/"
+sourceId: '5759'
+sourceUrl: https://rockstarcmo.com/the-green-room-five-cmos-name-their-crisis-keepers/
 ---
 
 ***During the pandemic, marketing leaders everywhere have had to tune in to the needs of their consumers and employees, remixing their marketing message to address the concerns of their audiences, and adjusting working practices around the need of their people to be remote and protected from the virus.***

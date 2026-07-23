@@ -1,16 +1,20 @@
 ---
-title: "Singing is Optional – Defining a Brand Personality"
-date: "2018-11-30"
-slug: "singing-is-optional-defining-a-brand-personality"
-excerpt: "Following an experience where a hotel offered him the opportunity to sing in the shower, Ian Truscott explores the art of creating a brand personality."
+title: Singing is Optional – Defining a Brand Personality
+date: '2018-11-30'
+slug: singing-is-optional-defining-a-brand-personality
+excerpt: Following an experience where a hotel offered him the opportunity to sing
+  in the shower, Ian Truscott explores the art of creating a brand personality.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/9a18a4be3b3c.jpg"
-categories: ["employee-engagement", "we-are-family"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/9a18a4be3b3c.jpg
+tags:
+- employee-engagement
+series:
+- we-are-family
 needsReview: []
-sourceId: "664"
-sourceUrl: "https://rockstarcmo.com/singing-is-optional-defining-a-brand-personality/"
+sourceId: '664'
+sourceUrl: https://rockstarcmo.com/singing-is-optional-defining-a-brand-personality/
 ---
 
 ![](https://i2.wp.com/rockstarcmo.appropingo.com/wp-content/uploads/2018/12/IMG_0651.jpg?fit=834%2C626&ssl=1)

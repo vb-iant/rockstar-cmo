@@ -1,16 +1,20 @@
 ---
-title: "Good 'Influencer' Marketing and Measurement"
-date: "2019-05-30"
-slug: "good-influencer-marketing-and-measurement"
-excerpt: "Influencers are the hot topic of marketing right now, but Ted Rubin has always believed in the value of relationships, in this article our resident Rockstar, one of the most shared CMOs on Twitter shares his experience.."
+title: Good 'Influencer' Marketing and Measurement
+date: '2019-05-30'
+slug: good-influencer-marketing-and-measurement
+excerpt: Influencers are the hot topic of marketing right now, but Ted Rubin has always
+  believed in the value of relationships, in this article our resident Rockstar, one
+  of the most shared CMOs on Twitter shares his experience..
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/71efe437cd9b.jpg"
-categories: ["the-invasion-of-privacy-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/71efe437cd9b.jpg
+tags: []
+series:
+- the-invasion-of-privacy-issue
 needsReview: []
-sourceId: "3704"
-sourceUrl: "https://rockstarcmo.com/good-influencer-marketing-and-measurement/"
+sourceId: '3704'
+sourceUrl: https://rockstarcmo.com/good-influencer-marketing-and-measurement/
 ---
 
 ![](/images/blog/151e1393f58c.jpg)

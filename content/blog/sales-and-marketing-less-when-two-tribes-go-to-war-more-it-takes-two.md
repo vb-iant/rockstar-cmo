@@ -1,16 +1,22 @@
 ---
-title: "Sales and Marketing: Less ‘When Two Tribes Go to War’, More ‘It Takes Two’"
-date: "2019-09-30"
-slug: "sales-and-marketing-less-when-two-tribes-go-to-war-more-it-takes-two"
-excerpt: "The \"leads are weak\" the sales lead singer laments to the marketing songwriters and backing band. Lauren Bowden of The Comms Crowd suggests on how to heal the band's creative differences."
+title: 'Sales and Marketing: Less ‘When Two Tribes Go to War’, More ‘It Takes Two’'
+date: '2019-09-30'
+slug: sales-and-marketing-less-when-two-tribes-go-to-war-more-it-takes-two
+excerpt: The "leads are weak" the sales lead singer laments to the marketing songwriters
+  and backing band. Lauren Bowden of The Comms Crowd suggests on how to heal the band's
+  creative differences.
 excerptGenerated: false
-author: "Lauren Bowden"
-authorSlug: "lauren-bowden"
-image: "/images/blog/42a3c56b7784.jpg"
-categories: ["the-one-nation-under-a-groove-issue"]
-needsReview: ["raw_html_block", "iframe"]
-sourceId: "4430"
-sourceUrl: "https://rockstarcmo.com/sales-and-marketing-less-when-two-tribes-go-to-war-more-it-takes-two/"
+author: Lauren Bowden
+authorSlug: lauren-bowden
+image: /images/blog/42a3c56b7784.jpg
+tags: []
+series:
+- the-one-nation-under-a-groove-issue
+needsReview:
+- raw_html_block
+- iframe
+sourceId: '4430'
+sourceUrl: https://rockstarcmo.com/sales-and-marketing-less-when-two-tribes-go-to-war-more-it-takes-two/
 ---
 
 ***There is always a tension in the band between the lead singer in sales and the marketing songwriters and backing band. The "leads are weak" they sulkily lament or "MQL's are a piece of crap" they shout on LinkedIn. Lauren Bowden Chief Content Creator at The Comms Crowd suggests on how we heal the band's creative differences....***

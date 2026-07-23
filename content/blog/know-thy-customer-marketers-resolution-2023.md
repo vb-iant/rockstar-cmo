@@ -1,16 +1,19 @@
 ---
-title: "Know Thy Customer: Marketer’s Resolution 2023"
-date: "2023-01-06"
-slug: "know-thy-customer-marketers-resolution-2023"
-excerpt: "Many of the coming year’s predictions for marketing (and sales) relate to focusing on your existing customers. Let’s resolve to do a few things to help our companies win in 2023."
+title: 'Know Thy Customer: Marketer’s Resolution 2023'
+date: '2023-01-06'
+slug: know-thy-customer-marketers-resolution-2023
+excerpt: Many of the coming year’s predictions for marketing (and sales) relate to
+  focusing on your existing customers. Let’s resolve to do a few things to help our
+  companies win in 2023.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/7c42e91d23b7.png"
-categories: ["rockstar-cmo-advisors", "street-knowledge"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/7c42e91d23b7.png
+tags: []
+series: []
 needsReview: []
-sourceId: "7540"
-sourceUrl: "https://rockstarcmo.com/know-thy-customer-marketers-resolution-2023/"
+sourceId: '7540'
+sourceUrl: https://rockstarcmo.com/know-thy-customer-marketers-resolution-2023/
 ---
 
 ***Do you think the world is changing too fast? Will technologies like AI and machine learning make your job irrelevant? Is the business is threatened by a plethora of changing market dynamics? Well, it’s time to get back to basics and understand what’s driving your customers’ needs as they navigate the changing market dynamics.***

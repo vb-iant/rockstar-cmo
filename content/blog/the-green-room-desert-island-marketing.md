@@ -1,16 +1,20 @@
 ---
-title: "The Green Room: Marketing a Desert Island - What Would You Take?"
-date: "2019-04-25"
-slug: "the-green-room-desert-island-marketing"
-excerpt: "In this issue Ian Truscott catches up with five of our Rockstars and gets his inspiration from a 77 year old radio show.. wait.. what?﻿"
+title: 'The Green Room: Marketing a Desert Island - What Would You Take?'
+date: '2019-04-25'
+slug: the-green-room-desert-island-marketing
+excerpt: "In this issue Ian Truscott catches up with five of our Rockstars and gets\
+  \ his inspiration from a 77 year old radio show.. wait.. what?\uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/8f2e5e418637.jpg"
-categories: ["the-changesbowie-issue", "the-green-room"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/8f2e5e418637.jpg
+tags: []
+series:
+- the-changesbowie-issue
+- the-green-room
 needsReview: []
-sourceId: "3637"
-sourceUrl: "https://rockstarcmo.com/the-green-room-desert-island-marketing/"
+sourceId: '3637'
+sourceUrl: https://rockstarcmo.com/the-green-room-desert-island-marketing/
 ---
 
 ***Each month in the Green Room we return backstage to pose a question to a group of our Rockstar CMOs. In this issue Ian Truscott catches up with five of them and gets his inspiration from a 77 year old radio show.. wait.. what?***

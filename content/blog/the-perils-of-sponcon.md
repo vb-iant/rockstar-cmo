@@ -1,16 +1,20 @@
 ---
-title: "The Perils of #Sponcon"
-date: "2019-02-28"
-slug: "the-perils-of-sponcon"
-excerpt: "Unlike its musical counterpart of pop, where the lip-synch reigns supreme, rock has never rested on the laurels of authenticity. Not like social media. Gareth May unpacks the weird world of fake #sponcon.﻿"
+title: 'The Perils of #Sponcon'
+date: '2019-02-28'
+slug: the-perils-of-sponcon
+excerpt: "Unlike its musical counterpart of pop, where the lip-synch reigns supreme,\
+  \ rock has never rested on the laurels of authenticity. Not like social media. Gareth\
+  \ May unpacks the weird world of fake #sponcon.\uFEFF"
 excerptGenerated: false
-author: "Gareth May"
-authorSlug: "gareth-may"
-image: "/images/blog/704eb51823f2.jpg"
-categories: ["the-pretender-issue"]
+author: Gareth May
+authorSlug: gareth-may
+image: /images/blog/704eb51823f2.jpg
+tags: []
+series:
+- the-pretender-issue
 needsReview: []
-sourceId: "3308"
-sourceUrl: "https://rockstarcmo.com/the-perils-of-sponcon/"
+sourceId: '3308'
+sourceUrl: https://rockstarcmo.com/the-perils-of-sponcon/
 ---
 
 **Unlike its musical counterpart of pop, where the lip-synch reigns supreme, rock has never rested on the laurels of authenticity. Not like social media. Gareth May unpacks the weird world of fake #sponcon.**

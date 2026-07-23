@@ -1,16 +1,21 @@
 ---
-title: "Beware the Risks of Arrogance and Pride in Business"
-date: "2018-08-30"
-slug: "beware-the-risks-of-arrogance-and-pride-in-business"
-excerpt: "Buzzing off those results you secured for your company? Feeling confident? Maybe even a little self-important? Time to check yourself, says Ted Rubin. ﻿"
+title: Beware the Risks of Arrogance and Pride in Business
+date: '2018-08-30'
+slug: beware-the-risks-of-arrogance-and-pride-in-business
+excerpt: "Buzzing off those results you secured for your company? Feeling confident?\
+  \ Maybe even a little self-important? Time to check yourself, says Ted Rubin. \uFEFF"
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/8cb5d0eda9dd.jpg"
-categories: ["sound-check", "top-10", "top-10-2020"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/8cb5d0eda9dd.jpg
+tags: []
+series:
+- sound-check
+- top-10
+- top-10-2020
 needsReview: []
-sourceId: "930"
-sourceUrl: "https://rockstarcmo.com/beware-the-risks-of-arrogance-and-pride-in-business/"
+sourceId: '930'
+sourceUrl: https://rockstarcmo.com/beware-the-risks-of-arrogance-and-pride-in-business/
 ---
 
 **Buzzing off those results you secured for your company? Feeling confident? Maybe even a little self-important? Time to check yourself, says** [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin)**.**

@@ -1,16 +1,22 @@
 ---
-title: "Backstage with Lynne Capozzi"
-date: "2019-07-25"
-slug: "backstage-with-lynne-capozzi"
-excerpt: "Lynne Capozzi is the CMO of Acquia, a global marketing technology vendor. Ian Truscott sits down with this passionate marketer and finds out what get's her marketing mojo working"
+title: Backstage with Lynne Capozzi
+date: '2019-07-25'
+slug: backstage-with-lynne-capozzi
+excerpt: Lynne Capozzi is the CMO of Acquia, a global marketing technology vendor.
+  Ian Truscott sits down with this passionate marketer and finds out what get's her
+  marketing mojo working
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/d7ba01a79f04.jpg"
-categories: ["backstage", "the-breaking-glass-issue", "the-think-about-it-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/d7ba01a79f04.jpg
+tags: []
+series:
+- backstage
+- the-breaking-glass-issue
+- the-think-about-it-issue
 needsReview: []
-sourceId: "3990"
-sourceUrl: "https://rockstarcmo.com/backstage-with-lynne-capozzi/"
+sourceId: '3990'
+sourceUrl: https://rockstarcmo.com/backstage-with-lynne-capozzi/
 ---
 
 ***Lynne Capozzi is the CMO of Acquia, a global marketing technology vendor that industry analysts bill as a headline act on the digital experience main stage alongside some powerful vendors. Ian Truscott sits down with this passionate marketer and finds out what get's her marketing mojo working....***

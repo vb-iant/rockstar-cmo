@@ -1,16 +1,22 @@
 ---
-title: "Employees: The New Empowered Generation"
-date: "2019-09-30"
-slug: "employees-the-new-empowered-generation"
-excerpt: "Marketing needs to realize that we aren't the only ones holding the mic, we need to create a chorus with our colleagues across the business, from the cash register to the C suite, to create a hit marketing sound. Casey Petersen charts how we got here and what we do now."
+title: 'Employees: The New Empowered Generation'
+date: '2019-09-30'
+slug: employees-the-new-empowered-generation
+excerpt: Marketing needs to realize that we aren't the only ones holding the mic,
+  we need to create a chorus with our colleagues across the business, from the cash
+  register to the C suite, to create a hit marketing sound. Casey Petersen charts
+  how we got here and what we do now.
 excerptGenerated: false
-author: "Casey Petersen"
-authorSlug: "casey-petersen"
-image: "/images/blog/4e89b02251b7.jpg"
-categories: ["employee-engagement", "the-one-nation-under-a-groove-issue"]
+author: Casey Petersen
+authorSlug: casey-petersen
+image: /images/blog/4e89b02251b7.jpg
+tags:
+- employee-engagement
+series:
+- the-one-nation-under-a-groove-issue
 needsReview: []
-sourceId: "4447"
-sourceUrl: "https://rockstarcmo.com/employees-the-new-empowered-generation/"
+sourceId: '4447'
+sourceUrl: https://rockstarcmo.com/employees-the-new-empowered-generation/
 ---
 
 ***It's time for marketing to realize that we aren't the only ones holding the mic, we need to create a chorus with our colleagues across the business, from the cash register to the C suite, to create a hit marketing sound. Retail and CPG marketing expert Casey Petersen charts how we got here and what we do now.***

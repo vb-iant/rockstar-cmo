@@ -1,16 +1,21 @@
 ---
-title: "Zombie Marketing: Bringing Back Dead Ideas"
-date: "2018-10-31"
-slug: "zombie-marketing-bringing-back-dead-ideas"
-excerpt: "The graveyard of marketing is ripe with bodies. Print, video, and billboards killed at the hands of social media, QR codes, and digital PR. But are they gone for good? Gareth May explores."
+title: 'Zombie Marketing: Bringing Back Dead Ideas'
+date: '2018-10-31'
+slug: zombie-marketing-bringing-back-dead-ideas
+excerpt: The graveyard of marketing is ripe with bodies. Print, video, and billboards
+  killed at the hands of social media, QR codes, and digital PR. But are they gone
+  for good? Gareth May explores.
 excerptGenerated: false
-author: "Gareth May"
-authorSlug: "gareth-may"
-image: "/images/blog/ea1b0af306ed.jpg"
-categories: ["thriller"]
-needsReview: ["embed_block"]
-sourceId: "989"
-sourceUrl: "https://rockstarcmo.com/zombie-marketing-bringing-back-dead-ideas/"
+author: Gareth May
+authorSlug: gareth-may
+image: /images/blog/ea1b0af306ed.jpg
+tags: []
+series:
+- thriller
+needsReview:
+- embed_block
+sourceId: '989'
+sourceUrl: https://rockstarcmo.com/zombie-marketing-bringing-back-dead-ideas/
 ---
 
 **The graveyard of marketing is ripe with bodies. Print, video, and billboards are moaning in their plots, killed at the hands of social media, QR codes, and digital PR. But are they gone for good?** [**Gareth May**](/gareth-may) **explores the brands and associations breathing new life into old marketing strategies.**

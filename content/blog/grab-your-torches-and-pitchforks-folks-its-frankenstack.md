@@ -1,16 +1,20 @@
 ---
-title: "Grab Your Torches and Pitchforks Folks, it’s Frankenstack!"
-date: "2018-10-31"
-slug: "grab-your-torches-and-pitchforks-folks-its-frankenstack"
-excerpt: "There’s a mind-boggling array of software available to marketers today. Designed to make your life easier or lurching around, threatening to destroy your business? Ian Truscott explores the perils and pitfalls of the Frankenstack.﻿"
+title: Grab Your Torches and Pitchforks Folks, it’s Frankenstack!
+date: '2018-10-31'
+slug: grab-your-torches-and-pitchforks-folks-its-frankenstack
+excerpt: "There’s a mind-boggling array of software available to marketers today.\
+  \ Designed to make your life easier or lurching around, threatening to destroy your\
+  \ business? Ian Truscott explores the perils and pitfalls of the Frankenstack.\uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/0023f702ce6d.jpg"
-categories: ["thriller"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/0023f702ce6d.jpg
+tags: []
+series:
+- thriller
 needsReview: []
-sourceId: "1132"
-sourceUrl: "https://rockstarcmo.com/grab-your-torches-and-pitchforks-folks-its-frankenstack/"
+sourceId: '1132'
+sourceUrl: https://rockstarcmo.com/grab-your-torches-and-pitchforks-folks-its-frankenstack/
 ---
 
 **There’s a mind-boggling array of software available to marketers today. Shiny, new, advanced systems designed to make your life easier. But do they? Or are they actually just lurching around, threatening to destroy your business?** [**Ian Truscott**](/ian-truscott) **explores the perils and pitfalls of the Frankenstack.**

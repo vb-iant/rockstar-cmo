@@ -1,16 +1,22 @@
 ---
-title: "Create a Content Hub and Engage Your Crowd"
-date: "2019-02-21"
-slug: "create-art-with-a-content-hub"
-excerpt: "We are a fan of content hubs, low branded thought leadership web publications as a place for consumer and influencer engagement. Having created a few, in this post we share a bit of that experience."
+title: Create a Content Hub and Engage Your Crowd
+date: '2019-02-21'
+slug: create-art-with-a-content-hub
+excerpt: We are a fan of content hubs, low branded thought leadership web publications
+  as a place for consumer and influencer engagement. Having created a few, in this
+  post we share a bit of that experience.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
+author: Ian Truscott
+authorSlug: ian-truscott
 image: null
-categories: ["b2b-marketing", "content-marketing", "marketing"]
+tags:
+- b2b-marketing
+- content-marketing
+- marketing
+series: []
 needsReview: []
-sourceId: "6275"
-sourceUrl: "https://rockstarcmo.com/create-art-with-a-content-hub/"
+sourceId: '6275'
+sourceUrl: https://rockstarcmo.com/create-art-with-a-content-hub/
 ---
 
 ***We are a fan of content hubs, low branded thought leadership web publications as a place for consumer and influencer engagement. Ian Truscott shares his experience and if you are interested in engaging your influencers and prospective clients by building a content hub, we can help - [get in touch](https://appropingo1.wpengine.com/contact-us/).***

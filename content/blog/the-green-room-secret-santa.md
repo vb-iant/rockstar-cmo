@@ -1,16 +1,22 @@
 ---
-title: "The Green Room Secret Santa"
-date: "2018-12-24"
-slug: "the-green-room-secret-santa"
-excerpt: "Every month we pose a question to our Rockstar CMOs. As this issue drops during the season of goodwill, we’re thinking about gifts. So we wondered, what would this fine and generous band of marketers gift to our marketing community?"
+title: The Green Room Secret Santa
+date: '2018-12-24'
+slug: the-green-room-secret-santa
+excerpt: Every month we pose a question to our Rockstar CMOs. As this issue drops
+  during the season of goodwill, we’re thinking about gifts. So we wondered, what
+  would this fine and generous band of marketers gift to our marketing community?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/0dcc48783438.jpg"
-categories: ["featured", "the-green-room", "london-calling"]
-needsReview: ["embed_block"]
-sourceId: "1592"
-sourceUrl: "https://rockstarcmo.com/the-green-room-secret-santa/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/0dcc48783438.jpg
+tags: []
+series:
+- the-green-room
+- london-calling
+needsReview:
+- embed_block
+sourceId: '1592'
+sourceUrl: https://rockstarcmo.com/the-green-room-secret-santa/
 ---
 
 **Every month in the Green Room Ian Truscott poses a question to our Rockstar CMOs that’s top of mind for us in the Rockstar CMO penthouse. As this issue drops during the season of goodwill, we’re thinking about gifts. So we wondered, what would this fine and generous band of marketers gift to our marketing community?**

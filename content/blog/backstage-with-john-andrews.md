@@ -1,16 +1,20 @@
 ---
-title: "Backstage with John Andrews"
-date: "2018-06-28"
-slug: "backstage-with-john-andrews"
-excerpt: "Ian Truscott sat down with John Andrews, head honcho at Photofy – and chat about his 20 years’ experience in digital marketing."
+title: Backstage with John Andrews
+date: '2018-06-28'
+slug: backstage-with-john-andrews
+excerpt: Ian Truscott sat down with John Andrews, head honcho at Photofy – and chat
+  about his 20 years’ experience in digital marketing.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/4d23d7c818ce.jpg"
-categories: ["backstage", "ok-computer"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/4d23d7c818ce.jpg
+tags: []
+series:
+- backstage
+- ok-computer
 needsReview: []
-sourceId: "803"
-sourceUrl: "https://rockstarcmo.com/backstage-with-john-andrews/"
+sourceId: '803'
+sourceUrl: https://rockstarcmo.com/backstage-with-john-andrews/
 ---
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them a rock star, what excites them and what we might learn on our journey to marketing rock stardom.

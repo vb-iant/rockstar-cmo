@@ -1,16 +1,21 @@
 ---
-title: "Risky Business"
-date: "2018-12-20"
-slug: "risky-business"
-excerpt: "It used to be brand suicide to align yourself openly with a political or social justice cause. Now, everyone’s at it. But why? Ian Hsieh discovers."
+title: Risky Business
+date: '2018-12-20'
+slug: risky-business
+excerpt: It used to be brand suicide to align yourself openly with a political or
+  social justice cause. Now, everyone’s at it. But why? Ian Hsieh discovers.
 excerptGenerated: false
-author: "Ian Hsieh"
-authorSlug: "ian-hsieh"
-image: "/images/blog/e1b3b3b8d74b.jpg"
-categories: ["features-2", "london-calling", "the-people-are-people-issue"]
-needsReview: ["embed_block"]
-sourceId: "1748"
-sourceUrl: "https://rockstarcmo.com/risky-business/"
+author: Ian Hsieh
+authorSlug: ian-hsieh
+image: /images/blog/e1b3b3b8d74b.jpg
+tags: []
+series:
+- london-calling
+- the-people-are-people-issue
+needsReview:
+- embed_block
+sourceId: '1748'
+sourceUrl: https://rockstarcmo.com/risky-business/
 ---
 
 **A few years ago, it was brand suicide to align yourself openly with a political or social justice cause. Now, everyone’s at it. But why? Doing it successfully is harder than it looks, too. And as Ian Hsieh discovers, the stakes have never been higher.**

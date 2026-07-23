@@ -1,16 +1,20 @@
 ---
-title: "Tune in to Your ICP (Ideal Customer Profile)"
-date: "2023-02-25"
-slug: "tune-in-to-your-icp-ideal-customer-profile"
-excerpt: "Jeff Clark shares, how, if you want to get some sales and marketing focus, you should tune in to your ICP (Ideal Customer Profile)."
+title: Tune in to Your ICP (Ideal Customer Profile)
+date: '2023-02-25'
+slug: tune-in-to-your-icp-ideal-customer-profile
+excerpt: Jeff Clark shares, how, if you want to get some sales and marketing focus,
+  you should tune in to your ICP (Ideal Customer Profile).
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/9f455265ab64.jpg"
-categories: ["marketing", "rockstar-cmo-advisors", "street-knowledge"]
-needsReview: ["table"]
-sourceId: "7600"
-sourceUrl: "https://rockstarcmo.com/tune-in-to-your-icp-ideal-customer-profile/"
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/9f455265ab64.jpg
+tags:
+- marketing
+series: []
+needsReview:
+- table
+sourceId: '7600'
+sourceUrl: https://rockstarcmo.com/tune-in-to-your-icp-ideal-customer-profile/
 ---
 
 ***As marketers, we love to chuck around the TLAs, and here's another one for you; ICP. ***As our resident Strategy Advisor Jeff Clark shares******, ***this isn't just some carefully crafted RCB (Rockstar CMO Bullshit); if you want to get some sales and marketing focus - tune in to your ICP....***

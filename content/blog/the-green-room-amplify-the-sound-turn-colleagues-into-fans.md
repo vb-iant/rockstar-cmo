@@ -1,16 +1,22 @@
 ---
-title: "The Green Room: Amplify the Sound; Turn Colleagues into Fans"
-date: "2019-06-29"
-slug: "the-green-room-amplify-the-sound-turn-colleagues-into-fans"
-excerpt: "It's clear, our brand, service and value are in the hands of everyone in a business. In the Green Room this month we sit down with eight of our Rockstar CMOs and ask them how they approach getting employees engaged, in sharing the story"
+title: 'The Green Room: Amplify the Sound; Turn Colleagues into Fans'
+date: '2019-06-29'
+slug: the-green-room-amplify-the-sound-turn-colleagues-into-fans
+excerpt: It's clear, our brand, service and value are in the hands of everyone in
+  a business. In the Green Room this month we sit down with eight of our Rockstar
+  CMOs and ask them how they approach getting employees engaged, in sharing the story
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/f978d49227b7.png"
-categories: ["employee-engagement", "the-green-room", "the-inside-in-inside-out-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/f978d49227b7.png
+tags:
+- employee-engagement
+series:
+- the-green-room
+- the-inside-in-inside-out-issue
 needsReview: []
-sourceId: "3887"
-sourceUrl: "https://rockstarcmo.com/the-green-room-amplify-the-sound-turn-colleagues-into-fans/"
+sourceId: '3887'
+sourceUrl: https://rockstarcmo.com/the-green-room-amplify-the-sound-turn-colleagues-into-fans/
 ---
 
 ***It's clear, our brand, service and value are in the hands of everyone in a business. In the Green Room this month we sit down with eight of our Rockstar CMOs and ask them how they approach getting employees engaged, in sharing the story***

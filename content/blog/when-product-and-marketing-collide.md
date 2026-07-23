@@ -1,16 +1,19 @@
 ---
-title: "When product and marketing collide"
-date: "2020-02-07"
-slug: "when-product-and-marketing-collide"
-excerpt: "Lauren Bowden, experienced B2B marketer shares her experience of the relationship between product development and marketing, with some pragmatic advice to be Pragmatic."
+title: When product and marketing collide
+date: '2020-02-07'
+slug: when-product-and-marketing-collide
+excerpt: Lauren Bowden, experienced B2B marketer shares her experience of the relationship
+  between product development and marketing, with some pragmatic advice to be Pragmatic.
 excerptGenerated: false
-author: "Lauren Bowden"
-authorSlug: "lauren-bowden"
-image: "/images/blog/42a3c56b7784.jpg"
-categories: ["the-features-creatures-issue"]
+author: Lauren Bowden
+authorSlug: lauren-bowden
+image: /images/blog/42a3c56b7784.jpg
+tags: []
+series:
+- the-features-creatures-issue
 needsReview: []
-sourceId: "5215"
-sourceUrl: "https://rockstarcmo.com/when-product-and-marketing-collide/"
+sourceId: '5215'
+sourceUrl: https://rockstarcmo.com/when-product-and-marketing-collide/
 ---
 
 ***Lauren Bowden, experienced B2B marketer shares her experience of the relationship between product development and marketing, with some pragmatic advice to be Pragmatic.***

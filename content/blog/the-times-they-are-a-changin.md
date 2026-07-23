@@ -1,16 +1,21 @@
 ---
-title: "The Times They Are A-Changin’"
-date: "2020-07-18"
-slug: "the-times-they-are-a-changin"
-excerpt: "This month we asked Ted Rubin: Do good marketers need a formal marketing education? His reply is, as ever, straight-talking, insightful and to the point. As times change you need to be open to it and have the passion..."
+title: The Times They Are A-Changin’
+date: '2020-07-18'
+slug: the-times-they-are-a-changin
+excerpt: 'This month we asked Ted Rubin: Do good marketers need a formal marketing
+  education? His reply is, as ever, straight-talking, insightful and to the point.
+  As times change you need to be open to it and have the passion...'
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/91eb73950e06.jpg"
-categories: ["the-miseducation-of-lauryn-hill-issue", "top-10"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/91eb73950e06.jpg
+tags: []
+series:
+- the-miseducation-of-lauryn-hill-issue
+- top-10
 needsReview: []
-sourceId: "5864"
-sourceUrl: "https://rockstarcmo.com/the-times-they-are-a-changin/"
+sourceId: '5864'
+sourceUrl: https://rockstarcmo.com/the-times-they-are-a-changin/
 ---
 
 ***This month we asked Ted Rubin: Do good marketers need a formal marketing education? His reply is, as ever, straight-talking, insightful and to the point. As times change you need to be open to it and have the passion...***

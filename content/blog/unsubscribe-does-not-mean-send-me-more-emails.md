@@ -1,16 +1,20 @@
 ---
-title: "Unsubscribe DOES NOT Mean… Send Me More Emails!"
-date: "2018-12-20"
-slug: "unsubscribe-does-not-mean-send-me-more-emails"
-excerpt: "Ever unsubscribe from a mailing list only to keep getting emails from the brand in question? You’re not alone. It’s actually one of Ted Rubin’s biggest pet peeves, and here’s why."
+title: Unsubscribe DOES NOT Mean… Send Me More Emails!
+date: '2018-12-20'
+slug: unsubscribe-does-not-mean-send-me-more-emails
+excerpt: Ever unsubscribe from a mailing list only to keep getting emails from the
+  brand in question? You’re not alone. It’s actually one of Ted Rubin’s biggest pet
+  peeves, and here’s why.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/0e4109888ad3.jpg"
-categories: ["london-calling"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/0e4109888ad3.jpg
+tags: []
+series:
+- london-calling
 needsReview: []
-sourceId: "1586"
-sourceUrl: "https://rockstarcmo.com/unsubscribe-does-not-mean-send-me-more-emails/"
+sourceId: '1586'
+sourceUrl: https://rockstarcmo.com/unsubscribe-does-not-mean-send-me-more-emails/
 ---
 
 **Ever unsubscribe from a mailing list only to keep getting emails from the brand in question? You’re not alone. It’s actually one of** [**Ted Rubin’s**](https://rockstarcmo.wpengine.com/ted-rubin) **biggest pet peeves, and here’s why.**

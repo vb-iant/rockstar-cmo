@@ -1,16 +1,22 @@
 ---
-title: "What’s Your Business in the Year of Transformation?"
-date: "2021-01-08"
-slug: "whats-your-business-in-the-year-of-transformation"
-excerpt: "Rock stars don't have a great reputation for education on the classics. But, as we face many challenges in 2021, Rockstar CMO Advisor, Jeff Clark looks to Cicero for inspiration, as he ponders what we as marketers and the organisations we work for can do to tackle them."
+title: What’s Your Business in the Year of Transformation?
+date: '2021-01-08'
+slug: whats-your-business-in-the-year-of-transformation
+excerpt: Rock stars don't have a great reputation for education on the classics. But,
+  as we face many challenges in 2021, Rockstar CMO Advisor, Jeff Clark looks to Cicero
+  for inspiration, as he ponders what we as marketers and the organisations we work
+  for can do to tackle them.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/fc29346827e7.jpg"
-categories: ["rockstar-cmo-advisors", "sustainability", "the-youve-come-a-long-way-baby-issue"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/fc29346827e7.jpg
+tags:
+- sustainability
+series:
+- the-youve-come-a-long-way-baby-issue
 needsReview: []
-sourceId: "6330"
-sourceUrl: "https://rockstarcmo.com/whats-your-business-in-the-year-of-transformation/"
+sourceId: '6330'
+sourceUrl: https://rockstarcmo.com/whats-your-business-in-the-year-of-transformation/
 ---
 
 ***Rock stars don't have a great reputation for education on the classics. But, as we face many challenges in 2021, Rockstar CMO Advisor, Jeff Clark looks to Cicero for inspiration, as he ponders what we as marketers and the organisations we work for can do to tackle them.***

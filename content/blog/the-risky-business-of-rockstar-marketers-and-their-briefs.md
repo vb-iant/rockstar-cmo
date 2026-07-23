@@ -1,16 +1,22 @@
 ---
-title: "The Risky Business of Rockstar Marketers and Their Briefs"
-date: "2019-05-31"
-slug: "the-risky-business-of-rockstar-marketers-and-their-briefs"
-excerpt: "The Brief, the essential song sheet that could decide if the work is a hit. We asked Bryce Groves, a freelance Creative Director with big-agency experience to lift the lid on the process, why the brief is so important, what makes a great brief and to spill the beans on the worst he's seen..."
+title: The Risky Business of Rockstar Marketers and Their Briefs
+date: '2019-05-31'
+slug: the-risky-business-of-rockstar-marketers-and-their-briefs
+excerpt: The Brief, the essential song sheet that could decide if the work is a hit.
+  We asked Bryce Groves, a freelance Creative Director with big-agency experience
+  to lift the lid on the process, why the brief is so important, what makes a great
+  brief and to spill the beans on the worst he's seen...
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/6fcba57f4b39.jpg"
-categories: ["the-invasion-of-privacy-issue"]
-needsReview: ["embed_block"]
-sourceId: "3742"
-sourceUrl: "https://rockstarcmo.com/the-risky-business-of-rockstar-marketers-and-their-briefs/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/6fcba57f4b39.jpg
+tags: []
+series:
+- the-invasion-of-privacy-issue
+needsReview:
+- embed_block
+sourceId: '3742'
+sourceUrl: https://rockstarcmo.com/the-risky-business-of-rockstar-marketers-and-their-briefs/
 ---
 
 ***The foundation of any creative collaboration between a marketer and their agency backing band is The Brief, the essential song sheet that could decide if the work is a hit. We asked Bryce Groves, a freelance Creative Director with big-agency experience to lift the lid on the process, why the brief is so important, what makes a great brief and to spill the beans on the worst he's seen...***

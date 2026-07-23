@@ -1,16 +1,19 @@
 ---
-title: "Get fans with a brand or big data?"
-date: "2020-03-30"
-slug: "get-fans-with-a-brand-or-big-data"
-excerpt: "We welcome a new writer to our house band, Carmine Mastropierro, who debuts with his take on the theme of this issue with this classic example."
+title: Get fans with a brand or big data?
+date: '2020-03-30'
+slug: get-fans-with-a-brand-or-big-data
+excerpt: We welcome a new writer to our house band, Carmine Mastropierro, who debuts
+  with his take on the theme of this issue with this classic example.
 excerptGenerated: false
-author: "Carmine Mastropierro"
-authorSlug: "carmine-mastropierro"
-image: "/images/blog/aca1537e101d.jpg"
-categories: ["the-ghost-town-issue"]
+author: Carmine Mastropierro
+authorSlug: carmine-mastropierro
+image: /images/blog/aca1537e101d.jpg
+tags: []
+series:
+- the-ghost-town-issue
 needsReview: []
-sourceId: "5498"
-sourceUrl: "https://rockstarcmo.com/get-fans-with-a-brand-or-big-data/"
+sourceId: '5498'
+sourceUrl: https://rockstarcmo.com/get-fans-with-a-brand-or-big-data/
 ---
 
 ***In this issue, we welcome a new writer to our house band******, Carmine Mastropierro, an accomplished marketing writer who debuts with his take on the theme of this issue, the balance between creativity and data-led decisions with this classic example***.

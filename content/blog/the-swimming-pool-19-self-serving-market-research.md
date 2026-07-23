@@ -1,16 +1,21 @@
 ---
-title: "The Swimming Pool #19: Self-serving “market research”"
-date: "2019-09-29"
-slug: "the-swimming-pool-19-self-serving-market-research"
-excerpt: "You find us on the Rockstar CMO penthouse balcony, peering down at the pool. This time after a very jolly conversation with Sydni Craig-Hart we have a whiteboard and several reams of printed PowerPoints that are about to get very wet. Why?"
+title: 'The Swimming Pool #19: Self-serving “market research”'
+date: '2019-09-29'
+slug: the-swimming-pool-19-self-serving-market-research
+excerpt: You find us on the Rockstar CMO penthouse balcony, peering down at the pool.
+  This time after a very jolly conversation with Sydni Craig-Hart we have a whiteboard
+  and several reams of printed PowerPoints that are about to get very wet. Why?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/e2466972366d.jpg"
-categories: ["the-one-nation-under-a-groove-issue", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/e2466972366d.jpg
+tags: []
+series:
+- the-one-nation-under-a-groove-issue
+- the-swimming-pool
 needsReview: []
-sourceId: "4377"
-sourceUrl: "https://rockstarcmo.com/the-swimming-pool-19-self-serving-market-research/"
+sourceId: '4377'
+sourceUrl: https://rockstarcmo.com/the-swimming-pool-19-self-serving-market-research/
 ---
 
 ***Oh yes, my friends, again you find us on the Rockstar CMO penthouse balcony, peering down at the pool. This time after a very jolly conversation with Sydni Craig-Hart we have a whiteboard and several reams of printed PowerPoints that are about to get very wet. Why? Well it’s time for self-serving market research to meet its watery doom.***

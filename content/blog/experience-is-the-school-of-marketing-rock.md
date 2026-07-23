@@ -1,16 +1,20 @@
 ---
-title: "Experience is The School of Marketing Rock"
-date: "2020-07-18"
-slug: "experience-is-the-school-of-marketing-rock"
-excerpt: "One of our mantras here on Rockstar CMO is from The School of Rock – “you can't just say it, man. You've gotta feel it in your blood and guts!” and as marketing writer Carmine Mastropierro shares here, that comes from experience."
+title: Experience is The School of Marketing Rock
+date: '2020-07-18'
+slug: experience-is-the-school-of-marketing-rock
+excerpt: One of our mantras here on Rockstar CMO is from The School of Rock – “you
+  can't just say it, man. You've gotta feel it in your blood and guts!” and as marketing
+  writer Carmine Mastropierro shares here, that comes from experience.
 excerptGenerated: false
-author: "Carmine Mastropierro"
-authorSlug: "carmine-mastropierro"
-image: "/images/blog/07f25d6b0a61.jpg"
-categories: ["the-miseducation-of-lauryn-hill-issue"]
+author: Carmine Mastropierro
+authorSlug: carmine-mastropierro
+image: /images/blog/07f25d6b0a61.jpg
+tags: []
+series:
+- the-miseducation-of-lauryn-hill-issue
 needsReview: []
-sourceId: "5866"
-sourceUrl: "https://rockstarcmo.com/experience-is-the-school-of-marketing-rock/"
+sourceId: '5866'
+sourceUrl: https://rockstarcmo.com/experience-is-the-school-of-marketing-rock/
 ---
 
 ***One of our mantras here on Rockstar CMO comes from the character Dewy Finn in the film “The School of Rock” – “you can't just say it, man. You've gotta feel it in your blood and guts!” and as marketing writer Carmine Mastropierro shares here, that comes from experience.***

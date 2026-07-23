@@ -1,16 +1,21 @@
 ---
-title: "Be the hero of your category story"
-date: "2018-11-17"
-slug: "the-secret-of-b2b-software-success-tell-your-category-story-your-way"
-excerpt: "Taking the time to define a brand story is necessary and fantastic, but changing the definition of a category, owning the story of the market in which you play is hugely powerful."
+title: Be the hero of your category story
+date: '2018-11-17'
+slug: the-secret-of-b2b-software-success-tell-your-category-story-your-way
+excerpt: Taking the time to define a brand story is necessary and fantastic, but changing
+  the definition of a category, owning the story of the market in which you play is
+  hugely powerful.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/4ee240d4fbd6.jpg"
-categories: ["archive", "b2b-marketing", "category-definition", "content-marketing", "street-knowledge"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/4ee240d4fbd6.jpg
+tags:
+- b2b-marketing
+- content-marketing
+series: []
 needsReview: []
-sourceId: "346"
-sourceUrl: "https://rockstarcmo.com/the-secret-of-b2b-software-success-tell-your-category-story-your-way/"
+sourceId: '346'
+sourceUrl: https://rockstarcmo.com/the-secret-of-b2b-software-success-tell-your-category-story-your-way/
 ---
 
 **In B2B marketing a brand story well told provides an emotional connection in a buying decision that is not just analytical about which vendor has got the most features at what price, but an emotional decision about who to trust.**

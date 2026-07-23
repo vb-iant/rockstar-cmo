@@ -1,16 +1,21 @@
 ---
-title: "Tales from the tour bus: Catch-up with L.Michelle Smith"
-date: "2019-09-01"
-slug: "tales-from-the-tour-bus-catch-up-with-l-michelle-smith"
-excerpt: "Back in The London Calling Issue, we went backstage with L. Michelle Smith, author, speaker, marketing leader and diversity champion. In this issue, Ian Truscott hops on the tour bus and catches up with with what's new.."
+title: 'Tales from the tour bus: Catch-up with L.Michelle Smith'
+date: '2019-09-01'
+slug: tales-from-the-tour-bus-catch-up-with-l-michelle-smith
+excerpt: Back in The London Calling Issue, we went backstage with L. Michelle Smith,
+  author, speaker, marketing leader and diversity champion. In this issue, Ian Truscott
+  hops on the tour bus and catches up with with what's new..
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/265a87d4face.jpg"
-categories: ["tales-from-the-tour-bus", "the-people-are-people-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/265a87d4face.jpg
+tags: []
+series:
+- tales-from-the-tour-bus
+- the-people-are-people-issue
 needsReview: []
-sourceId: "4195"
-sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-catch-up-with-l-michelle-smith/"
+sourceId: '4195'
+sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-catch-up-with-l-michelle-smith/
 ---
 
 ***Back in*** [***The London Calling Issue***](https://rockstarcmo.wpengine.com/category/issues/london-calling/)***, we went backstage with Dallas native,***[***L. Michelle Smith***](https://lmichellesmith.com/)***, a classically-trained mezzo soprano, author, speaker and marketing leader with over 25 years of experience as a communicator and integrated marketer. In this issue, Ian Truscott hops on the tour bus and catches up with this executive and business coach and entrepreneur.***

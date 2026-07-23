@@ -1,16 +1,22 @@
 ---
-title: "Backstage with Christine Bailey"
-date: "2018-07-26"
-slug: "backstage-with-christine-bailey"
-excerpt: "Christine Bailey is CMO of Valitor, having forged a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman."
+title: Backstage with Christine Bailey
+date: '2018-07-26'
+slug: backstage-with-christine-bailey
+excerpt: Christine Bailey is CMO of Valitor, having forged a career in the tech sector,
+  she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently
+  for Forbes Woman.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/d94c17ed61b4.png"
-categories: ["backstage", "featured", "the-breaking-glass-issue", "straight-outta-compton"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/d94c17ed61b4.png
+tags: []
+series:
+- backstage
+- the-breaking-glass-issue
+- straight-outta-compton
 needsReview: []
-sourceId: "593"
-sourceUrl: "https://rockstarcmo.com/backstage-with-christine-bailey/"
+sourceId: '593'
+sourceUrl: https://rockstarcmo.com/backstage-with-christine-bailey/
 ---
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.

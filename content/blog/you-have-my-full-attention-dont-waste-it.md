@@ -1,16 +1,20 @@
 ---
-title: "You Have My Full Attention, Don't Waste It"
-date: "2018-09-26"
-slug: "you-have-my-full-attention-dont-waste-it"
-excerpt: "Ted Rubin breaks down why the act of customer service is the only time you have your customer’s undivided attention – and why you should be on your A-game when that opportunity arises."
+title: You Have My Full Attention, Don't Waste It
+date: '2018-09-26'
+slug: you-have-my-full-attention-dont-waste-it
+excerpt: Ted Rubin breaks down why the act of customer service is the only time you
+  have your customer’s undivided attention – and why you should be on your A-game
+  when that opportunity arises.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/33e61e89246b.jpg"
-categories: ["nevermind"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/33e61e89246b.jpg
+tags: []
+series:
+- nevermind
 needsReview: []
-sourceId: "919"
-sourceUrl: "https://rockstarcmo.com/you-have-my-full-attention-dont-waste-it/"
+sourceId: '919'
+sourceUrl: https://rockstarcmo.com/you-have-my-full-attention-dont-waste-it/
 ---
 
 [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin) **breaks down why the act of customer service is the only time you have your customer’s undivided attention – and why you should be on your A-game when that opportunity arises**.

@@ -1,16 +1,21 @@
 ---
-title: "The 5 R's of a great B2B marketing blog (with examples)"
-date: "2019-12-19"
-slug: "5-rs-of-great-b2b-marketing-blogs-with-examples"
-excerpt: "In the deluge of B2B content, how do you stand out? Try these 5 R's, with examples of organizations doing this well..."
+title: The 5 R's of a great B2B marketing blog (with examples)
+date: '2019-12-19'
+slug: 5-rs-of-great-b2b-marketing-blogs-with-examples
+excerpt: In the deluge of B2B content, how do you stand out? Try these 5 R's, with
+  examples of organizations doing this well...
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
+author: Ian Truscott
+authorSlug: ian-truscott
 image: null
-categories: ["b2b-marketing", "content-marketing", "content-strategy"]
+tags:
+- b2b-marketing
+- content-marketing
+- content-strategy
+series: []
 needsReview: []
-sourceId: "6276"
-sourceUrl: "https://rockstarcmo.com/5-rs-of-great-b2b-marketing-blogs-with-examples/"
+sourceId: '6276'
+sourceUrl: https://rockstarcmo.com/5-rs-of-great-b2b-marketing-blogs-with-examples/
 ---
 
 ***There is a deluge of B2B content, every marketer is cranking the handle of the content sausage machine with the intent to grab every waking moment of the prospective buyer, yet often this content is ignored.***

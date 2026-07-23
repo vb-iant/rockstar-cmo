@@ -1,16 +1,22 @@
 ---
-title: "Backstage with Wendy Bryant-Beswick"
-date: "2018-09-26"
-slug: "backstage-with-wendy-bryant-beswick"
-excerpt: "Award-winning marketer with 20 years’ experience in the financial services industry and VP of Marketing at Service Credit Union, Wendy Bryant-Beswick shares how she starts with values."
+title: Backstage with Wendy Bryant-Beswick
+date: '2018-09-26'
+slug: backstage-with-wendy-bryant-beswick
+excerpt: Award-winning marketer with 20 years’ experience in the financial services
+  industry and VP of Marketing at Service Credit Union, Wendy Bryant-Beswick shares
+  how she starts with values.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/53b86063814c.jpg"
-categories: ["backstage", "the-breaking-glass-issue", "nevermind"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/53b86063814c.jpg
+tags: []
+series:
+- backstage
+- the-breaking-glass-issue
+- nevermind
 needsReview: []
-sourceId: "598"
-sourceUrl: "https://rockstarcmo.com/backstage-with-wendy-bryant-beswick/"
+sourceId: '598'
+sourceUrl: https://rockstarcmo.com/backstage-with-wendy-bryant-beswick/
 ---
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.

@@ -1,16 +1,20 @@
 ---
-title: "A holiday gift: enough of the bullshit"
-date: "2019-11-28"
-slug: "a-holiday-gift-enough-of-the-bullshit"
-excerpt: "It's almost Christmas and the fine gentleman of Beehive are giving away copies of their keen observation on marketing 'How to Avoid Brand Bullshit'. Here is a review from Keith Smith."
+title: 'A holiday gift: enough of the bullshit'
+date: '2019-11-28'
+slug: a-holiday-gift-enough-of-the-bullshit
+excerpt: It's almost Christmas and the fine gentleman of Beehive are giving away copies
+  of their keen observation on marketing 'How to Avoid Brand Bullshit'. Here is a
+  review from Keith Smith.
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/12eefd0c1a5d.png"
-categories: ["the-magic-of-christmas-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/12eefd0c1a5d.png
+tags: []
+series:
+- the-magic-of-christmas-issue
 needsReview: []
-sourceId: "4700"
-sourceUrl: "https://rockstarcmo.com/a-holiday-gift-enough-of-the-bullshit/"
+sourceId: '4700'
+sourceUrl: https://rockstarcmo.com/a-holiday-gift-enough-of-the-bullshit/
 ---
 
 ![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/11/paul_belford_ltd_htabb_1.jpg?fit=776%2C1024&ssl=1)

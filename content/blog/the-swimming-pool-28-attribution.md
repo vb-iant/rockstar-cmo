@@ -1,16 +1,22 @@
 ---
-title: "The Swimming Pool #28: Attribution"
-date: "2020-11-29"
-slug: "the-swimming-pool-28-attribution"
-excerpt: "This month, standing on the penthouse balcony overlooking it is Grant Johnson, veteran CMO, now plying his trade at Emburse, who's ready to commit 'attribution' to its watery demise."
+title: 'The Swimming Pool #28: Attribution'
+date: '2020-11-29'
+slug: the-swimming-pool-28-attribution
+excerpt: This month, standing on the penthouse balcony overlooking it is Grant Johnson,
+  veteran CMO, now plying his trade at Emburse, who's ready to commit 'attribution'
+  to its watery demise.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/5e8820203841.png"
-categories: ["the-come-together-issue", "the-swimming-pool"]
-needsReview: ["shortcode:buzzsprout"]
-sourceId: "6188"
-sourceUrl: "https://rockstarcmo.com/the-swimming-pool-28-attribution/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/5e8820203841.png
+tags: []
+series:
+- the-come-together-issue
+- the-swimming-pool
+needsReview:
+- shortcode:buzzsprout
+sourceId: '6188'
+sourceUrl: https://rockstarcmo.com/the-swimming-pool-28-attribution/
 ---
 
 ***The Swimming Pool, our portal to marketing hell for all the snake oil, bullshit, and overhyped trends of this wonderful industry of ours. This month, standing on the penthouse balcony overlooking the pool is Grant Johnson, veteran CMO, now plying his trade at Emburse, who's ready to commit 'attribution' to its watery demise.***

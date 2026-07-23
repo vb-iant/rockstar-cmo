@@ -1,16 +1,20 @@
 ---
-title: "Six Things You Can Do to Turn Your Brand into a Friend"
-date: "2019-02-28"
-slug: "six-things-you-can-do-to-turn-your-brand-into-a-friend"
-excerpt: "The days of brands being detached, abstract and ultimately faceless entities are long gone. Stephen Kelly explores how you can inject a little humanity into proceedings – authentically."
+title: Six Things You Can Do to Turn Your Brand into a Friend
+date: '2019-02-28'
+slug: six-things-you-can-do-to-turn-your-brand-into-a-friend
+excerpt: The days of brands being detached, abstract and ultimately faceless entities
+  are long gone. Stephen Kelly explores how you can inject a little humanity into
+  proceedings – authentically.
 excerptGenerated: false
-author: "Stephen Kelly"
-authorSlug: "stephen-kelly"
-image: "/images/blog/dee730fa851f.jpg"
-categories: ["the-pretender-issue"]
+author: Stephen Kelly
+authorSlug: stephen-kelly
+image: /images/blog/dee730fa851f.jpg
+tags: []
+series:
+- the-pretender-issue
 needsReview: []
-sourceId: "3250"
-sourceUrl: "https://rockstarcmo.com/six-things-you-can-do-to-turn-your-brand-into-a-friend/"
+sourceId: '3250'
+sourceUrl: https://rockstarcmo.com/six-things-you-can-do-to-turn-your-brand-into-a-friend/
 ---
 
 **The days of brands being detached, abstract and ultimately faceless entities are long gone. Stephen Kelly explores how you can inject a little humanity into proceedings – authentically.**

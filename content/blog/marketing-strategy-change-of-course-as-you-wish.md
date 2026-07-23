@@ -1,16 +1,21 @@
 ---
-title: "Marketing Strategy: Change? Of course. As you wish."
-date: "2019-07-25"
-slug: "marketing-strategy-change-of-course-as-you-wish"
-excerpt: "How do you stay true to your marketing musical roots, keep in tune with your strategy, deliver on the business baseline and not get distracted by the latest marketing fads and fashions? Robert Rose suggests the answer is in The Princess Bride, want to fight him on that?"
+title: 'Marketing Strategy: Change? Of course. As you wish.'
+date: '2019-07-25'
+slug: marketing-strategy-change-of-course-as-you-wish
+excerpt: How do you stay true to your marketing musical roots, keep in tune with your
+  strategy, deliver on the business baseline and not get distracted by the latest
+  marketing fads and fashions? Robert Rose suggests the answer is in The Princess
+  Bride, want to fight him on that?
 excerptGenerated: false
-author: "Robert Rose"
-authorSlug: "robert-rose"
-image: "/images/blog/c46f341a8f83.jpg"
-categories: ["the-think-about-it-issue"]
+author: Robert Rose
+authorSlug: robert-rose
+image: /images/blog/c46f341a8f83.jpg
+tags: []
+series:
+- the-think-about-it-issue
 needsReview: []
-sourceId: "3996"
-sourceUrl: "https://rockstarcmo.com/marketing-strategy-change-of-course-as-you-wish/"
+sourceId: '3996'
+sourceUrl: https://rockstarcmo.com/marketing-strategy-change-of-course-as-you-wish/
 ---
 
 ***How do you stay true to your marketing musical roots, keep in tune with your strategy, deliver on the business baseline and not get distracted by the latest marketing fads and fashions? Robert Rose suggests the answer is in The Princess Bride, want to fight him on that?***

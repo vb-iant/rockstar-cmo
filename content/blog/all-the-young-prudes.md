@@ -1,16 +1,20 @@
 ---
-title: "All the Young Prudes"
-date: "2018-08-30"
-slug: "all-the-young-prudes"
-excerpt: "Today, youths are ridiculed for their overwhelmingly realistic and sensible approach to life. Amie Knights explores how we got here in just one generation, and what that means for marketers across the world.﻿"
+title: All the Young Prudes
+date: '2018-08-30'
+slug: all-the-young-prudes
+excerpt: "Today, youths are ridiculed for their overwhelmingly realistic and sensible\
+  \ approach to life. Amie Knights explores how we got here in just one generation,\
+  \ and what that means for marketers across the world.\uFEFF"
 excerptGenerated: false
-author: "Amie Knights"
-authorSlug: "amie-knights"
-image: "/images/blog/fe5572851a69.jpg"
-categories: ["seat-at-the-table"]
+author: Amie Knights
+authorSlug: amie-knights
+image: /images/blog/fe5572851a69.jpg
+tags: []
+series:
+- seat-at-the-table
 needsReview: []
-sourceId: "1179"
-sourceUrl: "https://rockstarcmo.com/all-the-young-prudes/"
+sourceId: '1179'
+sourceUrl: https://rockstarcmo.com/all-the-young-prudes/
 ---
 
 **Not so long ago society feared young people. The media called them “hoodies” and “hooligans”. Corner shops even banned teenagers from entering in groups. Today, youths are ridiculed for their overwhelmingly realistic and sensible approach to life. Amie Knights explores how we got from there to here in just one generation, and what that means for marketers across the world.**

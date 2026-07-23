@@ -1,16 +1,20 @@
 ---
-title: "adnonamau5: The death of the Creative Officer (it’s been too schlong)"
-date: "2020-04-29"
-slug: "adnonamau5-the-death-of-the-creative-officer-its-been-too-schlong"
-excerpt: "Our anonymous big agency insider is back this month, sneaking this out to the Rockstar CMO penthouse, while presumably, the creative team was sleeping off a long, self-congratulatory lunch..."
+title: 'adnonamau5: The death of the Creative Officer (it’s been too schlong)'
+date: '2020-04-29'
+slug: adnonamau5-the-death-of-the-creative-officer-its-been-too-schlong
+excerpt: Our anonymous big agency insider is back this month, sneaking this out to
+  the Rockstar CMO penthouse, while presumably, the creative team was sleeping off
+  a long, self-congratulatory lunch...
 excerptGenerated: false
-author: "adnonamau5"
-authorSlug: "adnonamau5"
-image: "/images/blog/77524b88be2d.png"
-categories: ["the-welcome-to-jamrock-issue"]
+author: adnonamau5
+authorSlug: adnonamau5
+image: /images/blog/77524b88be2d.png
+tags: []
+series:
+- the-welcome-to-jamrock-issue
 needsReview: []
-sourceId: "5614"
-sourceUrl: "https://rockstarcmo.com/adnonamau5-the-death-of-the-creative-officer-its-been-too-schlong/"
+sourceId: '5614'
+sourceUrl: https://rockstarcmo.com/adnonamau5-the-death-of-the-creative-officer-its-been-too-schlong/
 ---
 
 ![](/images/blog/65e14499aef4.jpg)

@@ -1,16 +1,21 @@
 ---
-title: "Who decided the lines?"
-date: "2020-09-04"
-slug: "who-decided-the-lines"
-excerpt: "We caught up with Ted Rubin this month and asked him about the theme of this month's issue, specifically the blurry lines on social media as we blend our personal lives and social connections with our professional passions and the work we do. His response is typically straight-talking...."
+title: Who decided the lines?
+date: '2020-09-04'
+slug: who-decided-the-lines
+excerpt: We caught up with Ted Rubin this month and asked him about the theme of this
+  month's issue, specifically the blurry lines on social media as we blend our personal
+  lives and social connections with our professional passions and the work we do.
+  His response is typically straight-talking....
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/8d3538dc095b.jpg"
-categories: ["the-blur-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/8d3538dc095b.jpg
+tags: []
+series:
+- the-blur-issue
 needsReview: []
-sourceId: "5964"
-sourceUrl: "https://rockstarcmo.com/who-decided-the-lines/"
+sourceId: '5964'
+sourceUrl: https://rockstarcmo.com/who-decided-the-lines/
 ---
 
 ***We caught up with Ted Rubin this month and asked him about the theme of this month's issue, specifically the blurry lines on social media as we blend our personal lives and social connections with our professional passions and the work we do. His response is typically straight-talking.******...***

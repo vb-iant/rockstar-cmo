@@ -1,16 +1,20 @@
 ---
-title: "The Ordinary Seat at the Extraordinary Table"
-date: "2018-08-30"
-slug: "the-ordinary-seat-at-the-extraordinary-table"
-excerpt: "Hustle. Be remarkable. Be special. Live off coffee. Sleep is for the weak. Obsess or be average. Differentiate. Be extraordinary. Really? Robert Rose on why celebrating the ordinary things in our lives can lead to, well, the extraordinary."
+title: The Ordinary Seat at the Extraordinary Table
+date: '2018-08-30'
+slug: the-ordinary-seat-at-the-extraordinary-table
+excerpt: Hustle. Be remarkable. Be special. Live off coffee. Sleep is for the weak.
+  Obsess or be average. Differentiate. Be extraordinary. Really? Robert Rose on why
+  celebrating the ordinary things in our lives can lead to, well, the extraordinary.
 excerptGenerated: false
-author: "Robert Rose"
-authorSlug: "robert-rose"
-image: "/images/blog/aa71c109cd5b.jpg"
-categories: ["seat-at-the-table"]
+author: Robert Rose
+authorSlug: robert-rose
+image: /images/blog/aa71c109cd5b.jpg
+tags: []
+series:
+- seat-at-the-table
 needsReview: []
-sourceId: "901"
-sourceUrl: "https://rockstarcmo.com/the-ordinary-seat-at-the-extraordinary-table/"
+sourceId: '901'
+sourceUrl: https://rockstarcmo.com/the-ordinary-seat-at-the-extraordinary-table/
 ---
 
 **[Robert Rose](https://rockstarcmo.wpengine.com/robert-rose) on why celebrating the ordinary things in our lives can lead to, well, the extraordinary.**

@@ -1,16 +1,19 @@
 ---
-title: "Build Trust and Authority with B2B Podcasting"
-date: "2024-04-16"
-slug: "b2b-podcasting-in-building-trust-and-authority"
-excerpt: "Guillaume Jouvencel, from GHA Marketing, shares this guest article on B2B podcasting after and interviewing Ian Truscott on their podcast 'B2B Podcast Stories'."
+title: Build Trust and Authority with B2B Podcasting
+date: '2024-04-16'
+slug: b2b-podcasting-in-building-trust-and-authority
+excerpt: Guillaume Jouvencel, from GHA Marketing, shares this guest article on B2B
+  podcasting after and interviewing Ian Truscott on their podcast 'B2B Podcast Stories'.
 excerptGenerated: false
-author: "Guillaume Jouvencel"
-authorSlug: "guillaume-jouvencel"
-image: "/images/blog/c1d0c7631300.jpg"
-categories: ["podcasting"]
-needsReview: ["embed_block"]
-sourceId: "8448"
-sourceUrl: "https://rockstarcmo.com/b2b-podcasting-in-building-trust-and-authority/"
+author: Guillaume Jouvencel
+authorSlug: guillaume-jouvencel
+image: /images/blog/c1d0c7631300.jpg
+tags: []
+series: []
+needsReview:
+- embed_block
+sourceId: '8448'
+sourceUrl: https://rockstarcmo.com/b2b-podcasting-in-building-trust-and-authority/
 ---
 
 ***A guest article from one of our chums, Guillaume Jouvencel from GHA Marketing, who recently interviewed Ian Truscott for their podcast 'B2B Podcast Stories'. He shares what he learned from that conversation and some best B2B podcast practices from his agency.***

@@ -1,16 +1,21 @@
 ---
-title: "That catchy marketing tune is not a solo or a duet, it’s by the band"
-date: "2019-09-29"
-slug: "that-catchy-marketing-tune-is-not-a-solo-or-a-duet-its-by-the-band"
-excerpt: "We asked our Rockstar CMOs who is the most important collaborator when they want to make that sweet marketing music. Some pushed back on choosing just one, like Robert Rose, author and Chief Strategy Officer at The Content Advisory who suggests the best marketing acts need a band."
+title: That catchy marketing tune is not a solo or a duet, it’s by the band
+date: '2019-09-29'
+slug: that-catchy-marketing-tune-is-not-a-solo-or-a-duet-its-by-the-band
+excerpt: We asked our Rockstar CMOs who is the most important collaborator when they
+  want to make that sweet marketing music. Some pushed back on choosing just one,
+  like Robert Rose, author and Chief Strategy Officer at The Content Advisory who
+  suggests the best marketing acts need a band.
 excerptGenerated: false
-author: "Robert Rose"
-authorSlug: "robert-rose"
-image: "/images/blog/c46f341a8f83.jpg"
-categories: ["the-one-nation-under-a-groove-issue"]
+author: Robert Rose
+authorSlug: robert-rose
+image: /images/blog/c46f341a8f83.jpg
+tags: []
+series:
+- the-one-nation-under-a-groove-issue
 needsReview: []
-sourceId: "4380"
-sourceUrl: "https://rockstarcmo.com/that-catchy-marketing-tune-is-not-a-solo-or-a-duet-its-by-the-band/"
+sourceId: '4380'
+sourceUrl: https://rockstarcmo.com/that-catchy-marketing-tune-is-not-a-solo-or-a-duet-its-by-the-band/
 ---
 
 ***In this issue our theme is partnership, and we asked our Rockstar CMOs who is the most important collaborator when they want to make that sweet marketing music. Some pushed back on choosing just one, like Robert Rose, author and Chief Strategy Officer at [The Content Advisory](https://contentadvisory.net/) who suggests the best marketing acts need a band.***

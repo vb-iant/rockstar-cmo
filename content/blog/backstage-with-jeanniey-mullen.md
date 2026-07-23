@@ -1,16 +1,22 @@
 ---
-title: "Backstage with Jeanniey Mullen"
-date: "2018-10-31"
-slug: "backstage-with-jeanniey-mullen"
-excerpt: "Global Chief Innovation and Marketing Officer, Executive Board Advisor, keynote speaker, CMO Council Co-Chair, author of 3 books, Jeanniey Mullen is a woman in demand."
+title: Backstage with Jeanniey Mullen
+date: '2018-10-31'
+slug: backstage-with-jeanniey-mullen
+excerpt: Global Chief Innovation and Marketing Officer, Executive Board Advisor, keynote
+  speaker, CMO Council Co-Chair, author of 3 books, Jeanniey Mullen is a woman in
+  demand.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/695dd840710d.jpg"
-categories: ["backstage", "the-breaking-glass-issue", "thriller"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/695dd840710d.jpg
+tags: []
+series:
+- backstage
+- the-breaking-glass-issue
+- thriller
 needsReview: []
-sourceId: "791"
-sourceUrl: "https://rockstarcmo.com/backstage-with-jeanniey-mullen/"
+sourceId: '791'
+sourceUrl: https://rockstarcmo.com/backstage-with-jeanniey-mullen/
 ---
 
 **In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.**

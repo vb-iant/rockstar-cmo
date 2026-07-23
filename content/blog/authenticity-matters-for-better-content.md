@@ -1,16 +1,21 @@
 ---
-title: "Authenticity Matters: Why Real Honesty and Genuine Opinions Make for Better Content"
-date: "2018-03-21"
-slug: "authenticity-matters-for-better-content"
-excerpt: "The recipe for boring, cookie-cutter content? Start out by considering your own opinion, and then forget all about it and write what you think people want - Ted Rubin explains."
+title: 'Authenticity Matters: Why Real Honesty and Genuine Opinions Make for Better
+  Content'
+date: '2018-03-21'
+slug: authenticity-matters-for-better-content
+excerpt: The recipe for boring, cookie-cutter content? Start out by considering your
+  own opinion, and then forget all about it and write what you think people want -
+  Ted Rubin explains.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/7b28a406dbb4.jpg"
-categories: ["sound-check"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/7b28a406dbb4.jpg
+tags: []
+series:
+- sound-check
 needsReview: []
-sourceId: "888"
-sourceUrl: "https://rockstarcmo.com/authenticity-matters-for-better-content/"
+sourceId: '888'
+sourceUrl: https://rockstarcmo.com/authenticity-matters-for-better-content/
 ---
 
 ![](/images/blog/4ca20206ca97.jpg)

@@ -1,16 +1,20 @@
 ---
-title: "Reasons to be thankful, 1,2,3 (and 4)"
-date: "2020-11-30"
-slug: "reasons-to-be-thankful-123-and-4"
-excerpt: "Our regular business development headline act, Keith Smith, takes a moment from the hustle to give thanks. The title inspired by the late great Ian Dury and his track \"Reasons To Be Cheerful, Part 3\""
+title: Reasons to be thankful, 1,2,3 (and 4)
+date: '2020-11-30'
+slug: reasons-to-be-thankful-123-and-4
+excerpt: Our regular business development headline act, Keith Smith, takes a moment
+  from the hustle to give thanks. The title inspired by the late great Ian Dury and
+  his track "Reasons To Be Cheerful, Part 3"
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/7dd93fd70b3d.jpg"
-categories: ["the-come-together-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/7dd93fd70b3d.jpg
+tags: []
+series:
+- the-come-together-issue
 needsReview: []
-sourceId: "6182"
-sourceUrl: "https://rockstarcmo.com/reasons-to-be-thankful-123-and-4/"
+sourceId: '6182'
+sourceUrl: https://rockstarcmo.com/reasons-to-be-thankful-123-and-4/
 ---
 
 *This issue falls slightly after the US Thanksgiving holiday and our regular business development headline act, Keith Smith, takes a moment from the hustle to give thanks. The title inspired by the* ***late*** *great Ian Dury and his track [Reasons To Be Cheerful, Part 3](https://www.youtube.com/watch?v=CIMNXogXnvE)*.

@@ -1,16 +1,20 @@
 ---
-title: "A Creep Unlike Me"
-date: "2019-02-28"
-slug: "a-creep-unlike-me"
-excerpt: "Marketing consultant, journalist and editor Morag Cuddeford-Jones on how to avoid being both creepy and stalkerish, and to instead use invisible personalization to smash your loftiest customer experience goals."
+title: A Creep Unlike Me
+date: '2019-02-28'
+slug: a-creep-unlike-me
+excerpt: Marketing consultant, journalist and editor Morag Cuddeford-Jones on how
+  to avoid being both creepy and stalkerish, and to instead use invisible personalization
+  to smash your loftiest customer experience goals.
 excerptGenerated: false
-author: "Morag Cuddeford-Jones"
-authorSlug: "morag-cuddeford-jones"
-image: "/images/blog/bd302ff5d8ea.jpg"
-categories: ["the-pretender-issue"]
+author: Morag Cuddeford-Jones
+authorSlug: morag-cuddeford-jones
+image: /images/blog/bd302ff5d8ea.jpg
+tags: []
+series:
+- the-pretender-issue
 needsReview: []
-sourceId: "3302"
-sourceUrl: "https://rockstarcmo.com/a-creep-unlike-me/"
+sourceId: '3302'
+sourceUrl: https://rockstarcmo.com/a-creep-unlike-me/
 ---
 
 **Marketing consultant, journalist and editor Morag Cuddeford-Jones on how to avoid being both creepy and stalkerish, and to instead use invisible personalization to smash your loftiest customer experience goals.**

@@ -1,16 +1,24 @@
 ---
-title: "5 F'in' Fundamentals: Marketing OKRs"
-date: "2023-03-25"
-slug: "okrs-kpis-roi-omg"
-excerpt: "OKR's, the accronym to rule all accronyms, or at least the accronym to enable you to deliver onthe other TLA's that marketing has on it's plate today. Jeff Clark explains..."
+title: '5 F''in'' Fundamentals: Marketing OKRs'
+date: '2023-03-25'
+slug: okrs-kpis-roi-omg
+excerpt: OKR's, the accronym to rule all accronyms, or at least the accronym to enable
+  you to deliver onthe other TLA's that marketing has on it's plate today. Jeff Clark
+  explains...
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/576bf75ea4cd.jpg"
-categories: ["marketing-education", "marketing-operations", "measurement", "rockstar-cmo-advisors", "street-knowledge"]
-needsReview: ["raw_html_block", "iframe"]
-sourceId: "7626"
-sourceUrl: "https://rockstarcmo.com/okrs-kpis-roi-omg/"
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/576bf75ea4cd.jpg
+tags:
+- marketing-education
+- marketing-operations
+- measurement
+series: []
+needsReview:
+- raw_html_block
+- iframe
+sourceId: '7626'
+sourceUrl: https://rockstarcmo.com/okrs-kpis-roi-omg/
 ---
 
 ***OKR's (Objectives and Key Results), the acronym to rule all acronyms, or at least the acronym to enable you to deliver and manage all the other TLAs that marketing has on its plate today. Jeff Clark explains...***

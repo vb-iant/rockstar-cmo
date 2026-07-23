@@ -1,16 +1,20 @@
 ---
-title: "5 F'in' Steps to Build Your Personas"
-date: "2023-07-01"
-slug: "5-fin-steps-to-build-your-personas"
-excerpt: "A simple model for creating personas, the essential insight you need to differentiate and help your audience buy your products and services."
+title: 5 F'in' Steps to Build Your Personas
+date: '2023-07-01'
+slug: 5-fin-steps-to-build-your-personas
+excerpt: A simple model for creating personas, the essential insight you need to differentiate
+  and help your audience buy your products and services.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/8a0035c6b0f2.jpg"
-categories: ["b2b-marketing", "content-marketing", "rockstar-cmo-advisors", "street-knowledge"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/8a0035c6b0f2.jpg
+tags:
+- b2b-marketing
+- content-marketing
+series: []
 needsReview: []
-sourceId: "7791"
-sourceUrl: "https://rockstarcmo.com/5-fin-steps-to-build-your-personas/"
+sourceId: '7791'
+sourceUrl: https://rockstarcmo.com/5-fin-steps-to-build-your-personas/
 ---
 
 ***In this article, Ian Truscott shares a model for creating personas, the essential insight you need to create your campaigns and content, differentiate and help your audience buy your products and services.***

@@ -1,16 +1,21 @@
 ---
-title: "Backstage with Ted Rubin"
-date: "2018-03-21"
-slug: "backstage-with-ted-rubin"
-excerpt: "Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits… Speaker, Author, Provocateur - Ted is our resident rock star."
+title: Backstage with Ted Rubin
+date: '2018-03-21'
+slug: backstage-with-ted-rubin
+excerpt: Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy
+  CMO/advisor, MC/host for Brand Innovators Summits… Speaker, Author, Provocateur
+  - Ted is our resident rock star.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/4fb8b2ef4554.jpg"
-categories: ["backstage", "sound-check"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/4fb8b2ef4554.jpg
+tags: []
+series:
+- backstage
+- sound-check
 needsReview: []
-sourceId: "140"
-sourceUrl: "https://rockstarcmo.com/backstage-with-ted-rubin/"
+sourceId: '140'
+sourceUrl: https://rockstarcmo.com/backstage-with-ted-rubin/
 ---
 
 In this series of articles we go backstage with a marketing rockstar. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.

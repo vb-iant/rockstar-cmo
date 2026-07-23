@@ -1,16 +1,21 @@
 ---
-title: "Taking a good look at people can stop B2B = Boring 2 Boring"
-date: "2019-06-28"
-slug: "taking-a-good-look-at-people-can-stop-b2b-boring-2-boring"
-excerpt: "Playing along to the elevator music of your industry won't get you noticed by a distracted buyer looking for differentiation in a crowded market. Lauren Bowden suggests it's time to shake things up a bit."
+title: Taking a good look at people can stop B2B = Boring 2 Boring
+date: '2019-06-28'
+slug: taking-a-good-look-at-people-can-stop-b2b-boring-2-boring
+excerpt: Playing along to the elevator music of your industry won't get you noticed
+  by a distracted buyer looking for differentiation in a crowded market. Lauren Bowden
+  suggests it's time to shake things up a bit.
 excerptGenerated: false
-author: "Lauren Bowden"
-authorSlug: "lauren-bowden"
-image: "/images/blog/59f6ae56cff2.jpg"
-categories: ["features-2", "the-breaking-glass-issue", "the-inside-in-inside-out-issue"]
+author: Lauren Bowden
+authorSlug: lauren-bowden
+image: /images/blog/59f6ae56cff2.jpg
+tags: []
+series:
+- the-breaking-glass-issue
+- the-inside-in-inside-out-issue
 needsReview: []
-sourceId: "3876"
-sourceUrl: "https://rockstarcmo.com/taking-a-good-look-at-people-can-stop-b2b-boring-2-boring/"
+sourceId: '3876'
+sourceUrl: https://rockstarcmo.com/taking-a-good-look-at-people-can-stop-b2b-boring-2-boring/
 ---
 
 ***Playing along to the elevator music of your industry won't get you noticed by a distracted buyer looking for differentiation in a crowded market. Lauren Bowden suggests it's time to shake things up a bit.***

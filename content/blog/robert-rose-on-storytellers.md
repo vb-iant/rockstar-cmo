@@ -1,16 +1,21 @@
 ---
-title: "Yes, You Better be a F**king Storyteller"
-date: "2018-04-26"
-slug: "robert-rose-on-storytellers"
-excerpt: "Storytelling. It’s one of the most over-hyped words in the marketing and ad industries. Everyone’s a storyteller, right? Well, no. Not really. So we were tempted to throw it into the Rockstar CMO pool. But no.... Robert Rose explains..."
+title: Yes, You Better be a F**king Storyteller
+date: '2018-04-26'
+slug: robert-rose-on-storytellers
+excerpt: Storytelling. It’s one of the most over-hyped words in the marketing and
+  ad industries. Everyone’s a storyteller, right? Well, no. Not really. So we were
+  tempted to throw it into the Rockstar CMO pool. But no.... Robert Rose explains...
 excerptGenerated: false
-author: "Robert Rose"
-authorSlug: "robert-rose"
-image: "/images/blog/7b28a406dbb4.jpg"
-categories: ["project-funk-da-world"]
-needsReview: ["embed_block"]
-sourceId: "1055"
-sourceUrl: "https://rockstarcmo.com/robert-rose-on-storytellers/"
+author: Robert Rose
+authorSlug: robert-rose
+image: /images/blog/7b28a406dbb4.jpg
+tags: []
+series:
+- project-funk-da-world
+needsReview:
+- embed_block
+sourceId: '1055'
+sourceUrl: https://rockstarcmo.com/robert-rose-on-storytellers/
 ---
 
 **Storytelling. It’s one of the most over-hyped words in the marketing and ad industries. Everyone’s a storyteller, right? Well, no. Not really. And tired of the hype we were tempted to throw it into the Rockstar CMO pool, but not so fast, as Robert Rose explains...**

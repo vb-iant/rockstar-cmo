@@ -1,16 +1,22 @@
 ---
-title: "Last Months Podcast Picks"
-date: "2021-01-07"
-slug: "last-months-podcast-picks"
-excerpt: "Rockstar CMO FM, the M is for marketing, the F is for, well you decide as you are probably wondering; does the world need another marketing podcast? Well here is a roundup of what went down on The Rockstar CMO F'in Marketing Podcast this month."
+title: Last Months Podcast Picks
+date: '2021-01-07'
+slug: last-months-podcast-picks
+excerpt: Rockstar CMO FM, the M is for marketing, the F is for, well you decide as
+  you are probably wondering; does the world need another marketing podcast? Well
+  here is a roundup of what went down on The Rockstar CMO F'in Marketing Podcast this
+  month.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/424533e68e64.png"
-categories: ["the-youve-come-a-long-way-baby-issue"]
-needsReview: ["shortcode:buzzsprout"]
-sourceId: "6323"
-sourceUrl: "https://rockstarcmo.com/last-months-podcast-picks/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/424533e68e64.png
+tags: []
+series:
+- the-youve-come-a-long-way-baby-issue
+needsReview:
+- shortcode:buzzsprout
+sourceId: '6323'
+sourceUrl: https://rockstarcmo.com/last-months-podcast-picks/
 ---
 
 *Rockstar CMO FM, the M is for marketing, the F is for, well you decide as you are probably wondering; does the world need another f'in' marketing podcast? Well here is a roundup of what went down on The Rockstar CMO F'in'* *Marketing* *Podcast this month.*

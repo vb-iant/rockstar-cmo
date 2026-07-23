@@ -1,16 +1,20 @@
 ---
-title: "Trust in the Story Starts With the Storyteller"
-date: "2018-09-26"
-slug: "trust-in-the-story-starts-with-the-storyteller"
-excerpt: "Think authenticity guarantees your brand success? You can be authentic all you like, argues Robert Rose. But if your brand can’t be trusted, it won’t make any difference.﻿"
+title: Trust in the Story Starts With the Storyteller
+date: '2018-09-26'
+slug: trust-in-the-story-starts-with-the-storyteller
+excerpt: "Think authenticity guarantees your brand success? You can be authentic all\
+  \ you like, argues Robert Rose. But if your brand can’t be trusted, it won’t make\
+  \ any difference.\uFEFF"
 excerptGenerated: false
-author: "Robert Rose"
-authorSlug: "robert-rose"
-image: "/images/blog/545e4c3a6a30.jpg"
-categories: ["nevermind"]
+author: Robert Rose
+authorSlug: robert-rose
+image: /images/blog/545e4c3a6a30.jpg
+tags: []
+series:
+- nevermind
 needsReview: []
-sourceId: "1155"
-sourceUrl: "https://rockstarcmo.com/trust-in-the-story-starts-with-the-storyteller/"
+sourceId: '1155'
+sourceUrl: https://rockstarcmo.com/trust-in-the-story-starts-with-the-storyteller/
 ---
 
 **Think authenticity guarantees your brand success? You can be authentic all you like, argues** [**Robert Rose**](https://rockstarcmo.wpengine.com/robert-rose)**. But if your brand can’t be trusted, it won’t make any difference.**

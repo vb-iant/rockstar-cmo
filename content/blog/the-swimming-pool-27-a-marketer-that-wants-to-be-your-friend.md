@@ -1,16 +1,23 @@
 ---
-title: "The Swimming Pool #27 – A marketer that wants to be your friend"
-date: "2020-09-04"
-slug: "the-swimming-pool-27-a-marketer-that-wants-to-be-your-friend"
-excerpt: "This month our trip to the Rockstar CMO penthouse balcony, is inspired by business development expert and coach Caroline Kay, as we prepare \"a marketer that wants to be your friend\" for its watery demise."
+title: 'The Swimming Pool #27 – A marketer that wants to be your friend'
+date: '2020-09-04'
+slug: the-swimming-pool-27-a-marketer-that-wants-to-be-your-friend
+excerpt: This month our trip to the Rockstar CMO penthouse balcony, is inspired by
+  business development expert and coach Caroline Kay, as we prepare "a marketer that
+  wants to be your friend" for its watery demise.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/22b3bfa72be2.jpg"
-categories: ["the-blur-issue", "the-swimming-pool"]
-needsReview: ["shortcode:buzzsprout", "reusable_block_ref"]
-sourceId: "5984"
-sourceUrl: "https://rockstarcmo.com/the-swimming-pool-27-a-marketer-that-wants-to-be-your-friend/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/22b3bfa72be2.jpg
+tags: []
+series:
+- the-blur-issue
+- the-swimming-pool
+needsReview:
+- shortcode:buzzsprout
+- reusable_block_ref
+sourceId: '5984'
+sourceUrl: https://rockstarcmo.com/the-swimming-pool-27-a-marketer-that-wants-to-be-your-friend/
 ---
 
 ***This month our trip to the Rockstar CMO penthouse balcony overlooking the swimming pool is inspired by business development expert and coach Caroline Kay, as we dangle "a marketer that wants to be your friend" over the railings, ready to drop it to its watery demise.***

@@ -1,16 +1,21 @@
 ---
-title: "Altogether now (on a video conferencing platform of your choice)"
-date: "2020-06-01"
-slug: "altogether-now-on-a-video-conferencing-platform-of-your-choice"
-excerpt: "All of our gigs have gone virtual and marketing teams have had to quickly pivot to embrace this change. We've all experienced the hits, the one hits wonders and the misses, Lauren Bowden, experienced B2B marketer shares her experience ."
+title: Altogether now (on a video conferencing platform of your choice)
+date: '2020-06-01'
+slug: altogether-now-on-a-video-conferencing-platform-of-your-choice
+excerpt: All of our gigs have gone virtual and marketing teams have had to quickly
+  pivot to embrace this change. We've all experienced the hits, the one hits wonders
+  and the misses, Lauren Bowden, experienced B2B marketer shares her experience .
 excerptGenerated: false
-author: "Lauren Bowden"
-authorSlug: "lauren-bowden"
-image: "/images/blog/42a3c56b7784.jpg"
-categories: ["the-club-classics-volume-one-issue"]
-needsReview: ["shortcode:Full"]
-sourceId: "5745"
-sourceUrl: "https://rockstarcmo.com/altogether-now-on-a-video-conferencing-platform-of-your-choice/"
+author: Lauren Bowden
+authorSlug: lauren-bowden
+image: /images/blog/42a3c56b7784.jpg
+tags: []
+series:
+- the-club-classics-volume-one-issue
+needsReview:
+- shortcode:Full
+sourceId: '5745'
+sourceUrl: https://rockstarcmo.com/altogether-now-on-a-video-conferencing-platform-of-your-choice/
 ---
 
 ***All of our gigs have gone virtual and marketing teams have had to quickly pivot to embrace this change. We've all experienced the hits, the one-hit wonders, and the misses, Lauren Bowden, experienced B2B marketer shares her experience*.**

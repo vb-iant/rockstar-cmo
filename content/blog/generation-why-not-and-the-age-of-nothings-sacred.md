@@ -1,16 +1,19 @@
 ---
-title: "Generation “Why Not?” and the Age of Nothing’s Sacred"
-date: "2018-08-30"
-slug: "generation-why-not-and-the-age-of-nothings-sacred"
-excerpt: "Lazy. Self-entitled. Unfocused. The youth of today get a lot of slack. But is it totally justified? According to Darren Guarnaccia, not so much.﻿"
+title: Generation “Why Not?” and the Age of Nothing’s Sacred
+date: '2018-08-30'
+slug: generation-why-not-and-the-age-of-nothings-sacred
+excerpt: "Lazy. Self-entitled. Unfocused. The youth of today get a lot of slack. But\
+  \ is it totally justified? According to Darren Guarnaccia, not so much.\uFEFF"
 excerptGenerated: false
-author: "Darren Garnaccia"
-authorSlug: "darren-garnaccia"
-image: "/images/blog/69adcd5e7bc7.jpg"
-categories: ["seat-at-the-table"]
+author: Darren Garnaccia
+authorSlug: darren-garnaccia
+image: /images/blog/69adcd5e7bc7.jpg
+tags: []
+series:
+- seat-at-the-table
 needsReview: []
-sourceId: "1165"
-sourceUrl: "https://rockstarcmo.com/generation-why-not-and-the-age-of-nothings-sacred/"
+sourceId: '1165'
+sourceUrl: https://rockstarcmo.com/generation-why-not-and-the-age-of-nothings-sacred/
 ---
 
 **Lazy. Self-entitled. Unfocused. The youth of today get a lot of slack. But is it totally justified? According to [Darren Guarnaccia](https://rockstarcmo.wpengine.com/darren-guarnaccia), not so much.**

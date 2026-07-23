@@ -1,16 +1,20 @@
 ---
-title: "Is this the Real Life?"
-date: "2018-06-28"
-slug: "is-this-the-real-life"
-excerpt: "There’s a new kid on the block: augmented reality. Gareth May speaks to investigators and innovators about the latest tech to rock the brand landscape. ﻿"
+title: Is this the Real Life?
+date: '2018-06-28'
+slug: is-this-the-real-life
+excerpt: "There’s a new kid on the block: augmented reality. Gareth May speaks to\
+  \ investigators and innovators about the latest tech to rock the brand landscape.\
+  \ \uFEFF"
 excerptGenerated: false
-author: "Gareth May"
-authorSlug: "gareth-may"
-image: "/images/blog/00b6a0df73d4.jpg"
-categories: ["ok-computer"]
+author: Gareth May
+authorSlug: gareth-may
+image: /images/blog/00b6a0df73d4.jpg
+tags: []
+series:
+- ok-computer
 needsReview: []
-sourceId: "996"
-sourceUrl: "https://rockstarcmo.com/is-this-the-real-life/"
+sourceId: '996'
+sourceUrl: https://rockstarcmo.com/is-this-the-real-life/
 ---
 
 **The Fender Telecaster. The Wah-wah pedal. The 45rpm vinyl. Technology has always sparked new and powerful anthems from the fingertips of rock stars. Or it should, when harnessed the right way. The same is true in marketing, and now, there’s a new kid on the block: augmented reality. [Gareth May](/gareth-may)** **speaks to investigators and innovators about the latest tech to rock the brand landscape.**

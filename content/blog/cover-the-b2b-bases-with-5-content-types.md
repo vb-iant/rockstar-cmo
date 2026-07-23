@@ -1,16 +1,21 @@
 ---
-title: "Cover the B2B Bases with 5 Content Types"
-date: "2019-03-07"
-slug: "cover-the-b2b-bases-with-5-content-types"
-excerpt: "We might not baseball experts, but we have a bit of experience creating content across customer journeys and in this article Ian Truscott outlines the five types of content needed to support a B2B buyer..."
+title: Cover the B2B Bases with 5 Content Types
+date: '2019-03-07'
+slug: cover-the-b2b-bases-with-5-content-types
+excerpt: We might not baseball experts, but we have a bit of experience creating content
+  across customer journeys and in this article Ian Truscott outlines the five types
+  of content needed to support a B2B buyer...
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
+author: Ian Truscott
+authorSlug: ian-truscott
 image: null
-categories: ["b2b-marketing", "content-marketing"]
+tags:
+- b2b-marketing
+- content-marketing
+series: []
 needsReview: []
-sourceId: "1317"
-sourceUrl: "https://rockstarcmo.com/cover-the-b2b-bases-with-5-content-types/"
+sourceId: '1317'
+sourceUrl: https://rockstarcmo.com/cover-the-b2b-bases-with-5-content-types/
 ---
 
 ***OK we admit, as a London agency we are not baseball experts, but we have a bit of experience creating content across customer journeys. In this article Ian Truscott outlines the five kinds of content needed to support a B2B buyer...***

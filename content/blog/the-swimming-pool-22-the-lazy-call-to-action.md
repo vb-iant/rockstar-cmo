@@ -1,16 +1,21 @@
 ---
-title: "The Swimming Pool #22: The lazy call to action"
-date: "2019-12-30"
-slug: "the-swimming-pool-22-the-lazy-call-to-action"
-excerpt: "When we interviewed founder and CEO of Lately, Kate Bradley Chernis in our Backstage Q&A, she asked us to chuck the term ‘check out’ as a call to action into the Rockstar CMO Swimming Pool. But, why stop there?"
+title: 'The Swimming Pool #22: The lazy call to action'
+date: '2019-12-30'
+slug: the-swimming-pool-22-the-lazy-call-to-action
+excerpt: When we interviewed founder and CEO of Lately, Kate Bradley Chernis in our
+  Backstage Q&A, she asked us to chuck the term ‘check out’ as a call to action into
+  the Rockstar CMO Swimming Pool. But, why stop there?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/3da41a53201c.jpg"
-categories: ["the-future-starts-here-issue", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/3da41a53201c.jpg
+tags: []
+series:
+- the-future-starts-here-issue
+- the-swimming-pool
 needsReview: []
-sourceId: "5013"
-sourceUrl: "https://rockstarcmo.com/the-swimming-pool-22-the-lazy-call-to-action/"
+sourceId: '5013'
+sourceUrl: https://rockstarcmo.com/the-swimming-pool-22-the-lazy-call-to-action/
 ---
 
 ***When we interviewed founder and CEO of Lately, Kate Bradley Chernis in our Backstage Q&A, she asked us to chuck the term ‘check out’ as a call to action into the Rockstar CMO Swimming Pool. But, why stop there?***

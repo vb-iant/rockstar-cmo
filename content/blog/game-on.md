@@ -1,16 +1,22 @@
 ---
-title: "Game On"
-date: "2019-01-31"
-slug: "game-on"
-excerpt: "Welcome to 2019, where the eSports industry is worth a cool $1.65 billion, celebrity video gamers earn $500,000 a month live-streaming Fortnite to hundreds of thousands of viewers, and more of us are playing video games than ever before. Ian Hsieh asks: Will the marketing revolution be gamified?﻿"
+title: Game On
+date: '2019-01-31'
+slug: game-on
+excerpt: "Welcome to 2019, where the eSports industry is worth a cool $1.65 billion,\
+  \ celebrity video gamers earn $500,000 a month live-streaming Fortnite to hundreds\
+  \ of thousands of viewers, and more of us are playing video games than ever before.\
+  \ Ian Hsieh asks: Will the marketing revolution be gamified?\uFEFF"
 excerptGenerated: false
-author: "Ian Hsieh"
-authorSlug: "ian-hsieh"
-image: "/images/blog/c2490201af8a.jpg"
-categories: ["brand-new-thang"]
-needsReview: ["embed_block"]
-sourceId: "3157"
-sourceUrl: "https://rockstarcmo.com/game-on/"
+author: Ian Hsieh
+authorSlug: ian-hsieh
+image: /images/blog/c2490201af8a.jpg
+tags: []
+series:
+- brand-new-thang
+needsReview:
+- embed_block
+sourceId: '3157'
+sourceUrl: https://rockstarcmo.com/game-on/
 ---
 
 **Welcome to 2019, where the eSports industry is worth a cool $1.65 billion, celebrity video gamers earn $500,000 a month live-streaming** ***Fortnite*** **to hundreds of thousands of viewers, and more of us are playing video games than ever before. Ian Hsieh asks: Will the marketing revolution be gamified?**

@@ -1,16 +1,23 @@
 ---
-title: "Backstage Q&A – Eric Jan van Putten - Dynamicweb"
-date: "2020-09-09"
-slug: "backstage-qa-eric-jan-van-putten-dynamicweb"
-excerpt: "This month we go backstage with a shiny new CMO, Eric Jan van Putten who is fresh in post at Dynamicweb, after a diverse marketing career working through the B2B tech marketing ranks, we find out d findwhere this new CMO finds his marketing mojo..."
+title: Backstage Q&A – Eric Jan van Putten - Dynamicweb
+date: '2020-09-09'
+slug: backstage-qa-eric-jan-van-putten-dynamicweb
+excerpt: This month we go backstage with a shiny new CMO, Eric Jan van Putten who
+  is fresh in post at Dynamicweb, after a diverse marketing career working through
+  the B2B tech marketing ranks, we find out d findwhere this new CMO finds his marketing
+  mojo...
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/e8904c8e727e.jpg"
-categories: ["backstage", "the-blur-issue", "top-10"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/e8904c8e727e.jpg
+tags: []
+series:
+- backstage
+- the-blur-issue
+- top-10
 needsReview: []
-sourceId: "6015"
-sourceUrl: "https://rockstarcmo.com/backstage-qa-eric-jan-van-putten-dynamicweb/"
+sourceId: '6015'
+sourceUrl: https://rockstarcmo.com/backstage-qa-eric-jan-van-putten-dynamicweb/
 ---
 
 ***This month we go backstage with a shiny new CMO, Eric Jan van Putten who is fresh in post at [Dynamicweb](https://www.dynamicweb.com), an eCommerce content platform, after a diverse marketing career working through the B2B tech marketing ranks. Ian Truscott sits down with Eric and finds where this new CMO finds his marketing mojo...***

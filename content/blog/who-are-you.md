@@ -1,16 +1,21 @@
 ---
-title: "Who are you?"
-date: "2019-07-25"
-slug: "who-are-you"
-excerpt: "You know, marketers really need to know. The only trouble is, says marketing journalist Morag Cuddeford-Jones; I don’t know who I am half the time. So what chance have you got?"
+title: Who are you?
+date: '2019-07-25'
+slug: who-are-you
+excerpt: You know, marketers really need to know. The only trouble is, says marketing
+  journalist Morag Cuddeford-Jones; I don’t know who I am half the time. So what chance
+  have you got?
 excerptGenerated: false
-author: "Morag Cuddeford-Jones"
-authorSlug: "morag-cuddeford-jones"
-image: "/images/blog/c0b12c1f40fc.jpg"
-categories: ["features-2", "the-breaking-glass-issue", "the-think-about-it-issue"]
+author: Morag Cuddeford-Jones
+authorSlug: morag-cuddeford-jones
+image: /images/blog/c0b12c1f40fc.jpg
+tags: []
+series:
+- the-breaking-glass-issue
+- the-think-about-it-issue
 needsReview: []
-sourceId: "4008"
-sourceUrl: "https://rockstarcmo.com/who-are-you/"
+sourceId: '4008'
+sourceUrl: https://rockstarcmo.com/who-are-you/
 ---
 
 ***You know, marketers really need to know. The only trouble is, says marketing journalist Morag Cuddeford-Jones; I don’t know who I am half the time. So what chance have you got?***

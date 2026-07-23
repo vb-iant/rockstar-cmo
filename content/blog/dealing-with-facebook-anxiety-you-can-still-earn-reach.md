@@ -1,16 +1,20 @@
 ---
-title: "Dealing with Facebook Anxiety – You Can Still Earn Reach"
-date: "2018-09-26"
-slug: "dealing-with-facebook-anxiety-you-can-still-earn-reach"
-excerpt: "Times have changed. More than ever before, brands are finding it difficult to get their content in front of consumer eyeballs. Casey Petersen, suggests switching up your approach and going back to basics.﻿"
+title: Dealing with Facebook Anxiety – You Can Still Earn Reach
+date: '2018-09-26'
+slug: dealing-with-facebook-anxiety-you-can-still-earn-reach
+excerpt: "Times have changed. More than ever before, brands are finding it difficult\
+  \ to get their content in front of consumer eyeballs. Casey Petersen, suggests switching\
+  \ up your approach and going back to basics.\uFEFF"
 excerptGenerated: false
-author: "Casey Petersen"
-authorSlug: "casey-petersen"
-image: "/images/blog/5cafe61fb062.jpg"
-categories: ["nevermind"]
+author: Casey Petersen
+authorSlug: casey-petersen
+image: /images/blog/5cafe61fb062.jpg
+tags: []
+series:
+- nevermind
 needsReview: []
-sourceId: "914"
-sourceUrl: "https://rockstarcmo.com/dealing-with-facebook-anxiety-you-can-still-earn-reach/"
+sourceId: '914'
+sourceUrl: https://rockstarcmo.com/dealing-with-facebook-anxiety-you-can-still-earn-reach/
 ---
 
 **Times have changed. More than ever before, brands are finding it difficult to get their content in front of consumer eyeballs.** [**Casey Petersen**](/casey-petersen)**, VP marketing and analytics at social content creation app** [**Photofy**](http://www.photofy.com/)**, suggests switching up your approach and going back to basics.**

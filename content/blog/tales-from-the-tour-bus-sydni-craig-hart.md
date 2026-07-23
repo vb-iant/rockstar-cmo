@@ -1,16 +1,22 @@
 ---
-title: "Tales from the Tour Bus: Sydni Craig-Hart"
-date: "2019-09-02"
-slug: "tales-from-the-tour-bus-sydni-craig-hart"
-excerpt: "When Robert Rose interviewed this champion of small, minority and women owned businesses on his podcast, we had to jump on the Tour Bus with multicultural marketing expert Sydni Craig-Hart and find out more."
+title: 'Tales from the Tour Bus: Sydni Craig-Hart'
+date: '2019-09-02'
+slug: tales-from-the-tour-bus-sydni-craig-hart
+excerpt: When Robert Rose interviewed this champion of small, minority and women owned
+  businesses on his podcast, we had to jump on the Tour Bus with multicultural marketing
+  expert Sydni Craig-Hart and find out more.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/08105b06aefa.jpg"
-categories: ["tales-from-the-tour-bus", "the-breaking-glass-issue", "the-people-are-people-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/08105b06aefa.jpg
+tags: []
+series:
+- tales-from-the-tour-bus
+- the-breaking-glass-issue
+- the-people-are-people-issue
 needsReview: []
-sourceId: "4252"
-sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-sydni-craig-hart/"
+sourceId: '4252'
+sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-sydni-craig-hart/
 ---
 
 ***When one of our resident Rockstars, Robert Rose, briefly interviewed this champion of small, minority and women-owned businesses on his*** [***Weekly Wrap podcast***](https://contentmarketinginstitute.com/cmi-weekly-wrap-podcast/)***, we knew, with the theme-tune for this issue in our heads, we had to jump on the Tour Bus with multicultural marketing expert Sydni Craig-Hart and find out more. Ian Truscott had the pleasure of asking the questions…***

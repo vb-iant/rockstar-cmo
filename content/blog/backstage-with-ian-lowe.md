@@ -1,16 +1,20 @@
 ---
-title: "Backstage with Ian Lowe"
-date: "2019-04-25"
-slug: "backstage-with-ian-lowe"
-excerpt: "Ian Lowe, VP of Marketing for global SaaS WCM vendor Crownpeak popped by the penthouse to chat to Ian Truscott about what gets his marketing mojo working..."
+title: Backstage with Ian Lowe
+date: '2019-04-25'
+slug: backstage-with-ian-lowe
+excerpt: Ian Lowe, VP of Marketing for global SaaS WCM vendor Crownpeak popped by
+  the penthouse to chat to Ian Truscott about what gets his marketing mojo working...
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/41add14f75b0.jpg"
-categories: ["backstage", "the-changesbowie-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/41add14f75b0.jpg
+tags: []
+series:
+- backstage
+- the-changesbowie-issue
 needsReview: []
-sourceId: "3649"
-sourceUrl: "https://rockstarcmo.com/backstage-with-ian-lowe/"
+sourceId: '3649'
+sourceUrl: https://rockstarcmo.com/backstage-with-ian-lowe/
 ---
 
 **Ian Lowe, VP of Marketing for global SaaS Web Content Management vendor** [**Crownpeak,**](https://www.crownpeak.com/) **(who were recently recognised by Gartner as a visionary vendor) popped by the penthouse to chat to Ian Truscott about what has inspires his marketing leadership, what gets his marketing mojo working and what he would chuck into our Rockstar CMO Swimming pool...**

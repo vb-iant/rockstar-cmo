@@ -1,16 +1,20 @@
 ---
-title: "Too Many Marketing Tools Create Sloppy Work, and Too Few Brands Seem to Care"
-date: "2019-03-28"
-slug: "too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care"
-excerpt: "Ted Rubin tells it straight on the impact marketing automation tools are having on marketing and he highlights a couple of examples that have caught his eye.﻿"
+title: Too Many Marketing Tools Create Sloppy Work, and Too Few Brands Seem to Care
+date: '2019-03-28'
+slug: too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care
+excerpt: "Ted Rubin tells it straight on the impact marketing automation tools are\
+  \ having on marketing and he highlights a couple of examples that have caught his\
+  \ eye.\uFEFF"
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/91eb73950e06.jpg"
-categories: ["the-ghost-in-the-machine-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/91eb73950e06.jpg
+tags: []
+series:
+- the-ghost-in-the-machine-issue
 needsReview: []
-sourceId: "3412"
-sourceUrl: "https://rockstarcmo.com/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care/"
+sourceId: '3412'
+sourceUrl: https://rockstarcmo.com/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care/
 ---
 
 ***Ted Rubin tells it straight on the impact marketing automation tools are having on marketing and he highlights a couple of examples that have caught his eye.***

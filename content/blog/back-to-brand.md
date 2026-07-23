@@ -1,16 +1,22 @@
 ---
-title: "Back to Brand"
-date: "2022-07-20"
-slug: "back-to-brand"
-excerpt: "Dust off your marketing LPs, vinyl records, the eight tracks and maybe the gramophone because old-school brand building will be a tune the cool kids of modern marketing will need to be jumping to."
+title: Back to Brand
+date: '2022-07-20'
+slug: back-to-brand
+excerpt: Dust off your marketing LPs, vinyl records, the eight tracks and maybe the
+  gramophone because old-school brand building will be a tune the cool kids of modern
+  marketing will need to be jumping to.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/8864ca70f1d8.png"
-categories: ["b2b-marketing", "branding", "marketing", "street-knowledge"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/8864ca70f1d8.png
+tags:
+- b2b-marketing
+- branding
+- marketing
+series: []
 needsReview: []
-sourceId: "7325"
-sourceUrl: "https://rockstarcmo.com/back-to-brand/"
+sourceId: '7325'
+sourceUrl: https://rockstarcmo.com/back-to-brand/
 ---
 
 ***Dust off your marketing LPs, vinyl records, the eight tracks and maybe the gramophone because old-school brand building will be a tune the cool kids of modern marketing will need to be jumping to.***

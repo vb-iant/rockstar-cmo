@@ -1,16 +1,20 @@
 ---
-title: "The Rise Of the Marketing Machines: Carlos Doughty"
-date: "2019-04-25"
-slug: "the-rise-of-the-marketing-machines-carlos-doughty"
-excerpt: "We've heard the views of the marketers on the rise of the marketing machines, but what do the Martech industry insiders think? We ask Carlos Doughty."
+title: 'The Rise Of the Marketing Machines: Carlos Doughty'
+date: '2019-04-25'
+slug: the-rise-of-the-marketing-machines-carlos-doughty
+excerpt: We've heard the views of the marketers on the rise of the marketing machines,
+  but what do the Martech industry insiders think? We ask Carlos Doughty.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/874c5c00e40a.jpg"
-categories: ["the-changesbowie-issue", "the-martech-mix-desk"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/874c5c00e40a.jpg
+tags: []
+series:
+- the-changesbowie-issue
+- the-martech-mix-desk
 needsReview: []
-sourceId: "3573"
-sourceUrl: "https://rockstarcmo.com/the-rise-of-the-marketing-machines-carlos-doughty/"
+sourceId: '3573'
+sourceUrl: https://rockstarcmo.com/the-rise-of-the-marketing-machines-carlos-doughty/
 ---
 
 ***We've heard the views of the marketers in last month's Green Room on the rise of the marketing machines, but what do the Martech industry insiders think? We ask Carlos Doughty.***

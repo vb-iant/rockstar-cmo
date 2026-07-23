@@ -1,16 +1,20 @@
 ---
-title: "What now?  It’s not what’s next"
-date: "2020-04-30"
-slug: "what-now-its-not-whats-next"
-excerpt: "Chief Trouble Maker at the Content Advisory, Robert Rose, quotes Shaun of the Dead as he offers some guidance for marketers toward their slice of fried gold."
+title: What now?  It’s not what’s next
+date: '2020-04-30'
+slug: what-now-its-not-whats-next
+excerpt: Chief Trouble Maker at the Content Advisory, Robert Rose, quotes Shaun of
+  the Dead as he offers some guidance for marketers toward their slice of fried gold.
 excerptGenerated: false
-author: "Robert Rose"
-authorSlug: "robert-rose"
-image: "/images/blog/8ced22ea0ba2.jpg"
-categories: ["street-knowledge", "the-welcome-to-jamrock-issue"]
-needsReview: ["embed_block"]
-sourceId: "5687"
-sourceUrl: "https://rockstarcmo.com/what-now-its-not-whats-next/"
+author: Robert Rose
+authorSlug: robert-rose
+image: /images/blog/8ced22ea0ba2.jpg
+tags: []
+series:
+- the-welcome-to-jamrock-issue
+needsReview:
+- embed_block
+sourceId: '5687'
+sourceUrl: https://rockstarcmo.com/what-now-its-not-whats-next/
 ---
 
 ***Contrary to popular culture, this apocalypse has not involved zombies. But, as we start to come out of this global crisis, Chief Trouble Maker at the Content Advisory, Robert Rose, quotes Shaun of the Dead as he offers some guidance for marketers toward their slice of fried gold.***

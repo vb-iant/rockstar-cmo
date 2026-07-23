@@ -1,16 +1,21 @@
 ---
-title: "The Swimming Pool #26 – LinkedIn Solicitations Like You're My Best Friend"
-date: "2020-07-18"
-slug: "the-swimming-pool-26-linkedin-solicitations-like-your-my-best-friend"
-excerpt: "This month, inspired by Jane Scandurra, we are wondering if we should be chucking \"LinkedIn Solicitations Like You're My Best Friend\" into our portal to marketing hell."
+title: 'The Swimming Pool #26 – LinkedIn Solicitations Like You''re My Best Friend'
+date: '2020-07-18'
+slug: the-swimming-pool-26-linkedin-solicitations-like-your-my-best-friend
+excerpt: This month, inspired by Jane Scandurra, we are wondering if we should be
+  chucking "LinkedIn Solicitations Like You're My Best Friend" into our portal to
+  marketing hell.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/94d39f4c15ee.png"
-categories: ["the-miseducation-of-lauryn-hill-issue", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/94d39f4c15ee.png
+tags: []
+series:
+- the-miseducation-of-lauryn-hill-issue
+- the-swimming-pool
 needsReview: []
-sourceId: "5900"
-sourceUrl: "https://rockstarcmo.com/the-swimming-pool-26-linkedin-solicitations-like-your-my-best-friend/"
+sourceId: '5900'
+sourceUrl: https://rockstarcmo.com/the-swimming-pool-26-linkedin-solicitations-like-your-my-best-friend/
 ---
 
 ***This month, Ian Truscott is standing on the balcony with Jane Scandurra, personal branding, social selling, and marketing expert and wondering if we should be chucking "LinkedIn Solicitations Like You're My Best Friend" into our portal to marketing hell.***

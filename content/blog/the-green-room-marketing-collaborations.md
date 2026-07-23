@@ -1,16 +1,22 @@
 ---
-title: "The Green Room: Marketing collaborations"
-date: "2019-09-30"
-slug: "the-green-room-marketing-collaborations"
-excerpt: "Every month we grab our backstage pass to our Rockstar CMO’s, hang out in the Green Room and over a glass of whatever we can find in the mini bar, pick a topic and chat. This month Ian Truscott asks who do our Rockstar CMOs most like to duet with?"
+title: 'The Green Room: Marketing collaborations'
+date: '2019-09-30'
+slug: the-green-room-marketing-collaborations
+excerpt: Every month we grab our backstage pass to our Rockstar CMO’s, hang out in
+  the Green Room and over a glass of whatever we can find in the mini bar, pick a
+  topic and chat. This month Ian Truscott asks who do our Rockstar CMOs most like
+  to duet with?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/a9038ff37eb3.jpg"
-categories: ["the-green-room", "the-one-nation-under-a-groove-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/a9038ff37eb3.jpg
+tags: []
+series:
+- the-green-room
+- the-one-nation-under-a-groove-issue
 needsReview: []
-sourceId: "4453"
-sourceUrl: "https://rockstarcmo.com/the-green-room-marketing-collaborations/"
+sourceId: '4453'
+sourceUrl: https://rockstarcmo.com/the-green-room-marketing-collaborations/
 ---
 
 ***Every month we grab our backstage pass to our Rockstar CMO’s, hang out in the Green Room and over a glass of whatever we can find in the mini bar, pick a topic and chat. This month Ian Truscott asks who do our Rockstar CMOs most like to duet with?***

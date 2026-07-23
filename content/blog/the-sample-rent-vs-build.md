@@ -1,16 +1,21 @@
 ---
-title: "The Sample: Rent vs. Build?"
-date: "2020-10-18"
-slug: "the-sample-rent-vs-build"
-excerpt: "Welcome to The Sample, where we spin the dial on the interwebs and record what plays to this month's tune. The beat for this month's tracks; should we build or rent for our fans?"
+title: 'The Sample: Rent vs. Build?'
+date: '2020-10-18'
+slug: the-sample-rent-vs-build
+excerpt: Welcome to The Sample, where we spin the dial on the interwebs and record
+  what plays to this month's tune. The beat for this month's tracks; should we build
+  or rent for our fans?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/3fb59bdc060e.jpg"
-categories: ["the-life-for-rent-issue"]
-needsReview: ["embed_block"]
-sourceId: "6049"
-sourceUrl: "https://rockstarcmo.com/the-sample-rent-vs-build/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/3fb59bdc060e.jpg
+tags: []
+series:
+- the-life-for-rent-issue
+needsReview:
+- embed_block
+sourceId: '6049'
+sourceUrl: https://rockstarcmo.com/the-sample-rent-vs-build/
 ---
 
 ***Welcome to The Sample, where we spin the dial on the interwebs and record what plays to this month's tune. The beat for this month's tracks; should we build or rent when creating for our fans?***

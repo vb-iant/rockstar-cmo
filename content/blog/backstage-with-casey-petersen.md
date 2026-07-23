@@ -1,16 +1,21 @@
 ---
-title: "Backstage with Casey Petersen"
-date: "2018-11-30"
-slug: "backstage-with-casey-petersen"
-excerpt: "We go back stage with Casey Petersen, Vice President of Marketing and Analytics at content creation app Photofy and has been a leader in digital marketing for over 15 years."
+title: Backstage with Casey Petersen
+date: '2018-11-30'
+slug: backstage-with-casey-petersen
+excerpt: We go back stage with Casey Petersen, Vice President of Marketing and Analytics
+  at content creation app Photofy and has been a leader in digital marketing for over
+  15 years.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/4e89b02251b7.jpg"
-categories: ["backstage", "we-are-family"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/4e89b02251b7.jpg
+tags: []
+series:
+- backstage
+- we-are-family
 needsReview: []
-sourceId: "626"
-sourceUrl: "https://rockstarcmo.com/backstage-with-casey-petersen/"
+sourceId: '626'
+sourceUrl: https://rockstarcmo.com/backstage-with-casey-petersen/
 ---
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.

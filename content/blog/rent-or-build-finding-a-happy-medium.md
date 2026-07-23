@@ -1,16 +1,20 @@
 ---
-title: "Rent or Build? Finding a happy medium"
-date: "2020-10-18"
-slug: "rent-or-build-finding-a-happy-medium"
-excerpt: "Dennis Shiao runs a popular content marketing meet-up and newsletter and he shares how he uses rented platforms and attention to build on his own land."
+title: Rent or Build? Finding a happy medium
+date: '2020-10-18'
+slug: rent-or-build-finding-a-happy-medium
+excerpt: Dennis Shiao runs a popular content marketing meet-up and newsletter and
+  he shares how he uses rented platforms and attention to build on his own land.
 excerptGenerated: false
-author: "Dennis Shiao"
-authorSlug: "dennis-shiao"
-image: "/images/blog/c0b44972ce98.jpg"
-categories: ["the-life-for-rent-issue"]
-needsReview: ["shortcode:buzzsprout"]
-sourceId: "6065"
-sourceUrl: "https://rockstarcmo.com/rent-or-build-finding-a-happy-medium/"
+author: Dennis Shiao
+authorSlug: dennis-shiao
+image: /images/blog/c0b44972ce98.jpg
+tags: []
+series:
+- the-life-for-rent-issue
+needsReview:
+- shortcode:buzzsprout
+sourceId: '6065'
+sourceUrl: https://rockstarcmo.com/rent-or-build-finding-a-happy-medium/
 ---
 
 ***It's a decision for all content marketers; do you leverage the reach and audience of an established platform and rent attention from them, or build your own digital property and community? Regular contributor Dennis Shiao runs a popular content marketing meet-up and newsletter and he shares how he uses rented platforms and attention to build on his own land.***

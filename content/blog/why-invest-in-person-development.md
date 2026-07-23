@@ -1,16 +1,21 @@
 ---
-title: "Why invest in persona development?"
-date: "2019-01-22"
-slug: "why-invest-in-person-development"
-excerpt: "In an era of big data, agile marketing, A/B testing, fail fast - is persona development still a good use of your time?"
+title: Why invest in persona development?
+date: '2019-01-22'
+slug: why-invest-in-person-development
+excerpt: In an era of big data, agile marketing, A/B testing, fail fast - is persona
+  development still a good use of your time?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/4a4e8b237ef1.jpg"
-categories: ["b2b-marketing", "content-marketing", "marketing"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/4a4e8b237ef1.jpg
+tags:
+- b2b-marketing
+- content-marketing
+- marketing
+series: []
 needsReview: []
-sourceId: "6274"
-sourceUrl: "https://rockstarcmo.com/why-invest-in-person-development/"
+sourceId: '6274'
+sourceUrl: https://rockstarcmo.com/why-invest-in-person-development/
 ---
 
 ***In an era of big data, agile marketing, A/B testing, fail fast and all the pace and fluidity we are injecting into our marketing, is persona development still a good use of your time?***

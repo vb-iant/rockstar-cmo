@@ -1,16 +1,20 @@
 ---
-title: "Love the one you're with"
-date: "2020-11-30"
-slug: "love-the-one-youre-with"
-excerpt: "Inspired by a chat with Simon Daniels, marketing operations expert, Ian Truscott shares that you should love the one you're with when it comes to marketing technology."
+title: Love the one you're with
+date: '2020-11-30'
+slug: love-the-one-youre-with
+excerpt: Inspired by a chat with Simon Daniels, marketing operations expert, Ian Truscott
+  shares that you should love the one you're with when it comes to marketing technology.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/ef692c39591b.jpg"
-categories: ["the-come-together-issue"]
-needsReview: ["shortcode:buzzsprout"]
-sourceId: "6187"
-sourceUrl: "https://rockstarcmo.com/love-the-one-youre-with/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/ef692c39591b.jpg
+tags: []
+series:
+- the-come-together-issue
+needsReview:
+- shortcode:buzzsprout
+sourceId: '6187'
+sourceUrl: https://rockstarcmo.com/love-the-one-youre-with/
 ---
 
 ***Simon Daniels has led the marketing operations rhythm section in several rockstar CMO backing bands. Inspired by a chat with him on the podcast, Ian Truscott shares that you should love the one you're with when it comes to marketing technology.***

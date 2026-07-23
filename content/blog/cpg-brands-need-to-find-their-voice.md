@@ -1,16 +1,19 @@
 ---
-title: "CPG Brands Need to Find Their Voice"
-date: "2018-12-20"
-slug: "cpg-brands-need-to-find-their-voice"
-excerpt: "Our resident rock star, Ted Rubin tells it straight on why the sound of your brand voice is becoming more critical."
+title: CPG Brands Need to Find Their Voice
+date: '2018-12-20'
+slug: cpg-brands-need-to-find-their-voice
+excerpt: Our resident rock star, Ted Rubin tells it straight on why the sound of your
+  brand voice is becoming more critical.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/4fb8b2ef4554.jpg"
-categories: ["london-calling"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/4fb8b2ef4554.jpg
+tags: []
+series:
+- london-calling
 needsReview: []
-sourceId: "1554"
-sourceUrl: "https://rockstarcmo.com/cpg-brands-need-to-find-their-voice/"
+sourceId: '1554'
+sourceUrl: https://rockstarcmo.com/cpg-brands-need-to-find-their-voice/
 ---
 
 **Our resident rock star,** [Ted Rubin](https://rockstarcmo.wpengine.com/ted-rubin)**, on why the sound and voice of your brand is the next frontier to explore.**

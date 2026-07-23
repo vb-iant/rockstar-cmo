@@ -1,16 +1,20 @@
 ---
-title: "The Sample #3: 2020 marketing predictions from around the web"
-date: "2020-01-01"
-slug: "the-sample-3-2020-marketing-predictions-from-around-the-web"
-excerpt: "The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear. In this issue we are looking to the future, so our picks this month are predictions on some of the topics we’ve covered in recent issues."
+title: 'The Sample #3: 2020 marketing predictions from around the web'
+date: '2020-01-01'
+slug: the-sample-3-2020-marketing-predictions-from-around-the-web
+excerpt: The Sample, where we whirl the dial on the interwebs, hit record and sample
+  what we hear. In this issue we are looking to the future, so our picks this month
+  are predictions on some of the topics we’ve covered in recent issues.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/9d82ba78c67e.jpg"
-categories: ["the-future-starts-here-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/9d82ba78c67e.jpg
+tags: []
+series:
+- the-future-starts-here-issue
 needsReview: []
-sourceId: "4998"
-sourceUrl: "https://rockstarcmo.com/the-sample-3-2020-marketing-predictions-from-around-the-web/"
+sourceId: '4998'
+sourceUrl: https://rockstarcmo.com/the-sample-3-2020-marketing-predictions-from-around-the-web/
 ---
 
 ***Welcome to The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear. In this issue, we are looking to the future, so our picks this month are predictions on some of the topics we’ve covered in recent issues. Let’s find out what everyone else is expecting from 2020...***

@@ -1,16 +1,20 @@
 ---
-title: "Into the Pool #4: Marketing Suites"
-date: "2018-06-28"
-slug: "into-the-pool-4-marketing-suites"
-excerpt: "Encouraged by Darren Guarnaccia we're taking bets on the size of splash that single vendor marketing suites are going to make as he offers up his bugbear."
+title: 'Into the Pool #4: Marketing Suites'
+date: '2018-06-28'
+slug: into-the-pool-4-marketing-suites
+excerpt: Encouraged by Darren Guarnaccia we're taking bets on the size of splash that
+  single vendor marketing suites are going to make as he offers up his bugbear.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/c1923168375e.jpg"
-categories: ["ok-computer", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/c1923168375e.jpg
+tags: []
+series:
+- ok-computer
+- the-swimming-pool
 needsReview: []
-sourceId: "1100"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-4-marketing-suites/"
+sourceId: '1100'
+sourceUrl: https://rockstarcmo.com/into-the-pool-4-marketing-suites/
 ---
 
 **Maybe it’s the Jack Daniels. Like pouring water on a Gremlin and bad stuff happening, this month the parties got a bit rowdy. And while we promised we wouldn’t do it this time, we just heard Truscott shout “stand aside” as he again takes aim at the Rockstar CMO pool with another hunk of marketing crap.**

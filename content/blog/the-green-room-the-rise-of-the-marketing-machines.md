@@ -1,16 +1,21 @@
 ---
-title: "The Green Room: The Rise of the Marketing Machines"
-date: "2019-03-28"
-slug: "the-green-room-the-rise-of-the-marketing-machines"
-excerpt: "Ian Truscott catches up with six of Rockstar CMOs and asks for their view on whether tech has been a force for good for marketing. ﻿"
+title: 'The Green Room: The Rise of the Marketing Machines'
+date: '2019-03-28'
+slug: the-green-room-the-rise-of-the-marketing-machines
+excerpt: "Ian Truscott catches up with six of Rockstar CMOs and asks for their view\
+  \ on whether tech has been a force for good for marketing. \uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/8f683a87c4c6.png"
-categories: ["the-ghost-in-the-machine-issue", "the-green-room", "the-martech-mix-desk"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/8f683a87c4c6.png
+tags: []
+series:
+- the-ghost-in-the-machine-issue
+- the-green-room
+- the-martech-mix-desk
 needsReview: []
-sourceId: "3431"
-sourceUrl: "https://rockstarcmo.com/the-green-room-the-rise-of-the-marketing-machines/"
+sourceId: '3431'
+sourceUrl: https://rockstarcmo.com/the-green-room-the-rise-of-the-marketing-machines/
 ---
 
 ***Each month in the Green Room we return backstage to pose a question to a group of our Rockstar CMOs. In this issue Ian Truscott catches up with six of them and, sticking to the [Ghost in the Machine](https://rockstarcmo.wpengine.com/the-ghost-in-the-machine-issue) theme for this issue, asks for their view on whether tech has been a force for good for marketing.***

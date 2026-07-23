@@ -1,16 +1,20 @@
 ---
-title: "Selling Death Row"
-date: "2018-07-26"
-slug: "selling-death-row"
-excerpt: "It's the dilemma every marketer faces sooner or later: is it right to be selling this product? Dave Waller investigates and finds out that the answer's not as black and white as you might think…﻿"
+title: Selling Death Row
+date: '2018-07-26'
+slug: selling-death-row
+excerpt: "It's the dilemma every marketer faces sooner or later: is it right to be\
+  \ selling this product? Dave Waller investigates and finds out that the answer's\
+  \ not as black and white as you might think…\uFEFF"
 excerptGenerated: false
-author: "Dave Waller"
-authorSlug: "dave-waller"
-image: "/images/blog/9306b6762cfd.jpg"
-categories: ["straight-outta-compton"]
+author: Dave Waller
+authorSlug: dave-waller
+image: /images/blog/9306b6762cfd.jpg
+tags: []
+series:
+- straight-outta-compton
 needsReview: []
-sourceId: "976"
-sourceUrl: "https://rockstarcmo.com/selling-death-row/"
+sourceId: '976'
+sourceUrl: https://rockstarcmo.com/selling-death-row/
 ---
 
 **It's the dilemma every marketer faces sooner or later: is it right to be selling this product? [Dave Waller](/dave-waller) investigates and finds out that the answer's not as black and white as you might think…**

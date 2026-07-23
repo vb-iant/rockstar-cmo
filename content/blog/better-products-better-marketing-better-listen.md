@@ -1,16 +1,23 @@
 ---
-title: "Better products, better marketing, better listen"
-date: "2020-02-07"
-slug: "better-products-better-marketing-better-listen"
-excerpt: "Our resident Rockstar CMO Ted Rubin tells it straight. If you want better products and better marketing then you had better listen, not just to Ted, but to your customers and in the age of socially connected communities, who better to do this than marketing?"
+title: Better products, better marketing, better listen
+date: '2020-02-07'
+slug: better-products-better-marketing-better-listen
+excerpt: Our resident Rockstar CMO Ted Rubin tells it straight. If you want better
+  products and better marketing then you had better listen, not just to Ted, but to
+  your customers and in the age of socially connected communities, who better to do
+  this than marketing?
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/c0c928c0c9e7.jpg"
-categories: ["the-features-creatures-issue", "top-10", "top-10-2020"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/c0c928c0c9e7.jpg
+tags: []
+series:
+- the-features-creatures-issue
+- top-10
+- top-10-2020
 needsReview: []
-sourceId: "5162"
-sourceUrl: "https://rockstarcmo.com/better-products-better-marketing-better-listen/"
+sourceId: '5162'
+sourceUrl: https://rockstarcmo.com/better-products-better-marketing-better-listen/
 ---
 
 ***Our resident Rockstar CMO Ted Rubin tells it straight. If you want better products and better marketing then you had better listen, not just to Ted, but to your customers and in the age of socially connected communities, who better to do this than marketing?***

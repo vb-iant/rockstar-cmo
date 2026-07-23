@@ -1,16 +1,19 @@
 ---
-title: "The slim chance of truth in the influencer siren song"
-date: "2019-10-29"
-slug: "the-slim-chance-of-truth-in-the-influencer-siren-song"
-excerpt: "Influencer marketing is in a bit of state, as marketing writer Morag Cuddeford-Jones shares and consumers need to be aware and may be saved from themselves"
+title: The slim chance of truth in the influencer siren song
+date: '2019-10-29'
+slug: the-slim-chance-of-truth-in-the-influencer-siren-song
+excerpt: Influencer marketing is in a bit of state, as marketing writer Morag Cuddeford-Jones
+  shares and consumers need to be aware and may be saved from themselves
 excerptGenerated: false
-author: "Morag Cuddeford-Jones"
-authorSlug: "morag-cuddeford-jones"
-image: "/images/blog/0e4799f0cdb6.jpg"
-categories: ["the-running-in-circles-issue"]
+author: Morag Cuddeford-Jones
+authorSlug: morag-cuddeford-jones
+image: /images/blog/0e4799f0cdb6.jpg
+tags: []
+series:
+- the-running-in-circles-issue
 needsReview: []
-sourceId: "4530"
-sourceUrl: "https://rockstarcmo.com/the-slim-chance-of-truth-in-the-influencer-siren-song/"
+sourceId: '4530'
+sourceUrl: https://rockstarcmo.com/the-slim-chance-of-truth-in-the-influencer-siren-song/
 ---
 
 ***Influencer marketing is in a bit of state, as marketing writer Morag Cuddeford-Jones shares and consumers need to be wary of the influencer siren song and may need to be saved from themselves***

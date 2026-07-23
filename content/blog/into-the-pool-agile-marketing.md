@@ -1,16 +1,20 @@
 ---
-title: "First in the pool: Agile Marketing"
-date: "2018-03-21"
-slug: "into-the-pool-agile-marketing"
-excerpt: "We kick off our series by flinging agile marketing off the balcony… It’ll be one hell of a bill, but oh so worth it… ﻿"
+title: 'First in the pool: Agile Marketing'
+date: '2018-03-21'
+slug: into-the-pool-agile-marketing
+excerpt: "We kick off our series by flinging agile marketing off the balcony… It’ll\
+  \ be one hell of a bill, but oh so worth it… \uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/c09756e8f5a7.jpg"
-categories: ["sound-check", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/c09756e8f5a7.jpg
+tags: []
+series:
+- sound-check
+- the-swimming-pool
 needsReview: []
-sourceId: "136"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-agile-marketing/"
+sourceId: '136'
+sourceUrl: https://rockstarcmo.com/into-the-pool-agile-marketing/
 ---
 
 **You know how rockstars have this reputation for throwing stuff from the hotel window into the pool? Hell, Keith Moon even parked his Rolls Royce in the deep end once. In tribute, we’ll be throwing all the crap, bullshit acronyms, empty fads and snake oil of marketing, week on week, straight into the Rockstar CMO swimming pool.**

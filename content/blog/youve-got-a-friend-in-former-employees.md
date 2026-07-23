@@ -1,16 +1,22 @@
 ---
-title: "“You’ve got a friend” in former employees"
-date: "2019-09-30"
-slug: "youve-got-a-friend-in-former-employees"
-excerpt: "Of all the collaborations we focus on as marketers, how often do we consider a duet with our former colleagues? There’s value in staying connected says Jane Scandurra"
+title: “You’ve got a friend” in former employees
+date: '2019-09-30'
+slug: youve-got-a-friend-in-former-employees
+excerpt: Of all the collaborations we focus on as marketers, how often do we consider
+  a duet with our former colleagues? There’s value in staying connected says Jane
+  Scandurra
 excerptGenerated: false
-author: "Jane Scandurra"
-authorSlug: "jane-scandurra"
-image: "/images/blog/8c57e5f1acb9.jpg"
-categories: ["employee-engagement", "the-one-nation-under-a-groove-issue"]
-needsReview: ["embed_block"]
-sourceId: "4394"
-sourceUrl: "https://rockstarcmo.com/youve-got-a-friend-in-former-employees/"
+author: Jane Scandurra
+authorSlug: jane-scandurra
+image: /images/blog/8c57e5f1acb9.jpg
+tags:
+- employee-engagement
+series:
+- the-one-nation-under-a-groove-issue
+needsReview:
+- embed_block
+sourceId: '4394'
+sourceUrl: https://rockstarcmo.com/youve-got-a-friend-in-former-employees/
 ---
 
 ***Of all the collaborations we focus on as marketers, how often do we consider a duet with our former colleagues? There’s value in staying connected says Jane Scandurra, global marketing consultant and coach, as she shares her experience of working with IBM.***

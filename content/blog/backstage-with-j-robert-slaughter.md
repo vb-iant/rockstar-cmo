@@ -1,16 +1,21 @@
 ---
-title: "Backstage with J. Robert Slaughter"
-date: "2019-09-30"
-slug: "backstage-with-j-robert-slaughter"
-excerpt: "Having been following the direct opinions and observations of this fractional CMO, veteran marketing & sales strategist and practitioner, we had to sit down with J.Robert Slaughter and learn more."
+title: Backstage with J. Robert Slaughter
+date: '2019-09-30'
+slug: backstage-with-j-robert-slaughter
+excerpt: Having been following the direct opinions and observations of this fractional
+  CMO, veteran marketing & sales strategist and practitioner, we had to sit down with
+  J.Robert Slaughter and learn more.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/979e11855113.jpg"
-categories: ["backstage", "the-one-nation-under-a-groove-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/979e11855113.jpg
+tags: []
+series:
+- backstage
+- the-one-nation-under-a-groove-issue
 needsReview: []
-sourceId: "4399"
-sourceUrl: "https://rockstarcmo.com/backstage-with-j-robert-slaughter/"
+sourceId: '4399'
+sourceUrl: https://rockstarcmo.com/backstage-with-j-robert-slaughter/
 ---
 
 ***Having been following the direct opinions and observations of this fractional CMO, veteran marketing & sales strategist and practitioner, we had to sit down with J.Robert Slaughter and learn more.***

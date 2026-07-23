@@ -1,16 +1,19 @@
 ---
-title: "The Trouble with CMOs! (Part 2): Trust me, I am a CMO!"
-date: "2022-08-25"
-slug: "the-trouble-with-cmos-part-2-trust-me-i-am-a-cmo"
-excerpt: "Accomplished marketing and communications professional Irene Nehrkorn-Kayn continues to explore the trouble with CMOs. This week Irene wonders if, like a chef, the CMOs marketing recipe and method should be trusted and only judged by the results."
+title: 'The Trouble with CMOs! (Part 2): Trust me, I am a CMO!'
+date: '2022-08-25'
+slug: the-trouble-with-cmos-part-2-trust-me-i-am-a-cmo
+excerpt: Accomplished marketing and communications professional Irene Nehrkorn-Kayn
+  continues to explore the trouble with CMOs. This week Irene wonders if, like a chef,
+  the CMOs marketing recipe and method should be trusted and only judged by the results.
 excerptGenerated: false
-author: "Irene Nehrkorn-Kayn"
-authorSlug: "irene-nehrkorn-kayn"
-image: "/images/blog/da736c4db985.png"
-categories: ["street-knowledge"]
+author: Irene Nehrkorn-Kayn
+authorSlug: irene-nehrkorn-kayn
+image: /images/blog/da736c4db985.png
+tags: []
+series: []
 needsReview: []
-sourceId: "7389"
-sourceUrl: "https://rockstarcmo.com/the-trouble-with-cmos-part-2-trust-me-i-am-a-cmo/"
+sourceId: '7389'
+sourceUrl: https://rockstarcmo.com/the-trouble-with-cmos-part-2-trust-me-i-am-a-cmo/
 ---
 
 ***Guest writer and friend of the Rockstar CMO podcast and, most of all, accomplished marketing and communications professional Irene Nehrkorn-Kayn continues to explore the trouble with CMOs. This week Irene wonders if, like a chef, the CMOs marketing recipe and method should be trusted and only judged by the results.***

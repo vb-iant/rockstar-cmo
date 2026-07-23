@@ -1,16 +1,21 @@
 ---
-title: "Into the Pool #3: Programmatic"
-date: "2018-05-31"
-slug: "into-the-pool-3-programmatic"
-excerpt: "The pool guy is not going to be pleased with what he’s going to be scooping out in the morning. In this issue, more of that lazy and cheap shit is on its way down, as Robert Rose hands over programmatic and Ian Truscott does the honors."
+title: 'Into the Pool #3: Programmatic'
+date: '2018-05-31'
+slug: into-the-pool-3-programmatic
+excerpt: The pool guy is not going to be pleased with what he’s going to be scooping
+  out in the morning. In this issue, more of that lazy and cheap shit is on its way
+  down, as Robert Rose hands over programmatic and Ian Truscott does the honors.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/eb5fa0f20524.jpg"
-categories: ["the-age-of-consent", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/eb5fa0f20524.jpg
+tags: []
+series:
+- the-age-of-consent
+- the-swimming-pool
 needsReview: []
-sourceId: "1077"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-3-programmatic/"
+sourceId: '1077'
+sourceUrl: https://rockstarcmo.com/into-the-pool-3-programmatic/
 ---
 
 **You know how rock stars have this reputation for throwing stuff from the hotel window into the pool? Hell, Keith Moon even parked his Rolls Royce in the deep end once. In tribute, we’ll be throwing all the crap, bullshit acronyms, empty fads and snake oil of marketing straight into the Rockstar CMO swimming pool.**

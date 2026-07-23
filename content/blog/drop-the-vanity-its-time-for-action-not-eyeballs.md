@@ -1,16 +1,21 @@
 ---
-title: "Drop the Vanity, it's Time for Action, Not Eyeballs"
-date: "2019-05-31"
-slug: "drop-the-vanity-its-time-for-action-not-eyeballs"
-excerpt: "As we run with the theme of privacy this issue, we asked Rachel Miller, social and influencer marketing expert for her take on the topic and, of course, we were not disappointed."
+title: Drop the Vanity, it's Time for Action, Not Eyeballs
+date: '2019-05-31'
+slug: drop-the-vanity-its-time-for-action-not-eyeballs
+excerpt: As we run with the theme of privacy this issue, we asked Rachel Miller, social
+  and influencer marketing expert for her take on the topic and, of course, we were
+  not disappointed.
 excerptGenerated: false
-author: "Rachel Miller"
-authorSlug: "rachel-miller"
-image: "/images/blog/7f2cb12d2e61.png"
-categories: ["features-2", "the-breaking-glass-issue", "the-invasion-of-privacy-issue"]
+author: Rachel Miller
+authorSlug: rachel-miller
+image: /images/blog/7f2cb12d2e61.png
+tags: []
+series:
+- the-breaking-glass-issue
+- the-invasion-of-privacy-issue
 needsReview: []
-sourceId: "3737"
-sourceUrl: "https://rockstarcmo.com/drop-the-vanity-its-time-for-action-not-eyeballs/"
+sourceId: '3737'
+sourceUrl: https://rockstarcmo.com/drop-the-vanity-its-time-for-action-not-eyeballs/
 ---
 
 ***As we run with the theme of privacy this issue, we asked Rachel Miller, social and influencer marketing expert for her take on the topic and, of course, we were not disappointed.***

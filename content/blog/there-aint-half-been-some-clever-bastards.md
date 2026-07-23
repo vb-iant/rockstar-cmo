@@ -1,16 +1,19 @@
 ---
-title: "There ain’t half been some clever bastards"
-date: "2020-07-18"
-slug: "there-aint-half-been-some-clever-bastards"
-excerpt: "As UK music legend Ian Dury said “There ain’t half been some clever bastards” and Keith Smith, calls out Mark Ritson and asks, do marketers need a marketing education?"
+title: There ain’t half been some clever bastards
+date: '2020-07-18'
+slug: there-aint-half-been-some-clever-bastards
+excerpt: As UK music legend Ian Dury said “There ain’t half been some clever bastards”
+  and Keith Smith, calls out Mark Ritson and asks, do marketers need a marketing education?
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/e058dfc4a78d.jpg"
-categories: ["the-miseducation-of-lauryn-hill-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/e058dfc4a78d.jpg
+tags: []
+series:
+- the-miseducation-of-lauryn-hill-issue
 needsReview: []
-sourceId: "5861"
-sourceUrl: "https://rockstarcmo.com/there-aint-half-been-some-clever-bastards/"
+sourceId: '5861'
+sourceUrl: https://rockstarcmo.com/there-aint-half-been-some-clever-bastards/
 ---
 
 ***As UK music legend Ian Dury said "There ain’t half been some clever bastards" and with a title like that, who else but Keith Smith, our resident business development rock star to be the author? He calls out Mark Ritson and asks, do marketers need a marketing education?***

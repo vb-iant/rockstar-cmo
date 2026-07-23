@@ -1,16 +1,20 @@
 ---
-title: "What We Learned From 2020"
-date: "2021-01-08"
-slug: "what-we-learned-from-2020"
-excerpt: "It's been a crazy year for all marketing leaders and business owners, but what about if you are both? In this article, Kathryn Strachan Managing Director of Copy House Ltd, shares her experience at the helm of her content marketing agency."
+title: What We Learned From 2020
+date: '2021-01-08'
+slug: what-we-learned-from-2020
+excerpt: It's been a crazy year for all marketing leaders and business owners, but
+  what about if you are both? In this article, Kathryn Strachan Managing Director
+  of Copy House Ltd, shares her experience at the helm of her content marketing agency.
 excerptGenerated: false
-author: "Kathryn Strachan"
-authorSlug: "kathryn-strachan"
-image: "/images/blog/6d0f3064b580.png"
-categories: ["the-youve-come-a-long-way-baby-issue"]
+author: Kathryn Strachan
+authorSlug: kathryn-strachan
+image: /images/blog/6d0f3064b580.png
+tags: []
+series:
+- the-youve-come-a-long-way-baby-issue
 needsReview: []
-sourceId: "6300"
-sourceUrl: "https://rockstarcmo.com/what-we-learned-from-2020/"
+sourceId: '6300'
+sourceUrl: https://rockstarcmo.com/what-we-learned-from-2020/
 ---
 
 ***It's been a crazy year for all marketing leaders and business owners, but what about if you are both? In this article, Kathryn Strachan Managing Director of Copy House Ltd, shares her experience at the helm of her content marketing agency.***

@@ -1,16 +1,20 @@
 ---
-title: "Bad Influence"
-date: "2018-05-31"
-slug: "bad-influence"
-excerpt: "Our social channels are saturated with 'influencers' representing brands looking to sell us something. Maude Churchill talks with ENDLESSLOVESHOW founder Kazim Rashid and asks: Have we reached peak influencer?﻿"
+title: Bad Influence
+date: '2018-05-31'
+slug: bad-influence
+excerpt: "Our social channels are saturated with 'influencers' representing brands\
+  \ looking to sell us something. Maude Churchill talks with ENDLESSLOVESHOW founder\
+  \ Kazim Rashid and asks: Have we reached peak influencer?\uFEFF"
 excerptGenerated: false
-author: "Maude Churchill"
-authorSlug: "maude-churchill"
-image: "/images/blog/18e60ef4a284.jpg"
-categories: ["the-age-of-consent"]
+author: Maude Churchill
+authorSlug: maude-churchill
+image: /images/blog/18e60ef4a284.jpg
+tags: []
+series:
+- the-age-of-consent
 needsReview: []
-sourceId: "1065"
-sourceUrl: "https://rockstarcmo.com/bad-influence/"
+sourceId: '1065'
+sourceUrl: https://rockstarcmo.com/bad-influence/
 ---
 
 **From hyper celebrities like Kim Kardashian endorsing haircare vitamins (and announcing it to an eye-watering 111 million followers on Instagram), to a host of micro-influencers taking on creative briefs from influencer marketing platforms like [Tribe](https://www.tribegroup.co/), our social channels are saturated with brands looking to sell us something. Maude Churchill talks with ENDLESSLOVESHOW founder Kazim Rashid and asks: Have we reached peak influencer?**

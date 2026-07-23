@@ -1,16 +1,21 @@
 ---
-title: "There’s No Substitute For Strategy"
-date: "2019-07-22"
-slug: "theres-no-substitute-for-strategy"
-excerpt: "When you’re under pressure it’s easy to take short-cuts to tech solutions. But the focus a good strategy provides is vital to making the right decisions, says Ian Lowe"
+title: There’s No Substitute For Strategy
+date: '2019-07-22'
+slug: theres-no-substitute-for-strategy
+excerpt: When you’re under pressure it’s easy to take short-cuts to tech solutions.
+  But the focus a good strategy provides is vital to making the right decisions, says
+  Ian Lowe
 excerptGenerated: false
-author: "Ian Lowe"
-authorSlug: "ian-lowe"
-image: "/images/blog/41add14f75b0.jpg"
-categories: ["the-martech-mix-desk", "the-think-about-it-issue"]
+author: Ian Lowe
+authorSlug: ian-lowe
+image: /images/blog/41add14f75b0.jpg
+tags: []
+series:
+- the-martech-mix-desk
+- the-think-about-it-issue
 needsReview: []
-sourceId: "3968"
-sourceUrl: "https://rockstarcmo.com/theres-no-substitute-for-strategy/"
+sourceId: '3968'
+sourceUrl: https://rockstarcmo.com/theres-no-substitute-for-strategy/
 ---
 
 **When you’re under pressure it’s easy to take short-cuts to tech solutions. But the focus a good strategy provides is vital to making the right decisions, says Ian Lowe**, **VP of Marketing for global SaaS Web Content Management vendor [Crownpeak](https://www.crownpeak.com/)**.

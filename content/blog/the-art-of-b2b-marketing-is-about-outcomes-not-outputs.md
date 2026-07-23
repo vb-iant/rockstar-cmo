@@ -1,16 +1,21 @@
 ---
-title: "ART in B2B Marketing Creates Outcomes not Outputs"
-date: "2019-01-03"
-slug: "the-art-of-b2b-marketing-is-about-outcomes-not-outputs"
-excerpt: "It’s easy to be distracted by techniques, strategies, channels and outputs, but focus on ART and create outcomes."
+title: ART in B2B Marketing Creates Outcomes not Outputs
+date: '2019-01-03'
+slug: the-art-of-b2b-marketing-is-about-outcomes-not-outputs
+excerpt: It’s easy to be distracted by techniques, strategies, channels and outputs,
+  but focus on ART and create outcomes.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
+author: Ian Truscott
+authorSlug: ian-truscott
 image: null
-categories: ["b2b-marketing", "content-marketing", "marketing"]
+tags:
+- b2b-marketing
+- content-marketing
+- marketing
+series: []
 needsReview: []
-sourceId: "755"
-sourceUrl: "https://rockstarcmo.com/the-art-of-b2b-marketing-is-about-outcomes-not-outputs/"
+sourceId: '755'
+sourceUrl: https://rockstarcmo.com/the-art-of-b2b-marketing-is-about-outcomes-not-outputs/
 ---
 
 For years my marketing outlook has been focused on outcomes, a philosophy that was shaped when I was at [Tahzoo](http://www.tahzoo.com), working with [John Kottcamp](https://twitter.com/jkottcamp) and [Misia Tramp](https://twitter.com/misiatramp) - when engaging with clients we always had a focus on the outcome of our engagements, what we could change and improve for that organization, not just the deliverables we would create.

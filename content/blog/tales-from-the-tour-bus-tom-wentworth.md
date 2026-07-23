@@ -1,16 +1,22 @@
 ---
-title: "Tales from the tour bus: Tom Wentworth"
-date: "2019-12-30"
-slug: "tales-from-the-tour-bus-tom-wentworth"
-excerpt: "Back in the summer of 2018, for The Straight Outta Compton Issue, we went backstage with Tom Wentworth, then CMO of Rapid Miner and in this interview, we catch up with this technologist turned marketer."
+title: 'Tales from the tour bus: Tom Wentworth'
+date: '2019-12-30'
+slug: tales-from-the-tour-bus-tom-wentworth
+excerpt: Back in the summer of 2018, for The Straight Outta Compton Issue, we went
+  backstage with Tom Wentworth, then CMO of Rapid Miner and in this interview, we
+  catch up with this technologist turned marketer.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/8b723b67eb6e.jpg"
-categories: ["tales-from-the-tour-bus", "the-future-starts-here-issue", "top-10-2020"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/8b723b67eb6e.jpg
+tags: []
+series:
+- tales-from-the-tour-bus
+- the-future-starts-here-issue
+- top-10-2020
 needsReview: []
-sourceId: "5074"
-sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-tom-wentworth/"
+sourceId: '5074'
+sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-tom-wentworth/
 ---
 
 ***Back in the summer of 2018, for [The Straight Outta Compton Issue](https://rockstarcmo.wpengine.com/straight-outta-compton/), we [went backstage with Tom Wentworth](https://rockstarcmo.wpengine.com/backstage-with-tom-wentworth/), then CMO of Rapid Miner and in this interview, we catch up with this technologist turned marketer***.

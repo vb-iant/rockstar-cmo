@@ -1,16 +1,19 @@
 ---
-title: "The Old CMO Runaround"
-date: "2019-07-25"
-slug: "the-old-cmo-runaround"
-excerpt: "In all of the confusion of what the role of the CMO is, we seem to have forgotten the one thing marketing is supposed to do, Keith Smith explains."
+title: The Old CMO Runaround
+date: '2019-07-25'
+slug: the-old-cmo-runaround
+excerpt: In all of the confusion of what the role of the CMO is, we seem to have forgotten
+  the one thing marketing is supposed to do, Keith Smith explains.
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/43fdfce0ce7b.jpg"
-categories: ["the-think-about-it-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/43fdfce0ce7b.jpg
+tags: []
+series:
+- the-think-about-it-issue
 needsReview: []
-sourceId: "4034"
-sourceUrl: "https://rockstarcmo.com/the-old-cmo-runaround/"
+sourceId: '4034'
+sourceUrl: https://rockstarcmo.com/the-old-cmo-runaround/
 ---
 
 ***In all of the confusion of what the role of the CMO is, we seem to have forgotten the one thing marketing is supposed to do, Keith Smith explains.***

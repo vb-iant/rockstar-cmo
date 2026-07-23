@@ -1,16 +1,22 @@
 ---
-title: "Backstage with L.Michelle Smith"
-date: "2018-12-20"
-slug: "backstage-with-l-michelle-smith"
-excerpt: "A classically-trained mezzo soprano, entrepreneur, author, speaker, coach, marketing leader, L.Michelle Smith is on a mission and shares her insights from a 25 year career."
+title: Backstage with L.Michelle Smith
+date: '2018-12-20'
+slug: backstage-with-l-michelle-smith
+excerpt: A classically-trained mezzo soprano, entrepreneur, author, speaker, coach,
+  marketing leader, L.Michelle Smith is on a mission and shares her insights from
+  a 25 year career.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/2c9fe7e02d18.png"
-categories: ["backstage", "the-breaking-glass-issue", "london-calling"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/2c9fe7e02d18.png
+tags: []
+series:
+- backstage
+- the-breaking-glass-issue
+- london-calling
 needsReview: []
-sourceId: "1764"
-sourceUrl: "https://rockstarcmo.com/backstage-with-l-michelle-smith/"
+sourceId: '1764'
+sourceUrl: https://rockstarcmo.com/backstage-with-l-michelle-smith/
 ---
 
 **In this series of articles Ian Truscott goes backstage with a marketing leader, to learn what influenced their career, what gets them rocking about the industry today and what kills their buzz, picking up any useful tips that we can all use from their journey in a quest for marketing rock stardom.**

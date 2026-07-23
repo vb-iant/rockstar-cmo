@@ -1,16 +1,20 @@
 ---
-title: "The Green Room: Working with an Agency Backing Band"
-date: "2019-01-31"
-slug: "the-green-room-working-with-an-agency-backing-band"
-excerpt: "Each month in the Green Room we return backstage to pose a question to our Rockstar CMOs. This month Ian Truscott catches up with five of them and they share their advice on working with agencies."
+title: 'The Green Room: Working with an Agency Backing Band'
+date: '2019-01-31'
+slug: the-green-room-working-with-an-agency-backing-band
+excerpt: Each month in the Green Room we return backstage to pose a question to our
+  Rockstar CMOs. This month Ian Truscott catches up with five of them and they share
+  their advice on working with agencies.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/3cde4e17bb9e.jpg"
-categories: ["brand-new-thang"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/3cde4e17bb9e.jpg
+tags: []
+series:
+- brand-new-thang
 needsReview: []
-sourceId: "3181"
-sourceUrl: "https://rockstarcmo.com/the-green-room-working-with-an-agency-backing-band/"
+sourceId: '3181'
+sourceUrl: https://rockstarcmo.com/the-green-room-working-with-an-agency-backing-band/
 ---
 
 ![](/images/blog/9b32a7a18b23.jpg)

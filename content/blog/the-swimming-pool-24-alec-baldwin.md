@@ -1,16 +1,22 @@
 ---
-title: "The Swimming Pool #24: Alec Baldwin"
-date: "2020-04-30"
-slug: "the-swimming-pool-24-alec-baldwin"
-excerpt: "I know, right? Alec Baldwin? Well, we have Keith Smith, MD of The Advertist to thank for this one from our conversation on the podcast. We should explain.."
+title: 'The Swimming Pool #24: Alec Baldwin'
+date: '2020-04-30'
+slug: the-swimming-pool-24-alec-baldwin
+excerpt: I know, right? Alec Baldwin? Well, we have Keith Smith, MD of The Advertist
+  to thank for this one from our conversation on the podcast. We should explain..
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/45e339d48f11.jpg"
-categories: ["the-swimming-pool", "the-welcome-to-jamrock-issue"]
-needsReview: ["shortcode:buzzsprout,podcast_subscribe", "embed_block"]
-sourceId: "5652"
-sourceUrl: "https://rockstarcmo.com/the-swimming-pool-24-alec-baldwin/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/45e339d48f11.jpg
+tags: []
+series:
+- the-swimming-pool
+- the-welcome-to-jamrock-issue
+needsReview:
+- shortcode:buzzsprout,podcast_subscribe
+- embed_block
+sourceId: '5652'
+sourceUrl: https://rockstarcmo.com/the-swimming-pool-24-alec-baldwin/
 ---
 
 ***I know, right? Alex Baldwin? Well, we have Keith Smith, MD of The Advertist to thank for this one from our conversation on the podcast. We should explain..***

@@ -1,16 +1,22 @@
 ---
-title: "Liquid Power: How the Flavour Mavericks Are Marketing Taste"
-date: "2018-04-26"
-slug: "liquid-power-how-the-flavour-mavericks-are-marketing-taste"
-excerpt: "Glam rock. What a mind f**k. The ’70s era of glitter and gutsy stage presence took bonkers to a whole new level. OTT experiences aren’t only the domain of Alice Cooper and co. though. Beyond trendy pop-ups, #foodporn and fawning whisky adverts, food and drink has its own wild ones. Gareth May takes a bite out of the mavericks’ cookbook and finds out how to really market taste.﻿"
+title: 'Liquid Power: How the Flavour Mavericks Are Marketing Taste'
+date: '2018-04-26'
+slug: liquid-power-how-the-flavour-mavericks-are-marketing-taste
+excerpt: "Glam rock. What a mind f**k. The ’70s era of glitter and gutsy stage presence\
+  \ took bonkers to a whole new level. OTT experiences aren’t only the domain of Alice\
+  \ Cooper and co. though. Beyond trendy pop-ups, #foodporn and fawning whisky adverts,\
+  \ food and drink has its own wild ones. Gareth May takes a bite out of the mavericks’\
+  \ cookbook and finds out how to really market taste.\uFEFF"
 excerptGenerated: false
-author: "Gareth May"
-authorSlug: "gareth-may"
-image: "/images/blog/db51f8a57b2b.jpg"
-categories: ["project-funk-da-world"]
+author: Gareth May
+authorSlug: gareth-may
+image: /images/blog/db51f8a57b2b.jpg
+tags: []
+series:
+- project-funk-da-world
 needsReview: []
-sourceId: "1008"
-sourceUrl: "https://rockstarcmo.com/liquid-power-how-the-flavour-mavericks-are-marketing-taste/"
+sourceId: '1008'
+sourceUrl: https://rockstarcmo.com/liquid-power-how-the-flavour-mavericks-are-marketing-taste/
 ---
 
 **Glam rock. What a mind f\*\*k. The ’70s era of glitter and gutsy stage presence took bonkers to a whole new level. OTT experiences aren’t only the domain of Alice Cooper and co. though. Beyond trendy pop-ups, #foodporn and fawning whisky adverts, food and drink has its own wild ones. [Gareth May](/gareth-may) takes a bite out of the mavericks’ cookbook and finds out how to really market taste.**

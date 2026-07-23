@@ -1,16 +1,19 @@
 ---
-title: "Diversity; not just a party invite, its inclusion in the plan"
-date: "2019-08-30"
-slug: "diversity-not-just-a-party-invite-its-inclusion-in-the-plan"
-excerpt: "No business can afford to ignore how increasingly diverse we are. Wendy Bryant-Beswick, shares her experience of and approach to diversity marketing.."
+title: Diversity; not just a party invite, its inclusion in the plan
+date: '2019-08-30'
+slug: diversity-not-just-a-party-invite-its-inclusion-in-the-plan
+excerpt: No business can afford to ignore how increasingly diverse we are. Wendy Bryant-Beswick,
+  shares her experience of and approach to diversity marketing..
 excerptGenerated: false
-author: "Wendy Bryant-Beswick"
-authorSlug: "wendy-bryant-beswick"
-image: "/images/blog/a36c32f4287f.png"
-categories: ["the-people-are-people-issue"]
+author: Wendy Bryant-Beswick
+authorSlug: wendy-bryant-beswick
+image: /images/blog/a36c32f4287f.png
+tags: []
+series:
+- the-people-are-people-issue
 needsReview: []
-sourceId: "4211"
-sourceUrl: "https://rockstarcmo.com/diversity-not-just-a-party-invite-its-inclusion-in-the-plan/"
+sourceId: '4211'
+sourceUrl: https://rockstarcmo.com/diversity-not-just-a-party-invite-its-inclusion-in-the-plan/
 ---
 
 ***No business can afford to ignore how increasingly diverse we are and to thrive, we all need to get with that vibe. One of our Rockstar CMOs Wendy Bryant-Beswick, shares her experience of and approach to diversity marketing...***

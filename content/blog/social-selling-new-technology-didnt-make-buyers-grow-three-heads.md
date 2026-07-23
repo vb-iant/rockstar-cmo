@@ -1,16 +1,20 @@
 ---
-title: "Social Selling: New Technology Didn’t Make Buyers Grow Three Heads"
-date: "2018-11-30"
-slug: "social-selling-new-technology-didnt-make-buyers-grow-three-heads"
-excerpt: "Are you using social media to blindly blast information at your audience? Our resident rock star, Ted Rubin, on how to use social media to build relationships – and truly connect with consumers.﻿"
+title: 'Social Selling: New Technology Didn’t Make Buyers Grow Three Heads'
+date: '2018-11-30'
+slug: social-selling-new-technology-didnt-make-buyers-grow-three-heads
+excerpt: "Are you using social media to blindly blast information at your audience?\
+  \ Our resident rock star, Ted Rubin, on how to use social media to build relationships\
+  \ – and truly connect with consumers.\uFEFF"
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/3b538637a9f1.jpg"
-categories: ["we-are-family"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/3b538637a9f1.jpg
+tags: []
+series:
+- we-are-family
 needsReview: []
-sourceId: "656"
-sourceUrl: "https://rockstarcmo.com/social-selling-new-technology-didnt-make-buyers-grow-three-heads/"
+sourceId: '656'
+sourceUrl: https://rockstarcmo.com/social-selling-new-technology-didnt-make-buyers-grow-three-heads/
 ---
 
 **Are you using social media to blindly blast information at your audience? Our resident rock star,** [**Ted Rubin**](/ted-rubin)**, on how to use social media to build relationships –  and truly connect with consumers.**

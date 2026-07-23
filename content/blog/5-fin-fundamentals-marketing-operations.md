@@ -1,16 +1,19 @@
 ---
-title: "5 F’in' Fundamentals: Marketing Operations"
-date: "2023-05-28"
-slug: "5-fin-fundamentals-marketing-operations"
-excerpt: "Next up in our series of 5 F'in' Fundamentals Jeff Clark has some advice for tuning up your marketing machine."
+title: '5 F’in'' Fundamentals: Marketing Operations'
+date: '2023-05-28'
+slug: 5-fin-fundamentals-marketing-operations
+excerpt: Next up in our series of 5 F'in' Fundamentals Jeff Clark has some advice
+  for tuning up your marketing machine.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/07077bc27ec0.jpg"
-categories: ["marketing-operations", "rockstar-cmo-advisors", "street-knowledge"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/07077bc27ec0.jpg
+tags:
+- marketing-operations
+series: []
 needsReview: []
-sourceId: "7702"
-sourceUrl: "https://rockstarcmo.com/5-fin-fundamentals-marketing-operations/"
+sourceId: '7702'
+sourceUrl: https://rockstarcmo.com/5-fin-fundamentals-marketing-operations/
 ---
 
 ***Next up in our series of 5 F'in' Fundamentals, Jeff Clark has his sleeves rolled up, an oily rag, some duct tape and a can of WD40 in his hand as he's in the engine room tuning up your marketing machine***.

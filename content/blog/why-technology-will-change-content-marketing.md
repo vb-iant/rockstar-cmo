@@ -1,16 +1,19 @@
 ---
-title: "Why Technology Will Change Content Marketing"
-date: "2018-06-28"
-slug: "why-technology-will-change-content-marketing"
-excerpt: "Robert Rose takes a look at how technology will impact the way we craft and share our marketing tunes – and the dangers of a split in the C-suite band.﻿"
+title: Why Technology Will Change Content Marketing
+date: '2018-06-28'
+slug: why-technology-will-change-content-marketing
+excerpt: "Robert Rose takes a look at how technology will impact the way we craft\
+  \ and share our marketing tunes – and the dangers of a split in the C-suite band.\uFEFF"
 excerptGenerated: false
-author: "Robert Rose"
-authorSlug: "robert-rose"
-image: "/images/blog/3034b21c903d.jpg"
-categories: ["ok-computer"]
+author: Robert Rose
+authorSlug: robert-rose
+image: /images/blog/3034b21c903d.jpg
+tags: []
+series:
+- ok-computer
 needsReview: []
-sourceId: "1095"
-sourceUrl: "https://rockstarcmo.com/why-technology-will-change-content-marketing/"
+sourceId: '1095'
+sourceUrl: https://rockstarcmo.com/why-technology-will-change-content-marketing/
 ---
 
 **[Robert Rose](/robert-rose) takes a look at how technology will impact the way we craft and share our marketing tunes – and the dangers of a split in the C-suite band.**

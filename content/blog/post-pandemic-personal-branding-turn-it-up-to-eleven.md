@@ -1,16 +1,23 @@
 ---
-title: "Post-pandemic personal branding: Turn it up to eleven"
-date: "2020-06-01"
-slug: "post-pandemic-personal-branding-turn-it-up-to-eleven"
-excerpt: "Personal branding expert Jane Scandurra shares 3 tips to turn your personal brand up to 11, to avoid being \"out of sight, out of mind\" in the wake of the current pandemic."
+title: 'Post-pandemic personal branding: Turn it up to eleven'
+date: '2020-06-01'
+slug: post-pandemic-personal-branding-turn-it-up-to-eleven
+excerpt: Personal branding expert Jane Scandurra shares 3 tips to turn your personal
+  brand up to 11, to avoid being "out of sight, out of mind" in the wake of the current
+  pandemic.
 excerptGenerated: false
-author: "Jane Scandurra"
-authorSlug: "jane-scandurra"
-image: "/images/blog/e3ed13b46210.jpg"
-categories: ["the-club-classics-volume-one-issue", "top-10", "top-10-2020"]
-needsReview: ["embed_block"]
-sourceId: "5795"
-sourceUrl: "https://rockstarcmo.com/post-pandemic-personal-branding-turn-it-up-to-eleven/"
+author: Jane Scandurra
+authorSlug: jane-scandurra
+image: /images/blog/e3ed13b46210.jpg
+tags: []
+series:
+- the-club-classics-volume-one-issue
+- top-10
+- top-10-2020
+needsReview:
+- embed_block
+sourceId: '5795'
+sourceUrl: https://rockstarcmo.com/post-pandemic-personal-branding-turn-it-up-to-eleven/
 ---
 
 ***Personal branding expert Jane Scandurra shares 3 tips to turn your personal brand up to 11, to avoid being "out of sight, out of mind" in the wake of the current pandemic.***

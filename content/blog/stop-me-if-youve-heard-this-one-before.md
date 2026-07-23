@@ -1,16 +1,21 @@
 ---
-title: "Stop Me if You’ve Heard This One Before"
-date: "2024-01-31"
-slug: "stop-me-if-youve-heard-this-one-before"
-excerpt: "As content marketers, we want to be useful, and educational content can be useful. But how do you get the balance right with a knowledgeable buyer between helping them or treating them like bloody idiots?"
+title: Stop Me if You’ve Heard This One Before
+date: '2024-01-31'
+slug: stop-me-if-youve-heard-this-one-before
+excerpt: As content marketers, we want to be useful, and educational content can be
+  useful. But how do you get the balance right with a knowledgeable buyer between
+  helping them or treating them like bloody idiots?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/b9bf5e8038e0.png"
-categories: ["b2b-marketing", "content-marketing", "rockstar-cmo-advisors", "street-knowledge"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/b9bf5e8038e0.png
+tags:
+- b2b-marketing
+- content-marketing
+series: []
 needsReview: []
-sourceId: "8292"
-sourceUrl: "https://rockstarcmo.com/stop-me-if-youve-heard-this-one-before/"
+sourceId: '8292'
+sourceUrl: https://rockstarcmo.com/stop-me-if-youve-heard-this-one-before/
 ---
 
 ***As content marketers, we want to be useful, and educational content can be useful. But how do you get the balance right with a knowledgeable buyer between helping them, boring them or treating them like bloody idiots?***

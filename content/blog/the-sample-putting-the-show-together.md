@@ -1,16 +1,21 @@
 ---
-title: "The Sample: Putting the show together"
-date: "2019-09-30"
-slug: "the-sample-putting-the-show-together"
-excerpt: "This month we kick off a new series, The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear. The topic of this issue is the critical partnerships CMOs need to put on the marketing show."
+title: 'The Sample: Putting the show together'
+date: '2019-09-30'
+slug: the-sample-putting-the-show-together
+excerpt: This month we kick off a new series, The Sample, where we whirl the dial
+  on the interwebs, hit record and sample what we hear. The topic of this issue is
+  the critical partnerships CMOs need to put on the marketing show.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/3fb59bdc060e.jpg"
-categories: ["employee-engagement", "the-one-nation-under-a-groove-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/3fb59bdc060e.jpg
+tags:
+- employee-engagement
+series:
+- the-one-nation-under-a-groove-issue
 needsReview: []
-sourceId: "4371"
-sourceUrl: "https://rockstarcmo.com/the-sample-putting-the-show-together/"
+sourceId: '4371'
+sourceUrl: https://rockstarcmo.com/the-sample-putting-the-show-together/
 ---
 
 ![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-1.jpg?fit=834%2C626&ssl=1)

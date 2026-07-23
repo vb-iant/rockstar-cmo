@@ -1,16 +1,21 @@
 ---
-title: "We don’t need no education – right?"
-date: "2020-07-18"
-slug: "we-dont-need-no-education-right"
-excerpt: "Lauren Bowden, experienced (and educated) B2B marketer shares her experience for this month's topic: Do marketers need a marketing education? Channeling a bit of Pink Floyd..."
+title: We don’t need no education – right?
+date: '2020-07-18'
+slug: we-dont-need-no-education-right
+excerpt: 'Lauren Bowden, experienced (and educated) B2B marketer shares her experience
+  for this month''s topic: Do marketers need a marketing education? Channeling a bit
+  of Pink Floyd...'
 excerptGenerated: false
-author: "Lauren Bowden"
-authorSlug: "lauren-bowden"
-image: "/images/blog/b69d595cd9c9.jpg"
-categories: ["marketing-education", "the-miseducation-of-lauryn-hill-issue"]
+author: Lauren Bowden
+authorSlug: lauren-bowden
+image: /images/blog/b69d595cd9c9.jpg
+tags:
+- marketing-education
+series:
+- the-miseducation-of-lauryn-hill-issue
 needsReview: []
-sourceId: "5858"
-sourceUrl: "https://rockstarcmo.com/we-dont-need-no-education-right/"
+sourceId: '5858'
+sourceUrl: https://rockstarcmo.com/we-dont-need-no-education-right/
 ---
 
 ***Lauren Bowden, experienced (and educated) B2B marketer shares her experience for this month's topic: Do marketers need a marketing education? Channeling a bit of Pink Floyd...***

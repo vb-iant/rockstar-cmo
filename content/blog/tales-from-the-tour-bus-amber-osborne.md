@@ -1,16 +1,22 @@
 ---
-title: "Tales from the Tour Bus: Amber Osborne"
-date: "2019-05-29"
-slug: "tales-from-the-tour-bus-amber-osborne"
-excerpt: "Now on her third start-up, Amber Osborne is the CMO at Doghead Simulations (the company behind Rumii, a virtual reality conferencing and collaboration platform) and industry influencer. In this Tale from the Tour Bus, she reveals what it takes to launch something new and gives an insiders view of being an insider."
+title: 'Tales from the Tour Bus: Amber Osborne'
+date: '2019-05-29'
+slug: tales-from-the-tour-bus-amber-osborne
+excerpt: Now on her third start-up, Amber Osborne is the CMO at Doghead Simulations
+  (the company behind Rumii, a virtual reality conferencing and collaboration platform)
+  and industry influencer. In this Tale from the Tour Bus, she reveals what it takes
+  to launch something new and gives an insiders view of being an insider.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/65d600f186b3.jpg"
-categories: ["tales-from-the-tour-bus", "the-invasion-of-privacy-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/65d600f186b3.jpg
+tags: []
+series:
+- tales-from-the-tour-bus
+- the-invasion-of-privacy-issue
 needsReview: []
-sourceId: "3720"
-sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-amber-osborne/"
+sourceId: '3720'
+sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-amber-osborne/
 ---
 
 ***Now on her third start-up, Amber Osborne is the CMO at Doghead Simulations (the company behind Rumii, a virtual reality conferencing and collaboration platform) and industry influencer. In this Tale from the Tour Bus, she reveals what it takes to launch something new and gives an insiders view of being an insider.***

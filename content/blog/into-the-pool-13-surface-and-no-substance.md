@@ -1,16 +1,21 @@
 ---
-title: "Into the Pool #13: Surface and no Substance"
-date: "2019-03-28"
-slug: "into-the-pool-13-surface-and-no-substance"
-excerpt: "What would Margaret Molloy, the Global Chief Marketing Officer at Siegel+Gale and top 5 most influential CMO's like us to chuck into the Rockstar CMO Swimming Pool? We dive in..."
+title: 'Into the Pool #13: Surface and no Substance'
+date: '2019-03-28'
+slug: into-the-pool-13-surface-and-no-substance
+excerpt: What would Margaret Molloy, the Global Chief Marketing Officer at Siegel+Gale
+  and top 5 most influential CMO's like us to chuck into the Rockstar CMO Swimming
+  Pool? We dive in...
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/bbd4f700d2b3.jpg"
-categories: ["the-ghost-in-the-machine-issue", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/bbd4f700d2b3.jpg
+tags: []
+series:
+- the-ghost-in-the-machine-issue
+- the-swimming-pool
 needsReview: []
-sourceId: "3379"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-13-surface-and-no-substance/"
+sourceId: '3379'
+sourceUrl: https://rockstarcmo.com/into-the-pool-13-surface-and-no-substance/
 ---
 
 ***In [The Brand New Thang Issue](https://rockstarcmo.wpengine.com/category/issues/brand-new-thang/) we were fortunate enough to go [backstage with Margaret Molloy](https://rockstarcmo.wpengine.com/backstage-with-margaret-molloy/), Global CMO for [Siegel+Gale](https://www.siegelgale.com/). In this issue we explore her nomination for the Rockstar CMO Swimming Pool, our portal to marketing hell for all the BS, shady or outdated practices, snake oil or over-hyped buzzwords in this industry.***

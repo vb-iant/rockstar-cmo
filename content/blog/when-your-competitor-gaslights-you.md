@@ -1,16 +1,19 @@
 ---
-title: "When Your Competitor Gaslights You"
-date: "2018-07-26"
-slug: "when-your-competitor-gaslights-you"
-excerpt: "Ever been badmouthed, undermined or falsified? Robert Rose shares some valuable advice on the best way to deal with being 'gaslighted'."
+title: When Your Competitor Gaslights You
+date: '2018-07-26'
+slug: when-your-competitor-gaslights-you
+excerpt: Ever been badmouthed, undermined or falsified? Robert Rose shares some valuable
+  advice on the best way to deal with being 'gaslighted'.
 excerptGenerated: false
-author: "Robert Rose"
-authorSlug: "robert-rose"
-image: "/images/blog/545e4c3a6a30.jpg"
-categories: ["straight-outta-compton"]
+author: Robert Rose
+authorSlug: robert-rose
+image: /images/blog/545e4c3a6a30.jpg
+tags: []
+series:
+- straight-outta-compton
 needsReview: []
-sourceId: "874"
-sourceUrl: "https://rockstarcmo.com/when-your-competitor-gaslights-you/"
+sourceId: '874'
+sourceUrl: https://rockstarcmo.com/when-your-competitor-gaslights-you/
 ---
 
 **Ever been badmouthed, undermined or falsified? [Robert Rose](/robert-rose) shares some valuable advice on the best way to deal with being 'gaslighted'.**

@@ -1,16 +1,21 @@
 ---
-title: "The Rockstar CMO Hall of Fame"
-date: "2018-12-20"
-slug: "the-rockstar-cmo-hall-of-fame"
-excerpt: "Every rock hero stands on the shoulders of giants: think Prince’s debt to little Richard, or Chuck Berry’s impact on the Stones. So as the final chords of 2018 reverb round the Rockstar CMO stage, we asked our backstage rock stars who they’d induct into the Marketing Hall of Fame."
+title: The Rockstar CMO Hall of Fame
+date: '2018-12-20'
+slug: the-rockstar-cmo-hall-of-fame
+excerpt: 'Every rock hero stands on the shoulders of giants: think Prince’s debt to
+  little Richard, or Chuck Berry’s impact on the Stones. So as the final chords of
+  2018 reverb round the Rockstar CMO stage, we asked our backstage rock stars who
+  they’d induct into the Marketing Hall of Fame.'
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/5465841d8c44.jpg"
-categories: ["london-calling"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/5465841d8c44.jpg
+tags: []
+series:
+- london-calling
 needsReview: []
-sourceId: "1741"
-sourceUrl: "https://rockstarcmo.com/the-rockstar-cmo-hall-of-fame/"
+sourceId: '1741'
+sourceUrl: https://rockstarcmo.com/the-rockstar-cmo-hall-of-fame/
 ---
 
 **Every rock hero stands on the shoulders of giants: think Prince’s debt to little Richard, or Chuck Berry’s impact on the Stones. So as the final chords of 2018 reverb round the Rockstar CMO stage, we asked our backstage rock stars who they’d induct into the Marketing Hall of Fame. Sit back, read their homages, and bask in the glow of the legends who blazed the trail…**

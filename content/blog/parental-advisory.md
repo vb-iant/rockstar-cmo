@@ -1,16 +1,23 @@
 ---
-title: "Parental Advisory"
-date: "2018-07-26"
-slug: "parental-advisory"
-excerpt: "When the sweary, sarcastic Deadpool crashed into our cinemas in 2016, it took over $130 million in its opening weekend, making it the biggest opening for an R-rated movie ever. With the second instalment proving just as successful, Stephen Kelly gets down and dirty, exploring how you can swear your way to an unforgettable campaign."
+title: Parental Advisory
+date: '2018-07-26'
+slug: parental-advisory
+excerpt: When the sweary, sarcastic Deadpool crashed into our cinemas in 2016, it
+  took over $130 million in its opening weekend, making it the biggest opening for
+  an R-rated movie ever. With the second instalment proving just as successful, Stephen
+  Kelly gets down and dirty, exploring how you can swear your way to an unforgettable
+  campaign.
 excerptGenerated: false
-author: "Stephen Kelly"
-authorSlug: "stephen-kelly"
-image: "/images/blog/2778df857625.png"
-categories: ["straight-outta-compton"]
-needsReview: ["embed_block"]
-sourceId: "1022"
-sourceUrl: "https://rockstarcmo.com/parental-advisory/"
+author: Stephen Kelly
+authorSlug: stephen-kelly
+image: /images/blog/2778df857625.png
+tags: []
+series:
+- straight-outta-compton
+needsReview:
+- embed_block
+sourceId: '1022'
+sourceUrl: https://rockstarcmo.com/parental-advisory/
 ---
 
 **When the sweary, sarcastic *Deadpool* crashed into our cinemas in 2016, it took over $130 million in its opening weekend, making it the biggest opening for an R-rated movie ever. With the second instalment proving just as successful, Stephen Kelly gets down and dirty, exploring how you can swear your way to an unforgettable campaign.**

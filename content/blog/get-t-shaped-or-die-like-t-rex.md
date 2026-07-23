@@ -1,16 +1,20 @@
 ---
-title: "Get T-shaped or Die like T-Rex"
-date: "2019-11-01"
-slug: "get-t-shaped-or-die-like-t-rex"
-excerpt: "Like the legendary DJ Deadmau5, our agency insider dons a mask and reveals the backstage secrets of big agencies. In this issue, he's got a warning for T-Rex, not the legendary glam rock band, but the agency dinosaurs.."
+title: Get T-shaped or Die like T-Rex
+date: '2019-11-01'
+slug: get-t-shaped-or-die-like-t-rex
+excerpt: Like the legendary DJ Deadmau5, our agency insider dons a mask and reveals
+  the backstage secrets of big agencies. In this issue, he's got a warning for T-Rex,
+  not the legendary glam rock band, but the agency dinosaurs..
 excerptGenerated: false
-author: "adnonamau5"
-authorSlug: "adnonamau5"
-image: "/images/blog/77524b88be2d.png"
-categories: ["the-running-in-circles-issue"]
+author: adnonamau5
+authorSlug: adnonamau5
+image: /images/blog/77524b88be2d.png
+tags: []
+series:
+- the-running-in-circles-issue
 needsReview: []
-sourceId: "4555"
-sourceUrl: "https://rockstarcmo.com/get-t-shaped-or-die-like-t-rex/"
+sourceId: '4555'
+sourceUrl: https://rockstarcmo.com/get-t-shaped-or-die-like-t-rex/
 ---
 
 ***Like the legendary DJ Deadmau5, our agency insider dons a mask, but the track he drops each issue reveals what's really happening inside big agencies. In this issue, he's got a warning for T-Rex, not the legendary glam rock band, but the agency dinosaurs..***

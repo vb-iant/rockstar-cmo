@@ -1,16 +1,20 @@
 ---
-title: "What's going to rock digital marketing in '21?"
-date: "2021-01-02"
-slug: "whats-going-to-rock-in-digital-marketers-in-2021"
-excerpt: "What new year's marketing publication would be complete without predictions? In this article, Eric Jan van Putten, VP Marketing at Dynamicweb offers his perspective on 3 trends we should be looking for in digital marketing."
+title: What's going to rock digital marketing in '21?
+date: '2021-01-02'
+slug: whats-going-to-rock-in-digital-marketers-in-2021
+excerpt: What new year's marketing publication would be complete without predictions?
+  In this article, Eric Jan van Putten, VP Marketing at Dynamicweb offers his perspective
+  on 3 trends we should be looking for in digital marketing.
 excerptGenerated: false
-author: "Eric Jan van Putten"
-authorSlug: "eric-jan-van-putten"
-image: "/images/blog/4a4aea3c8799.jpg"
-categories: ["the-youve-come-a-long-way-baby-issue"]
+author: Eric Jan van Putten
+authorSlug: eric-jan-van-putten
+image: /images/blog/4a4aea3c8799.jpg
+tags: []
+series:
+- the-youve-come-a-long-way-baby-issue
 needsReview: []
-sourceId: "6287"
-sourceUrl: "https://rockstarcmo.com/whats-going-to-rock-in-digital-marketers-in-2021/"
+sourceId: '6287'
+sourceUrl: https://rockstarcmo.com/whats-going-to-rock-in-digital-marketers-in-2021/
 ---
 
 ***What new year's marketing publication would be complete without predictions? In this article, Eric Jan van Putten, VP Marketing at Dynamicweb offers his perspective on 3 trends we should be looking for in digital marketing. As you expect for a marketing leader for a digital experience vendor, it has a focus on the opportunity for technology-led digital transformation.***

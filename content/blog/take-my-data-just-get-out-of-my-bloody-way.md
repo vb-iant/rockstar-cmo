@@ -1,16 +1,19 @@
 ---
-title: "Take my data, just get out of my bloody way!"
-date: "2019-05-31"
-slug: "take-my-data-just-get-out-of-my-bloody-way"
-excerpt: "Marketing journalist Morag Cuddeford-Jones thinks marketers’ data addiction is getting out of hand, we think she has a point.."
+title: Take my data, just get out of my bloody way!
+date: '2019-05-31'
+slug: take-my-data-just-get-out-of-my-bloody-way
+excerpt: Marketing journalist Morag Cuddeford-Jones thinks marketers’ data addiction
+  is getting out of hand, we think she has a point..
 excerptGenerated: false
-author: "Morag Cuddeford-Jones"
-authorSlug: "morag-cuddeford-jones"
-image: "/images/blog/8808676ee24a.jpg"
-categories: ["the-invasion-of-privacy-issue"]
+author: Morag Cuddeford-Jones
+authorSlug: morag-cuddeford-jones
+image: /images/blog/8808676ee24a.jpg
+tags: []
+series:
+- the-invasion-of-privacy-issue
 needsReview: []
-sourceId: "3725"
-sourceUrl: "https://rockstarcmo.com/take-my-data-just-get-out-of-my-bloody-way/"
+sourceId: '3725'
+sourceUrl: https://rockstarcmo.com/take-my-data-just-get-out-of-my-bloody-way/
 ---
 
 ***Marketing journalist Morag Cuddeford-Jones thinks marketers’ data addiction is getting out of hand, we think she has a point..***

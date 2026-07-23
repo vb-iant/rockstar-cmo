@@ -1,16 +1,21 @@
 ---
-title: "How to stand out with a positive voice"
-date: "2020-04-30"
-slug: "how-to-stand-out-with-a-positive-voice"
-excerpt: "Carmine Mastropierro, returns with some advice on how to stand out as the voice of positivity that your audience is looking for. Positive messaging is always important, but particularly so during the current pandemic, when it can bring relief in uncertain times."
+title: How to stand out with a positive voice
+date: '2020-04-30'
+slug: how-to-stand-out-with-a-positive-voice
+excerpt: Carmine Mastropierro, returns with some advice on how to stand out as the
+  voice of positivity that your audience is looking for. Positive messaging is always
+  important, but particularly so during the current pandemic, when it can bring relief
+  in uncertain times.
 excerptGenerated: false
-author: "Carmine Mastropierro"
-authorSlug: "carmine-mastropierro"
-image: "/images/blog/69cbaf553a36.jpg"
-categories: ["the-welcome-to-jamrock-issue"]
+author: Carmine Mastropierro
+authorSlug: carmine-mastropierro
+image: /images/blog/69cbaf553a36.jpg
+tags: []
+series:
+- the-welcome-to-jamrock-issue
 needsReview: []
-sourceId: "5627"
-sourceUrl: "https://rockstarcmo.com/how-to-stand-out-with-a-positive-voice/"
+sourceId: '5627'
+sourceUrl: https://rockstarcmo.com/how-to-stand-out-with-a-positive-voice/
 ---
 
 ***Our newest Rockstar CMO band member, experienced copywriter, Carmine Mastropierro, returns with some advice on how to stand out as the voice of positivity that your audience is looking for. Positive messaging is always important, but particularly so during the current pandemic, when it can bring relief in uncertain times.***

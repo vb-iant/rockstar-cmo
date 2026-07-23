@@ -1,16 +1,20 @@
 ---
-title: "adnonamau5: Anti-Social Media"
-date: "2019-07-25"
-slug: "anti-social-media"
-excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser Adnonamau5 dons a mask to perform. This issue he dropped by the Rockstar CMO penthouse and it's social media that's got him a bit sweary,"
+title: 'adnonamau5: Anti-Social Media'
+date: '2019-07-25'
+slug: anti-social-media
+excerpt: Like the legendary DJ Deadmau5, our anonymous advertiser Adnonamau5 dons
+  a mask to perform. This issue he dropped by the Rockstar CMO penthouse and it's
+  social media that's got him a bit sweary,
 excerptGenerated: false
-author: "adnonamau5"
-authorSlug: "adnonamau5"
-image: "/images/blog/77524b88be2d.png"
-categories: ["the-think-about-it-issue"]
+author: adnonamau5
+authorSlug: adnonamau5
+image: /images/blog/77524b88be2d.png
+tags: []
+series:
+- the-think-about-it-issue
 needsReview: []
-sourceId: "3987"
-sourceUrl: "https://rockstarcmo.com/anti-social-media/"
+sourceId: '3987'
+sourceUrl: https://rockstarcmo.com/anti-social-media/
 ---
 
 ***Like the legendary DJ***[***Deadmau5***](https://twitter.com/deadmau5)***, our anonymous advertiser Adnonamau5 dons a mask to perform. This issue he dropped by the Rockstar CMO penthouse and it's social media that's got him a bit sweary...***

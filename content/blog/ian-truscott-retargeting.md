@@ -1,16 +1,20 @@
 ---
-title: "Into the Pool #2: Retargeting"
-date: "2018-04-26"
-slug: "ian-truscott-retargeting"
-excerpt: "You know how rock stars have this reputation for throwing stuff from the hotel window into the pool? Hell, Keith Moon even parked his Rolls Royce in…"
+title: 'Into the Pool #2: Retargeting'
+date: '2018-04-26'
+slug: ian-truscott-retargeting
+excerpt: You know how rock stars have this reputation for throwing stuff from the
+  hotel window into the pool? Hell, Keith Moon even parked his Rolls Royce in…
 excerptGenerated: true
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/7d7aeecf391a.jpg"
-categories: ["project-funk-da-world", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/7d7aeecf391a.jpg
+tags: []
+series:
+- project-funk-da-world
+- the-swimming-pool
 needsReview: []
-sourceId: "1047"
-sourceUrl: "https://rockstarcmo.com/ian-truscott-retargeting/"
+sourceId: '1047'
+sourceUrl: https://rockstarcmo.com/ian-truscott-retargeting/
 ---
 
 **You know how rock stars have this reputation for throwing stuff from the hotel window into the pool? Hell, Keith Moon even parked his Rolls Royce in the deep end once. In tribute, we’ll be throwing all the crap, bullshit acronyms, empty fads and snake oil of marketing straight into the Rockstar CMO swimming pool.**

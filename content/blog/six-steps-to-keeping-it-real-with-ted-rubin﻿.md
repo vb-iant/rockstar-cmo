@@ -1,16 +1,19 @@
 ---
-title: "Six Steps to Keeping it Real with Ted Rubin"
-date: "2019-02-28"
-slug: "six-steps-to-keeping-it-real-with-ted-rubin%ef%bb%bf"
-excerpt: "Want to be authentic? Ted Rubin shares 6 tips on expressing a real point of view that your audience engages with."
+title: Six Steps to Keeping it Real with Ted Rubin
+date: '2019-02-28'
+slug: six-steps-to-keeping-it-real-with-ted-rubin%ef%bb%bf
+excerpt: Want to be authentic? Ted Rubin shares 6 tips on expressing a real point
+  of view that your audience engages with.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/39fbb3339ce7.jpg"
-categories: ["the-pretender-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/39fbb3339ce7.jpg
+tags: []
+series:
+- the-pretender-issue
 needsReview: []
-sourceId: "3267"
-sourceUrl: "https://rockstarcmo.com/six-steps-to-keeping-it-real-with-ted-rubin%ef%bb%bf/"
+sourceId: '3267'
+sourceUrl: https://rockstarcmo.com/six-steps-to-keeping-it-real-with-ted-rubin%ef%bb%bf/
 ---
 
 **Every month in the Green Room we chat with our regular Rockstars and get their take on a topic. This month, we discussed all that is fake in our industry, asking for their advice on how marketers can avoid getting caught up in all the hyperbole – and ultimately keep it real. Ted went to town, so we thought we’d share his response his full.**

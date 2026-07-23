@@ -1,16 +1,19 @@
 ---
-title: "True Engagement Should Never be Overwhelming"
-date: "2019-04-25"
-slug: "true-engagement-should-never-be-overwhelming%ef%bb%bf"
-excerpt: "Coming over a little needy? Ted Rubin suggests it's time your marketing stopped overwhelming the audience and instead focused on them and their needs."
+title: True Engagement Should Never be Overwhelming
+date: '2019-04-25'
+slug: true-engagement-should-never-be-overwhelming%ef%bb%bf
+excerpt: Coming over a little needy? Ted Rubin suggests it's time your marketing stopped
+  overwhelming the audience and instead focused on them and their needs.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/3809a9c21d9b.jpg"
-categories: ["the-changesbowie-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/3809a9c21d9b.jpg
+tags: []
+series:
+- the-changesbowie-issue
 needsReview: []
-sourceId: "3599"
-sourceUrl: "https://rockstarcmo.com/true-engagement-should-never-be-overwhelming%ef%bb%bf/"
+sourceId: '3599'
+sourceUrl: https://rockstarcmo.com/true-engagement-should-never-be-overwhelming%ef%bb%bf/
 ---
 
 ![](/images/blog/79b6b015c4d6.jpg)

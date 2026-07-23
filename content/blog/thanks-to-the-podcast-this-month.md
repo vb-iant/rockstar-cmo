@@ -1,16 +1,21 @@
 ---
-title: "Thanks to the podcast this month"
-date: "2020-11-30"
-slug: "thanks-to-the-podcast-this-month"
-excerpt: "A roundup of another splendid month on the podcast, with some fascinating guests, insightful cocktails, and some fun by the Rockstar CMO Swimming pool."
+title: Thanks to the podcast this month
+date: '2020-11-30'
+slug: thanks-to-the-podcast-this-month
+excerpt: A roundup of another splendid month on the podcast, with some fascinating
+  guests, insightful cocktails, and some fun by the Rockstar CMO Swimming pool.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/10a56c62a16f.png"
-categories: ["the-come-together-issue"]
-needsReview: ["shortcode:buzzsprout", "reusable_block_ref"]
-sourceId: "6189"
-sourceUrl: "https://rockstarcmo.com/thanks-to-the-podcast-this-month/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/10a56c62a16f.png
+tags: []
+series:
+- the-come-together-issue
+needsReview:
+- shortcode:buzzsprout
+- reusable_block_ref
+sourceId: '6189'
+sourceUrl: https://rockstarcmo.com/thanks-to-the-podcast-this-month/
 ---
 
 ***Thanks and a roundup of another splendid month on the podcast, with some fascinating guests, insightful cocktails, and some fun by the Rockstar CMO Swimming pool.***

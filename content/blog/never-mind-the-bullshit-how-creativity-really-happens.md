@@ -1,16 +1,21 @@
 ---
-title: "Never mind the bullshit: How creativity really happens"
-date: "2020-06-01"
-slug: "never-mind-the-bullshit-how-creativity-really-happens"
-excerpt: "Keith Smith, MD at The Advertist has been exploring creativity. Along with our editor Ian Truscott, he has chatted with his network of agency legends and creatives to find out where they find the inspiration for their work and how creativity happens."
+title: 'Never mind the bullshit: How creativity really happens'
+date: '2020-06-01'
+slug: never-mind-the-bullshit-how-creativity-really-happens
+excerpt: Keith Smith, MD at The Advertist has been exploring creativity. Along with
+  our editor Ian Truscott, he has chatted with his network of agency legends and creatives
+  to find out where they find the inspiration for their work and how creativity happens.
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/0cd2f76675e7.png"
-categories: ["the-club-classics-volume-one-issue"]
-needsReview: ["embed_block"]
-sourceId: "5749"
-sourceUrl: "https://rockstarcmo.com/never-mind-the-bullshit-how-creativity-really-happens/"
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/0cd2f76675e7.png
+tags: []
+series:
+- the-club-classics-volume-one-issue
+needsReview:
+- embed_block
+sourceId: '5749'
+sourceUrl: https://rockstarcmo.com/never-mind-the-bullshit-how-creativity-really-happens/
 ---
 
 ***Keith Smith, MD at The Advertist has been exploring creativity. Along with our editor Ian Truscott, he has chatted with his network of agency legends and creatives to find out where they find the inspiration for their work and how creativity happens.***

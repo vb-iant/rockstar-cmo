@@ -1,16 +1,20 @@
 ---
-title: "Five Fails of a Broken Marketing Machine"
-date: "2026-01-15"
-slug: "five-fails-of-a-broken-marketing-machine"
-excerpt: "The Machine is the engine that makes your marketing plan and campaigns hum. What happens when the machine breaks down? Jeff shares 5 fails..."
+title: Five Fails of a Broken Marketing Machine
+date: '2026-01-15'
+slug: five-fails-of-a-broken-marketing-machine
+excerpt: The Machine is the engine that makes your marketing plan and campaigns hum.
+  What happens when the machine breaks down? Jeff shares 5 fails...
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/07077bc27ec0.jpg"
-categories: ["marketing-operations", "rockstar-cmo-advisors", "street-knowledge"]
-needsReview: ["iframe"]
-sourceId: "8979"
-sourceUrl: "https://rockstarcmo.com/five-fails-of-a-broken-marketing-machine/"
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/07077bc27ec0.jpg
+tags:
+- marketing-operations
+series: []
+needsReview:
+- iframe
+sourceId: '8979'
+sourceUrl: https://rockstarcmo.com/five-fails-of-a-broken-marketing-machine/
 ---
 
 ***The Machine, aka Marketing or Revenue Operations, is the engine that makes your marketing plan and campaigns hum. What happens when the machine breaks down? Here's five!***

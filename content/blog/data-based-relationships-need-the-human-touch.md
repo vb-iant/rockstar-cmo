@@ -1,16 +1,19 @@
 ---
-title: "Data based relationships need the human touch"
-date: "2020-03-30"
-slug: "data-based-relationships-need-the-human-touch"
-excerpt: "In this article, our straight-talking resident Rockstar CMO Ted Rubin argues for the human touch in the relationship marketers have with their data."
+title: Data based relationships need the human touch
+date: '2020-03-30'
+slug: data-based-relationships-need-the-human-touch
+excerpt: In this article, our straight-talking resident Rockstar CMO Ted Rubin argues
+  for the human touch in the relationship marketers have with their data.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/c0c928c0c9e7.jpg"
-categories: ["the-ghost-town-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/c0c928c0c9e7.jpg
+tags: []
+series:
+- the-ghost-town-issue
 needsReview: []
-sourceId: "5467"
-sourceUrl: "https://rockstarcmo.com/data-based-relationships-need-the-human-touch/"
+sourceId: '5467'
+sourceUrl: https://rockstarcmo.com/data-based-relationships-need-the-human-touch/
 ---
 
 ***The theme of this issue is the often-conflicting relationship marketers have with their data and their creativity.  In this article, our straight-talking resident Rockstar CMO Ted Rubin argues for the human touch.***

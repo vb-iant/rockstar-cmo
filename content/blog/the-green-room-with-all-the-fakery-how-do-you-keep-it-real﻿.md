@@ -1,16 +1,20 @@
 ---
-title: "The Green Room: With All the Fakery, How Do You Keep it Real?"
-date: "2019-02-28"
-slug: "the-green-room-with-all-the-fakery-how-do-you-keep-it-real%ef%bb%bf"
-excerpt: "We sit down with six of our Rockstar marketers and ask how we can keep it real and appeal to the cynical, empowered consumer that craves authenticity.﻿"
+title: 'The Green Room: With All the Fakery, How Do You Keep it Real?'
+date: '2019-02-28'
+slug: the-green-room-with-all-the-fakery-how-do-you-keep-it-real%ef%bb%bf
+excerpt: "We sit down with six of our Rockstar marketers and ask how we can keep it\
+  \ real and appeal to the cynical, empowered consumer that craves authenticity.\uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/d649a09a037b.png"
-categories: ["the-green-room", "the-pretender-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/d649a09a037b.png
+tags: []
+series:
+- the-green-room
+- the-pretender-issue
 needsReview: []
-sourceId: "3271"
-sourceUrl: "https://rockstarcmo.com/the-green-room-with-all-the-fakery-how-do-you-keep-it-real%ef%bb%bf/"
+sourceId: '3271'
+sourceUrl: https://rockstarcmo.com/the-green-room-with-all-the-fakery-how-do-you-keep-it-real%ef%bb%bf/
 ---
 
 **Each month in the Green Room we return backstage to pose a question to our Rockstar CMOs. Ian Truscott catches up with six of them and asks how we as marketers can keep it real, cut through the smoke hanging around the stage of hype and BS, and appeal to the cynical, empowered consumer that craves authenticity.**

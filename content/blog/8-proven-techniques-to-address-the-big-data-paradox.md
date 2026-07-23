@@ -1,16 +1,19 @@
 ---
-title: "8 proven techniques to address the big data paradox"
-date: "2020-03-30"
-slug: "8-proven-techniques-to-address-the-big-data-paradox"
-excerpt: "Jasmine Martirossian VP of Marketing at TÜV SÜD Americas shares 8 approaches that will help you effectively deal with the big data paradox being faced by marketing"
+title: 8 proven techniques to address the big data paradox
+date: '2020-03-30'
+slug: 8-proven-techniques-to-address-the-big-data-paradox
+excerpt: Jasmine Martirossian VP of Marketing at TÜV SÜD Americas shares 8 approaches
+  that will help you effectively deal with the big data paradox being faced by marketing
 excerptGenerated: false
-author: "Jasmine Martirossian"
-authorSlug: "jasmine-martirossian"
-image: "/images/blog/9ef897d51ecb.jpg"
-categories: ["the-ghost-town-issue"]
+author: Jasmine Martirossian
+authorSlug: jasmine-martirossian
+image: /images/blog/9ef897d51ecb.jpg
+tags: []
+series:
+- the-ghost-town-issue
 needsReview: []
-sourceId: "5462"
-sourceUrl: "https://rockstarcmo.com/8-proven-techniques-to-address-the-big-data-paradox/"
+sourceId: '5462'
+sourceUrl: https://rockstarcmo.com/8-proven-techniques-to-address-the-big-data-paradox/
 ---
 
 ***In this article, Jasmine Martirossian VP of Marketing at TÜV SÜD Americas shares eight approaches that will help you effectively deal with the big data paradox being faced by marketing***

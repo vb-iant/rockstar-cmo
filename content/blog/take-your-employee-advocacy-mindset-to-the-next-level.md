@@ -1,16 +1,20 @@
 ---
-title: "Take Your Employee Advocacy Mindset to the Next Level"
-date: "2019-01-31"
-slug: "take-your-employee-advocacy-mindset-to-the-next-level"
-excerpt: "Your employees are more important to the success of your company than you might think. Our resident rock star Ted Rubin breaks down how you can build an environment that your employees can create, innovate and thrive in."
+title: Take Your Employee Advocacy Mindset to the Next Level
+date: '2019-01-31'
+slug: take-your-employee-advocacy-mindset-to-the-next-level
+excerpt: Your employees are more important to the success of your company than you
+  might think. Our resident rock star Ted Rubin breaks down how you can build an environment
+  that your employees can create, innovate and thrive in.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/7c7ef8e00ab4.jpg"
-categories: ["brand-new-thang"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/7c7ef8e00ab4.jpg
+tags: []
+series:
+- brand-new-thang
 needsReview: []
-sourceId: "3165"
-sourceUrl: "https://rockstarcmo.com/take-your-employee-advocacy-mindset-to-the-next-level/"
+sourceId: '3165'
+sourceUrl: https://rockstarcmo.com/take-your-employee-advocacy-mindset-to-the-next-level/
 ---
 
 **It sounds obvious, but businesses are missing it: your employees are more important to the success of your company than you think. Our resident rock star Ted Rubin breaks down how you can build an environment that your employees can create, innovate and thrive in.**

@@ -1,16 +1,21 @@
 ---
-title: "Celebrate the Lost Fake Followers"
-date: "2019-02-28"
-slug: "celebrate-the-lost-fake-followers"
-excerpt: "Keeping a close eye on your follower numbers? Getting a little too upset when those numbers dip? Casey Petersen, Photofy’s Vice President of Marketing, explains why you’ve got it all wrong."
+title: Celebrate the Lost Fake Followers
+date: '2019-02-28'
+slug: celebrate-the-lost-fake-followers
+excerpt: Keeping a close eye on your follower numbers? Getting a little too upset
+  when those numbers dip? Casey Petersen, Photofy’s Vice President of Marketing, explains
+  why you’ve got it all wrong.
 excerptGenerated: false
-author: "Casey Petersen"
-authorSlug: "casey-petersen"
-image: "/images/blog/4e89b02251b7.jpg"
-categories: ["the-pretender-issue"]
-needsReview: ["embed_block"]
-sourceId: "3312"
-sourceUrl: "https://rockstarcmo.com/celebrate-the-lost-fake-followers/"
+author: Casey Petersen
+authorSlug: casey-petersen
+image: /images/blog/4e89b02251b7.jpg
+tags: []
+series:
+- the-pretender-issue
+needsReview:
+- embed_block
+sourceId: '3312'
+sourceUrl: https://rockstarcmo.com/celebrate-the-lost-fake-followers/
 ---
 
 **Keeping a close eye on your follower numbers? Getting a little too upset when those numbers dip? Casey Petersen,** [**Photofy’s**](https://photofy.com/) **Vice President of Marketing, explains why you’ve got it all wrong.**

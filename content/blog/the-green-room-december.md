@@ -1,16 +1,21 @@
 ---
-title: "Giving Thanks in The Green Room"
-date: "2018-11-30"
-slug: "the-green-room-december"
-excerpt: "Welcome to the Green Room, a new monthly feature where we will be evading security yet again to go backstage with our Rockstar CMOs and pose them a question that’s top of mind for us back at the Rockstar CMO penthouse. ﻿"
+title: Giving Thanks in The Green Room
+date: '2018-11-30'
+slug: the-green-room-december
+excerpt: "Welcome to the Green Room, a new monthly feature where we will be evading\
+  \ security yet again to go backstage with our Rockstar CMOs and pose them a question\
+  \ that’s top of mind for us back at the Rockstar CMO penthouse. \uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/a9038ff37eb3.jpg"
-categories: ["the-green-room", "we-are-family"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/a9038ff37eb3.jpg
+tags: []
+series:
+- the-green-room
+- we-are-family
 needsReview: []
-sourceId: "585"
-sourceUrl: "https://rockstarcmo.com/the-green-room-december/"
+sourceId: '585'
+sourceUrl: https://rockstarcmo.com/the-green-room-december/
 ---
 
 ![](/images/blog/d915c369a204.png)

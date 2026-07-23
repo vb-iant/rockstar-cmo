@@ -1,16 +1,19 @@
 ---
-title: "Want to Reach Consumers? Think Like One"
-date: "2018-08-30"
-slug: "want-to-reach-consumers-think-like-one"
-excerpt: "Our resident rock star, Ted Rubin, on why empathy for your consumer will always result in a better, more effective marketing plan.﻿"
+title: Want to Reach Consumers? Think Like One
+date: '2018-08-30'
+slug: want-to-reach-consumers-think-like-one
+excerpt: "Our resident rock star, Ted Rubin, on why empathy for your consumer will\
+  \ always result in a better, more effective marketing plan.\uFEFF"
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/db49c3e4c099.jpg"
-categories: ["seat-at-the-table"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/db49c3e4c099.jpg
+tags: []
+series:
+- seat-at-the-table
 needsReview: []
-sourceId: "927"
-sourceUrl: "https://rockstarcmo.com/want-to-reach-consumers-think-like-one/"
+sourceId: '927'
+sourceUrl: https://rockstarcmo.com/want-to-reach-consumers-think-like-one/
 ---
 
 **Our resident rock star,** [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin)**, on why empathy for your consumer will always result in a better, more effective marketing plan.**

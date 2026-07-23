@@ -1,16 +1,21 @@
 ---
-title: "Speaking in Tongues"
-date: "2019-01-31"
-slug: "speaking-in-tongues%ef%bb%bf"
-excerpt: "The world of rock revels in symbolism. It’s a medium where the visual speaks almost as loud as the lyrics and the same is increasingly true of social media, where the emoji rules. Decode them and they’re an untapped well of digital marketing, writes Gareth May."
+title: Speaking in Tongues
+date: '2019-01-31'
+slug: speaking-in-tongues%ef%bb%bf
+excerpt: The world of rock revels in symbolism. It’s a medium where the visual speaks
+  almost as loud as the lyrics and the same is increasingly true of social media,
+  where the emoji rules. Decode them and they’re an untapped well of digital marketing,
+  writes Gareth May.
 excerptGenerated: false
-author: "Gareth May"
-authorSlug: "gareth-may"
-image: "/images/blog/03f4f5af92af.jpg"
-categories: ["brand-new-thang"]
+author: Gareth May
+authorSlug: gareth-may
+image: /images/blog/03f4f5af92af.jpg
+tags: []
+series:
+- brand-new-thang
 needsReview: []
-sourceId: "3134"
-sourceUrl: "https://rockstarcmo.com/speaking-in-tongues%ef%bb%bf/"
+sourceId: '3134'
+sourceUrl: https://rockstarcmo.com/speaking-in-tongues%ef%bb%bf/
 ---
 
 **The hot lips of The Rolling Stones, the lightning bolt of AC/DC. The world of rock revels in symbolism. It’s a medium where the visual speaks almost as loud as the lyrics and the same is increasingly true of social media, where the emoji rules. Decode them and they’re an untapped well of digital marketing, writes Gareth May. But get it wrong and you’re up**  ????**creek.**

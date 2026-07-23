@@ -1,16 +1,20 @@
 ---
-title: "Consumers are loyal to experience, not brands"
-date: "2019-11-29"
-slug: "consumers-are-loyal-to-experience-not-brands"
-excerpt: "‘Tis the season to be shopping and Ted Rubin, our straight-talking resident rock star and Photofy CMO gift-wraps this timely reminder for retailers and brands. It’s not just the brand, product or price, it’s the experience."
+title: Consumers are loyal to experience, not brands
+date: '2019-11-29'
+slug: consumers-are-loyal-to-experience-not-brands
+excerpt: ‘Tis the season to be shopping and Ted Rubin, our straight-talking resident
+  rock star and Photofy CMO gift-wraps this timely reminder for retailers and brands.
+  It’s not just the brand, product or price, it’s the experience.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/c0c928c0c9e7.jpg"
-categories: ["the-magic-of-christmas-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/c0c928c0c9e7.jpg
+tags: []
+series:
+- the-magic-of-christmas-issue
 needsReview: []
-sourceId: "4723"
-sourceUrl: "https://rockstarcmo.com/consumers-are-loyal-to-experience-not-brands/"
+sourceId: '4723'
+sourceUrl: https://rockstarcmo.com/consumers-are-loyal-to-experience-not-brands/
 ---
 
 ***‘Tis the season to be shopping and Ted Rubin, our straight-talking resident rock star and [Photofy](https://photofy.com/) CMO gift-wraps this timely reminder for retailers and brands. It’s not just the brand, product or price, it’s the experience.***

@@ -1,16 +1,22 @@
 ---
-title: "Authenticity is key when blurring the line between personal and the organizations brand"
-date: "2020-09-04"
-slug: "authenticity-is-key-when-blurring-the-line-between-personal-and-the-organizations-brand"
-excerpt: "In her second article for this month's issue, Jasmine Martirossian, Ph.D., VP Marketing at TÜV SÜD Americas, shares her advice on balancing personal brand and representing your employer and a great example of how to lead when balancing freedom of speech and connected employees."
+title: Authenticity is key when blurring the line between personal and the organizations
+  brand
+date: '2020-09-04'
+slug: authenticity-is-key-when-blurring-the-line-between-personal-and-the-organizations-brand
+excerpt: In her second article for this month's issue, Jasmine Martirossian, Ph.D.,
+  VP Marketing at TÜV SÜD Americas, shares her advice on balancing personal brand
+  and representing your employer and a great example of how to lead when balancing
+  freedom of speech and connected employees.
 excerptGenerated: false
-author: "Jasmine Martirossian"
-authorSlug: "jasmine-martirossian"
-image: "/images/blog/897a93e99b90.jpg"
-categories: ["the-blur-issue"]
+author: Jasmine Martirossian
+authorSlug: jasmine-martirossian
+image: /images/blog/897a93e99b90.jpg
+tags: []
+series:
+- the-blur-issue
 needsReview: []
-sourceId: "5989"
-sourceUrl: "https://rockstarcmo.com/authenticity-is-key-when-blurring-the-line-between-personal-and-the-organizations-brand/"
+sourceId: '5989'
+sourceUrl: https://rockstarcmo.com/authenticity-is-key-when-blurring-the-line-between-personal-and-the-organizations-brand/
 ---
 
 ******In her second article for this month's issue, **Jasmine Martirossian, Ph.D., VP Marketing at TÜV SÜD Americas, shares her advice on balancing personal brand and representing your employer and a great example of how to lead when balancing freedom of speech and connected employees.********

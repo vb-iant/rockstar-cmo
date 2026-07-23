@@ -1,16 +1,22 @@
 ---
-title: "The Sample: Keep on movin'"
-date: "2020-06-01"
-slug: "the-sample-keep-on-movin"
-excerpt: "Welcome to The Sample, where we whirl the dial on the interwebs, hit record, and sample what we hear about the topic in this issue. This month our attention is drawn to the tension in marketing right now, about moving forward, waiting and what's next."
+title: 'The Sample: Keep on movin'''
+date: '2020-06-01'
+slug: the-sample-keep-on-movin
+excerpt: Welcome to The Sample, where we whirl the dial on the interwebs, hit record,
+  and sample what we hear about the topic in this issue. This month our attention
+  is drawn to the tension in marketing right now, about moving forward, waiting and
+  what's next.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/9d82ba78c67e.jpg"
-categories: ["the-club-classics-volume-one-issue", "the-sample"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/9d82ba78c67e.jpg
+tags: []
+series:
+- the-club-classics-volume-one-issue
+- the-sample
 needsReview: []
-sourceId: "5753"
-sourceUrl: "https://rockstarcmo.com/the-sample-keep-on-movin/"
+sourceId: '5753'
+sourceUrl: https://rockstarcmo.com/the-sample-keep-on-movin/
 ---
 
 ***Welcome to The Sample, where we whirl the dial on the interwebs, hit record, and sample what we hear about the topic in this issue. This month our attention is drawn to the tension in marketing right now, about moving forward, waiting and what's next.***

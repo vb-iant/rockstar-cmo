@@ -1,16 +1,24 @@
 ---
-title: "The Green Room – Marketing Education"
-date: "2020-07-18"
-slug: "the-green-room-marketing-education"
-excerpt: "Marketers come from diverse career backgrounds, we are not like accountants or lawyers that need a specific education, and on social media we have been seeing some pushback on this from folks like Mark Ritson, who as a marketing professor is pretty vocal about those of us that don’t have a marketing education. So, what do our Rockstar CMO’s think?"
+title: The Green Room – Marketing Education
+date: '2020-07-18'
+slug: the-green-room-marketing-education
+excerpt: Marketers come from diverse career backgrounds, we are not like accountants
+  or lawyers that need a specific education, and on social media we have been seeing
+  some pushback on this from folks like Mark Ritson, who as a marketing professor
+  is pretty vocal about those of us that don’t have a marketing education. So, what
+  do our Rockstar CMO’s think?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/d2dd37f937ba.png"
-categories: ["marketing-education", "the-green-room", "the-miseducation-of-lauryn-hill-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/d2dd37f937ba.png
+tags:
+- marketing-education
+series:
+- the-green-room
+- the-miseducation-of-lauryn-hill-issue
 needsReview: []
-sourceId: "5870"
-sourceUrl: "https://rockstarcmo.com/the-green-room-marketing-education/"
+sourceId: '5870'
+sourceUrl: https://rockstarcmo.com/the-green-room-marketing-education/
 ---
 
 ***Marketers come from diverse career backgrounds, we are not like accountants or lawyers that need specific education, and on social media, we have been seeing some pushback on this from folks like Mark Ritson, who as a marketing professor is pretty vocal about those of us that don’t have a marketing education. So, what do our Rockstar CMO’s think?***

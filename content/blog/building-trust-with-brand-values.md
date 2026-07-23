@@ -1,16 +1,20 @@
 ---
-title: "Building Trust with Brand Values"
-date: "2023-05-25"
-slug: "building-trust-with-brand-values"
-excerpt: "Here on Rockstar CMO, we love to talk about the mission of marketing to create ART - Awareness, Revenue and Trust. In this guest article, Megan Isola shares how brand values build customer trust."
+title: Building Trust with Brand Values
+date: '2023-05-25'
+slug: building-trust-with-brand-values
+excerpt: Here on Rockstar CMO, we love to talk about the mission of marketing to create
+  ART - Awareness, Revenue and Trust. In this guest article, Megan Isola shares how
+  brand values build customer trust.
 excerptGenerated: false
-author: "Megan Isola"
-authorSlug: "megan-isola"
-image: "/images/blog/7c9ba12a6374.png"
-categories: ["branding", "street-knowledge"]
+author: Megan Isola
+authorSlug: megan-isola
+image: /images/blog/7c9ba12a6374.png
+tags:
+- branding
+series: []
 needsReview: []
-sourceId: "7706"
-sourceUrl: "https://rockstarcmo.com/building-trust-with-brand-values/"
+sourceId: '7706'
+sourceUrl: https://rockstarcmo.com/building-trust-with-brand-values/
 ---
 
 ***Here on Rockstar CMO, we love to talk about the mission of marketing to create ART - Awareness, Revenue and Trust. In this guest article, Megan Isola from DEPT shares how you build customer trust with your brand values sharing 5 steps (and you know how we love 5 f'in' steps!).***

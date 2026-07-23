@@ -1,16 +1,18 @@
 ---
-title: "The 5 Fundamentals of Good Budgeting for B2B Marketing"
-date: "2024-08-31"
-slug: "the-5-fundamentals-of-good-budgeting-for-b2b-marketing"
-excerpt: "Effective budget planning is critical for B2B marketing leaders, particularly in a highly competitive and ever-changing market. Jeff shares his 5 fundamentals."
+title: The 5 Fundamentals of Good Budgeting for B2B Marketing
+date: '2024-08-31'
+slug: the-5-fundamentals-of-good-budgeting-for-b2b-marketing
+excerpt: Effective budget planning is critical for B2B marketing leaders, particularly
+  in a highly competitive and ever-changing market. Jeff shares his 5 fundamentals.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/a658a108b8c0.jpg"
-categories: ["rockstar-cmo-advisors", "street-knowledge"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/a658a108b8c0.jpg
+tags: []
+series: []
 needsReview: []
-sourceId: "8561"
-sourceUrl: "https://rockstarcmo.com/the-5-fundamentals-of-good-budgeting-for-b2b-marketing/"
+sourceId: '8561'
+sourceUrl: https://rockstarcmo.com/the-5-fundamentals-of-good-budgeting-for-b2b-marketing/
 ---
 
 ***It's budget season! We recently discussed budgeting on the podcast, and in this article, Jeff Clark shares the Rockstar CMO 5 F'in' Fundamentals of Good Budgeting.***

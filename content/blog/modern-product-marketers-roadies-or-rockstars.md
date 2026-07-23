@@ -1,16 +1,22 @@
 ---
-title: "Modern product marketers: Roadies or rockstars?"
-date: "2020-02-07"
-slug: "modern-product-marketers-roadies-or-rockstars"
-excerpt: "We’ve enjoyed Nick Einstein’s insight as an analyst here on Rockstar CMO, but in a timely move coinciding with our focus on the product for this issue, he’s switched to product marketing. Here he ponders if product marketers are the roadies or the rockstars…"
+title: 'Modern product marketers: Roadies or rockstars?'
+date: '2020-02-07'
+slug: modern-product-marketers-roadies-or-rockstars
+excerpt: We’ve enjoyed Nick Einstein’s insight as an analyst here on Rockstar CMO,
+  but in a timely move coinciding with our focus on the product for this issue, he’s
+  switched to product marketing. Here he ponders if product marketers are the roadies
+  or the rockstars…
 excerptGenerated: false
-author: "Nicholas Einstein"
-authorSlug: "nicholas-einstein"
-image: "/images/blog/dc3a8854de74.jpg"
-categories: ["the-features-creatures-issue", "top-10-2020"]
+author: Nicholas Einstein
+authorSlug: nicholas-einstein
+image: /images/blog/dc3a8854de74.jpg
+tags: []
+series:
+- the-features-creatures-issue
+- top-10-2020
 needsReview: []
-sourceId: "5239"
-sourceUrl: "https://rockstarcmo.com/modern-product-marketers-roadies-or-rockstars/"
+sourceId: '5239'
+sourceUrl: https://rockstarcmo.com/modern-product-marketers-roadies-or-rockstars/
 ---
 
 ***We’ve enjoyed Nick Einstein’s insight as an analyst here on Rockstar CMO. His article*** [***Email marketers are currently crushing it***](https://rockstarcmo.wpengine.com/email-marketers-are-currently-crushing-it/) ***is an evergreen favorite with the band. But, in a timely move coinciding with our focus on the product for this issue, he’s switched to product marketing and ponders if product marketers are the roadies or the rockstars…***

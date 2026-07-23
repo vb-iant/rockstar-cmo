@@ -1,16 +1,19 @@
 ---
-title: "Now that’s what I call… the future of B2B marketing"
-date: "2019-12-31"
-slug: "now-thats-what-i-call-the-future-of-b2b-marketing"
-excerpt: "Lauren Bowden, experienced B2B marketer and Chief Content Creator at UK PR agency The Comms Crowd shares her predictions for B2B marketing."
+title: Now that’s what I call… the future of B2B marketing
+date: '2019-12-31'
+slug: now-thats-what-i-call-the-future-of-b2b-marketing
+excerpt: Lauren Bowden, experienced B2B marketer and Chief Content Creator at UK PR
+  agency The Comms Crowd shares her predictions for B2B marketing.
 excerptGenerated: false
-author: "Lauren Bowden"
-authorSlug: "lauren-bowden"
-image: "/images/blog/52b4e1a52662.jpg"
-categories: ["the-future-starts-here-issue"]
+author: Lauren Bowden
+authorSlug: lauren-bowden
+image: /images/blog/52b4e1a52662.jpg
+tags: []
+series:
+- the-future-starts-here-issue
 needsReview: []
-sourceId: "5026"
-sourceUrl: "https://rockstarcmo.com/now-thats-what-i-call-the-future-of-b2b-marketing/"
+sourceId: '5026'
+sourceUrl: https://rockstarcmo.com/now-thats-what-i-call-the-future-of-b2b-marketing/
 ---
 
 ***As we welcome a new year and a new decade, in this issue we have cast our minds forward to the future. Lauren Bowden, experienced B2B marketer and Chief Content Creator at UK PR agency The Comms Crowd shares her predictions for B2B marketing.***

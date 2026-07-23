@@ -1,16 +1,21 @@
 ---
-title: "Sing the Same Song - 3 Steps for Employee Engagement"
-date: "2019-06-28"
-slug: "sing-the-same-song-3-steps-for-employee-engagement"
-excerpt: "We asked our content marketing hero, Robert Rose, how he would approach the theme of this month's issue - employee engagement - and he shares three steps to get everyone singing the same song."
+title: Sing the Same Song - 3 Steps for Employee Engagement
+date: '2019-06-28'
+slug: sing-the-same-song-3-steps-for-employee-engagement
+excerpt: We asked our content marketing hero, Robert Rose, how he would approach the
+  theme of this month's issue - employee engagement - and he shares three steps to
+  get everyone singing the same song.
 excerptGenerated: false
-author: "Robert Rose"
-authorSlug: "robert-rose"
-image: "/images/blog/c46f341a8f83.jpg"
-categories: ["employee-engagement", "the-inside-in-inside-out-issue"]
+author: Robert Rose
+authorSlug: robert-rose
+image: /images/blog/c46f341a8f83.jpg
+tags:
+- employee-engagement
+series:
+- the-inside-in-inside-out-issue
 needsReview: []
-sourceId: "3825"
-sourceUrl: "https://rockstarcmo.com/sing-the-same-song-3-steps-for-employee-engagement/"
+sourceId: '3825'
+sourceUrl: https://rockstarcmo.com/sing-the-same-song-3-steps-for-employee-engagement/
 ---
 
 ***We asked our content marketing hero, Robert Rose, how he would approach the theme of this month's issue - employee engagement - and he shares three steps to get everyone singing the same song.***

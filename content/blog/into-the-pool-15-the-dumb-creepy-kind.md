@@ -1,16 +1,21 @@
 ---
-title: "Into the Pool #15: The Dumb, Creepy Kind"
-date: "2019-05-31"
-slug: "into-the-pool-15-the-dumb-creepy-kind"
-excerpt: "Inspired by our backstage chat with David Howland, we ponder if we should chuck personalization into our portal to marketing hell, or maybe just the dumb, creepy kind."
+title: 'Into the Pool #15: The Dumb, Creepy Kind'
+date: '2019-05-31'
+slug: into-the-pool-15-the-dumb-creepy-kind
+excerpt: Inspired by our backstage chat with David Howland, we ponder if we should
+  chuck personalization into our portal to marketing hell, or maybe just the dumb,
+  creepy kind.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/45e339d48f11.jpg"
-categories: ["the-invasion-of-privacy-issue", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/45e339d48f11.jpg
+tags: []
+series:
+- the-invasion-of-privacy-issue
+- the-swimming-pool
 needsReview: []
-sourceId: "3747"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-15-the-dumb-creepy-kind/"
+sourceId: '3747'
+sourceUrl: https://rockstarcmo.com/into-the-pool-15-the-dumb-creepy-kind/
 ---
 
 ***In keeping with the privacy theme this month, inspired by our backstage chat with David Howland, we ponder if we should chuck personalization into our portal to marketing hell, or maybe just the dumb, creepy kind.***

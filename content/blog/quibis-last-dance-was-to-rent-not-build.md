@@ -1,16 +1,20 @@
 ---
-title: "Rent or build? Ask Quibi"
-date: "2020-10-25"
-slug: "quibis-last-dance-was-to-rent-not-build"
-excerpt: "Is there a better example of the theme of this issue of renting versus building in marketing? Although Quibi owned the land, they didn't own what they put on it, and it seems they've danced their last dance."
+title: Rent or build? Ask Quibi
+date: '2020-10-25'
+slug: quibis-last-dance-was-to-rent-not-build
+excerpt: Is there a better example of the theme of this issue of renting versus building
+  in marketing? Although Quibi owned the land, they didn't own what they put on it,
+  and it seems they've danced their last dance.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/fa1e7a28a341.jpg"
-categories: ["the-life-for-rent-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/fa1e7a28a341.jpg
+tags: []
+series:
+- the-life-for-rent-issue
 needsReview: []
-sourceId: "6120"
-sourceUrl: "https://rockstarcmo.com/quibis-last-dance-was-to-rent-not-build/"
+sourceId: '6120'
+sourceUrl: https://rockstarcmo.com/quibis-last-dance-was-to-rent-not-build/
 ---
 
 ***Is there a better example of the theme of this issue of renting versus building in marketing? Although Quibi owned the land, they didn't own what they put on it, and it seems they've danced their last dance.***

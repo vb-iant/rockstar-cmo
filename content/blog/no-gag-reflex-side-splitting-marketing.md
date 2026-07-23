@@ -1,16 +1,20 @@
 ---
-title: "No Gag Reflex: Side Splitting Marketing"
-date: "2018-07-26"
-slug: "no-gag-reflex-side-splitting-marketing"
-excerpt: "Rock and comedy make strange bedfellows and the same can be said of marketing and mirth. Gareth May finds out why rib tickling isn’t always tickety-boo for the public image, and the power of laughter if you get it right.﻿"
+title: 'No Gag Reflex: Side Splitting Marketing'
+date: '2018-07-26'
+slug: no-gag-reflex-side-splitting-marketing
+excerpt: "Rock and comedy make strange bedfellows and the same can be said of marketing\
+  \ and mirth. Gareth May finds out why rib tickling isn’t always tickety-boo for\
+  \ the public image, and the power of laughter if you get it right.\uFEFF"
 excerptGenerated: false
-author: "Gareth May"
-authorSlug: "gareth-may"
-image: "/images/blog/5232f6761687.png"
-categories: ["straight-outta-compton"]
+author: Gareth May
+authorSlug: gareth-may
+image: /images/blog/5232f6761687.png
+tags: []
+series:
+- straight-outta-compton
 needsReview: []
-sourceId: "990"
-sourceUrl: "https://rockstarcmo.com/no-gag-reflex-side-splitting-marketing/"
+sourceId: '990'
+sourceUrl: https://rockstarcmo.com/no-gag-reflex-side-splitting-marketing/
 ---
 
 **Billy Connolly introducing Elton John at Live Aid. Tenacious D and Flight of the Conchords going platinum. Madonna and #capegate. Rock and comedy make strange bedfellows and the same can be said of marketing and mirth. [Gareth May](/gareth-may) finds out why rib tickling isn’t always tickety-boo for the public image, and the power of laughter if you get it right.**

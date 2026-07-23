@@ -1,16 +1,20 @@
 ---
-title: "Thank you for the music"
-date: "2019-11-28"
-slug: "thank-you-for-the-music"
-excerpt: "Dennis Shiao is definitely in the holiday mood as he reflects and gives thanks to the band that has inspired his marketing music."
+title: Thank you for the music
+date: '2019-11-28'
+slug: thank-you-for-the-music
+excerpt: Dennis Shiao is definitely in the holiday mood as he reflects and gives thanks
+  to the band that has inspired his marketing music.
 excerptGenerated: false
-author: "Dennis Shiao"
-authorSlug: "dennis-shiao"
-image: "/images/blog/d68fbde458f0.png"
-categories: ["the-magic-of-christmas-issue"]
-needsReview: ["embed_block"]
-sourceId: "4687"
-sourceUrl: "https://rockstarcmo.com/thank-you-for-the-music/"
+author: Dennis Shiao
+authorSlug: dennis-shiao
+image: /images/blog/d68fbde458f0.png
+tags: []
+series:
+- the-magic-of-christmas-issue
+needsReview:
+- embed_block
+sourceId: '4687'
+sourceUrl: https://rockstarcmo.com/thank-you-for-the-music/
 ---
 
 ***It was only a matter of time before we quoted an Abba lyric, especially for the holidays and Dennis Shiao is definitely in the holiday mood as he reflects and gives thanks to the band that has inspired his marketing music.***

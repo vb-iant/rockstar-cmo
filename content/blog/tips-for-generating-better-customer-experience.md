@@ -1,16 +1,19 @@
 ---
-title: "Tips for Generating Better Customer Experience"
-date: "2018-06-28"
-slug: "tips-for-generating-better-customer-experience"
-excerpt: "Success in marketing goes hand in hand with good customer experience. Need to up your customer experience game? Ted Rubin breaks down how.﻿"
+title: Tips for Generating Better Customer Experience
+date: '2018-06-28'
+slug: tips-for-generating-better-customer-experience
+excerpt: "Success in marketing goes hand in hand with good customer experience. Need\
+  \ to up your customer experience game? Ted Rubin breaks down how.\uFEFF"
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/ecea765df1ef.jpg"
-categories: ["ok-computer"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/ecea765df1ef.jpg
+tags: []
+series:
+- ok-computer
 needsReview: []
-sourceId: "942"
-sourceUrl: "https://rockstarcmo.com/tips-for-generating-better-customer-experience/"
+sourceId: '942'
+sourceUrl: https://rockstarcmo.com/tips-for-generating-better-customer-experience/
 ---
 
 **Success in marketing goes hand in hand with good customer experience. Need to up your customer experience game?**[**Ted Rubin**](/ted-rubin)**breaks down how.**

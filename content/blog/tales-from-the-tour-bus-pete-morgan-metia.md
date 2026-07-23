@@ -1,16 +1,22 @@
 ---
-title: "Tales from the Tour Bus: Pete Morgan, Metia"
-date: "2020-02-07"
-slug: "tales-from-the-tour-bus-pete-morgan-metia"
-excerpt: "Global agency Metia recently published some new research “B2B marketing trends for 2020, Six essential trends for the curious CMO.” Well, people call us a lot of things and one of them is ‘curious’, so we tracked down the author, former record label owner and Metia’s VP of Demand Pete Morgan..."
+title: 'Tales from the Tour Bus: Pete Morgan, Metia'
+date: '2020-02-07'
+slug: tales-from-the-tour-bus-pete-morgan-metia
+excerpt: Global agency Metia recently published some new research “B2B marketing trends
+  for 2020, Six essential trends for the curious CMO.” Well, people call us a lot
+  of things and one of them is ‘curious’, so we tracked down the author, former record
+  label owner and Metia’s VP of Demand Pete Morgan...
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/ba8bd5da8a50.jpg"
-categories: ["tales-from-the-tour-bus", "the-features-creatures-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/ba8bd5da8a50.jpg
+tags: []
+series:
+- tales-from-the-tour-bus
+- the-features-creatures-issue
 needsReview: []
-sourceId: "5224"
-sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-pete-morgan-metia/"
+sourceId: '5224'
+sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-pete-morgan-metia/
 ---
 
 ![](/images/blog/ba8bd5da8a50.jpg)

@@ -1,16 +1,22 @@
 ---
-title: "Backstage with Ian Truscott"
-date: "2018-03-21"
-slug: "backstage-with-ian-truscott"
-excerpt: "Over a career spanning two decades, Ian Truscott has launched various B2B software products, been a developer, a chief technology officer, an industry analyst, a product marketer and a strategic advisor to blue chip companies inc. Nasdaq and American Express."
+title: Backstage with Ian Truscott
+date: '2018-03-21'
+slug: backstage-with-ian-truscott
+excerpt: Over a career spanning two decades, Ian Truscott has launched various B2B
+  software products, been a developer, a chief technology officer, an industry analyst,
+  a product marketer and a strategic advisor to blue chip companies inc. Nasdaq and
+  American Express.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/d305aaede7bf.jpg"
-categories: ["backstage", "sound-check"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/d305aaede7bf.jpg
+tags: []
+series:
+- backstage
+- sound-check
 needsReview: []
-sourceId: "812"
-sourceUrl: "https://rockstarcmo.com/backstage-with-ian-truscott/"
+sourceId: '812'
+sourceUrl: https://rockstarcmo.com/backstage-with-ian-truscott/
 ---
 
 **In this series of articles we go backstage with a marketing rockstar. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.**

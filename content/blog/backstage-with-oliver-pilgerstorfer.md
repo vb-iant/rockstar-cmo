@@ -1,16 +1,23 @@
 ---
-title: "Backstage with Oliver Pilgerstorfer"
-date: "2020-02-07"
-slug: "backstage-with-oliver-pilgerstorfer"
-excerpt: "IFS develops and delivers enterprise software for customers around the world and when their CMO, Oliver Pilgerstorfer, sat down with us and started an answer with \"I probably shouldn't admit this\" our editor Ian Truscott knew he was in for a fun interview..."
+title: Backstage with Oliver Pilgerstorfer
+date: '2020-02-07'
+slug: backstage-with-oliver-pilgerstorfer
+excerpt: IFS develops and delivers enterprise software for customers around the world
+  and when their CMO, Oliver Pilgerstorfer, sat down with us and started an answer
+  with "I probably shouldn't admit this" our editor Ian Truscott knew he was in for
+  a fun interview...
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/b0c8c9f09701.jpg"
-categories: ["backstage", "the-features-creatures-issue", "top-10-2020"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/b0c8c9f09701.jpg
+tags: []
+series:
+- backstage
+- the-features-creatures-issue
+- top-10-2020
 needsReview: []
-sourceId: "5252"
-sourceUrl: "https://rockstarcmo.com/backstage-with-oliver-pilgerstorfer/"
+sourceId: '5252'
+sourceUrl: https://rockstarcmo.com/backstage-with-oliver-pilgerstorfer/
 ---
 
 ***IFS develops and delivers enterprise software for customers around the world and when their CMO, Oliver Pilgerstorfer, sat down with us and started an answer with "I probably shouldn't admit this" our editor Ian Truscott knew he was in for a fun interview...***

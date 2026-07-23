@@ -1,16 +1,19 @@
 ---
-title: "A gift from Ted"
-date: "2020-11-30"
-slug: "a-gift-from-ted"
-excerpt: "Our straight-talking resident rock star CMO, Ted Rubin, shares a wonderfully appropriate story for this time of year about relationships, gifts and family."
+title: A gift from Ted
+date: '2020-11-30'
+slug: a-gift-from-ted
+excerpt: Our straight-talking resident rock star CMO, Ted Rubin, shares a wonderfully
+  appropriate story for this time of year about relationships, gifts and family.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/8d3538dc095b.jpg"
-categories: ["the-come-together-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/8d3538dc095b.jpg
+tags: []
+series:
+- the-come-together-issue
 needsReview: []
-sourceId: "6190"
-sourceUrl: "https://rockstarcmo.com/a-gift-from-ted/"
+sourceId: '6190'
+sourceUrl: https://rockstarcmo.com/a-gift-from-ted/
 ---
 
 ***Our straight-talking resident rock star CMO, Ted Rubin, shares a wonderfully appropriate story for this time of year about relationships, gifts, and family***. ***And maybe suggest a classic holiday gift we should consider for ourselves and the marketers in our lives**.*

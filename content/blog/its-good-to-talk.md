@@ -1,16 +1,21 @@
 ---
-title: "It’s Good to Talk"
-date: "2018-12-20"
-slug: "its-good-to-talk"
-excerpt: "With the likes of Alexa, Google Home and Siri, voice assistants are more popular than ever. Capable of making our lives easier in a flash, the devices featuring these AI are fast becoming an indispensable part of our everyday. But what does the future hold for this tech?"
+title: It’s Good to Talk
+date: '2018-12-20'
+slug: its-good-to-talk
+excerpt: With the likes of Alexa, Google Home and Siri, voice assistants are more
+  popular than ever. Capable of making our lives easier in a flash, the devices featuring
+  these AI are fast becoming an indispensable part of our everyday. But what does
+  the future hold for this tech?
 excerptGenerated: false
-author: "Dave Waller"
-authorSlug: "dave-waller"
-image: "/images/blog/eba5e42c7e26.jpg"
-categories: ["features-2", "london-calling"]
+author: Dave Waller
+authorSlug: dave-waller
+image: /images/blog/eba5e42c7e26.jpg
+tags: []
+series:
+- london-calling
 needsReview: []
-sourceId: "1655"
-sourceUrl: "https://rockstarcmo.com/its-good-to-talk/"
+sourceId: '1655'
+sourceUrl: https://rockstarcmo.com/its-good-to-talk/
 ---
 
 **With the likes of Alexa, Google Home and Siri, voice assistants are more popular than ever. Capable of making our lives easier in a flash, the devices featuring these AI are fast becoming an indispensable part of our everyday. But what does the future hold for this tech? [Dave Waller](/author/dave-waller) explores the power of voice.**

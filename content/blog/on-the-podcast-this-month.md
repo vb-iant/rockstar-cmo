@@ -1,16 +1,21 @@
 ---
-title: "On the podcast this month"
-date: "2020-07-17"
-slug: "on-the-podcast-this-month"
-excerpt: "A roundup of what's been happening on the podcast this month, with some fantastic interviews and cocktails!"
+title: On the podcast this month
+date: '2020-07-17'
+slug: on-the-podcast-this-month
+excerpt: A roundup of what's been happening on the podcast this month, with some fantastic
+  interviews and cocktails!
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/424533e68e64.png"
-categories: ["the-miseducation-of-lauryn-hill-issue"]
-needsReview: ["shortcode:buzzsprout", "reusable_block_ref"]
-sourceId: "5873"
-sourceUrl: "https://rockstarcmo.com/on-the-podcast-this-month/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/424533e68e64.png
+tags: []
+series:
+- the-miseducation-of-lauryn-hill-issue
+needsReview:
+- shortcode:buzzsprout
+- reusable_block_ref
+sourceId: '5873'
+sourceUrl: https://rockstarcmo.com/on-the-podcast-this-month/
 ---
 
 ***A roundup of what's been happening on the podcast this month, with some fantastic interviews and cocktails!***

@@ -1,16 +1,20 @@
 ---
-title: "Product (mis)placement"
-date: "2019-03-28"
-slug: "product-misplacement"
-excerpt: "Morag Cuddleford-Jones takes up the challenge to pick her way through the minefield of acronyms, departmental silos and systems to figure out the essential bit of the marketing technology stack that should be safeguarding our product content."
+title: Product (mis)placement
+date: '2019-03-28'
+slug: product-misplacement
+excerpt: Morag Cuddleford-Jones takes up the challenge to pick her way through the
+  minefield of acronyms, departmental silos and systems to figure out the essential
+  bit of the marketing technology stack that should be safeguarding our product content.
 excerptGenerated: false
-author: "Morag Cuddeford-Jones"
-authorSlug: "morag-cuddeford-jones"
-image: "/images/blog/8ff17dcecdc0.jpg"
-categories: ["the-ghost-in-the-machine-issue"]
+author: Morag Cuddeford-Jones
+authorSlug: morag-cuddeford-jones
+image: /images/blog/8ff17dcecdc0.jpg
+tags: []
+series:
+- the-ghost-in-the-machine-issue
 needsReview: []
-sourceId: "3406"
-sourceUrl: "https://rockstarcmo.com/product-misplacement/"
+sourceId: '3406'
+sourceUrl: https://rockstarcmo.com/product-misplacement/
 ---
 
 ***Morag Cuddeford-Jones takes up the challenge to pick her way through the minefield of acronyms, departmental silos and systems to figure out the essential bit of the marketing technology stack that should be safeguarding our product content.***

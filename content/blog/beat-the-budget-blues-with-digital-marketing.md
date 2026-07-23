@@ -1,16 +1,21 @@
 ---
-title: "Beat the budget blues with digital marketing"
-date: "2020-06-01"
-slug: "beat-the-budget-blues-with-digital-marketing"
-excerpt: "Right now businesses are really feeling the pinch, and many are going under. For experienced copywriter Carmine Mastropierro, when money’s too tight to mention, there’s little point spending it frivolously. A focus on digital marketing might help see you through."
+title: Beat the budget blues with digital marketing
+date: '2020-06-01'
+slug: beat-the-budget-blues-with-digital-marketing
+excerpt: Right now businesses are really feeling the pinch, and many are going under.
+  For experienced copywriter Carmine Mastropierro, when money’s too tight to mention,
+  there’s little point spending it frivolously. A focus on digital marketing might
+  help see you through.
 excerptGenerated: false
-author: "Carmine Mastropierro"
-authorSlug: "carmine-mastropierro"
-image: "/images/blog/ee2d92abcaf6.jpg"
-categories: ["the-club-classics-volume-one-issue"]
+author: Carmine Mastropierro
+authorSlug: carmine-mastropierro
+image: /images/blog/ee2d92abcaf6.jpg
+tags: []
+series:
+- the-club-classics-volume-one-issue
 needsReview: []
-sourceId: "5751"
-sourceUrl: "https://rockstarcmo.com/beat-the-budget-blues-with-digital-marketing/"
+sourceId: '5751'
+sourceUrl: https://rockstarcmo.com/beat-the-budget-blues-with-digital-marketing/
 ---
 
 ***Right now businesses are really feeling the pinch, and many are going under. For ***experienced copywriter*** Carmine Mastropierro, when [money’s too tight to mention](https://www.youtube.com/watch?v=DrUB0g8Vjgg), there’s little point spending it frivolously. A focus on digital marketing might help see you through.***

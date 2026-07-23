@@ -1,16 +1,22 @@
 ---
-title: "Tales from the Tour Bus: Richard Shotton"
-date: "2019-05-31"
-slug: "tales-from-the-tour-bus-richard-shotton"
-excerpt: "This issue we hop on the tour bus with the author of one of our favorite recent marketing reads, Richard Shotton, the writer of The Choice Factory, a best-selling book on using behavioral science in marketing. We find out what inspired this former media planner to write and set up his own consultancy."
+title: 'Tales from the Tour Bus: Richard Shotton'
+date: '2019-05-31'
+slug: tales-from-the-tour-bus-richard-shotton
+excerpt: This issue we hop on the tour bus with the author of one of our favorite
+  recent marketing reads, Richard Shotton, the writer of The Choice Factory, a best-selling
+  book on using behavioral science in marketing. We find out what inspired this former
+  media planner to write and set up his own consultancy.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/5c31de8edcc4.jpg"
-categories: ["tales-from-the-tour-bus", "the-invasion-of-privacy-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/5c31de8edcc4.jpg
+tags: []
+series:
+- tales-from-the-tour-bus
+- the-invasion-of-privacy-issue
 needsReview: []
-sourceId: "3711"
-sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-richard-shotton/"
+sourceId: '3711'
+sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-richard-shotton/
 ---
 
 ***This issue we hop on the tour bus with the author of one of our favorite recent marketing reads, Richard Shotton, the writer of The Choice Factory, a best-selling book on using behavioral science in marketing. We find out what inspired this former media planner to write and set up his own consultancy.***

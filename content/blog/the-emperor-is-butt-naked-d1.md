@@ -1,16 +1,20 @@
 ---
-title: "The Emperor is Butt Naked and Marketing is Broken"
-date: "2018-03-21"
-slug: "the-emperor-is-butt-naked-d1"
-excerpt: "Marketing is about the customer. Or is it? Lytics CMO Darren Guarnaccia argues that thanks to a modern world of hard, quantifiable data, marketers have lost touch with the very thing they’re supposed to champion: humanity."
+title: The Emperor is Butt Naked and Marketing is Broken
+date: '2018-03-21'
+slug: the-emperor-is-butt-naked-d1
+excerpt: 'Marketing is about the customer. Or is it? Lytics CMO Darren Guarnaccia
+  argues that thanks to a modern world of hard, quantifiable data, marketers have
+  lost touch with the very thing they’re supposed to champion: humanity.'
 excerptGenerated: false
-author: "Darren Garnaccia"
-authorSlug: "darren-garnaccia"
-image: "/images/blog/5a8d3457924b.jpg"
-categories: ["sound-check"]
+author: Darren Garnaccia
+authorSlug: darren-garnaccia
+image: /images/blog/5a8d3457924b.jpg
+tags: []
+series:
+- sound-check
 needsReview: []
-sourceId: "1152"
-sourceUrl: "https://rockstarcmo.com/the-emperor-is-butt-naked-d1/"
+sourceId: '1152'
+sourceUrl: https://rockstarcmo.com/the-emperor-is-butt-naked-d1/
 ---
 
 **Marketing is about the customer. Or is it? Lytics CMO Darren Guarnaccia argues that thanks to a modern world of hard, quantifiable data, marketers have lost touch with the very thing they’re supposed to champion: humanity.**

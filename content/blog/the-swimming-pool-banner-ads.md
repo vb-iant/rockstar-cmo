@@ -1,16 +1,21 @@
 ---
-title: "Into the Pool #17: Banner Ads"
-date: "2019-07-25"
-slug: "the-swimming-pool-banner-ads"
-excerpt: "In this issue, barely noticed and infrequently engaged with, is it time to put banner ads out of their lonely misery? Jasmine Martirossian, VP of Marketing at TÜV SÜD America certainly thinks so.."
+title: 'Into the Pool #17: Banner Ads'
+date: '2019-07-25'
+slug: the-swimming-pool-banner-ads
+excerpt: In this issue, barely noticed and infrequently engaged with, is it time to
+  put banner ads out of their lonely misery? Jasmine Martirossian, VP of Marketing
+  at TÜV SÜD America certainly thinks so..
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/bd0fec2186f3.jpg"
-categories: ["the-swimming-pool", "the-think-about-it-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/bd0fec2186f3.jpg
+tags: []
+series:
+- the-swimming-pool
+- the-think-about-it-issue
 needsReview: []
-sourceId: "4164"
-sourceUrl: "https://rockstarcmo.com/the-swimming-pool-banner-ads/"
+sourceId: '4164'
+sourceUrl: https://rockstarcmo.com/the-swimming-pool-banner-ads/
 ---
 
 ***Once a month we invite one of our Rockstar CMOs to the penthouse to rid the world of a marketing practice whose time has come by chucking it into the portal to marketing hell that is the Rockstar CMO Swimming Pool. In this issue, barely noticed and infrequently engaged with, is it time to put banner ads out of their lonely misery? Jasmine Martirossian, VP of Marketing at TÜV SÜD America certainly thinks so..***

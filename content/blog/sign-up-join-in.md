@@ -1,16 +1,22 @@
 ---
-title: "Sign Up, Join In"
-date: "2018-11-30"
-slug: "sign-up-join-in"
-excerpt: "As The Dandy Warhols sang in the late 1990s, “Heroin is so passé”. Surely the same could be said of getting a parcel in the post? Yet in the digital-drenched 21st century, consumers are signing up to endless snack clubs and perk clubs, electing to receive everything from coffee to cosmetics by mail. Gareth May unboxes the subscription economy, and the enduring appeal of the club.﻿"
+title: Sign Up, Join In
+date: '2018-11-30'
+slug: sign-up-join-in
+excerpt: "As The Dandy Warhols sang in the late 1990s, “Heroin is so passé”. Surely\
+  \ the same could be said of getting a parcel in the post? Yet in the digital-drenched\
+  \ 21st century, consumers are signing up to endless snack clubs and perk clubs,\
+  \ electing to receive everything from coffee to cosmetics by mail. Gareth May unboxes\
+  \ the subscription economy, and the enduring appeal of the club.\uFEFF"
 excerptGenerated: false
-author: "Gareth May"
-authorSlug: "gareth-may"
-image: "/images/blog/10dfe4d7aa72.jpg"
-categories: ["features-2", "we-are-family"]
+author: Gareth May
+authorSlug: gareth-may
+image: /images/blog/10dfe4d7aa72.jpg
+tags: []
+series:
+- we-are-family
 needsReview: []
-sourceId: "610"
-sourceUrl: "https://rockstarcmo.com/sign-up-join-in/"
+sourceId: '610'
+sourceUrl: https://rockstarcmo.com/sign-up-join-in/
 ---
 
 ![](/images/blog/4f95d3d01969.jpg)

@@ -1,16 +1,20 @@
 ---
-title: "Don’t stop the marketing music, change the tune"
-date: "2020-09-03"
-slug: "dont-stop-the-marketing-music-change-the-tune"
-excerpt: "Ahmed Hassan, independent Digital Transformation Strategist and former Chief Digital Officer at Spark44 suggests we don’t stop our marketing activities as we emerge from the pandemic but adapt them."
+title: Don’t stop the marketing music, change the tune
+date: '2020-09-03'
+slug: dont-stop-the-marketing-music-change-the-tune
+excerpt: Ahmed Hassan, independent Digital Transformation Strategist and former Chief
+  Digital Officer at Spark44 suggests we don’t stop our marketing activities as we
+  emerge from the pandemic but adapt them.
 excerptGenerated: false
-author: "Ahmed Hasan"
-authorSlug: "ahmed-hasan"
-image: "/images/blog/919d4e831360.jpg"
-categories: ["the-blur-issue"]
+author: Ahmed Hasan
+authorSlug: ahmed-hasan
+image: /images/blog/919d4e831360.jpg
+tags: []
+series:
+- the-blur-issue
 needsReview: []
-sourceId: "5957"
-sourceUrl: "https://rockstarcmo.com/dont-stop-the-marketing-music-change-the-tune/"
+sourceId: '5957'
+sourceUrl: https://rockstarcmo.com/dont-stop-the-marketing-music-change-the-tune/
 ---
 
 ***Ahmed Hassan, independent Digital Transformation Strategist and former Chief Digital Officer at Spark44 suggests a way through the blur of the current crisis. We avoid the kneejerk, don’t stop our marketing activities, adapt them, and take a lesson from the great recession and keep moving.***

@@ -1,16 +1,20 @@
 ---
-title: "The Hard Knocks: Martech Lessons Learned"
-date: "2024-03-19"
-slug: "the-hard-knocks-martech-lessons-learned"
-excerpt: "We've covered the best practices for marketing tech, which have come from our experience and lessons learned. These are often hard knocks that we can’t forget. Jeff Clark shares some of his experiences."
+title: 'The Hard Knocks: Martech Lessons Learned'
+date: '2024-03-19'
+slug: the-hard-knocks-martech-lessons-learned
+excerpt: We've covered the best practices for marketing tech, which have come from
+  our experience and lessons learned. These are often hard knocks that we can’t forget.
+  Jeff Clark shares some of his experiences.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/13a0bb3194d8.jpg"
-categories: ["martech", "street-knowledge"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/13a0bb3194d8.jpg
+tags:
+- martech
+series: []
 needsReview: []
-sourceId: "8404"
-sourceUrl: "https://rockstarcmo.com/the-hard-knocks-martech-lessons-learned/"
+sourceId: '8404'
+sourceUrl: https://rockstarcmo.com/the-hard-knocks-martech-lessons-learned/
 ---
 
 ***Here at Rockstar CMO, we share a lot of advice on marketing technology, and this advice often comes from hard knocks that we can’t forget, involving CRMs, MAPs, CMPs, and WCMs, but fortunately, they were never CLMs (Career Limiting Moves). In this article, Jeff Clark shares some of his experiences.***

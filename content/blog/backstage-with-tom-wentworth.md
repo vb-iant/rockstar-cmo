@@ -1,16 +1,20 @@
 ---
-title: "Backstage with Tom Wentworth"
-date: "2018-07-26"
-slug: "backstage-with-tom-wentworth"
-excerpt: "Ian Truscott chats to Tom Wentworth CMO at Boston-based RapidMiner, where he heads up global go-to-market strategy, product marketing and communications."
+title: Backstage with Tom Wentworth
+date: '2018-07-26'
+slug: backstage-with-tom-wentworth
+excerpt: Ian Truscott chats to Tom Wentworth CMO at Boston-based RapidMiner, where
+  he heads up global go-to-market strategy, product marketing and communications.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/4e15744ea9f8.jpg"
-categories: ["backstage", "straight-outta-compton"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/4e15744ea9f8.jpg
+tags: []
+series:
+- backstage
+- straight-outta-compton
 needsReview: []
-sourceId: "798"
-sourceUrl: "https://rockstarcmo.com/backstage-with-tom-wentworth/"
+sourceId: '798'
+sourceUrl: https://rockstarcmo.com/backstage-with-tom-wentworth/
 ---
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rock stars, what excites them and what we might learn on our journey to marketing rockstardom.

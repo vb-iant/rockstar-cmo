@@ -1,16 +1,22 @@
 ---
-title: "Tales from the Tour Bus: John Andrews and Photofy"
-date: "2019-03-28"
-slug: "tales-from-the-tour-bus-john-andrews-and-photofy"
-excerpt: "This issue regular Rock Star contributor John Andrews, serial entrepreneur, marketer and CEO of Photofy shares his journey, the bumps in the road and the next destination."
+title: 'Tales from the Tour Bus: John Andrews and Photofy'
+date: '2019-03-28'
+slug: tales-from-the-tour-bus-john-andrews-and-photofy
+excerpt: This issue regular Rock Star contributor John Andrews, serial entrepreneur,
+  marketer and CEO of Photofy shares his journey, the bumps in the road and the next
+  destination.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/4d23d7c818ce.jpg"
-categories: ["tales-from-the-tour-bus", "employee-engagement", "the-ghost-in-the-machine-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/4d23d7c818ce.jpg
+tags:
+- employee-engagement
+series:
+- tales-from-the-tour-bus
+- the-ghost-in-the-machine-issue
 needsReview: []
-sourceId: "3374"
-sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-john-andrews-and-photofy/"
+sourceId: '3374'
+sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-john-andrews-and-photofy/
 ---
 
 ***The wheels are turning, the stereo’s blaring and the windows are black black black – we're on the road and behind the scenes with a marketing heavyweight to hear a Tale from the Tour Bus.***

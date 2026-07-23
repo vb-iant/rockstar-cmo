@@ -1,16 +1,20 @@
 ---
-title: "I’d Rather be the Pope"
-date: "2018-04-26"
-slug: "rather-be-the-pope-ian-truscott"
-excerpt: "Forget chasing the zeitgeist, says Ian Truscott. Have faith in your product. Trust your product. And figure out who your story is going to help – and how. ﻿"
+title: I’d Rather be the Pope
+date: '2018-04-26'
+slug: rather-be-the-pope-ian-truscott
+excerpt: "Forget chasing the zeitgeist, says Ian Truscott. Have faith in your product.\
+  \ Trust your product. And figure out who your story is going to help – and how.\
+  \ \uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/532916ed5c5c.jpg"
-categories: ["project-funk-da-world"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/532916ed5c5c.jpg
+tags: []
+series:
+- project-funk-da-world
 needsReview: []
-sourceId: "1051"
-sourceUrl: "https://rockstarcmo.com/rather-be-the-pope-ian-truscott/"
+sourceId: '1051'
+sourceUrl: https://rockstarcmo.com/rather-be-the-pope-ian-truscott/
 ---
 
 **Forget chasing the zeitgeist, says [Ian Truscott](/ian-truscott). Have faith in your product. Trust your product. And figure out who your story is going to help – and how.**

@@ -1,16 +1,20 @@
 ---
-title: "Data Can't Answer Why?"
-date: "2020-03-30"
-slug: "data-cant-answer-why"
-excerpt: "In the interest of balance between data and creativity, maybe your fine-honed data-led campaign could use an emotional fire axe. Keith Smith, our resident business development expert explains..."
+title: Data Can't Answer Why?
+date: '2020-03-30'
+slug: data-cant-answer-why
+excerpt: In the interest of balance between data and creativity, maybe your fine-honed
+  data-led campaign could use an emotional fire axe. Keith Smith, our resident business
+  development expert explains...
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/cd4764ec6399.png"
-categories: ["the-ghost-town-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/cd4764ec6399.png
+tags: []
+series:
+- the-ghost-town-issue
 needsReview: []
-sourceId: "5487"
-sourceUrl: "https://rockstarcmo.com/data-cant-answer-why/"
+sourceId: '5487'
+sourceUrl: https://rockstarcmo.com/data-cant-answer-why/
 ---
 
 ***In the interest of balance between data and creativity, maybe your fine-honed data-led campaign could use an emotional fire axe. Keith Smith, our resident business development expert explains...***

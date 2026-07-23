@@ -1,16 +1,19 @@
 ---
-title: "Why it's Time to Change the Conversation from Targeting to Match-Making"
-date: "2019-02-28"
-slug: "why-its-time-to-change-the-conversation-from-targeting-to-match-making"
-excerpt: "Ted Rubin on why matching your product or service with the consumer will always be more effective than hunting your audience like prey."
+title: Why it's Time to Change the Conversation from Targeting to Match-Making
+date: '2019-02-28'
+slug: why-its-time-to-change-the-conversation-from-targeting-to-match-making
+excerpt: Ted Rubin on why matching your product or service with the consumer will
+  always be more effective than hunting your audience like prey.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/a984a9c1e3f7.jpg"
-categories: ["the-pretender-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/a984a9c1e3f7.jpg
+tags: []
+series:
+- the-pretender-issue
 needsReview: []
-sourceId: "3239"
-sourceUrl: "https://rockstarcmo.com/why-its-time-to-change-the-conversation-from-targeting-to-match-making/"
+sourceId: '3239'
+sourceUrl: https://rockstarcmo.com/why-its-time-to-change-the-conversation-from-targeting-to-match-making/
 ---
 
 **Ted Rubin, our resident rock star, on why matching your product or service with the consumer will always be more effective than hunting your audience like prey.**

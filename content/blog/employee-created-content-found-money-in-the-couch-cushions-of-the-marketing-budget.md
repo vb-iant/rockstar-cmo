@@ -1,16 +1,22 @@
 ---
-title: "Employee Created Content: Found money in the couch cushions of the marketing budget"
-date: "2019-09-30"
-slug: "employee-created-content-found-money-in-the-couch-cushions-of-the-marketing-budget"
-excerpt: "Following the theme of partnership for this issue, John Andrews, CEO of Photofy shares how to engage the often-overlooked channel in the cubicles around you as Employee Created Content becomes a trusted source for influencers and buyers."
+title: 'Employee Created Content: Found money in the couch cushions of the marketing
+  budget'
+date: '2019-09-30'
+slug: employee-created-content-found-money-in-the-couch-cushions-of-the-marketing-budget
+excerpt: Following the theme of partnership for this issue, John Andrews, CEO of Photofy
+  shares how to engage the often-overlooked channel in the cubicles around you as
+  Employee Created Content becomes a trusted source for influencers and buyers.
 excerptGenerated: false
-author: "John Andrews"
-authorSlug: "john-andrews"
-image: "/images/blog/4d23d7c818ce.jpg"
-categories: ["employee-engagement", "the-one-nation-under-a-groove-issue"]
+author: John Andrews
+authorSlug: john-andrews
+image: /images/blog/4d23d7c818ce.jpg
+tags:
+- employee-engagement
+series:
+- the-one-nation-under-a-groove-issue
 needsReview: []
-sourceId: "4419"
-sourceUrl: "https://rockstarcmo.com/employee-created-content-found-money-in-the-couch-cushions-of-the-marketing-budget/"
+sourceId: '4419'
+sourceUrl: https://rockstarcmo.com/employee-created-content-found-money-in-the-couch-cushions-of-the-marketing-budget/
 ---
 
 ***Want to get airplay for your marketing groove? Well, you don't need to look too far from your desk to find a free media channel that will dig your tune. Following the theme of partnership for this issue, John Andrews, CEO of Photofy shares how to engage the often-overlooked channel in the cubicles around you as Employee Created Content becomes a trusted source for influencers and buyers.***

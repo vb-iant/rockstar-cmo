@@ -1,16 +1,20 @@
 ---
-title: "Into the Pool #12: Omnichannel for the Sake of Omnichannel"
-date: "2019-02-28"
-slug: "into-the-pool-12-omnichannel-for-the-sake-of-omnichannel%ef%bb%bf"
-excerpt: "This month, Ian Truscott is inspired by L. Michelle Smith as he looks to heft “omnichannel for the sake of it” off the penthouse balcony."
+title: 'Into the Pool #12: Omnichannel for the Sake of Omnichannel'
+date: '2019-02-28'
+slug: into-the-pool-12-omnichannel-for-the-sake-of-omnichannel%ef%bb%bf
+excerpt: This month, Ian Truscott is inspired by L. Michelle Smith as he looks to
+  heft “omnichannel for the sake of it” off the penthouse balcony.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/45e339d48f11.jpg"
-categories: ["the-pretender-issue", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/45e339d48f11.jpg
+tags: []
+series:
+- the-pretender-issue
+- the-swimming-pool
 needsReview: []
-sourceId: "3243"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-12-omnichannel-for-the-sake-of-omnichannel%ef%bb%bf/"
+sourceId: '3243'
+sourceUrl: https://rockstarcmo.com/into-the-pool-12-omnichannel-for-the-sake-of-omnichannel%ef%bb%bf/
 ---
 
 ![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash.jpg?fit=834%2C556&ssl=1)

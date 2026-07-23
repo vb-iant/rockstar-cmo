@@ -1,16 +1,21 @@
 ---
-title: "Three Campaigns to Put You Off Dead Celeb Ambassadors"
-date: "2019-02-28"
-slug: "three-campaigns-to-put-you-off-dead-celeb-ambassadors"
-excerpt: "Deepfake videos are on the rise, resurrecting dead icons. But before you start planning your next no-longer-with-us ambassador, these three campaigns will make you think twice about looking beyond the grave. ﻿"
+title: Three Campaigns to Put You Off Dead Celeb Ambassadors
+date: '2019-02-28'
+slug: three-campaigns-to-put-you-off-dead-celeb-ambassadors
+excerpt: "Deepfake videos are on the rise, resurrecting dead icons. But before you\
+  \ start planning your next no-longer-with-us ambassador, these three campaigns will\
+  \ make you think twice about looking beyond the grave. \uFEFF"
 excerptGenerated: false
-author: "Ian Hsieh"
-authorSlug: "ian-hsieh"
-image: "/images/blog/4f848703fc53.jpg"
-categories: ["the-pretender-issue"]
-needsReview: ["embed_block"]
-sourceId: "3327"
-sourceUrl: "https://rockstarcmo.com/three-campaigns-to-put-you-off-dead-celeb-ambassadors/"
+author: Ian Hsieh
+authorSlug: ian-hsieh
+image: /images/blog/4f848703fc53.jpg
+tags: []
+series:
+- the-pretender-issue
+needsReview:
+- embed_block
+sourceId: '3327'
+sourceUrl: https://rockstarcmo.com/three-campaigns-to-put-you-off-dead-celeb-ambassadors/
 ---
 
 **With deepfake videos on the rise, resurrecting dead icons may have just

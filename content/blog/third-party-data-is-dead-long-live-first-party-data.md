@@ -1,16 +1,20 @@
 ---
-title: "Third-Party Data is Dead, Long Live First-Party Data!"
-date: "2018-06-28"
-slug: "third-party-data-is-dead-long-live-first-party-data"
-excerpt: "In this new Trust economy, consent makes getting and using third-party data increasingly difficult. Lytics CMO Darren Guarnaccia on why third-party data is yesterday’s news…﻿"
+title: Third-Party Data is Dead, Long Live First-Party Data!
+date: '2018-06-28'
+slug: third-party-data-is-dead-long-live-first-party-data
+excerpt: "In this new Trust economy, consent makes getting and using third-party data\
+  \ increasingly difficult. Lytics CMO Darren Guarnaccia on why third-party data is\
+  \ yesterday’s news…\uFEFF"
 excerptGenerated: false
-author: "Darren Garnaccia"
-authorSlug: "darren-garnaccia"
-image: "/images/blog/ea83d1166086.gif"
-categories: ["ok-computer"]
+author: Darren Garnaccia
+authorSlug: darren-garnaccia
+image: /images/blog/ea83d1166086.gif
+tags: []
+series:
+- ok-computer
 needsReview: []
-sourceId: "1090"
-sourceUrl: "https://rockstarcmo.com/third-party-data-is-dead-long-live-first-party-data/"
+sourceId: '1090'
+sourceUrl: https://rockstarcmo.com/third-party-data-is-dead-long-live-first-party-data/
 ---
 
 **Lytics CMO** [Darren Guarnaccia](/darren-guarnaccia) **on why third-party data is yesterday’s news…**

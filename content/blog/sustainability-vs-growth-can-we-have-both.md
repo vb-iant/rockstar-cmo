@@ -1,16 +1,22 @@
 ---
-title: "Sustainability vs. Growth: Can We Have Both?"
-date: "2022-06-03"
-slug: "sustainability-vs-growth-can-we-have-both"
-excerpt: "Is sustainability the enemy of growth? Depending on your personal ethos, you may say, “Yes” or “Of course not.” To have both, the answer may lie in incentives. For businesses to achieve sustainability, policy makers can provide the incentives to enable businesses to be driven by innovation, reduce physical waste and run on clean energy."
+title: 'Sustainability vs. Growth: Can We Have Both?'
+date: '2022-06-03'
+slug: sustainability-vs-growth-can-we-have-both
+excerpt: Is sustainability the enemy of growth? Depending on your personal ethos,
+  you may say, “Yes” or “Of course not.” To have both, the answer may lie in incentives.
+  For businesses to achieve sustainability, policy makers can provide the incentives
+  to enable businesses to be driven by innovation, reduce physical waste and run on
+  clean energy.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/95131d5a76df.png"
-categories: ["rockstar-cmo-advisors", "street-knowledge", "sustainability"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/95131d5a76df.png
+tags:
+- sustainability
+series: []
 needsReview: []
-sourceId: "7255"
-sourceUrl: "https://rockstarcmo.com/sustainability-vs-growth-can-we-have-both/"
+sourceId: '7255'
+sourceUrl: https://rockstarcmo.com/sustainability-vs-growth-can-we-have-both/
 ---
 
 ***Is "sustainable growth" an oxymoron? Can your business achieve growth and pay attention to the impact that its growth will have on the world tomorrow? Not just playing to the crowd with eco-washing marketing bollocks, but creating growth while meeting the seemingly competing needs of the consumer today and our world tomorrow? Jeff Clark weighs up the argument.***

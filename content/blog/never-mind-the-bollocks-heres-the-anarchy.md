@@ -1,16 +1,21 @@
 ---
-title: "Never Mind the Bollocks, Here’s the Anarchy"
-date: "2018-03-21"
-slug: "never-mind-the-bollocks-heres-the-anarchy"
-excerpt: "The 27 club knew a thing or two about sucking all the marrow out of life, and the recent Cloverfield Paradox shock-drop revealed the marketing industry is dealing in when it comes to the unexpected. From film to fashion, music to gaming, Gareth May explores the rise and rise of surprise."
+title: Never Mind the Bollocks, Here’s the Anarchy
+date: '2018-03-21'
+slug: never-mind-the-bollocks-heres-the-anarchy
+excerpt: The 27 club knew a thing or two about sucking all the marrow out of life,
+  and the recent Cloverfield Paradox shock-drop revealed the marketing industry is
+  dealing in when it comes to the unexpected. From film to fashion, music to gaming,
+  Gareth May explores the rise and rise of surprise.
 excerptGenerated: false
-author: "Gareth May"
-authorSlug: "gareth-may"
-image: "/images/blog/5034c1298af9.jpg"
-categories: ["sound-check"]
+author: Gareth May
+authorSlug: gareth-may
+image: /images/blog/5034c1298af9.jpg
+tags: []
+series:
+- sound-check
 needsReview: []
-sourceId: "1015"
-sourceUrl: "https://rockstarcmo.com/never-mind-the-bollocks-heres-the-anarchy/"
+sourceId: '1015'
+sourceUrl: https://rockstarcmo.com/never-mind-the-bollocks-heres-the-anarchy/
 ---
 
 **The 27 club knew a thing or two about sucking all the marrow out of life, and the recent *Cloverfield Paradox* shock-drop revealed the marketing industry is dealing in when it comes to the unexpected. From film to fashion, music to gaming, [Gareth May](/gareth-may) explores the rise and rise of surprise.**

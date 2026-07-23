@@ -1,16 +1,21 @@
 ---
-title: "Brand vs Reputation"
-date: "2018-03-20"
-slug: "brand-vs-reputation"
-excerpt: "The difference between your brand and your reputation can be easy to miss because so many marketing writers use the terms interchangeably. The fact that the terms really are similar in many ways does little to help with the confusion. Ted tells it straight..."
+title: Brand vs Reputation
+date: '2018-03-20'
+slug: brand-vs-reputation
+excerpt: The difference between your brand and your reputation can be easy to miss
+  because so many marketing writers use the terms interchangeably. The fact that the
+  terms really are similar in many ways does little to help with the confusion. Ted
+  tells it straight...
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/f04796e0e527.jpg"
-categories: ["sound-check"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/f04796e0e527.jpg
+tags: []
+series:
+- sound-check
 needsReview: []
-sourceId: "1161"
-sourceUrl: "https://rockstarcmo.com/brand-vs-reputation/"
+sourceId: '1161'
+sourceUrl: https://rockstarcmo.com/brand-vs-reputation/
 ---
 
 **The difference between your brand and your reputation can be easy to miss because so many marketing writers use the terms interchangeably. The fact that the terms *really are* similar in many ways does little to help with the confusion. Both concepts have a major influence on how your business is perceived, but your brand is only a part of the whole that forms your reputation.**

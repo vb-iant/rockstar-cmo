@@ -1,16 +1,20 @@
 ---
-title: "The Sample: Under the influence"
-date: "2019-11-01"
-slug: "the-sample-under-the-influence"
-excerpt: "The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear. The topic of this issue is Influencer Marketing and here are some of the best beats we’ve picked up this month."
+title: 'The Sample: Under the influence'
+date: '2019-11-01'
+slug: the-sample-under-the-influence
+excerpt: The Sample, where we whirl the dial on the interwebs, hit record and sample
+  what we hear. The topic of this issue is Influencer Marketing and here are some
+  of the best beats we’ve picked up this month.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/534a9d19329d.jpg"
-categories: ["the-running-in-circles-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/534a9d19329d.jpg
+tags: []
+series:
+- the-running-in-circles-issue
 needsReview: []
-sourceId: "4606"
-sourceUrl: "https://rockstarcmo.com/the-sample-under-the-influence/"
+sourceId: '4606'
+sourceUrl: https://rockstarcmo.com/the-sample-under-the-influence/
 ---
 
 ***The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear. The topic of this issue is Influencer Marketing and here are some of the best beats we’ve picked up this month*****.**

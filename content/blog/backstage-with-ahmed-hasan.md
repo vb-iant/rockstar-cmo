@@ -1,16 +1,21 @@
 ---
-title: "Backstage with Ahmed Hasan"
-date: "2019-02-28"
-slug: "backstage-with-ahmed-hasan"
-excerpt: "Ian Truscott sits down with Ahmed Hasan,Global Head of Customer Engagement Marketing at Spark44 to talk Blink-182, the advantages of failing fast, and why now is a great time for lean thinking marketers. ﻿"
+title: Backstage with Ahmed Hasan
+date: '2019-02-28'
+slug: backstage-with-ahmed-hasan
+excerpt: "Ian Truscott sits down with Ahmed Hasan,Global Head of Customer Engagement\
+  \ Marketing at Spark44 to talk Blink-182, the advantages of failing fast, and why\
+  \ now is a great time for lean thinking marketers. \uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/7fa271f29d2f.jpg"
-categories: ["backstage", "the-pretender-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/7fa271f29d2f.jpg
+tags: []
+series:
+- backstage
+- the-pretender-issue
 needsReview: []
-sourceId: "3315"
-sourceUrl: "https://rockstarcmo.com/backstage-with-ahmed-hasan/"
+sourceId: '3315'
+sourceUrl: https://rockstarcmo.com/backstage-with-ahmed-hasan/
 ---
 
 ![](/images/blog/1d2a05fc1031.jpg)

@@ -1,16 +1,21 @@
 ---
-title: "Even Better Than The Real Thing"
-date: "2018-09-26"
-slug: "even-better-than-the-real-thing"
-excerpt: "Authenticity is a seductive concept. So much so that marketers are conjuring ever more inauthentic ways to try to sell it. The good news is that authentic marketing needn’t be an oxymoron. You just have to be brave – and… drum roll… actually mean what you’re saying…"
+title: Even Better Than The Real Thing
+date: '2018-09-26'
+slug: even-better-than-the-real-thing
+excerpt: Authenticity is a seductive concept. So much so that marketers are conjuring
+  ever more inauthentic ways to try to sell it. The good news is that authentic marketing
+  needn’t be an oxymoron. You just have to be brave – and… drum roll… actually mean
+  what you’re saying…
 excerptGenerated: false
-author: "Dave Waller"
-authorSlug: "dave-waller"
-image: "/images/blog/6f8ff791f083.jpg"
-categories: ["nevermind"]
+author: Dave Waller
+authorSlug: dave-waller
+image: /images/blog/6f8ff791f083.jpg
+tags: []
+series:
+- nevermind
 needsReview: []
-sourceId: "971"
-sourceUrl: "https://rockstarcmo.com/even-better-than-the-real-thing/"
+sourceId: '971'
+sourceUrl: https://rockstarcmo.com/even-better-than-the-real-thing/
 ---
 
 **Authenticity is a seductive concept. So much so that marketers are conjuring ever more inauthentic ways to try to sell it. The good news is that authentic marketing needn’t be an oxymoron. You just have to be brave – and… drum roll… actually mean what you’re saying…**[**Dave Waller**](https://rockstarcmo.wpengine.com/dave-waller) investigates.

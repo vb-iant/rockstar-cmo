@@ -1,16 +1,20 @@
 ---
-title: "adnonamau5: It's all white"
-date: "2019-08-30"
-slug: "adnonamau5-its-all-white"
-excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser Adnonamau5 dons a mask to perform. This issue he dropped by the Rockstar CMO penthouse and laughs - Diversity in the ad-land? Nah – we’re quite alwight, old chum."
+title: 'adnonamau5: It''s all white'
+date: '2019-08-30'
+slug: adnonamau5-its-all-white
+excerpt: Like the legendary DJ Deadmau5, our anonymous advertiser Adnonamau5 dons
+  a mask to perform. This issue he dropped by the Rockstar CMO penthouse and laughs
+  - Diversity in the ad-land? Nah – we’re quite alwight, old chum.
 excerptGenerated: false
-author: "adnonamau5"
-authorSlug: "adnonamau5"
-image: "/images/blog/77524b88be2d.png"
-categories: ["the-people-are-people-issue"]
+author: adnonamau5
+authorSlug: adnonamau5
+image: /images/blog/77524b88be2d.png
+tags: []
+series:
+- the-people-are-people-issue
 needsReview: []
-sourceId: "4206"
-sourceUrl: "https://rockstarcmo.com/adnonamau5-its-all-white/"
+sourceId: '4206'
+sourceUrl: https://rockstarcmo.com/adnonamau5-its-all-white/
 ---
 
 **Like the legendary DJ Deadmau5, our anonymous advertiser Adnonamau5 dons a mask to perform. This issue he dropped by the Rockstar CMO penthouse and laughs -** ***Diversity in the ad-land? Nah – we’re quite alwight, old chum.*****...**

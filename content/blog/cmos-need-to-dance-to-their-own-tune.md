@@ -1,16 +1,21 @@
 ---
-title: "CMOs Need to Dance to their Own Tune"
-date: "2019-07-25"
-slug: "cmos-need-to-dance-to-their-own-tune"
-excerpt: "The CMO is the Lennon, Bowie, Dylan, Prince or Dr. Dre of a business, writing the lyrics of the brand story to the music of the organization's objectives and values. Yet despite growing pressure and shorter tenures, CMOs are neglecting their own personal brands. Marketing coach Jane Scandurra shares her advice.."
+title: CMOs Need to Dance to their Own Tune
+date: '2019-07-25'
+slug: cmos-need-to-dance-to-their-own-tune
+excerpt: The CMO is the Lennon, Bowie, Dylan, Prince or Dr. Dre of a business, writing
+  the lyrics of the brand story to the music of the organization's objectives and
+  values. Yet despite growing pressure and shorter tenures, CMOs are neglecting their
+  own personal brands. Marketing coach Jane Scandurra shares her advice..
 excerptGenerated: false
-author: "Jane Scandurra"
-authorSlug: "jane-scandurra"
-image: "/images/blog/5104d9adddbf.jpg"
-categories: ["the-think-about-it-issue"]
+author: Jane Scandurra
+authorSlug: jane-scandurra
+image: /images/blog/5104d9adddbf.jpg
+tags: []
+series:
+- the-think-about-it-issue
 needsReview: []
-sourceId: "3974"
-sourceUrl: "https://rockstarcmo.com/cmos-need-to-dance-to-their-own-tune/"
+sourceId: '3974'
+sourceUrl: https://rockstarcmo.com/cmos-need-to-dance-to-their-own-tune/
 ---
 
 ***The CMO is the Lennon, Bowie, Dylan, Prince or Dr. Dre of a business, writing the lyrics of the brand story to the music of the organization's objectives and values. Yet despite growing pressure and shorter tenures, CMOs are neglecting to sing their own song - their personal brand. Marketing coach Jane Scandurra shares her advice..***

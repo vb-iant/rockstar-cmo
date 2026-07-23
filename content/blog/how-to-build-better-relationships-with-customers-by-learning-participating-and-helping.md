@@ -1,16 +1,20 @@
 ---
-title: "How to Build Better Relationships with Customers by Learning, Participating, and Helping"
-date: "2019-01-31"
-slug: "how-to-build-better-relationships-with-customers-by-learning-participating-and-helping"
-excerpt: "Want to learn how to take your customer relationships to the next level? Ted Rubin has you covered…"
+title: How to Build Better Relationships with Customers by Learning, Participating,
+  and Helping
+date: '2019-01-31'
+slug: how-to-build-better-relationships-with-customers-by-learning-participating-and-helping
+excerpt: Want to learn how to take your customer relationships to the next level?
+  Ted Rubin has you covered…
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/0e4109888ad3.jpg"
-categories: ["brand-new-thang"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/0e4109888ad3.jpg
+tags: []
+series:
+- brand-new-thang
 needsReview: []
-sourceId: "3178"
-sourceUrl: "https://rockstarcmo.com/how-to-build-better-relationships-with-customers-by-learning-participating-and-helping/"
+sourceId: '3178'
+sourceUrl: https://rockstarcmo.com/how-to-build-better-relationships-with-customers-by-learning-participating-and-helping/
 ---
 
 **Want to learn how to take your customer relationships to the next level? Ted Rubin has you covered…**

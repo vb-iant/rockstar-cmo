@@ -1,16 +1,19 @@
 ---
-title: "Adnonamau5: Pretty Pictures and Crayons"
-date: "2019-06-28"
-slug: "pretty-pictures-and-crayons"
-excerpt: "Our anonymouys advertiser. Adnonamau5 (pronounced ad-nonymous) returns with a fairly blunt perspective on the pointlessness of much of the ad creation process."
+title: 'Adnonamau5: Pretty Pictures and Crayons'
+date: '2019-06-28'
+slug: pretty-pictures-and-crayons
+excerpt: Our anonymouys advertiser. Adnonamau5 (pronounced ad-nonymous) returns with
+  a fairly blunt perspective on the pointlessness of much of the ad creation process.
 excerptGenerated: false
-author: "adnonamau5"
-authorSlug: "adnonamau5"
-image: "/images/blog/77524b88be2d.png"
-categories: ["the-inside-in-inside-out-issue"]
+author: adnonamau5
+authorSlug: adnonamau5
+image: /images/blog/77524b88be2d.png
+tags: []
+series:
+- the-inside-in-inside-out-issue
 needsReview: []
-sourceId: "3820"
-sourceUrl: "https://rockstarcmo.com/pretty-pictures-and-crayons/"
+sourceId: '3820'
+sourceUrl: https://rockstarcmo.com/pretty-pictures-and-crayons/
 ---
 
 ![](/images/blog/77524b88be2d.png)

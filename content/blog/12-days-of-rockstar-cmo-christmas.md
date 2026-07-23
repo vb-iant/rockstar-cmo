@@ -1,16 +1,19 @@
 ---
-title: "12 days of Rockstar CMO Christmas"
-date: "2019-11-30"
-slug: "12-days-of-rockstar-cmo-christmas"
-excerpt: "As we approach the UK holidays and celebrate the US Thanksgiving, I thought I'd destroy a beloved Christmas carol with my our gifts for the 12 days of Christmas."
+title: 12 days of Rockstar CMO Christmas
+date: '2019-11-30'
+slug: 12-days-of-rockstar-cmo-christmas
+excerpt: As we approach the UK holidays and celebrate the US Thanksgiving, I thought
+  I'd destroy a beloved Christmas carol with my our gifts for the 12 days of Christmas.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/4a2bc906739b.jpg"
-categories: ["the-magic-of-christmas-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/4a2bc906739b.jpg
+tags: []
+series:
+- the-magic-of-christmas-issue
 needsReview: []
-sourceId: "4792"
-sourceUrl: "https://rockstarcmo.com/12-days-of-rockstar-cmo-christmas/"
+sourceId: '4792'
+sourceUrl: https://rockstarcmo.com/12-days-of-rockstar-cmo-christmas/
 ---
 
 ***I******t's wonderful to be the editor of Rockstar CMO, I get the gift of sitting in the front row and hearing this wonderful band of writers. So as we approach the UK holidays and celebrate the US Thanksgiving, I thought I'd destroy a beloved Christmas carol with our gifts for the 12 days of Christmas.***

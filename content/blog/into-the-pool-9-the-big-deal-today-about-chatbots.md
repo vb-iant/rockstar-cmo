@@ -1,16 +1,22 @@
 ---
-title: "Into the Pool #9: The Big Deal Today About Chatbots"
-date: "2018-11-30"
-slug: "into-the-pool-9-the-big-deal-today-about-chatbots"
-excerpt: "This month’s penthouse ruckus has been started by Jeanniey Mullen who suggests that Ian Truscott throw “The big deal today about chatbots” into the Rockstar CMO Swimming pool. Something he seems only too eager to do."
+title: 'Into the Pool #9: The Big Deal Today About Chatbots'
+date: '2018-11-30'
+slug: into-the-pool-9-the-big-deal-today-about-chatbots
+excerpt: This month’s penthouse ruckus has been started by Jeanniey Mullen who suggests
+  that Ian Truscott throw “The big deal today about chatbots” into the Rockstar CMO
+  Swimming pool. Something he seems only too eager to do.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/c1923168375e.jpg"
-categories: ["the-martech-mix-desk", "the-swimming-pool", "we-are-family"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/c1923168375e.jpg
+tags: []
+series:
+- the-martech-mix-desk
+- the-swimming-pool
+- we-are-family
 needsReview: []
-sourceId: "659"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-9-the-big-deal-today-about-chatbots/"
+sourceId: '659'
+sourceUrl: https://rockstarcmo.com/into-the-pool-9-the-big-deal-today-about-chatbots/
 ---
 
 **This month’s penthouse ruckus has been started by** [**Jeanniey Mullen**](https://rockstarcmo.wpengine.com/opinion/backstage-with-jeanniey-mullen) **who suggests that Ian Truscott throw “The big deal today about chatbots” into the Rockstar CMO Swimming pool. Something he seems only too eager to do. Think they are wrong?****[Get in touch.](https://rockstarcmo.wpengine.com/contact-us)**

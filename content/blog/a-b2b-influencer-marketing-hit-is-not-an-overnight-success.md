@@ -1,16 +1,22 @@
 ---
-title: "A B2B influencer marketing hit is not an overnight success"
-date: "2019-11-01"
-slug: "a-b2b-influencer-marketing-hit-is-not-an-overnight-success"
-excerpt: "Pull your marketing budget together, stick it in a big bag and hand it to a marketing celebrity. Bingo! You are topping the charts. But...is it really this easy to create a B2B influencer marketing hit? Barb Mosher Zinck suggests maybe not."
+title: A B2B influencer marketing hit is not an overnight success
+date: '2019-11-01'
+slug: a-b2b-influencer-marketing-hit-is-not-an-overnight-success
+excerpt: Pull your marketing budget together, stick it in a big bag and hand it to
+  a marketing celebrity. Bingo! You are topping the charts. But...is it really this
+  easy to create a B2B influencer marketing hit? Barb Mosher Zinck suggests maybe
+  not.
 excerptGenerated: false
-author: "Barb Mosher Zinck"
-authorSlug: "barb-mosher-zinck"
-image: "/images/blog/dda66fbe5564.jpg"
-categories: ["the-running-in-circles-issue"]
-needsReview: ["embed_block"]
-sourceId: "4524"
-sourceUrl: "https://rockstarcmo.com/a-b2b-influencer-marketing-hit-is-not-an-overnight-success/"
+author: Barb Mosher Zinck
+authorSlug: barb-mosher-zinck
+image: /images/blog/dda66fbe5564.jpg
+tags: []
+series:
+- the-running-in-circles-issue
+needsReview:
+- embed_block
+sourceId: '4524'
+sourceUrl: https://rockstarcmo.com/a-b2b-influencer-marketing-hit-is-not-an-overnight-success/
 ---
 
 ***Pull your marketing budget together, stick it in a big bag and hand it to a marketing celebrity. Bingo! You are topping the charts. But...is it really this easy to create a B2B influencer marketing hit? Barb Mosher Zinck suggests maybe not.***

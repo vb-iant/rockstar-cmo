@@ -1,16 +1,21 @@
 ---
-title: "What the F' is Product Led Growth (PLG)?"
-date: "2022-05-09"
-slug: "what-the-f-is-plg"
-excerpt: "You may have heard that there is a new acronym kid on the tech product marketing block; Product Led Growth (PLG), but is this a hit or something only its mother will love?"
+title: What the F' is Product Led Growth (PLG)?
+date: '2022-05-09'
+slug: what-the-f-is-plg
+excerpt: You may have heard that there is a new acronym kid on the tech product marketing
+  block; Product Led Growth (PLG), but is this a hit or something only its mother
+  will love?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/138cd78767c9.png"
-categories: ["b2b-marketing", "marketing", "street-knowledge"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/138cd78767c9.png
+tags:
+- b2b-marketing
+- marketing
+series: []
 needsReview: []
-sourceId: "6863"
-sourceUrl: "https://rockstarcmo.com/what-the-f-is-plg/"
+sourceId: '6863'
+sourceUrl: https://rockstarcmo.com/what-the-f-is-plg/
 ---
 
 ***You may have heard that there is a new acronym kid on the tech product marketing block; Product Led Growth (PLG). Thank f\*\*k for that, another sales and marketing acronym, but is this a hit or something only its mother will love?***

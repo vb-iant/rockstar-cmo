@@ -1,16 +1,20 @@
 ---
-title: "Stop Random Acts of Marketing!"
-date: "2023-02-06"
-slug: "stop-random-acts-of-marketing"
-excerpt: "Are your marketing efforts falling flat? Do your colleagues on the executive team think that marketing is not providing business value? Jeff Clark, our resident Rockstar CMO Strategic Advisor, has some advice."
+title: Stop Random Acts of Marketing!
+date: '2023-02-06'
+slug: stop-random-acts-of-marketing
+excerpt: Are your marketing efforts falling flat? Do your colleagues on the executive
+  team think that marketing is not providing business value? Jeff Clark, our resident
+  Rockstar CMO Strategic Advisor, has some advice.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/d7edc5305bc9.jpg"
-categories: ["b2b-marketing", "rockstar-cmo-advisors", "street-knowledge"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/d7edc5305bc9.jpg
+tags:
+- b2b-marketing
+series: []
 needsReview: []
-sourceId: "7558"
-sourceUrl: "https://rockstarcmo.com/stop-random-acts-of-marketing/"
+sourceId: '7558'
+sourceUrl: https://rockstarcmo.com/stop-random-acts-of-marketing/
 ---
 
 ***Are your marketing efforts falling flat? Do your colleagues on the executive team think that marketing is not providing business value? Are you helping sales be more effective in engaging prospects and customers? You may just need a more integrated, holistic approach to your campaign planning and execution. Jeff Clark, our resident Rockstar CMO Strategic Advisor, has some advice.***

@@ -1,16 +1,19 @@
 ---
-title: "Get Your Buyers AMPED with our Customer Journey"
-date: "2025-01-23"
-slug: "get-your-buyers-amped-with-our-customer-journey"
-excerpt: "In a couple of podcast episodes, we’ve discussed buyers and customer journeys, pulling inspiration from various sources like Gartner, Forrester,…"
+title: Get Your Buyers AMPED with our Customer Journey
+date: '2025-01-23'
+slug: get-your-buyers-amped-with-our-customer-journey
+excerpt: In a couple of podcast episodes, we’ve discussed buyers and customer journeys,
+  pulling inspiration from various sources like Gartner, Forrester,…
 excerptGenerated: true
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/7a20c2171e4f.png"
-categories: ["b2b-marketing", "rockstar-cmo-advisors", "street-knowledge"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/7a20c2171e4f.png
+tags:
+- b2b-marketing
+series: []
 needsReview: []
-sourceId: "8682"
-sourceUrl: "https://rockstarcmo.com/get-your-buyers-amped-with-our-customer-journey/"
+sourceId: '8682'
+sourceUrl: https://rockstarcmo.com/get-your-buyers-amped-with-our-customer-journey/
 ---
 
 ***In a couple of podcast episodes, we’ve discussed buyers and customer journeys, pulling inspiration from various sources like Gartner, Forrester, McKinsey, and the Pedowitz Group. In this article, we share the greatest hits of these models that we call AMPED.***

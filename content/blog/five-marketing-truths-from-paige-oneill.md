@@ -1,16 +1,21 @@
 ---
-title: "Five Marketing Truths from Paige O’Neill"
-date: "2019-04-25"
-slug: "five-marketing-truths-from-paige-oneill"
-excerpt: "I got a backstage pass at the Sitecore Experience event in London, the opportunity to catch-up with my old boss Paige O’Neill and chat about her keynote and her latest message to marketers…"
+title: Five Marketing Truths from Paige O’Neill
+date: '2019-04-25'
+slug: five-marketing-truths-from-paige-oneill
+excerpt: I got a backstage pass at the Sitecore Experience event in London, the opportunity
+  to catch-up with my old boss Paige O’Neill and chat about her keynote and her latest
+  message to marketers…
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/e26e293ac46a.jpg"
-categories: ["features-2", "the-breaking-glass-issue", "the-changesbowie-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/e26e293ac46a.jpg
+tags: []
+series:
+- the-breaking-glass-issue
+- the-changesbowie-issue
 needsReview: []
-sourceId: "3588"
-sourceUrl: "https://rockstarcmo.com/five-marketing-truths-from-paige-oneill/"
+sourceId: '3588'
+sourceUrl: https://rockstarcmo.com/five-marketing-truths-from-paige-oneill/
 ---
 
 ***I got a backstage pass at the Sitecore Experience event in London, the opportunity to catch-up with my old boss Paige O'Neill and chat about her keynote and her latest message to marketers...***

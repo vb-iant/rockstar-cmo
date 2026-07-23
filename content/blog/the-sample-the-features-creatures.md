@@ -1,16 +1,20 @@
 ---
-title: "The Sample: The Features Creatures"
-date: "2020-02-02"
-slug: "the-sample-the-features-creatures"
-excerpt: "Welcome to The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear about the topic in this issue. This time, we are looking at the relationship between marketing and the product teams, here is what we found."
+title: 'The Sample: The Features Creatures'
+date: '2020-02-02'
+slug: the-sample-the-features-creatures
+excerpt: Welcome to The Sample, where we whirl the dial on the interwebs, hit record
+  and sample what we hear about the topic in this issue. This time, we are looking
+  at the relationship between marketing and the product teams, here is what we found.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/3fb59bdc060e.jpg"
-categories: ["the-features-creatures-issue"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/3fb59bdc060e.jpg
+tags: []
+series:
+- the-features-creatures-issue
 needsReview: []
-sourceId: "5272"
-sourceUrl: "https://rockstarcmo.com/the-sample-the-features-creatures/"
+sourceId: '5272'
+sourceUrl: https://rockstarcmo.com/the-sample-the-features-creatures/
 ---
 
 ***Welcome to The Sample, where we whirl the dial on the interwebs, hit record and sample what we find about the topic we've focused on in [this issue](https://rockstarcmo.wpengine.com/the-features-creatures-issue/).***

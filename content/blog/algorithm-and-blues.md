@@ -1,16 +1,20 @@
 ---
-title: "Algorithm and Blues"
-date: "2018-06-28"
-slug: "algorithm-and-blues"
-excerpt: "Technology means we're getting ever more personal with our customers. Or so we think... Helene Dancer asks: Do too many algorithms mean we're actually beginning to lose the human touch?﻿"
+title: Algorithm and Blues
+date: '2018-06-28'
+slug: algorithm-and-blues
+excerpt: "Technology means we're getting ever more personal with our customers. Or\
+  \ so we think... Helene Dancer asks: Do too many algorithms mean we're actually\
+  \ beginning to lose the human touch?\uFEFF"
 excerptGenerated: false
-author: "Helene Dancer"
-authorSlug: "helene-dancer"
-image: "/images/blog/a3deb8908892.jpg"
-categories: ["ok-computer"]
+author: Helene Dancer
+authorSlug: helene-dancer
+image: /images/blog/a3deb8908892.jpg
+tags: []
+series:
+- ok-computer
 needsReview: []
-sourceId: "1105"
-sourceUrl: "https://rockstarcmo.com/algorithm-and-blues/"
+sourceId: '1105'
+sourceUrl: https://rockstarcmo.com/algorithm-and-blues/
 ---
 
 **Technology means we're getting ever more personal with our customers. Or so we think... [Helene Dancer](/helene-dancer) asks: Do too many algorithms mean we're actually beginning to lose the human touch?**

@@ -1,16 +1,22 @@
 ---
-title: "How B2B marketers can get heard on Twitter in 2020"
-date: "2019-12-31"
-slug: "how-b2b-marketers-can-get-heard-on-twitter-in-2020"
-excerpt: "While many report that the influence of Twitter is waning, but its use grew in 2019 and it remains relevant. Dennis Shiao guides us through some best practices for B2B marketers for 2020."
+title: How B2B marketers can get heard on Twitter in 2020
+date: '2019-12-31'
+slug: how-b2b-marketers-can-get-heard-on-twitter-in-2020
+excerpt: While many report that the influence of Twitter is waning, but its use grew
+  in 2019 and it remains relevant. Dennis Shiao guides us through some best practices
+  for B2B marketers for 2020.
 excerptGenerated: false
-author: "Dennis Shiao"
-authorSlug: "dennis-shiao"
-image: "/images/blog/275e88255936.jpg"
-categories: ["the-future-starts-here-issue", "top-10-2020"]
-needsReview: ["embed_block"]
-sourceId: "4987"
-sourceUrl: "https://rockstarcmo.com/how-b2b-marketers-can-get-heard-on-twitter-in-2020/"
+author: Dennis Shiao
+authorSlug: dennis-shiao
+image: /images/blog/275e88255936.jpg
+tags: []
+series:
+- the-future-starts-here-issue
+- top-10-2020
+needsReview:
+- embed_block
+sourceId: '4987'
+sourceUrl: https://rockstarcmo.com/how-b2b-marketers-can-get-heard-on-twitter-in-2020/
 ---
 
 ![](/images/blog/f93a8ff2013f.jpg)

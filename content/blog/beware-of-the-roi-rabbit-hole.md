@@ -1,16 +1,18 @@
 ---
-title: "Beware of the ROI Rabbit Hole"
-date: "2024-01-18"
-slug: "beware-of-the-roi-rabbit-hole"
-excerpt: "Jeff Clark shares 5 ROI fundamentals, hard-earned from decades of exec team meetings and a few conversations that went down a rabbit hole."
+title: Beware of the ROI Rabbit Hole
+date: '2024-01-18'
+slug: beware-of-the-roi-rabbit-hole
+excerpt: Jeff Clark shares 5 ROI fundamentals, hard-earned from decades of exec team
+  meetings and a few conversations that went down a rabbit hole.
 excerptGenerated: false
-author: "Jeff Clark"
-authorSlug: "jeff-clark"
-image: "/images/blog/e0917bd16aff.png"
-categories: ["rockstar-cmo-advisors", "street-knowledge"]
+author: Jeff Clark
+authorSlug: jeff-clark
+image: /images/blog/e0917bd16aff.png
+tags: []
+series: []
 needsReview: []
-sourceId: "8241"
-sourceUrl: "https://rockstarcmo.com/beware-of-the-roi-rabbit-hole/"
+sourceId: '8241'
+sourceUrl: https://rockstarcmo.com/beware-of-the-roi-rabbit-hole/
 ---
 
 ***Getting ready to present the results of your first month of activity to the executive team? Well, read this first. Jeff Clark offers five fundamentals that help prepare you and your audience. These are hard-earned lessons from decades of exec team meetings and a few conversations that went down a rabbit hole.***

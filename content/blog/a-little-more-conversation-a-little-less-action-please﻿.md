@@ -1,16 +1,20 @@
 ---
-title: "A Little More Conversation, a Little Less Action, Please?"
-date: "2018-12-20"
-slug: "a-little-more-conversation-a-little-less-action-please%ef%bb%bf"
-excerpt: "Ian Truscott argues that in this new age of marketing, you need to focus on the real, relevant and considered conversations you have with your audiences – and why anything else is just spam.﻿"
+title: A Little More Conversation, a Little Less Action, Please?
+date: '2018-12-20'
+slug: a-little-more-conversation-a-little-less-action-please%ef%bb%bf
+excerpt: "Ian Truscott argues that in this new age of marketing, you need to focus\
+  \ on the real, relevant and considered conversations you have with your audiences\
+  \ – and why anything else is just spam.\uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/2a662eef9808.jpg"
-categories: ["featured", "london-calling"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/2a662eef9808.jpg
+tags: []
+series:
+- london-calling
 needsReview: []
-sourceId: "1573"
-sourceUrl: "https://rockstarcmo.com/a-little-more-conversation-a-little-less-action-please%ef%bb%bf/"
+sourceId: '1573'
+sourceUrl: https://rockstarcmo.com/a-little-more-conversation-a-little-less-action-please%ef%bb%bf/
 ---
 
 **Ian Truscott argues that in this new age of marketing, you need to focus on the real, relevant and considered conversations you have with your audiences – and why anything else is just spam.**

@@ -1,16 +1,21 @@
 ---
-title: "Into the Pool #18: The Bloody Goldfish"
-date: "2019-09-01"
-slug: "into-the-swimming-pool-the-bloody-goldfish"
-excerpt: "In this issue, we are leaning over the balcony of the penthouse with a big glass bowl and a fish, our partner in crime this issue is Robert Rose. But why are we standing here with a fish?"
+title: 'Into the Pool #18: The Bloody Goldfish'
+date: '2019-09-01'
+slug: into-the-swimming-pool-the-bloody-goldfish
+excerpt: In this issue, we are leaning over the balcony of the penthouse with a big
+  glass bowl and a fish, our partner in crime this issue is Robert Rose. But why are
+  we standing here with a fish?
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/45e339d48f11.jpg"
-categories: ["the-running-in-circles-issue", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/45e339d48f11.jpg
+tags: []
+series:
+- the-running-in-circles-issue
+- the-swimming-pool
 needsReview: []
-sourceId: "4346"
-sourceUrl: "https://rockstarcmo.com/into-the-swimming-pool-the-bloody-goldfish/"
+sourceId: '4346'
+sourceUrl: https://rockstarcmo.com/into-the-swimming-pool-the-bloody-goldfish/
 ---
 
 ***In this issue, we are leaning over the balcony of the penthouse with a big glass bowl and a fish, our partner in crime this issue is Robert Rose. So, why are we standing here with a fish?***

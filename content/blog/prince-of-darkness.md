@@ -1,16 +1,21 @@
 ---
-title: "Prince of Darkness: Andre van Loon on Acing Dark Social"
-date: "2018-03-20"
-slug: "prince-of-darkness"
-excerpt: "Marketers are in a flap: private messaging platforms are on the rise, making it harder to track what people are saying about their products. Yet so-called ‘dark social’ is nothing to be frightened of. Dave Waller gets the skinny on going dark – no biting off bat heads required.﻿"
+title: 'Prince of Darkness: Andre van Loon on Acing Dark Social'
+date: '2018-03-20'
+slug: prince-of-darkness
+excerpt: "Marketers are in a flap: private messaging platforms are on the rise, making\
+  \ it harder to track what people are saying about their products. Yet so-called\
+  \ ‘dark social’ is nothing to be frightened of. Dave Waller gets the skinny on going\
+  \ dark – no biting off bat heads required.\uFEFF"
 excerptGenerated: false
-author: "Dave Waller"
-authorSlug: "dave-waller"
-image: "/images/blog/9c998ec4706a.jpg"
-categories: ["sound-check"]
+author: Dave Waller
+authorSlug: dave-waller
+image: /images/blog/9c998ec4706a.jpg
+tags: []
+series:
+- sound-check
 needsReview: []
-sourceId: "883"
-sourceUrl: "https://rockstarcmo.com/prince-of-darkness/"
+sourceId: '883'
+sourceUrl: https://rockstarcmo.com/prince-of-darkness/
 ---
 
 **Marketers are in a flap: private messaging platforms are on the rise, making it harder to track what people are saying about their products. Yet so-called ‘dark social’ is nothing to be frightened of. Dave Waller gets the skinny on going dark – no biting off bat heads required.**

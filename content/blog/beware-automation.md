@@ -1,16 +1,21 @@
 ---
-title: "Want To Keep Your Marketing Focused... Beware Automation"
-date: "2019-07-25"
-slug: "beware-automation"
-excerpt: "What’s the key to an unwavering marketing focus? Our resident Rockstar Ted Rubin tells it like it is – keep the customer front and center, avoid unnecessary automation and ditch the bots."
+title: Want To Keep Your Marketing Focused... Beware Automation
+date: '2019-07-25'
+slug: beware-automation
+excerpt: What’s the key to an unwavering marketing focus? Our resident Rockstar Ted
+  Rubin tells it like it is – keep the customer front and center, avoid unnecessary
+  automation and ditch the bots.
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/0e4109888ad3.jpg"
-categories: ["the-martech-mix-desk", "the-think-about-it-issue"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/0e4109888ad3.jpg
+tags: []
+series:
+- the-martech-mix-desk
+- the-think-about-it-issue
 needsReview: []
-sourceId: "3983"
-sourceUrl: "https://rockstarcmo.com/beware-automation/"
+sourceId: '3983'
+sourceUrl: https://rockstarcmo.com/beware-automation/
 ---
 
 ***What’s the key to an unwavering marketing focus? Our resident Rockstar Ted Rubin tells it like it is – keep the customer front and center, avoid unnecessary automation and ditch the bots.***

@@ -1,16 +1,19 @@
 ---
-title: "adnonamau5: F*ck Old, Be Bold!"
-date: "2019-04-25"
-slug: "adnonamau5-fck-old-be-bold"
-excerpt: "Our anonymous insider goes to task on the agencies and people that are getting stale, warning that staying safe is killing you, your brand or your agency."
+title: 'adnonamau5: F*ck Old, Be Bold!'
+date: '2019-04-25'
+slug: adnonamau5-fck-old-be-bold
+excerpt: Our anonymous insider goes to task on the agencies and people that are getting
+  stale, warning that staying safe is killing you, your brand or your agency.
 excerptGenerated: false
-author: "adnonamau5"
-authorSlug: "adnonamau5"
-image: "/images/blog/77524b88be2d.png"
-categories: ["the-changesbowie-issue"]
+author: adnonamau5
+authorSlug: adnonamau5
+image: /images/blog/77524b88be2d.png
+tags: []
+series:
+- the-changesbowie-issue
 needsReview: []
-sourceId: "3538"
-sourceUrl: "https://rockstarcmo.com/adnonamau5-fck-old-be-bold/"
+sourceId: '3538'
+sourceUrl: https://rockstarcmo.com/adnonamau5-fck-old-be-bold/
 ---
 
 ***Our anonymous advertising insider looks like you or me, hanging with the hipsters as a successful marketing creative leader at a trendy London agency, but once a month like the legendary DJ** [**Deadmau5**](https://twitter.com/deadmau5)**, Adnonamau5 (pronounced ad-nonymous) puts on the mask, drops by the Rockstar CMO penthouse and tells us how it really is.***

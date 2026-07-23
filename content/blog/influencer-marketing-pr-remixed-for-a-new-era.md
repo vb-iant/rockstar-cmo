@@ -1,16 +1,19 @@
 ---
-title: "Influencer Marketing; PR remixed for a new era"
-date: "2019-10-30"
-slug: "influencer-marketing-pr-remixed-for-a-new-era"
-excerpt: "Keith Smith steps us through how to use influencer marketing for business growth, it's not the old ads tune, it's PR remixed."
+title: Influencer Marketing; PR remixed for a new era
+date: '2019-10-30'
+slug: influencer-marketing-pr-remixed-for-a-new-era
+excerpt: Keith Smith steps us through how to use influencer marketing for business
+  growth, it's not the old ads tune, it's PR remixed.
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/0e67fcaf8109.png"
-categories: ["the-running-in-circles-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/0e67fcaf8109.png
+tags: []
+series:
+- the-running-in-circles-issue
 needsReview: []
-sourceId: "4547"
-sourceUrl: "https://rockstarcmo.com/influencer-marketing-pr-remixed-for-a-new-era/"
+sourceId: '4547'
+sourceUrl: https://rockstarcmo.com/influencer-marketing-pr-remixed-for-a-new-era/
 ---
 
 ***Keith Smith, the Managing Director of The Advertist represents the front line of sales in our Rockstar CMO house band and he steps us through how to use influencer marketing for business growth, it's not the old ads tune, it's PR remixed.***

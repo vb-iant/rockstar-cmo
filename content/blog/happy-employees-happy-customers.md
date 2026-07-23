@@ -1,16 +1,22 @@
 ---
-title: "Happy employees = happy customers"
-date: "2019-12-31"
-slug: "happy-employees-happy-customers"
-excerpt: "A popular topic here on Rockstar CMO, pulling together the backing band of employees and colleagues to not just improve the experience for the customer, but to become evangalists in our increasingly connected world. Jane Scandurra shares her experience of how we can make that happen."
+title: Happy employees = happy customers
+date: '2019-12-31'
+slug: happy-employees-happy-customers
+excerpt: A popular topic here on Rockstar CMO, pulling together the backing band of
+  employees and colleagues to not just improve the experience for the customer, but
+  to become evangalists in our increasingly connected world. Jane Scandurra shares
+  her experience of how we can make that happen.
 excerptGenerated: false
-author: "Jane Scandurra"
-authorSlug: "jane-scandurra"
-image: "/images/blog/380f2167b2f5.jpg"
-categories: ["features-2", "employee-engagement", "the-future-starts-here-issue"]
+author: Jane Scandurra
+authorSlug: jane-scandurra
+image: /images/blog/380f2167b2f5.jpg
+tags:
+- employee-engagement
+series:
+- the-future-starts-here-issue
 needsReview: []
-sourceId: "5005"
-sourceUrl: "https://rockstarcmo.com/happy-employees-happy-customers/"
+sourceId: '5005'
+sourceUrl: https://rockstarcmo.com/happy-employees-happy-customers/
 ---
 
 ***It’s been a popular topic here on Rockstar CMO, that Rockstar marketing starts at home. Pulling together the backing band of employees and colleagues to not just build a better brand by enabling them to improve the experience for the customer, but to become evangelists in our increasingly connected world. Jane Scandurra shares her experience of how we can make that happen.***

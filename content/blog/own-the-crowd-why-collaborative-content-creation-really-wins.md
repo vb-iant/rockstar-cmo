@@ -1,16 +1,20 @@
 ---
-title: "Own The Crowd: Why Collaborative Content Creation Really Wins"
-date: "2018-09-26"
-slug: "own-the-crowd-why-collaborative-content-creation-really-wins"
-excerpt: "CEO of Photofy John Andrews considers how collaboration with your employees could make your digital content sing…﻿"
+title: 'Own The Crowd: Why Collaborative Content Creation Really Wins'
+date: '2018-09-26'
+slug: own-the-crowd-why-collaborative-content-creation-really-wins
+excerpt: "CEO of Photofy John Andrews considers how collaboration with your employees\
+  \ could make your digital content sing…\uFEFF"
 excerptGenerated: false
-author: "John Andrews"
-authorSlug: "john-andrews"
-image: "/images/blog/ac716ebc370a.jpg"
-categories: ["archive", "street-knowledge", "employee-engagement", "nevermind"]
+author: John Andrews
+authorSlug: john-andrews
+image: /images/blog/ac716ebc370a.jpg
+tags:
+- employee-engagement
+series:
+- nevermind
 needsReview: []
-sourceId: "1127"
-sourceUrl: "https://rockstarcmo.com/own-the-crowd-why-collaborative-content-creation-really-wins/"
+sourceId: '1127'
+sourceUrl: https://rockstarcmo.com/own-the-crowd-why-collaborative-content-creation-really-wins/
 ---
 
 **CEO of Photofy** [**John Andrews**](https://rockstarcmo.wpengine.com/john-andrews) **considers how collaboration with your employees could make your digital content sing…**

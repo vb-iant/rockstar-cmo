@@ -1,16 +1,20 @@
 ---
-title: "Be like Phil; you can't hurry B2B love"
-date: "2020-11-30"
-slug: "be-like-phil-you-cant-hurry-b2b-love"
-excerpt: "As we give thanks in this holiday issue, Dennis Shiao shares a B2B customer experience lesson he's learned from Phil. No, not Phil Collins, but a roofer called Phil."
+title: Be like Phil; you can't hurry B2B love
+date: '2020-11-30'
+slug: be-like-phil-you-cant-hurry-b2b-love
+excerpt: As we give thanks in this holiday issue, Dennis Shiao shares a B2B customer
+  experience lesson he's learned from Phil. No, not Phil Collins, but a roofer called
+  Phil.
 excerptGenerated: false
-author: "Dennis Shiao"
-authorSlug: "dennis-shiao"
-image: "/images/blog/a5a8db501d0c.jpg"
-categories: ["the-come-together-issue"]
+author: Dennis Shiao
+authorSlug: dennis-shiao
+image: /images/blog/a5a8db501d0c.jpg
+tags: []
+series:
+- the-come-together-issue
 needsReview: []
-sourceId: "6184"
-sourceUrl: "https://rockstarcmo.com/be-like-phil-you-cant-hurry-b2b-love/"
+sourceId: '6184'
+sourceUrl: https://rockstarcmo.com/be-like-phil-you-cant-hurry-b2b-love/
 ---
 
 ***As we give thanks in this holiday issue, Dennis Shiao shares a B2B customer experience lesson he's learned from Phil. No, not Phil Collins, but a roofer called Phil***.

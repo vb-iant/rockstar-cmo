@@ -1,16 +1,20 @@
 ---
-title: "3 questions for success in the Post-COVID-19 world"
-date: "2020-04-30"
-slug: "3-questions-for-success-in-the-post-covid-19-world"
-excerpt: "In this article, Jasmine Martirossian VP of Marketing at TÜV SÜD Americas shares with us three critical questions that will help us navigate to success Post-COVID-19."
+title: 3 questions for success in the Post-COVID-19 world
+date: '2020-04-30'
+slug: 3-questions-for-success-in-the-post-covid-19-world
+excerpt: In this article, Jasmine Martirossian VP of Marketing at TÜV SÜD Americas
+  shares with us three critical questions that will help us navigate to success Post-COVID-19.
 excerptGenerated: false
-author: "Jasmine Martirossian"
-authorSlug: "jasmine-martirossian"
-image: "/images/blog/4c01e11c8577.jpg"
-categories: ["the-welcome-to-jamrock-issue", "top-10-2020"]
+author: Jasmine Martirossian
+authorSlug: jasmine-martirossian
+image: /images/blog/4c01e11c8577.jpg
+tags: []
+series:
+- the-welcome-to-jamrock-issue
+- top-10-2020
 needsReview: []
-sourceId: "5681"
-sourceUrl: "https://rockstarcmo.com/3-questions-for-success-in-the-post-covid-19-world/"
+sourceId: '5681'
+sourceUrl: https://rockstarcmo.com/3-questions-for-success-in-the-post-covid-19-world/
 ---
 
 ***In this article, Jasmine Martirossian VP of Marketing at TÜV SÜD Americas shares with us three critical questions that will help us navigate to success Post-COVID-19.***

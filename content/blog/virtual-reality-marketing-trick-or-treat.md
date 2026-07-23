@@ -1,16 +1,20 @@
 ---
-title: "Virtual Reality: Marketing Trick or Treat?"
-date: "2018-10-31"
-slug: "virtual-reality-marketing-trick-or-treat"
-excerpt: "Amber Osborne, CMO at Doghead Simulations knows virtual reality and she reckons it’s time to open the Pandora’s box let the possibilities loose. It's not so scary after all."
+title: 'Virtual Reality: Marketing Trick or Treat?'
+date: '2018-10-31'
+slug: virtual-reality-marketing-trick-or-treat
+excerpt: Amber Osborne, CMO at Doghead Simulations knows virtual reality and she reckons
+  it’s time to open the Pandora’s box let the possibilities loose. It's not so scary
+  after all.
 excerptGenerated: false
-author: "Amber Osborne"
-authorSlug: "amber-osborne"
-image: "/images/blog/e1b62e5e11ba.jpg"
-categories: ["thriller"]
+author: Amber Osborne
+authorSlug: amber-osborne
+image: /images/blog/e1b62e5e11ba.jpg
+tags: []
+series:
+- thriller
 needsReview: []
-sourceId: "1131"
-sourceUrl: "https://rockstarcmo.com/virtual-reality-marketing-trick-or-treat/"
+sourceId: '1131'
+sourceUrl: https://rockstarcmo.com/virtual-reality-marketing-trick-or-treat/
 ---
 
 [**Amber Osborne**](/amber-osborne)**, CMO at** [**Doghead Simulations**](https://www.dogheadsimulations.com) **(and** [**@MissDestructo**](https://twitter.com/MissDestructo?ref_src=twsrc%5Eappleosx%7Ctwcamp%5Esafari%7Ctwgr%5Eprofile) **to her 40,000 Twitter followers) knows virtual reality and she reckons it’s time to open the Pandora’s box let the possibilities loose. It turns out the future of consumer marketing’s not so scary after all.**

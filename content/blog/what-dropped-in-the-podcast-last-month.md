@@ -1,16 +1,20 @@
 ---
-title: "What dropped in the podcast last month?"
-date: "2020-10-17"
-slug: "what-dropped-in-the-podcast-last-month"
-excerpt: "The latest from the podcast this month. A fabulous line up stepped up to the mic and we have a few cocktails along the way."
+title: What dropped in the podcast last month?
+date: '2020-10-17'
+slug: what-dropped-in-the-podcast-last-month
+excerpt: The latest from the podcast this month. A fabulous line up stepped up to
+  the mic and we have a few cocktails along the way.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/424533e68e64.png"
-categories: ["the-life-for-rent-issue"]
-needsReview: ["shortcode:buzzsprout"]
-sourceId: "6098"
-sourceUrl: "https://rockstarcmo.com/what-dropped-in-the-podcast-last-month/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/424533e68e64.png
+tags: []
+series:
+- the-life-for-rent-issue
+needsReview:
+- shortcode:buzzsprout
+sourceId: '6098'
+sourceUrl: https://rockstarcmo.com/what-dropped-in-the-podcast-last-month/
 ---
 
 ***A great month for the podcast to share in this issue, Ian Truscott chats to two old bosses and shamelessly uses his position as podcast host to meet interesting people.***

@@ -1,16 +1,19 @@
 ---
-title: "The Trouble with CMOs! (Part 1)"
-date: "2022-08-08"
-slug: "the-trouble-with-the-cmos-part-one"
-excerpt: "In part one of a two-part series, guest writer, a friend of the Rockstar CMO podcast, and most of all, accomplished marketing and communications professional Irene Nehrkorn-Kayn looks at what's wrong with CMOs right now."
+title: The Trouble with CMOs! (Part 1)
+date: '2022-08-08'
+slug: the-trouble-with-the-cmos-part-one
+excerpt: In part one of a two-part series, guest writer, a friend of the Rockstar
+  CMO podcast, and most of all, accomplished marketing and communications professional
+  Irene Nehrkorn-Kayn looks at what's wrong with CMOs right now.
 excerptGenerated: false
-author: "Irene Nehrkorn-Kayn"
-authorSlug: "irene-nehrkorn-kayn"
-image: "/images/blog/dfa65a337475.png"
-categories: ["street-knowledge"]
+author: Irene Nehrkorn-Kayn
+authorSlug: irene-nehrkorn-kayn
+image: /images/blog/dfa65a337475.png
+tags: []
+series: []
 needsReview: []
-sourceId: "7367"
-sourceUrl: "https://rockstarcmo.com/the-trouble-with-the-cmos-part-one/"
+sourceId: '7367'
+sourceUrl: https://rockstarcmo.com/the-trouble-with-the-cmos-part-one/
 ---
 
 ***In part one of a two-part series, guest writer, a friend of the Rockstar CMO podcast, and most of all, accomplished marketing and communications professional Irene Nehrkorn-Kayn looks at what's wrong with CMOs right now.***

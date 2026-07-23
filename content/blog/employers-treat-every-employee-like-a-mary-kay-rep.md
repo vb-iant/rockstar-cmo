@@ -1,16 +1,19 @@
 ---
-title: "Employers: Treat Every Employee Like a Mary Kay Rep"
-date: "2018-09-26"
-slug: "employers-treat-every-employee-like-a-mary-kay-rep"
-excerpt: "Our resident rock star, Ted Rubin, on why empowering your employees will ultimately result in success for your brand. ﻿"
+title: 'Employers: Treat Every Employee Like a Mary Kay Rep'
+date: '2018-09-26'
+slug: employers-treat-every-employee-like-a-mary-kay-rep
+excerpt: "Our resident rock star, Ted Rubin, on why empowering your employees will\
+  \ ultimately result in success for your brand. \uFEFF"
 excerptGenerated: false
-author: "Ted Rubin"
-authorSlug: "ted-rubin"
-image: "/images/blog/6e267daa4ae9.jpg"
-categories: ["nevermind"]
+author: Ted Rubin
+authorSlug: ted-rubin
+image: /images/blog/6e267daa4ae9.jpg
+tags: []
+series:
+- nevermind
 needsReview: []
-sourceId: "923"
-sourceUrl: "https://rockstarcmo.com/employers-treat-every-employee-like-a-mary-kay-rep/"
+sourceId: '923'
+sourceUrl: https://rockstarcmo.com/employers-treat-every-employee-like-a-mary-kay-rep/
 ---
 
 **Our resident rock star,** [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin)**, on why empowering your employees will ultimately result in success for your brand.**

@@ -1,16 +1,21 @@
 ---
-title: "Authenticity Is a Battle of Two Brands, Both Are Yours"
-date: "2018-09-26"
-slug: "authenticity-is-a-battle-of-two-brands-both-are-yours"
-excerpt: "Think you’ve only got one brand? You actually have two, argues Ian Truscott. And the space between them is crucial to ensuring your brand’s authenticity – and trustworthiness. ﻿"
+title: Authenticity Is a Battle of Two Brands, Both Are Yours
+date: '2018-09-26'
+slug: authenticity-is-a-battle-of-two-brands-both-are-yours
+excerpt: "Think you’ve only got one brand? You actually have two, argues Ian Truscott.\
+  \ And the space between them is crucial to ensuring your brand’s authenticity –\
+  \ and trustworthiness. \uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/f33c9f6250de.jpg"
-categories: ["branding", "rockstar-cmo-advisors", "street-knowledge", "nevermind"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/f33c9f6250de.jpg
+tags:
+- branding
+series:
+- nevermind
 needsReview: []
-sourceId: "968"
-sourceUrl: "https://rockstarcmo.com/authenticity-is-a-battle-of-two-brands-both-are-yours/"
+sourceId: '968'
+sourceUrl: https://rockstarcmo.com/authenticity-is-a-battle-of-two-brands-both-are-yours/
 ---
 
 **Think you’ve only got one brand? You actually have two, argues** [**Ian Truscott**](https://rockstarcmo.wpengine.com/ian-truscott)**. And the space between them is crucial to ensuring your brand’s authenticity – and trustworthiness.**

@@ -1,16 +1,22 @@
 ---
-title: "Two Rockstars, One Podcast: L. Michelle Smith talks to Ted Rubin"
-date: "2019-01-31"
-slug: "two-rockstars-one-podcast-l-michelle-smith-talks-to-ted-rubin"
-excerpt: "This month two of our favorite Rockstar CMOs got together, as L. Michelle Smith welcomed Ted Rubin to The Culture Soup podcast to talk personal branding. Here we share why we’re shouting for an encore.﻿"
+title: 'Two Rockstars, One Podcast: L. Michelle Smith talks to Ted Rubin'
+date: '2019-01-31'
+slug: two-rockstars-one-podcast-l-michelle-smith-talks-to-ted-rubin
+excerpt: "This month two of our favorite Rockstar CMOs got together, as L. Michelle\
+  \ Smith welcomed Ted Rubin to The Culture Soup podcast to talk personal branding.\
+  \ Here we share why we’re shouting for an encore.\uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/de15fe49b53f.jpg"
-categories: ["brand-new-thang"]
-needsReview: ["raw_html_block", "iframe"]
-sourceId: "3171"
-sourceUrl: "https://rockstarcmo.com/two-rockstars-one-podcast-l-michelle-smith-talks-to-ted-rubin/"
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/de15fe49b53f.jpg
+tags: []
+series:
+- brand-new-thang
+needsReview:
+- raw_html_block
+- iframe
+sourceId: '3171'
+sourceUrl: https://rockstarcmo.com/two-rockstars-one-podcast-l-michelle-smith-talks-to-ted-rubin/
 ---
 
 **This month two of our favorite Rockstar CMOs got together, as** [**L. Michelle Smith**](https://rockstarcmo.wpengine.com/backstage-with-l-michelle-smith/) **welcomed** [**Ted Rubin**](https://rockstarcmo.wpengine.com/author/ted-rubin/) **to** [***The Culture Soup***](https://www.stitcher.com/podcast/l-michelle-smith/the-culture-soup-podcast/e/58237183) **podcast to talk personal branding. Here we share why we’re shouting for an encore.**

@@ -1,16 +1,20 @@
 ---
-title: "When It Comes to Content - Let It Flow!"
-date: "2019-01-31"
-slug: "when-it-comes-to-content-let-it-flow"
-excerpt: "Paid, owned and earned – it’s a very neat wrap up of how brands should organize their content. If only it were that simple. censhare’s Morag Cuddeford-Jones explores the perils, pitfalls and potential of how we organize and use our content."
+title: When It Comes to Content - Let It Flow!
+date: '2019-01-31'
+slug: when-it-comes-to-content-let-it-flow
+excerpt: Paid, owned and earned – it’s a very neat wrap up of how brands should organize
+  their content. If only it were that simple. censhare’s Morag Cuddeford-Jones explores
+  the perils, pitfalls and potential of how we organize and use our content.
 excerptGenerated: false
-author: "Morag Cuddeford-Jones"
-authorSlug: "morag-cuddeford-jones"
-image: "/images/blog/bcf912db7902.jpg"
-categories: ["brand-new-thang"]
+author: Morag Cuddeford-Jones
+authorSlug: morag-cuddeford-jones
+image: /images/blog/bcf912db7902.jpg
+tags: []
+series:
+- brand-new-thang
 needsReview: []
-sourceId: "3106"
-sourceUrl: "https://rockstarcmo.com/when-it-comes-to-content-let-it-flow/"
+sourceId: '3106'
+sourceUrl: https://rockstarcmo.com/when-it-comes-to-content-let-it-flow/
 ---
 
 **Paid, owned and earned – it’s a very neat wrap up of how brands should organize their content. If only it were that simple. censhare’s Morag Cuddeford-Jones** **explores the perils, pitfalls and potential of how we organize and use our content.**

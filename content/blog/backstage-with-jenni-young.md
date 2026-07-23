@@ -1,16 +1,22 @@
 ---
-title: "Backstage with Jenni Young"
-date: "2018-08-30"
-slug: "backstage-with-jenni-young"
-excerpt: "Jenni Young, the CMO of tappit shares the importance of company values, building solid relationships, and why creating a culture of risk can lead to marketing success. Oh, and Creme Eggs."
+title: Backstage with Jenni Young
+date: '2018-08-30'
+slug: backstage-with-jenni-young
+excerpt: Jenni Young, the CMO of tappit shares the importance of company values, building
+  solid relationships, and why creating a culture of risk can lead to marketing success.
+  Oh, and Creme Eggs.
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/3fc416744864.jpg"
-categories: ["backstage", "the-breaking-glass-issue", "seat-at-the-table"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/3fc416744864.jpg
+tags: []
+series:
+- backstage
+- the-breaking-glass-issue
+- seat-at-the-table
 needsReview: []
-sourceId: "606"
-sourceUrl: "https://rockstarcmo.com/backstage-with-jenni-young/"
+sourceId: '606'
+sourceUrl: https://rockstarcmo.com/backstage-with-jenni-young/
 ---
 
 In this series of articles we go backstage with a marketing rock star. We sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.

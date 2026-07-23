@@ -1,16 +1,21 @@
 ---
-title: "Into the pool#6: Wasted Interuptions"
-date: "2018-08-30"
-slug: "into-the-pool6-wasted-interuptions"
-excerpt: "Ian Truscott has been hanging out in the proverbial penthouse with Christine Bailey. As usual, the conversation quickly bubbled with ire. The subject: interruption marketing and wasted advertising. Feel differently? Then let us know. ﻿"
+title: 'Into the pool#6: Wasted Interuptions'
+date: '2018-08-30'
+slug: into-the-pool6-wasted-interuptions
+excerpt: "Ian Truscott has been hanging out in the proverbial penthouse with Christine\
+  \ Bailey. As usual, the conversation quickly bubbled with ire. The subject: interruption\
+  \ marketing and wasted advertising. Feel differently? Then let us know. \uFEFF"
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/bd0fec2186f3.jpg"
-categories: ["seat-at-the-table", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/bd0fec2186f3.jpg
+tags: []
+series:
+- seat-at-the-table
+- the-swimming-pool
 needsReview: []
-sourceId: "1135"
-sourceUrl: "https://rockstarcmo.com/into-the-pool6-wasted-interuptions/"
+sourceId: '1135'
+sourceUrl: https://rockstarcmo.com/into-the-pool6-wasted-interuptions/
 ---
 
 **This week,** [**Ian Truscott**](https://rockstarcmo.wpengine.com/ian-truscott) **has been hanging out in the proverbial penthouse with** [**Christine Bailey**](https://rockstarcmo.wpengine.com/christine-bailey)**. As usual, the conversation quickly bubbled with ire. The subject: interruption marketing and wasted advertising. Feel differently? Then let us know.**

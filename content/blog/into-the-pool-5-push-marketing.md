@@ -1,16 +1,21 @@
 ---
-title: "Into the Pool #5: Push Marketing"
-date: "2018-07-26"
-slug: "into-the-pool-5-push-marketing"
-excerpt: "It seems Rockstar CMOs do not like anything that’s easy, cheap, driven by the machine and annoys 99.99% of the people it touches. John Andrews chimes in with Push Marketing..."
+title: 'Into the Pool #5: Push Marketing'
+date: '2018-07-26'
+slug: into-the-pool-5-push-marketing
+excerpt: It seems Rockstar CMOs do not like anything that’s easy, cheap, driven by
+  the machine and annoys 99.99% of the people it touches. John Andrews chimes in with
+  Push Marketing...
 excerptGenerated: false
-author: "Ian Truscott"
-authorSlug: "ian-truscott"
-image: "/images/blog/46a9508c28e8.jpg"
-categories: ["straight-outta-compton", "the-swimming-pool"]
+author: Ian Truscott
+authorSlug: ian-truscott
+image: /images/blog/46a9508c28e8.jpg
+tags: []
+series:
+- straight-outta-compton
+- the-swimming-pool
 needsReview: []
-sourceId: "1114"
-sourceUrl: "https://rockstarcmo.com/into-the-pool-5-push-marketing/"
+sourceId: '1114'
+sourceUrl: https://rockstarcmo.com/into-the-pool-5-push-marketing/
 ---
 
 **This month, [Ian Truscott](/ian-truscott) has been hanging out with Photofy CEO [John Andrews](/john-andrews). And push marketing is the subject of their wrath. Don’t agree with what they’re saying? [Tell us why](/write-for-us).**

@@ -1,16 +1,20 @@
 ---
-title: "Nothing lasts forever, of that I’m sure"
-date: "2019-08-30"
-slug: "nothing-lasts-forever-of-that-im-sure"
-excerpt: "The brands they are a changin’ – well, ones who want success are, and Keith Smith, inspired by a bit of Bryan Ferry talks to branding expert Rob Bloxham about how marketers need to deal in change.."
+title: Nothing lasts forever, of that I’m sure
+date: '2019-08-30'
+slug: nothing-lasts-forever-of-that-im-sure
+excerpt: The brands they are a changin’ – well, ones who want success are, and Keith
+  Smith, inspired by a bit of Bryan Ferry talks to branding expert Rob Bloxham about
+  how marketers need to deal in change..
 excerptGenerated: false
-author: "Keith Smith"
-authorSlug: "keith-smith"
-image: "/images/blog/7dd93fd70b3d.jpg"
-categories: ["the-inside-in-inside-out-issue"]
+author: Keith Smith
+authorSlug: keith-smith
+image: /images/blog/7dd93fd70b3d.jpg
+tags: []
+series:
+- the-inside-in-inside-out-issue
 needsReview: []
-sourceId: "4208"
-sourceUrl: "https://rockstarcmo.com/nothing-lasts-forever-of-that-im-sure/"
+sourceId: '4208'
+sourceUrl: https://rockstarcmo.com/nothing-lasts-forever-of-that-im-sure/
 ---
 
 ***The brands they are a changin’ – well, ones who want success are, and Keith Smith, inspired by a bit of Bryan Ferry talks to branding expert Rob Bloxham about how marketers need to deal in change..***

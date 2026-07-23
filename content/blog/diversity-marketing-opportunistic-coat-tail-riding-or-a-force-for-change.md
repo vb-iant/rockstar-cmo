@@ -1,16 +1,21 @@
 ---
-title: "Diversity Marketing: Opportunistic Coat-tail Riding or a Force for Change?"
-date: "2019-09-02"
-slug: "diversity-marketing-opportunistic-coat-tail-riding-or-a-force-for-change"
-excerpt: "Are we squeezing marketing into a spangly new jumpsuit called Diversity for a comeback Vegas tour or is it time to rethink the whole act? Lauren Bowden makes the case for change."
+title: 'Diversity Marketing: Opportunistic Coat-tail Riding or a Force for Change?'
+date: '2019-09-02'
+slug: diversity-marketing-opportunistic-coat-tail-riding-or-a-force-for-change
+excerpt: Are we squeezing marketing into a spangly new jumpsuit called Diversity for
+  a comeback Vegas tour or is it time to rethink the whole act? Lauren Bowden makes
+  the case for change.
 excerptGenerated: false
-author: "Lauren Bowden"
-authorSlug: "lauren-bowden"
-image: "/images/blog/55d672726778.jpg"
-categories: ["the-people-are-people-issue"]
-needsReview: ["embed_block"]
-sourceId: "4270"
-sourceUrl: "https://rockstarcmo.com/diversity-marketing-opportunistic-coat-tail-riding-or-a-force-for-change/"
+author: Lauren Bowden
+authorSlug: lauren-bowden
+image: /images/blog/55d672726778.jpg
+tags: []
+series:
+- the-people-are-people-issue
+needsReview:
+- embed_block
+sourceId: '4270'
+sourceUrl: https://rockstarcmo.com/diversity-marketing-opportunistic-coat-tail-riding-or-a-force-for-change/
 ---
 
 ***Are we squeezing marketing into a spangly new jumpsuit called Diversity for a comeback Vegas tour or is it time to rethink the whole act? Lauren Bowden, Chief Content Creator at London agency The Comms Crowd makes the case for change.***
