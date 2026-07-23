@@ -6,7 +6,7 @@ excerpt: "Like the Rolling Stones versus the Beatles or Oasis versus Blur, sales
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/Janice-Gordon_1998_BG_Cut-1-e1556211389659.png"
+image: "/images/blog/e49336ebd001.png"
 categories: ["tales-from-the-tour-bus", "the-breaking-glass-issue", "the-changesbowie-issue"]
 needsReview: []
 sourceId: "3610"
@@ -62,7 +62,7 @@ Being in the community, as a restaurant owner, also got me involved creating the
 
 #### What’s been the highlight of this tour so far?
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/JBG-RB-1.png)
+![](/images/blog/9b7ae4da0e3a.png)
 
 It has to be meeting Richard Branson, a professional hero of mine. I became a Sage Business Expert and was invited to speak at the Sage Summit in Chicago. Stephen Kelly, the CEO of Sage at the time and Richard Branson were speaking.
 
@@ -82,7 +82,7 @@ I learned two important things, the first was to jump into
 things that are bigger than you and you grow into them and the second was about
 customers.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/Untitled-design-22.png)
+![](/images/blog/32106b9dd6cc.png)
 
 We were fairly early into Facebook marketing and using
 email, which was really successful for us, but no amount of technology replaces
@@ -126,7 +126,7 @@ You need to think about these questions like you have found the
 magic lamp, the genie has appeared, and you need to choose your three wishes
 wisely.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/Janice-B-Gordon-Strategic-Account-Keynote-Sales-Speaker-3.png)
+![](/images/blog/49b43b7dce80.png)
 
 #### Where can people see you perform?
 

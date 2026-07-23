@@ -6,7 +6,7 @@ excerpt: "Authenticity is a seductive concept. So much so that marketers are con
 excerptGenerated: false
 author: "Dave Waller"
 authorSlug: "dave-waller"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/braydon-anderson-105552-unsplash-e1546087915945.jpg"
+image: "/images/blog/6f8ff791f083.jpg"
 categories: ["nevermind"]
 needsReview: []
 sourceId: "971"

@@ -6,7 +6,7 @@ excerpt: "Margaret Molloy, Forbes Top 5 Most Influential CMOs talks about the po
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/SiegelGale-Margaret-Molloy-New-1-e1548931093417.jpg"
+image: "/images/blog/af25fc422a87.jpg"
 categories: ["backstage", "brand-new-thang", "the-breaking-glass-issue"]
 needsReview: []
 sourceId: "3129"

@@ -6,7 +6,7 @@ excerpt: "Our social channels are saturated with 'influencers' representing bran
 excerptGenerated: false
 author: "Maude Churchill"
 authorSlug: "maude-churchill"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/05/Image_2-1-e1546190859149.jpg"
+image: "/images/blog/18e60ef4a284.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []
 sourceId: "1065"

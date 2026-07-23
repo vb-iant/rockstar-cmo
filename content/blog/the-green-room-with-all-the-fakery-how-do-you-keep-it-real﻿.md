@@ -6,7 +6,7 @@ excerpt: "We sit down with six of our Rockstar marketers and ask how we can keep
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/green-room-the-pretender.png"
+image: "/images/blog/d649a09a037b.png"
 categories: ["the-green-room", "the-pretender-issue"]
 needsReview: []
 sourceId: "3271"
@@ -40,7 +40,7 @@ leaders for advice and we asked them:
 
 *"Do what works best for your company, not every business is at the same point in their lifespan. Marketing outside your market or above your budget because someone tells you it is the trendy thing to do can be deadly for a business. I mean, look at Fyre Festival."*
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/0-1.jpeg)
+![](/images/blog/a8a25771648f.jpg)
 
 Amber Osborne is CMO at Doghead Simulations – the company behind rumii, a social-virtual reality space that enables collaboration in VR. Amber suggested mandatory karaoke when we [went backstage with her](https://rockstarcmo.wpengine.com/backstage-with-amber-osborne/).*﻿*
 
@@ -50,7 +50,7 @@ Amber Osborne is CMO at Doghead Simulations – the company behind rumii, a soci
 
 (Amen to that Jenni!)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/jenni-young.jpg)
+![](/images/blog/3fc416744864.jpg)
 
 Jenni Young is Managing Director at Partnership for Growth & Innovation (LBHF & Imperial College London) and the CMO of Tappit, a cashless payment platform for event organizers. Go backstage with her [here](https://rockstarcmo.wpengine.com/backstage-with-jenni-young/).
 
@@ -64,7 +64,7 @@ Jenni Young is Managing Director at Partnership for Growth & Innovation (LBHF &
 
 *So start with an understanding of what marketing stories your brand, the storyteller, has a requisite amount of ‘trust equity’ to tell. There’s a wonderful quote by the author John Maxwell. He says, “People buy into the leader before they buy into the vision.” The same can be said for the stories we tell. If your audience doesn’t believe in the storyteller, the story – no matter how earnest and authentic – won’t matter. "*
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/09/robert-rose-e1546086041492-1024x1024.jpg)
+![](/images/blog/72baf2269e7d.jpg)
 
 As the Chief Strategy Advisor for the [Content Marketing Institute](http://contentmarketinginstitute.com/), Robert innovates creative and technical content marketing strategies for his clients. An early internet pioneer, Robert has more than 15 years of experience, and a track record of helping brands and businesses develop successful web and content marketing strategies.
 
@@ -78,7 +78,7 @@ Learn more about Robert, as we went [backstage with him](https://rockstarcmo.wpe
 
 *For me, listening to our contact center team and speaking with our retail staff helps me understand what's going on and how we can be ourselves."*
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png)
+![](/images/blog/a36c32f4287f.png)
 
 Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).*﻿*
 
@@ -94,7 +94,7 @@ Ted generously shared with us a great deal on this topic (which you can read [he
 
 Read all of Ted's [Six Steps to Keeping it Real](https://rockstarcmo.wpengine.com/six-steps-to-keeping-it-real-with-ted-rubin%ef%bb%bf/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg)
+![](/images/blog/f04796e0e527.jpg)
 
 *Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits, speaker, author and provocateur. Ted is our resident rock star and tells it straight in his*[*regular column*](https://rockstarcmo.wpengine.com/author/ted-rubin/)*.*
 
@@ -106,7 +106,7 @@ Read all of Ted's [Six Steps to Keeping it Real](https://rockstarcmo.wpengine.co
 * *Challenge yourself to stop using “marketing speak “ and talk in real language that you would be comfortable using in a face to face conversation*
 * *Customers trust employees’ messages about their company more than they trust marketing messages.  Sorry!  It’s a fact.  Do everything you can to help your employees to amplify your brand, especially on social, whether that’s through your company intranet, social media training or social advocacy platforms."*
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A [here](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/).
 

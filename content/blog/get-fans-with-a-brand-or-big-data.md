@@ -6,7 +6,7 @@ excerpt: "We welcome a new writer to our house band, Carmine Mastropierro, who d
 excerptGenerated: false
 author: "Carmine Mastropierro"
 authorSlug: "carmine-mastropierro"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/03/Headshot.jpg"
+image: "/images/blog/aca1537e101d.jpg"
 categories: ["the-ghost-town-issue"]
 needsReview: []
 sourceId: "5498"

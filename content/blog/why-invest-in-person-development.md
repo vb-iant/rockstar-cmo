@@ -6,7 +6,7 @@ excerpt: "In an era of big data, agile marketing, A/B testing, fail fast - is pe
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/raj-eiamworakul-1031067-unsplash-copy.jpeg"
+image: "/images/blog/4a4e8b237ef1.jpg"
 categories: ["b2b-marketing", "content-marketing", "marketing"]
 needsReview: []
 sourceId: "6274"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/why-invest-in-person-development/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/01/raj-eiamworakul-1031067-unsplash-1024x683.jpg)
+![](/images/blog/ee629f4fc034.jpg)
 
 To connect with an audience, to be sought after and then remain connected in this fluid, fast paced digital world, brands need to be on point and hyper relevant to the buyer. Being relevant goes beyond telling the marketing story, but also the definition and development of the products and services they offer.
 

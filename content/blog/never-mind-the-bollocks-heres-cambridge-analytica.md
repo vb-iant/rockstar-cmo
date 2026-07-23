@@ -6,7 +6,7 @@ excerpt: "Ian Truscott sits down with Misia Tramp – VP of customer experience 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/DWqnsbqm-1.jpg"
+image: "/images/blog/1b043b7088c5.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []
 sourceId: "1061"

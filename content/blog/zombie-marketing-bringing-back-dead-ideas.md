@@ -6,7 +6,7 @@ excerpt: "The graveyard of marketing is ripe with bodies. Print, video, and bill
 excerptGenerated: false
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/10/Zombie_Image_1-e1545995875511.jpg"
+image: "/images/blog/ea1b0af306ed.jpg"
 categories: ["thriller"]
 needsReview: ["embed_block"]
 sourceId: "989"

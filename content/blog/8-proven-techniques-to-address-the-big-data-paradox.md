@@ -6,7 +6,7 @@ excerpt: "Jasmine Martirossian VP of Marketing at TÜV SÜD Americas shares 8 ap
 excerptGenerated: false
 author: "Jasmine Martirossian"
 authorSlug: "jasmine-martirossian"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/03/0.jpeg"
+image: "/images/blog/9ef897d51ecb.jpg"
 categories: ["the-ghost-town-issue"]
 needsReview: []
 sourceId: "5462"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/8-proven-techniques-to-address-the-big-data-
 
 ***In this article, Jasmine Martirossian VP of Marketing at TÜV SÜD Americas shares eight approaches that will help you effectively deal with the big data paradox being faced by marketing***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/03/shutterstock_1062915260.jpg)
+![](/images/blog/ec09d97015ea.jpg)
 
 In this era of advanced technology where every
 little variable is measurable, where mountains of data are generated, and where

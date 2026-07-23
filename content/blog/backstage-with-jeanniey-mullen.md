@@ -6,7 +6,7 @@ excerpt: "Global Chief Innovation and Marketing Officer, Executive Board Advisor
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/mullen_passport.hi_res.jpg"
+image: "/images/blog/695dd840710d.jpg"
 categories: ["backstage", "the-breaking-glass-issue", "thriller"]
 needsReview: []
 sourceId: "791"

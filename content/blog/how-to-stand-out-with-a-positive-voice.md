@@ -6,7 +6,7 @@ excerpt: "Carmine Mastropierro, returns with some advice on how to stand out as 
 excerptGenerated: false
 author: "Carmine Mastropierro"
 authorSlug: "carmine-mastropierro"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/04/mark-adriane-muS2RraYRuQ-unsplash-1-scaled-e1588251887459.jpg"
+image: "/images/blog/69cbaf553a36.jpg"
 categories: ["the-welcome-to-jamrock-issue"]
 needsReview: []
 sourceId: "5627"

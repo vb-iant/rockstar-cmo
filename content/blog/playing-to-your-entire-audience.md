@@ -6,7 +6,7 @@ excerpt: "The Relevancy Group’s most recent research indicates that marketers 
 excerptGenerated: false
 author: "Nicholas Einstein"
 authorSlug: "nicholas-einstein"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/UNADJUSTEDNONRAW_thumb_3d1b.jpg"
+image: "/images/blog/0f64bcd80eb0.jpg"
 categories: ["the-people-are-people-issue"]
 needsReview: []
 sourceId: "4223"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/playing-to-your-entire-audience/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/shutterstock_725291137.jpg)
+![](/images/blog/72b2184e83c2.jpg)
 
 As a long-time practitioner of consumer marketing, I’ve worked hard over my career to connect with a wide variety of diverse audiences and tailor messaging that is relevant, engaging, and able to drive value.
 

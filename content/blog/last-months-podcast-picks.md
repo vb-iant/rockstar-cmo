@@ -6,7 +6,7 @@ excerpt: "Rockstar CMO FM, the M is for marketing, the F is for, well you decide
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/Rockstar-CMO-FM-Promo-1.png"
+image: "/images/blog/424533e68e64.png"
 categories: ["the-youve-come-a-long-way-baby-issue"]
 needsReview: ["shortcode:buzzsprout"]
 sourceId: "6323"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/last-months-podcast-picks/"
 
 *Rockstar CMO FM, the M is for marketing, the F is for, well you decide as you are probably wondering; does the world need another f'in' marketing podcast? Well here is a roundup of what went down on The Rockstar CMO F'in'* *Marketing* *Podcast this month.*
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/12/rockstar-cmo-fm-1024x536.png)
+![](/images/blog/ffc75d0f312a.png)
 
 ---
 
@@ -25,7 +25,7 @@ Another splendid guest list this month, as I chat to our wonderful Rockstar CMO 
 
 ### Christine Bailey - Customer Insight Strategies
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/11/christine-with-book.jpg)
+![](/images/blog/a7c71eb7fea3.jpg)
 
 Last month we ran a 4 part series discussing [Christine Bailey](https://rockstarcmo.com/backstage-with-christine-bailey/)'s book [Customer Insight Strategies - How to Understand Your Audience and Create Remarkable Marketing](https://www.koganpage.com/product/customer-insight-strategies-9781789662504)
 
@@ -37,7 +37,7 @@ Here is what Ted Rubin said about the book:
 >
 > Ted Rubin, CMO Photofy
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/Ted-Thinking.Photofy-1024x640.jpg)
+![](/images/blog/3fc7996e14b2.jpg)
 [buzzsprout episode='6586465' player='true']
 
 ---
@@ -55,7 +55,7 @@ Speaking of Ted, our resident straight-talking Rockstar CMO joined us in [episod
 
 ### Jeff Clark
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/11/0-300x300.jpeg)
+![](/images/blog/b49e4d353b2f.jpg)
 
 Delighted to have Jeff Clark former Principal Analyst for Marketing Operations at Forrester SiriusDecisions join us for [episode 40](https://rockstarcmo.com/rockstar-cmo-fm-40-the-remarkable-insights-jeff-clark-robert-rose-and-a-cocktail-episode/). We chatted about the role of the CMO, how to become more strategic and Jeff suggests an excellent candidate for the Rockstar CMO Swimming Pool.
 
@@ -67,7 +67,7 @@ He stuck around as part of the band at [Rockstar CMO Advisors](https://rockstar
 
 ### Finally we retire to the Rockstar CMO Virtual Bar...
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/06/Robert-Rose-300x300.jpg)
+![](/images/blog/7cb0fc98d1b3.jpg)
 
 Robert Rose, Chief Troublemaker at [The Content Advisory,](https://tca.inc) author, speaker and content marketing guru has generously helped us through lockdown by propping up our virtual Rockstar CMO bar and dispensing marketing advise over a cocktail since [episode 9](https://rockstarcmo.com/rockstar-cmo-fm-ahmed-hasan-and-cocktails-with-robert-rose/).
 

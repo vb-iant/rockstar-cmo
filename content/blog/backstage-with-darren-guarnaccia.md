@@ -6,7 +6,7 @@ excerpt: "Darren chats to Ian Truscott and we discover what drive this marketing
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/DTG-1-e1546106373648.jpg"
+image: "/images/blog/0cb3a7d1a139.jpg"
 categories: ["backstage", "project-funk-da-world"]
 needsReview: []
 sourceId: "142"

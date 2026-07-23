@@ -6,7 +6,7 @@ excerpt: "Is there a better example of the theme of this issue of renting versus
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2022/11/ibX7OE6i0iPA9qfvon05-1-jvqxu.jpg"
+image: "/images/blog/fa1e7a28a341.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: []
 sourceId: "6120"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/quibis-last-dance-was-to-rent-not-build/"
 
 ***Is there a better example of the theme of this issue of renting versus building in marketing? Although Quibi owned the land, they didn't own what they put on it, and it seems they've danced their last dance.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2022/11/ibX7OE6i0iPA9qfvon05-1-jvqxu.jpg)
+![](/images/blog/fa1e7a28a341.jpg)
 
 As has been widely reported, Quibi, the struggling short-form mobile video startup led by Jeffrey Katzenberg and Meg Whitman, has made such a flourish on the new media dance floor and has failed to find a partner [danced its last dance](https://www.wsj.com/articles/quibi-weighs-shutting-down-as-problems-mount-11603301946).
 

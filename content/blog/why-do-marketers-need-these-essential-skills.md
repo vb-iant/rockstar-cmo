@@ -6,7 +6,7 @@ excerpt: "The Five F'in Marketing Fundamentals form the basis of marketing enabl
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2022/08/element5-digital-OyCl7Y4y0Bk-unsplash-scaled-e1659705975635.jpeg"
+image: "/images/blog/968a56340afd.jpg"
 categories: ["marketing", "marketing-education", "street-knowledge"]
 needsReview: []
 sourceId: "7353"
@@ -47,7 +47,7 @@ The diversity of backgrounds is a good thing for marketers, but getting groundin
 
 Earlier this year, Ian and I addressed the marketing education challenge by enumerating five basic skills that all marketers should learn. These concepts are not pulled from marketing textbooks, but from what experience tells us. There are certain things that marketers need to know to work more effectively as a team. It’s like every member of a rock band must understand the roles of rhythm, melody and harmony, even if they don’t need to read music or have a degree in sound engineering.
 
-![](https://rockstarcmo.com/wp-content/uploads/2022/08/element5-digital-OyCl7Y4y0Bk-unsplash-scaled-e1659705975635-1024x1024.jpeg)
+![](/images/blog/57add70cb9de.jpg)
 
 These fundamental marketing skills help everyone appreciate their role in the marketing mix.
 

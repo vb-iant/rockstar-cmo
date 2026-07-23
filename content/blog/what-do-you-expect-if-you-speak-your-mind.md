@@ -6,7 +6,7 @@ excerpt: "The blurry lines between personal opinion expressed on social media an
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790489825.jpg"
+image: "/images/blog/7dd93fd70b3d.jpg"
 categories: ["the-blur-issue"]
 needsReview: []
 sourceId: "5954"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/what-do-you-expect-if-you-speak-your-mind/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/kristina-flour-BcjdbyKWquw-unsplash-1024x655.jpg)
+![](/images/blog/5d61d20a076c.jpg)
 
 If you’re a professional and you want to express your own opinion, work for yourself. It’s the only way you can do it.
 

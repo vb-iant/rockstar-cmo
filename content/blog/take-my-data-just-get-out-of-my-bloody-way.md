@@ -6,7 +6,7 @@ excerpt: "Marketing journalist Morag Cuddeford-Jones thinks marketers’ data ad
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/05/shutterstock_773613745-1-e1559203750968.jpg"
+image: "/images/blog/8808676ee24a.jpg"
 categories: ["the-invasion-of-privacy-issue"]
 needsReview: []
 sourceId: "3725"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/take-my-data-just-get-out-of-my-bloody-way/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/05/shutterstock_773613745.jpg)
+![](/images/blog/fe484af4ad51.jpg)
 
 I don’t often ‘like’ stuff on social media that relates to work. For one, I like to pretend I have a work/life balance and that social media is in the ‘life’ bit. And two, by Christ there’s a lot of crap out there that people will still insist on sharing. The worst offenders, I find, tend to be on LinkedIn, humblebragging their ‘I rescued a homeless guy to work in my restaurant/did 8,000 sit-ups before breakfast of Soylent at 5 am/introduced a friend to the power of affirmation’ nonsense. You know who you are. Shudder.
 

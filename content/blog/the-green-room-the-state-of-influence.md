@@ -6,7 +6,7 @@ excerpt: "Again we've grabbed the backstage pass to our Rockstar CMO’s, hang o
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/11/green-room.png"
+image: "/images/blog/376ed2c2ab09.png"
 categories: ["the-green-room", "the-running-in-circles-issue"]
 needsReview: []
 sourceId: "4610"
@@ -50,7 +50,7 @@ pursuing.
 
 Don’t be that bore at a party - make sure you’re in the right conversations!  If your influencers are creating content that spirals and goes viral then you know they’re talking about the right things.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
@@ -62,7 +62,7 @@ Don’t be that bore at a party - make sure you’re in the right conversations!
 
 *A couple of issues ago we went* [*on the tour bus with Amber Osborne*](https://rockstarcmo.wpengine.com/tales-from-the-tour-bus-amber-osborne/) *([@missdestructo](https://twitter.com/MissDestructo)) to get her insiders view of influencer marketing, as aside from her CMO experience, she was part of the Adobe Insider influencer marketing program*, *here is an excerpt from that conversation:*
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/09/164668_10101484668803661_297590743_n-1-e1546080603833.jpg)
+![](/images/blog/65d600f186b3.jpg)
 
 **There’s a lot of great influencer marketing magic that can happen when you look for the micro-influencers, not the wham bam thank you ma’am megaphones.**
 
@@ -76,7 +76,7 @@ Don’t be that bore at a party - make sure you’re in the right conversations!
 
 Influencer marketing, when used to its best effect, is about building a network of business relationships that will yield results over time. You’ll get as much out of the program as you put into it. So if your goal is to find a platform, and make this like programmatic advertising, and do whatever you can to automate the process… you will be throwing the majority of your budget down the drain.  [[ Read more in Ted's article in this issue ]](https://rockstarcmo.wpengine.com/forget-the-buzzwords-influencer-marketing-is-about-building-relationships/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/1447389246178.jpeg-1-e1551354115237.jpg)
+![](/images/blog/39fbb3339ce7.jpg)
 
 *Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
 
@@ -86,7 +86,7 @@ Influencer marketing, when used to its best effect, is about building a network 
 
 Today, influencers aren’t celebrities who endorse – they are the amplifiers of our story. As marketers today, this can be one of the core aspects of our programs. We can look to today’s influencers as a means of amplifying and becoming a multiplier of our communications programs. The key, of course, is integrating this program holistically into our story – our strategy – and not just looking for the “endorsement”. [[ Read more of Robert's insight in this article ]](https://rockstarcmo.wpengine.com/wedgewood-vs-sex-pistols-what-is-influence-anyway/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/Robert-Rose-1-1.jpg)
+![](/images/blog/3034b21c903d.jpg)
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
@@ -98,7 +98,7 @@ Today, influencers aren’t celebrities who endorse – they are the amplifiers 
 
 *Influencer marketing has been a strong topic over the 20 issues we've published, here are some other articles you might be interested in:*
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/05/Image_2-1-e1546190859149.jpg)
+![](/images/blog/18e60ef4a284.jpg)
 
 ## Bad Influence
 
@@ -108,7 +108,7 @@ Our social channels are saturated with ‘influencers’ representing brands loo
 
 [[ Read more ]](https://rockstarcmo.wpengine.com/bad-influence/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/DW-Fake-3-1-e1551352641915-1024x1024.jpg)
+![](/images/blog/a2ead1ad1821.jpg)
 
 ## Dedicated Followers (After a Fashion)
 

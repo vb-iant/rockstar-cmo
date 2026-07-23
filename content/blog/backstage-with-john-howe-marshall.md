@@ -6,7 +6,7 @@ excerpt: "Gamers are emerging as the new celebrities of a new media age, and the
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/04/22885753_10155208105888565_1006877511225230671_n.jpg"
+image: "/images/blog/c2af4b9993cb.jpg"
 categories: ["backstage", "the-welcome-to-jamrock-issue"]
 needsReview: []
 sourceId: "5624"
@@ -31,7 +31,7 @@ A long intro, but who better to go backstage with for this lockdown issue than t
 
 I give a holler out to John Howe-Marshall, Chief Marketing Officer at [SplitmediaLabs](https://www.splitmedialabs.com/).
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/04/22885753_10155208105888565_1006877511225230671_n.jpg)
+![](/images/blog/c2af4b9993cb.jpg)
 
 ### Hello John!
 

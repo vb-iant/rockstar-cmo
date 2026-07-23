@@ -6,7 +6,7 @@ excerpt: "We asked our content marketing hero, Robert Rose, how he would approac
 excerptGenerated: false
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/Robert-Rose.jpg"
+image: "/images/blog/c46f341a8f83.jpg"
 categories: ["employee-engagement", "the-inside-in-inside-out-issue"]
 needsReview: []
 sourceId: "3825"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/sing-the-same-song-3-steps-for-employee-enga
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/robertrose_1369869647_72-1024x603.jpg)
+![](/images/blog/5bbde3d52e86.jpg)
 
 Internal activation and participation is probably the most important thing that most marketing departments don’t do.
 

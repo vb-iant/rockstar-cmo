@@ -6,7 +6,7 @@ excerpt: "Our resident rock star Ted Rubin on the slew of pitfalls presented by 
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/10/4981810037_f92989c61a_b-e1545995177896.jpg"
+image: "/images/blog/625e0570e180.jpg"
 categories: ["thriller"]
 needsReview: []
 sourceId: "918"

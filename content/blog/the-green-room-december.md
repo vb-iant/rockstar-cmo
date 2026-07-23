@@ -6,14 +6,14 @@ excerpt: "Welcome to the Green Room, a new monthly feature where we will be evad
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/seabass-creatives-61546-unsplash-e1545483012398.jpg"
+image: "/images/blog/a9038ff37eb3.jpg"
 categories: ["the-green-room", "we-are-family"]
 needsReview: []
 sourceId: "585"
 sourceUrl: "https://rockstarcmo.com/the-green-room-december/"
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2018/11/The-Green-Room-Thanksgiving-2018-1024x536.png)
+![](/images/blog/d915c369a204.png)
 
 **Welcome to the Green Room, a new monthly feature where we will be evading security yet again to go backstage with our Rockstar CMOs and pose them a question that’s top of mind for us back at the Rockstar CMO penthouse.**
 
@@ -31,7 +31,7 @@ Over to the rockstars:
 
 ## Christine Bailey
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload-300x300.jpg)
+![](/images/blog/f929cc129077.jpg)
 
 As a marketer, I’m thankful to be working for a company where I get to be a “real” marketer; conducting market research and gathering customer insights to create a new mission statement with purpose and new value proposition – transforming a 35 year old payments company in an industry that is traditionally perceived to be ‘pale, male and stale’.
 
@@ -45,7 +45,7 @@ But most of all I’m grateful for my support crew – an incredible team who ar
 
 ## Wendy Bryant- Beswick
 
-![](https://rockstarcmo.com/wp-content/uploads/2018/09/Wendy_Bryant-1-e1546001623544-1024x1024.jpeg)
+![](/images/blog/ec6b2bfd6c5b.jpg)
 
 I am thankful for the latitude I've been given this year as I rebuilt both infrastructure and a team at my current organization. It's always a challenge implementing change and shifting traditional skill sets to where marketing is today and where we are going. I appreciate all the support and confidence my peers have given me as I navigate an environment that isn't always open to change.
 
@@ -53,7 +53,7 @@ It's also terrific to now be located near Boston where I can leverage so much ex
 
 ## Robert Rose
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/06/Robert-Rose.jpg)
+![](/images/blog/c46f341a8f83.jpg)
 
 Gratitude is such a powerful force. But this particular year I’m grateful for something my grandfather taught me – and that, interestingly, business leader Peter Drucker would remind me of years later.
 
@@ -69,7 +69,7 @@ So – my tip that I’d add from both my grandfather, and Drucker, is not to ge
 
 ## Jenni Young
 
-![](https://rockstarcmo.com/wp-content/uploads/2018/12/jenni-young.jpg)
+![](/images/blog/3fc416744864.jpg)
 
 Open mindedness. I believe this is key to success. Businesses who are open minded about taking risks, collaborating and embracing new technology, will win.
 
@@ -79,7 +79,7 @@ I’m also particularly thankful that this year there is greater awareness and
 
 ## Ted Rubin
 
-![](https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-Rubin-e1545645433398.jpg)
+![](/images/blog/4fb8b2ef4554.jpg)
 
 *We leave the last word to Ted, although I did suggest to him that my Britishness would prevent me from sharing this…*
 

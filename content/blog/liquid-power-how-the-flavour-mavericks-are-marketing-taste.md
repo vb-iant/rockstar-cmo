@@ -6,7 +6,7 @@ excerpt: "Glam rock. What a mind f**k. The ’70s era of glitter and gutsy stage
 excerptGenerated: false
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/Alex_Lawrence_Laverstoke_Park_Spritz-e1546267690278.jpg"
+image: "/images/blog/db51f8a57b2b.jpg"
 categories: ["project-funk-da-world"]
 needsReview: []
 sourceId: "1008"

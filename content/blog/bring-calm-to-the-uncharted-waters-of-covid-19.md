@@ -6,7 +6,7 @@ excerpt: "As our lives get blurred Jasmine Martirossian, Ph.D., VP Marketing at 
 excerptGenerated: false
 author: "Jasmine Martirossian"
 authorSlug: "jasmine-martirossian"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_1668892759-1-e1599130705782.jpg"
+image: "/images/blog/2175f732da36.jpg"
 categories: ["the-blur-issue"]
 needsReview: []
 sourceId: "5949"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/bring-calm-to-the-uncharted-waters-of-covid-
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_1668892759.jpg)
+![](/images/blog/c0aa70f57ef7.jpg)
 
 ***It’s all about having perspective.***
 

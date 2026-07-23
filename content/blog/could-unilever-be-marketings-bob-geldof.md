@@ -6,7 +6,7 @@ excerpt: "Unilever has taken a stand over the fast and loose approach that socia
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/03/sommi-257178-unsplash-e1546276687736.jpg"
+image: "/images/blog/8c9a8925e1c0.jpg"
 categories: ["sound-check"]
 needsReview: []
 sourceId: "892"

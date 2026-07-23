@@ -6,7 +6,7 @@ excerpt: "Are your marketing efforts falling flat? Do your colleagues on the exe
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2023/02/ATby9v2yMMBDhLLCzSeH-4-1ad9n.jpg"
+image: "/images/blog/d7edc5305bc9.jpg"
 categories: ["b2b-marketing", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "7558"
@@ -21,7 +21,7 @@ In [episode 141](https://rockstarcmo.com/141-the-applying-personas-discover-your
 
 In fact, let’s resolve to build integrated, multi-channel campaigns that engage these personas to demonstrate that we understand their needs and know how to solve their business problems. Anything you do outside those campaigns is bluntly wasted effort.
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/02/ATby9v2yMMBDhLLCzSeH-4-1ad9n.jpg)
+![](/images/blog/d7edc5305bc9.jpg)
 
 ## **Let’s Stop Random Campaigning!**
 

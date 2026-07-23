@@ -6,7 +6,7 @@ excerpt: "In 1980 Blondie urged us to \"CALL ME\" but in 2019 as a way to build 
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/RockstarCMOarticleImagephone_done-1-e1561792061484.jpg"
+image: "/images/blog/fdc28b9073d9.jpg"
 categories: ["the-inside-in-inside-out-issue"]
 needsReview: []
 sourceId: "3852"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/dont-call-me-i-aint-listening/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/RockstarCMOarticleImagephone_done.jpg)
+![](/images/blog/61e3aaa34204.jpg)
 
 I want to talk dirty. Specifically, I want
 to talk sales.

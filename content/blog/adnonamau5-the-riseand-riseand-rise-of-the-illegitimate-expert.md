@@ -6,7 +6,7 @@ excerpt: "This month our anonymous adman sets his unforgiving sights on the self
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-invasion-of-privacy-issue"]
 needsReview: []
 sourceId: "3708"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/adnonamau5-the-riseand-riseand-rise-of-the-i
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/shutterstock_1097933978.jpg)
+![](/images/blog/65e14499aef4.jpg)
 > “Opinions are like assholes, everybody has one”
 >
 > Dirty Harry

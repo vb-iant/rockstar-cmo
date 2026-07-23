@@ -6,7 +6,7 @@ excerpt: "At Rockstar CMO, we clearly can't do this without a little help from o
 excerptGenerated: false
 author: "Barb Mosher Zinck"
 authorSlug: "barb-mosher-zinck"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/11/the-beatles-square.jpg"
+image: "/images/blog/33b370c16a09.jpg"
 categories: ["features-2", "the-breaking-glass-issue", "the-magic-of-christmas-issue"]
 needsReview: []
 sourceId: "4672"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/tips-for-content-marketers-with-a-little-hel
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/the-beatles.jpg)
+![](/images/blog/000d9ba28a12.jpg)
 
 Quick question - how many pieces of content did you read this week to help you do your job better or make a purchase decision? How much of that content was useful?
 

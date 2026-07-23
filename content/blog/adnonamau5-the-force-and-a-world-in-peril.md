@@ -6,7 +6,7 @@ excerpt: "Once again like the legendary DJ, Deadmau5, our anonymous advertiser h
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: []
 sourceId: "4368"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/adnonamau5-the-force-and-a-world-in-peril/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/shutterstock_1097933978.jpg)
+![](/images/blog/65e14499aef4.jpg)
 
 This is less of a rant and more of a plea to be honest!
 

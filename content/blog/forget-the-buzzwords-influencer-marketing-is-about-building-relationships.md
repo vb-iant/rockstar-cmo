@@ -6,7 +6,7 @@ excerpt: "Our resident Rockstar CMO, Ted Rubin, keeps it simple and tells it str
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
+image: "/images/blog/91eb73950e06.jpg"
 categories: ["the-running-in-circles-issue"]
 needsReview: []
 sourceId: "4553"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/forget-the-buzzwords-influencer-marketing-is
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/04/ted-rubin-3-1024x640.jpg)
+![](/images/blog/4ca20206ca97.jpg)
 
 The biggest mistake brands make when trying to engage influencers is not first trying to understand who they are and what they stand for. They think it is all about the money, the numbers and reach. I write a lot about Looking People in the Eye Digitally… so for me the most important influencer marketing tool is building relationships.
 

@@ -6,7 +6,7 @@ excerpt: "How exactly have these artisans become headline acts? Amie Knights tal
 excerptGenerated: false
 author: "Amie Knights"
 authorSlug: "amie-knights"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/nick-karvounis-156112-unsplash-e1546083597161.jpg"
+image: "/images/blog/07c4580955aa.jpg"
 categories: ["nevermind"]
 needsReview: []
 sourceId: "1119"

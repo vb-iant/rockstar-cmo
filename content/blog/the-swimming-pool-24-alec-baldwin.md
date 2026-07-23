@@ -6,7 +6,7 @@ excerpt: "I know, right? Alec Baldwin? Well, we have Keith Smith, MD of The Adve
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
+image: "/images/blog/45e339d48f11.jpg"
 categories: ["the-swimming-pool", "the-welcome-to-jamrock-issue"]
 needsReview: ["shortcode:buzzsprout,podcast_subscribe", "embed_block"]
 sourceId: "5652"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-swimming-pool-24-alec-baldwin/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2018/12/chuttersnap-523582-unsplash-1024x767.jpg)
+![](/images/blog/edbdd353e03f.jpg)
 
 Regular readers, you know the drill; we get suggestions for what to throw into The Rockstar CMO Swimming Pool, our portal to marketing hell for all the bullshit and snake oil from our house band and the rock stars I interview. I then lean out over the balcony of the penthouse and see how big the splash will be.
 

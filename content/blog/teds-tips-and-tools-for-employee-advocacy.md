@@ -6,7 +6,7 @@ excerpt: "Our resident Rockstar CMO, Ted Rubin, shares his secrets and suggests 
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
+image: "/images/blog/91eb73950e06.jpg"
 categories: ["employee-engagement", "the-inside-in-inside-out-issue"]
 needsReview: []
 sourceId: "3811"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/teds-tips-and-tools-for-employee-advocacy/"
 
 ***In*** ***keeping with the theme of this issue of engaging our colleagues outside marketing to amplify our sound, we asked our resident Rockstar CMO, Ted Rubin for his take***.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/04/ted-rubin-3-1024x640.jpg)
+![](/images/blog/4ca20206ca97.jpg)
 
 **Some companies still fear the “socialization” of the workplace** but locking your employees out of all personal social channels while at work is a big mistake. It only forces them to break the rules and use a different screen. Instead of being productive, aware of daily social trends, and advocating for your brand, they gripe about you on their personal platforms.
 

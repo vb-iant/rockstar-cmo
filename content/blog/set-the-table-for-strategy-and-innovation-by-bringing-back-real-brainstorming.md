@@ -6,7 +6,7 @@ excerpt: "Brainstorming too often becomes the narrow view of a few (very) vocal 
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/021717-PICZ-8919-e1545489329430.jpg"
+image: "/images/blog/6d8a106965eb.jpg"
 categories: ["we-are-family"]
 needsReview: []
 sourceId: "653"

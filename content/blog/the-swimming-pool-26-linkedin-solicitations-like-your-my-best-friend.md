@@ -6,7 +6,7 @@ excerpt: "This month, inspired by Jane Scandurra, we are wondering if we should 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/07/shutterstock_669435025.png"
+image: "/images/blog/94d39f4c15ee.png"
 categories: ["the-miseducation-of-lauryn-hill-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "5900"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-swimming-pool-26-linkedin-solicitations-
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/07/shutterstock_669435025-1024x1024.png)
+![](/images/blog/ba06cb02602c.png)
 
 Welcome to the Rockstar CMO Swimming Pool, inspired by rock stars of old, that had a reputation for throwing things out of hotel windows into the swimming pool, it’s our portal to hell for all the bullshit, snake oil, over hyped trends and all that’s bad about our wonderful marketing industry that we hope will never return.
 

@@ -6,7 +6,7 @@ excerpt: "In this issue, barely noticed and infrequently engaged with, is it tim
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/08/submergedcar-1-e1546092822257.jpg"
+image: "/images/blog/bd0fec2186f3.jpg"
 categories: ["the-swimming-pool", "the-think-about-it-issue"]
 needsReview: []
 sourceId: "4164"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-swimming-pool-banner-ads/"
 
 ***Once a month we invite one of our Rockstar CMOs to the penthouse to rid the world of a marketing practice whose time has come by chucking it into the portal to marketing hell that is the Rockstar CMO Swimming Pool. In this issue, barely noticed and infrequently engaged with, is it time to put banner ads out of their lonely misery? Jasmine Martirossian, VP of Marketing at TÜV SÜD America certainly thinks so..***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/03/photo-1465198901163-2d15b88fecea-1024x683.jpeg)
+![](/images/blog/9e4b05b6ef23.jpg)
 
 You have to feel sorry for the banner ad, 20 years ago, at the dawn of internet advertising they were a revenue making machine, that enabled many of the websites we know now to get a foothold financially and many marketers to become rock stars.
 

@@ -6,7 +6,7 @@ excerpt: "As a marketing journalist, Morag Cuddeford-Jones hears the same tune o
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/08/square-web-form.png"
+image: "/images/blog/d09ee1e4da59.png"
 categories: ["project-funk-da-world"]
 needsReview: []
 sourceId: "4265"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/just-a-formality/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/08/shutterstock_272095901.jpg)
+![](/images/blog/059b019639c4.jpg)
 
 Do you know how eye-swivellingly, pant-wettingly bored I am of filling in forms? How soul-crushingly, fingertip-searingly fed up I am of filling in boxes, choosing from drop-down menus and selecting from a list of addresses? Quite a bit, is how much.
 

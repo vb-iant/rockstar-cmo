@@ -6,7 +6,7 @@ excerpt: "This month our trip to the Rockstar CMO penthouse balcony, is inspired
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/daniel-schludi-Ue1sGyjLUME-unsplash-1-scaled-e1599228755359.jpg"
+image: "/images/blog/22b3bfa72be2.jpg"
 categories: ["the-blur-issue", "the-swimming-pool"]
 needsReview: ["shortcode:buzzsprout", "reusable_block_ref"]
 sourceId: "5984"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-swimming-pool-27-a-marketer-that-wants-t
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/daniel-schludi-Ue1sGyjLUME-unsplash-683x1024.jpg)
+![](/images/blog/28d22d1b208f.jpg)
 
 ***The Rockstar CMO Swimming Pool, inspired by the hedonistic behavior of the fabulous old rockstars (like [Keith Richards parking his car in his pool](https://www.loudersound.com/features/keith-moon-takes-a-car-for-a-swim)). Except we don't just chuck anything in there, our pool is the portal to hell for all the snake oil, bullshit, and, you know, that stuff our wonderful industry would be better rid of. Consider it a service we provide to our Backstage Q&A and Podcast guests, to get this stuff off their chests.***
 
@@ -39,7 +39,7 @@ We agree, so that marketer, the one that wants to be your friend just splashed i
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/07/Caroline_Kay_Business_Coach-scaled-e1595685536530-1024x1024.jpg)
+![](/images/blog/a15a7af9ebb2.jpg)
 
 [Caroline Kay](https://carolinekay.co/) is a Business and Success Coach that works with creative and service-led business owners to grow fast so that they can make a bigger impact on the world. Caroline has devised business development strategies for the world’s biggest brands and creative agencies, she now lives in Italy and runs her coaching business from London, York and Rome.
 

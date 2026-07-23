@@ -6,7 +6,7 @@ excerpt: "A popular topic here on Rockstar CMO, pulling together the backing ban
 excerptGenerated: false
 author: "Jane Scandurra"
 authorSlug: "jane-scandurra"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/shutterstock_1082672369-1-e1577809199860.jpg"
+image: "/images/blog/380f2167b2f5.jpg"
 categories: ["features-2", "employee-engagement", "the-future-starts-here-issue"]
 needsReview: []
 sourceId: "5005"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/happy-employees-happy-customers/"
 
 ***It’s been a popular topic here on Rockstar CMO, that Rockstar marketing starts at home. Pulling together the backing band of employees and colleagues to not just build a better brand by enabling them to improve the experience for the customer, but to become evangelists in our increasingly connected world. Jane Scandurra shares her experience of how we can make that happen.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/12/shutterstock_1082672369.jpg)
+![](/images/blog/87706efbd273.jpg)
 
 ---
 

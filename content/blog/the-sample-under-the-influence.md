@@ -6,7 +6,7 @@ excerpt: "The Sample, where we whirl the dial on the interwebs, hit record and s
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-1.jpg"
+image: "/images/blog/534a9d19329d.jpg"
 categories: ["the-running-in-circles-issue"]
 needsReview: []
 sourceId: "4606"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-sample-under-the-influence/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/casset-recorder-1-1024x768.jpg)
+![](/images/blog/c8eb0c286990.jpg)
 
 # The Thrill Has Gone?
 

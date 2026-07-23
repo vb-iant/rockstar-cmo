@@ -6,7 +6,7 @@ excerpt: "This month, Ian Truscott is inspired by L. Michelle Smith as he looks 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
+image: "/images/blog/45e339d48f11.jpg"
 categories: ["the-pretender-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "3243"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-12-omnichannel-for-the-sake-of
 
 **Every month we throw a shady or outdated practice, dose of snake oil or over-hyped buzzword into the special place in marketing hell that is the Rockstar CMO Swimming Pool. This month, Ian Truscott is inspired by L. Michelle Smith as he looks to heft “omnichannel for the sake of it” off the penthouse balcony. Don’t agree?**[**Tweet us!**](https://rockstarcmo.wpengine.com/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/lmr.jpeg)
+![](/images/blog/854a0c7720af.jpg)
 
 Dallas native, [L. Michelle Smith](https://lmichellesmith.com/) is an author, speaker and marketing leader with over 25 years of experience as a communicator and integrated marketer. When I went [backstage with her](https://rockstarcmo.wpengine.com/backstage-with-l-michelle-smith/), we discussed what she would like to see plunging into the Rockstar CMO Swimming pool and this is what she shared:
 

@@ -6,7 +6,7 @@ excerpt: "Dust off your marketing LPs, vinyl records, the eight tracks and maybe
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2022/07/back-to-brand-square.png"
+image: "/images/blog/8864ca70f1d8.png"
 categories: ["b2b-marketing", "branding", "marketing", "street-knowledge"]
 needsReview: []
 sourceId: "7325"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/back-to-brand/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2022/07/back-to-brand.png)
+![](/images/blog/00091bbad8aa.png)
 
 Recently I was invited to join [Experience Advisors](https://www.experienceadvisors.io), a "community made up of digital experience strategists, business storytellers, idea sparkers, and perennial students of business change" (or just an interesting bunch of people). You may have heard us mention it [on the podcast](https://rockstarcmo.com/category/podcast/) as my Rockstar CMO virtual bar drinking buddy [Robert Rose](https://robertrose.net) leads the band.
 

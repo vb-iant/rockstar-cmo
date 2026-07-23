@@ -6,7 +6,7 @@ excerpt: "Bob Dylan said it right when he sang The Times They Are A-Changin’ .
 excerptGenerated: true
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/jenner2-1-e1546091119556.png"
+image: "/images/blog/63678a0c4275.png"
 categories: ["nevermind"]
 needsReview: []
 sourceId: "878"

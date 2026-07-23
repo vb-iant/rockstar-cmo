@@ -6,7 +6,7 @@ excerpt: "Rock and comedy make strange bedfellows and the same can be said of ma
 excerptGenerated: false
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/07/Image_3_-_Groupon-e1546171503757.png"
+image: "/images/blog/5232f6761687.png"
 categories: ["straight-outta-compton"]
 needsReview: []
 sourceId: "990"

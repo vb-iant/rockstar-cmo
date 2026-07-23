@@ -6,7 +6,7 @@ excerpt: "Marketing leaders – Don’t fall under the influence from the Martec
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2022/06/adam-birkett-Wm4lmsUHv7M-unsplash2-scaled.jpg"
+image: "/images/blog/02ca623291f5.jpg"
 categories: ["b2b-marketing", "martech", "rockstar-cmo-advisors", "street-knowledge", "the-martech-mix-desk"]
 needsReview: []
 sourceId: "7270"
@@ -25,7 +25,7 @@ Marketing leaders – Don’t fall under a similar influence from the Martech In
 
 In truth, marketing technology is only an average of four percent of a total marketing budget. Forrester Research benchmarks ranged from two to ten percent depending on the size and nature of your business. So, don’t want to waste your hard-earned budget on tech that will not deliver value.
 
-![](https://rockstarcmo.com/wp-content/uploads/2022/06/adam-birkett-Wm4lmsUHv7M-unsplash2-1024x1024.jpg)
+![](/images/blog/19f78fffeca9.jpg)
 
 Marketing leaders – Don’t fall under the influence from the Martech Industrial Complex!
 

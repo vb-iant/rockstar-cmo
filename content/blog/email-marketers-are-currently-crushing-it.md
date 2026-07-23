@@ -6,7 +6,7 @@ excerpt: "In marketing, it seems you can't beat the classics, but we are too qui
 excerptGenerated: false
 author: "Nicholas Einstein"
 authorSlug: "nicholas-einstein"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/shutterstock_1011946390-1-e1564081182653.jpg"
+image: "/images/blog/004f2bfe7c0d.jpg"
 categories: ["the-think-about-it-issue"]
 needsReview: []
 sourceId: "4040"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/email-marketers-are-currently-crushing-it/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/shutterstock_1011946390.jpg)
+![](/images/blog/fc52d937086a.jpg)
 
 While the digital marketing spotlight is often squarely focused on newer and more hip topics like influencer marketing and social selling, email has become a primary driver of revenue for most enterprises and a key to addressing customers cohesively across channels. Marketing executives and vendors of enterprise marketing technology both need to tune in to this reality and begin giving credit [and allocating resources] where its due.
 

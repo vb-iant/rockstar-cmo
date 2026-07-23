@@ -6,7 +6,7 @@ excerpt: "Keith Smith weighs in on the theme of this month's issue: Should we bu
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/10/shutterstock_675968164-1-e1603011660181.png"
+image: "/images/blog/fbc5d6bfc58f.png"
 categories: ["the-life-for-rent-issue"]
 needsReview: []
 sourceId: "6071"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/jam-tomorrow-and-jam-yesterday-but-never-jam
 
 ***Quoting Lewis Carroll, Keith Smith, the voice of business development in our house band, weighs in on the theme of this month's issue: Should we build our audience on rented land, like social media, or develop a property of our own? And it's typically no-nonsense..***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/10/shutterstock_675968164-1024x535.png)
+![](/images/blog/057acaf568e9.png)
 > "You couldn't have it if you did want it," the Queen said. "The rule is, jam to-morrow and jam yesterday – but never jam to-day."
 >
 > Alice in Wonderland - Lewis Caroll

@@ -6,7 +6,7 @@ excerpt: "Ahmed Hasan is our inspiration as we peer over the balcony down to the
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
+image: "/images/blog/45e339d48f11.jpg"
 categories: ["the-changesbowie-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "3564"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-swimming-pool-resistance-to-change/
 
 ***This month Ahmed Hasan is my co-conspirator as we peer over the balcony down to the Rockstar CMO Swimming Pool (our portal to marketing hell for all the BS, shady outdated practices, snake oil or over-hyped buzzwords) and we consider chucking “resistance to change” into its shimmering depths.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1024x683.jpg)
+![](/images/blog/3d5d7c78cd36.jpg)
 
 As you may have read in [The Pretender issue](https://rockstarcmo.wpengine.com/category/issues/the-pretender-issue/) I’ve had the pleasure of hanging out with Ahmed Hasan, the Global Head of Customer Engagement Marketing at [Spark44](http://spark44.com/) (an agency dedicated to the global marketing of Jaguar Land Rover brands).
 

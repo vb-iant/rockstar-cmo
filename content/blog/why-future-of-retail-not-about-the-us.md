@@ -6,7 +6,7 @@ excerpt: "Think America is the be-all and end-all of retail? Think again. Ted Ru
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/03/freestocks-org-182581-unsplash-e1546272669987.jpg"
+image: "/images/blog/49af3ceb3775.jpg"
 categories: ["sound-check"]
 needsReview: []
 sourceId: "147"

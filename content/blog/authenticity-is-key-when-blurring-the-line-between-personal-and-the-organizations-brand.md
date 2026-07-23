@@ -6,7 +6,7 @@ excerpt: "In her second article for this month's issue, Jasmine Martirossian, Ph
 excerptGenerated: false
 author: "Jasmine Martirossian"
 authorSlug: "jasmine-martirossian"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/tuvsud-Jasmine-Martirossian-3.jpg"
+image: "/images/blog/897a93e99b90.jpg"
 categories: ["the-blur-issue"]
 needsReview: []
 sourceId: "5989"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/authenticity-is-key-when-blurring-the-line-b
 
 ******In her second article for this month's issue, **Jasmine Martirossian, Ph.D., VP Marketing at TÜV SÜD Americas, shares her advice on balancing personal brand and representing your employer and a great example of how to lead when balancing freedom of speech and connected employees.********
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_316452626.jpg)
+![](/images/blog/5da6dac4b329.jpg)
 
 #### Authenticity and Alignment Are Requisite Factors
 

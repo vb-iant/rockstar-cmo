@@ -6,7 +6,7 @@ excerpt: "It’s not so much about ‘consuming’ content as having rubbish ram
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/rendered-e1561741149775.jpg"
+image: "/images/blog/1d3a51b06065.jpg"
 categories: ["the-inside-in-inside-out-issue"]
 needsReview: []
 sourceId: "3832"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/an-all-consuming-rage-against-the-content/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/shutterstock_599110595.jpg)
+![](/images/blog/49a6d74ce410.jpg)
 
 I don’t know about you, but I can’t wait to get up tomorrow
 morning and consume some content as I consume my Rice Krispies, consume my

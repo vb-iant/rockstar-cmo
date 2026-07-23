@@ -6,7 +6,7 @@ excerpt: "This month we are hanging over the balcony with Acquia CMO Lynne Capoz
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
+image: "/images/blog/45e339d48f11.jpg"
 categories: ["the-running-in-circles-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "4602"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-swimming-pool-marketing-cant-be-mea
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1024x683.jpg)
+![](/images/blog/3d5d7c78cd36.jpg)
 
 One of our favorite questions in our [Backstage series](https://rockstarcmo.wpengine.com/category/features/backstage/),
 when we get to hang with some fabulous marketers, is to ask them what in
@@ -27,7 +27,7 @@ hope they will never return.
 
 When we [went backstage with Acquia CMO Lynne Capozzi](https://rockstarcmo.wpengine.com/backstage-with-lynne-capozzi/), her pet marketing peeve was this:
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/lynne-acquia.jpg)
+![](/images/blog/478e10042084.jpg)
 
 "***The old adage that marketing can’t be measured – it is so not true! Success and marketing can be measured, and should be on a consistent basis***"
 

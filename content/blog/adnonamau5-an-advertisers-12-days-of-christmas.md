@@ -6,7 +6,7 @@ excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser adnonamau5 do
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []
 sourceId: "4670"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/adnonamau5-an-advertisers-12-days-of-christm
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/shutterstock_1097933978.jpg)
+![](/images/blog/65e14499aef4.jpg)
 
 On the 12th day of Christmas, the advertising world gave to me a boss with no ego
 

@@ -6,7 +6,7 @@ excerpt: "Marketing is about the customer. Or is it? Lytics CMO Darren Guarnacci
 excerptGenerated: false
 author: "Darren Garnaccia"
 authorSlug: "darren-garnaccia"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/03/shutterstock_151396352-e1546277597327.jpg"
+image: "/images/blog/5a8d3457924b.jpg"
 categories: ["sound-check"]
 needsReview: []
 sourceId: "1152"

@@ -6,7 +6,7 @@ excerpt: "Our resident Rockstar CMO Ted Rubin tells it straight. If you want bet
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/11/ted-square.jpeg"
+image: "/images/blog/c0c928c0c9e7.jpg"
 categories: ["the-features-creatures-issue", "top-10", "top-10-2020"]
 needsReview: []
 sourceId: "5162"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/better-products-better-marketing-better-list
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/shutterstock_1052176010.jpg)
+![](/images/blog/1cc4e78e3ce1.jpg)
 
 Thanks to the continual evolution of social media, we have a growing set of useful tools for gathering feedback about our brand and products.
 

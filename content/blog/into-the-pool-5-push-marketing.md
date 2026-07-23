@@ -6,7 +6,7 @@ excerpt: "It seems Rockstar CMOs do not like anything that’s easy, cheap, driv
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/07/Lead_-shutterstock_1099572593-e1546109839383.jpg"
+image: "/images/blog/46a9508c28e8.jpg"
 categories: ["straight-outta-compton", "the-swimming-pool"]
 needsReview: []
 sourceId: "1114"

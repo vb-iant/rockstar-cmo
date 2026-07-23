@@ -6,7 +6,7 @@ excerpt: "Is there a disconnect between your advertising and your customer exper
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/christian-erfurt-1131100-unsplash-1-e1551359658227.jpg"
+image: "/images/blog/692aef415f41.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []
 sourceId: "3298"

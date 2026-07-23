@@ -6,7 +6,7 @@ excerpt: "You know how rock stars have this reputation for throwing stuff from t
 excerptGenerated: true
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/chuttersnap-523582-unsplash-e1546110801423.jpg"
+image: "/images/blog/7d7aeecf391a.jpg"
 categories: ["project-funk-da-world", "the-swimming-pool"]
 needsReview: []
 sourceId: "1047"

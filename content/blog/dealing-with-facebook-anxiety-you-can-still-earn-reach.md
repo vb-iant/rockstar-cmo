@@ -6,7 +6,7 @@ excerpt: "Times have changed. More than ever before, brands are finding it diffi
 excerptGenerated: false
 author: "Casey Petersen"
 authorSlug: "casey-petersen"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/marc-schafer-631509-unsplash-e1546082944429.jpg"
+image: "/images/blog/5cafe61fb062.jpg"
 categories: ["nevermind"]
 needsReview: []
 sourceId: "914"

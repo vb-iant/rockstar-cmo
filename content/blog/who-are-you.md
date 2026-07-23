@@ -6,7 +6,7 @@ excerpt: "You know, marketers really need to know. The only trouble is, says mar
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/shutterstock_363764822-1-e1564092224644.jpg"
+image: "/images/blog/c0b12c1f40fc.jpg"
 categories: ["features-2", "the-breaking-glass-issue", "the-think-about-it-issue"]
 needsReview: []
 sourceId: "4008"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/who-are-you/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/shutterstock_363764822.jpg)
+![](/images/blog/5210900313a5.jpg)
 
 Here’s how to mess with marketers’ heads. Get up in the morning, stick on some of Pharrell’s nice, boppy *Happy* to get yourself going. Pop to the bathroom, lather up in some own-brand fragrance-free shower gel, then douse in Jo Malone smellies. Put on vegan shoes, grab hemp bag and pop to Costa for a bacon butty and full-fat latte. Spot of Iron Maiden for a mid-morning perk up, take Bella the bulldog for a quick walk, then home for some online shopping. John Lewis for a cute drinks trolley, Ocado for Seedlip (no gin is the new gin), Amazon for a steampunk cosplay outfit for Comic-Con. Take a quick call from the office because hey, who said a CEO could actually have a day off for God’s sake.
 

@@ -6,7 +6,7 @@ excerpt: "The Sample, where we whirl the dial on the interwebs, hit record and s
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/square-dial.jpg"
+image: "/images/blog/9d82ba78c67e.jpg"
 categories: ["the-future-starts-here-issue"]
 needsReview: []
 sourceId: "4998"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-sample-3-2020-marketing-predictions-from
 
 ***Welcome to The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear. In this issue, we are looking to the future, so our picks this month are predictions on some of the topics we’ve covered in recent issues. Let’s find out what everyone else is expecting from 2020...***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/01/shutterstock_1460422772.jpg)
+![](/images/blog/d9763986c67e.jpg)
 
 ---
 
@@ -31,7 +31,7 @@ What I like about this is that Anand suggests we slow down, focus on the people 
 
 ## Influencer marketing
 
-![Image result for tom ward under the influence](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/01/image.jpeg)
+![Image result for tom ward under the influence](/images/blog/04b4143e92ac.jpg)
 
 We dedicated [The Running in Circles Issue](https://rockstarcmo.wpengine.com/the-running-in-circles-issue/) to influencer marketing, as it’s been a hot topic for our community. For predictions for 2020 we’ve picked an article on Forbes from [Tom Ward](https://twitter.com/motdraw1), host of [the Under The Influence YouTube channel](https://www.youtube.com/channel/UCqDjUsk9qGdMWj1q6rFHEJQ). While articles on Forbes are drowned in ads and pop-ups, click them away and enjoy this, as Tom chats to B2C influencers and industry insider and gets their opinion on what’s in store for 2020:
 

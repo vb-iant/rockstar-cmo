@@ -6,7 +6,7 @@ excerpt: "The most rockin’ of rock stars know rules are made to be broken. Or 
 excerptGenerated: false
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/05/heather-m-edwards-1156542-unsplash-e1546188936352.jpg"
+image: "/images/blog/acec961e5042.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []
 sourceId: "1003"

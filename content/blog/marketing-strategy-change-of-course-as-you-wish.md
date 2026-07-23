@@ -6,7 +6,7 @@ excerpt: "How do you stay true to your marketing musical roots, keep in tune wit
 excerptGenerated: false
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/Robert-Rose.jpg"
+image: "/images/blog/c46f341a8f83.jpg"
 categories: ["the-think-about-it-issue"]
 needsReview: []
 sourceId: "3996"

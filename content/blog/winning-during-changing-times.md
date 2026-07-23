@@ -6,7 +6,7 @@ excerpt: "We are living in changing times, with concerns about the global supply
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2022/05/transition-article.png"
+image: "/images/blog/c3b6a7837232.png"
 categories: ["rockstar-cmo-advisors", "street-knowledge", "sustainability"]
 needsReview: []
 sourceId: "7193"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/winning-during-changing-times/"
 
 ---
 
-![Winning in Changing Times](https://rockstarcmo.com/wp-content/uploads/2022/05/wesley-eland-BsjiMDLwMKU-unsplash-scaled-e1653405148962-1024x837.jpeg)
+![Winning in Changing Times](/images/blog/f91581458019.jpg)
 
 Winning During Changing Times
 

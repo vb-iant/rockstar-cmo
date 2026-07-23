@@ -6,7 +6,7 @@ excerpt: "This month, standing on the penthouse balcony overlooking it is Grant 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/pool-for-homepage.png"
+image: "/images/blog/5e8820203841.png"
 categories: ["the-come-together-issue", "the-swimming-pool"]
 needsReview: ["shortcode:buzzsprout"]
 sourceId: "6188"
@@ -15,13 +15,13 @@ sourceUrl: "https://rockstarcmo.com/the-swimming-pool-28-attribution/"
 
 ***The Swimming Pool, our portal to marketing hell for all the snake oil, bullshit, and overhyped trends of this wonderful industry of ours. This month, standing on the penthouse balcony overlooking the pool is Grant Johnson, veteran CMO, now plying his trade at Emburse, who's ready to commit 'attribution' to its watery demise.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/11/chris-benson-0p8NC1b1gH0-unsplash-1024x684.jpg)
+![](/images/blog/07b65cf71ee9.jpg)
 
 ---
 
 This month's nomination for the Rockstar CMO Swimming Pool comes from the podcast. In [an enlightening interview](https://rockstarcmo.com/rockstar-cmo-fm-32-the-blogs-grant-johnson-robert-rose-and-cocktail-episode/) with an old boss of mine, Grant Johnson, now the CMO at  [Emburse](https://www.emburse.com/), he suggested 'attribution' for our portal to marketing hell.
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/11/grant-johnson.jpg)
+![](/images/blog/f10fdda74dff.jpg)
 
 Attribution? The moment we can tell sales that we made that revenue happen when the art of marketing becomes science, the sky clears, the sun shines, the bird's tweet and probably a cherub strikes up a tune on a heavenly trumpet. Marketing might even get a mention in the 'email to all' that rings the sales bell. And you might shed a tear as someone in sales says… thanks.
 

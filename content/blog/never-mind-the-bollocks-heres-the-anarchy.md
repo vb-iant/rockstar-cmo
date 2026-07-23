@@ -6,7 +6,7 @@ excerpt: "The 27 club knew a thing or two about sucking all the marrow out of li
 excerptGenerated: false
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/202848445_b8785e1348_b-1-e1546277999198.jpg"
+image: "/images/blog/5034c1298af9.jpg"
 categories: ["sound-check"]
 needsReview: []
 sourceId: "1015"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/never-mind-the-bollocks-heres-the-anarchy/"
 
 **The 27 club knew a thing or two about sucking all the marrow out of life, and the recent *Cloverfield Paradox* shock-drop revealed the marketing industry is dealing in when it comes to the unexpected. From film to fashion, music to gaming, [Gareth May](/gareth-may) explores the rise and rise of surprise.**
 
-![](https://rockstarcmo.com/wp-content/uploads/2018/03/Sex_Pistols_in_Paradiso_-_Johnny_Rotten_1-1024x682.jpg)
+![](/images/blog/191108be4d76.jpg)
 
 Super Bowl LII. New England Patriots trailed the Philadelphia Eagles 22-12, Justin Timberlake was blowing the lid off Twitter with that Prince ‘hologram’, and in LA everything was tickety-boo in the power-halls of Hollywood. And then a Netflix-shaped wrecking ball smashed the movie marketing machine to smithereens.
 

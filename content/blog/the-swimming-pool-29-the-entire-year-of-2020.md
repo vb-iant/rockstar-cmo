@@ -6,7 +6,7 @@ excerpt: "What do you reckon? Should we chuck 2020 into the Rockstar CMO Swimmin
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/pool-for-homepage.png"
+image: "/images/blog/5e8820203841.png"
 categories: ["the-swimming-pool", "the-youve-come-a-long-way-baby-issue"]
 needsReview: []
 sourceId: "6308"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-swimming-pool-29-the-entire-year-of-2020
 
 ***What do you reckon? Should we chuck 2020 into the Rockstar CMO Swimming Pool, our portal to marketing hell? Or should we give it a reprieve? Ian Truscott has a suggestion inspired by Robert Rose.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2021/01/gayatri-malhotra-_CqJImMQiVQ-unsplash-683x1024.jpg)
+![](/images/blog/12e6debd562a.jpg)
 
 ---
 

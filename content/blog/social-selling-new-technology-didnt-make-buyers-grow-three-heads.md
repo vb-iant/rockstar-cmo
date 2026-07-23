@@ -6,7 +6,7 @@ excerpt: "Are you using social media to blindly blast information at your audien
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/Image_1-e1545490095809.jpg"
+image: "/images/blog/3b538637a9f1.jpg"
 categories: ["we-are-family"]
 needsReview: []
 sourceId: "656"

@@ -6,7 +6,7 @@ excerpt: "What could AI technology mean for content creators? Is this something 
 excerptGenerated: false
 author: "John Andrews"
 authorSlug: "john-andrews"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/01/shutterstock_300637061-e1578128092355.jpg"
+image: "/images/blog/51eae01079bb.jpg"
 categories: ["the-future-starts-here-issue"]
 needsReview: []
 sourceId: "5086"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/marketing-ai-is-coming-of-age-for-content-cr
 
 ***It’s not a new prediction that artificial intelligence is coming to marketing, not just the rules engines that get dressed up as intelligence in a sales pitch, but the real deal machine learning thing. However, those predictions normally focus on audience insights, while in this article [Photofy](https://photofy.com/) CEO [John Andrews](https://rockstarcmo.wpengine.com/backstage-with-john-andrews/) shares a fresh perspective, of what this technology could mean for content creators. Is this something scary we should have posted about on Halloween or an opportunity for content marketers in the new decade?***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/shutterstock_300637061.jpg)
+![](/images/blog/8af097bf8cac.jpg)
 
 What are the hottest trends for marketing in 2020. AI? Personalization? The mythical 5G? Take a quick look back through the hottest trends of the past 10 years and you’ll see many of these repeated. One technology that is slowly gaining traction is marketing AI, especially the ability of machines to produce content. Machines have been producing content for a while in predictable categories like financial reporting and sports. How many ways can you describe a one-on-one baseball game or a standard earnings report from a Fortune 500 company? If you have the basic data, a story can be created.
 

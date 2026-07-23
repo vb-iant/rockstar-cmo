@@ -6,7 +6,7 @@ excerpt: "No business can afford to ignore how increasingly diverse we are. Wend
 excerptGenerated: false
 author: "Wendy Bryant-Beswick"
 authorSlug: "wendy-bryant-beswick"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png"
+image: "/images/blog/a36c32f4287f.png"
 categories: ["the-people-are-people-issue"]
 needsReview: []
 sourceId: "4211"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/diversity-not-just-a-party-invite-its-inclus
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/08/shutterstock_673917796.jpg)
+![](/images/blog/2b0603257c17.jpg)
 
 When you see brilliant marketing, it speaks to everyone. It’s real, and strikes a chord with the many instead of the few. Diversity is more than sex, race and gender - it encompasses a variety of life experiences including education, background, nationality and many other factors. To reach real people, marketers must stop using model-like imagery and cookie-cutter personas, and remember we are marketing to real people, who are extremely varied.
 

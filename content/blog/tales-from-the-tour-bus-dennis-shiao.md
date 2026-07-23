@@ -6,7 +6,7 @@ excerpt: "Known by his Twitter fans for his passion for content marketing, expre
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/247c71f0c83e0624b891f98515b65559_400x400.png"
+image: "/images/blog/d68fbde458f0.png"
 categories: ["tales-from-the-tour-bus", "the-think-about-it-issue"]
 needsReview: []
 sourceId: "4002"
@@ -19,7 +19,7 @@ sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-dennis-shiao/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/highres_234298622.png)
+![](/images/blog/48970476953f.png)
 
 #### **Hi Dennis, tell us about your current gig**
 
@@ -160,7 +160,7 @@ to collaborate, I’d love to hear from you!
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/247c71f0c83e0624b891f98515b65559_400x400.png)
+![](/images/blog/d68fbde458f0.png)
 
 Dennis is an independent marketing consultant who works with brands on content marketing, product messaging, and social media marketing. Formerly, Dennis led the content marketing function at DNN Software. Dennis curates an [email newsletter called Content Corner](https://us16.campaign-archive.com/home/?u=016564b34de5c9577c2ab2f47&id=363cda5b86) and publishes [marketing-related content on Medium](https://medium.com/@dshiao).
 

@@ -6,7 +6,7 @@ excerpt: "Robert Rose takes a look at how technology will impact the way we craf
 excerptGenerated: false
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Robert-Rose-1-1.jpg"
+image: "/images/blog/3034b21c903d.jpg"
 categories: ["ok-computer"]
 needsReview: []
 sourceId: "1095"

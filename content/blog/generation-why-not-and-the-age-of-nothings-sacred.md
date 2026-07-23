@@ -6,7 +6,7 @@ excerpt: "Lazy. Self-entitled. Unfocused. The youth of today get a lot of slack.
 excerptGenerated: false
 author: "Darren Garnaccia"
 authorSlug: "darren-garnaccia"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/08/shutterstock_772424488-1-e1546096122777.jpg"
+image: "/images/blog/69adcd5e7bc7.jpg"
 categories: ["seat-at-the-table"]
 needsReview: []
 sourceId: "1165"

@@ -6,7 +6,7 @@ excerpt: "Welcome to The Sample, where we whirl the dial on the interwebs, hit r
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/square-dial.jpg"
+image: "/images/blog/9d82ba78c67e.jpg"
 categories: ["the-club-classics-volume-one-issue", "the-sample"]
 needsReview: []
 sourceId: "5753"
@@ -17,13 +17,13 @@ sourceUrl: "https://rockstarcmo.com/the-sample-keep-on-movin/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/01/shutterstock_1460422772.jpg)
+![](/images/blog/d9763986c67e.jpg)
 
 ## Are we there yet?
 
 The first article I'd like you to take a look at is by Robert Rose, a resident here at Rockstar CMO, but also The Chief Trouble Maker at [The Content Advisory](https://contentadvisory.net/) and in his wonderful article [Are We There Yet?](https://contentadvisory.net/are-we-there-yet/) he talks about patience, something we probably all need a little of as life gets uncertain. [[ Read more ]](https://contentadvisory.net/are-we-there-yet/)
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/06/Robert-Rose.jpg)
+![](/images/blog/c46f341a8f83.jpg)
 
 > Patience isn’t just waiting for things to get better. It’s not a psychological game of grin and bear it. It’s not suppression. **Patience is a power, an art, that gives you an advantage when practiced well**
 
@@ -43,7 +43,7 @@ Speaking of resident Rockstar CMO contributors, over on [his own blog](https://t
 
 I admit, this article is a month old, but it's still fresh and relevant as we look to pull up from the economic impact of the crisis. It's by Pete Morgan, Vice President, Demand at [Metia](https://www.metia.com/), who [we've chatted to here](https://rockstarcmo.com/tales-from-the-tour-bus-pete-morgan-metia/) on Rockstar CMO and it's posted on their blog. He cites various sources of research that point to the value of marketing in a recession. I personally liked the quote below he pulled from the IPA. [[Read more ]](https://www.metia.com/blog/beyond-covid-19-what-comes-next-marketing-in-a-recession/)
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/02/88_head_petemorgan-e1581091367423.jpg)
+![](/images/blog/ba8bd5da8a50.jpg)
 
 > The opportunity for marketers was elegantly stated by the Institute of Practitioners in Advertising (IPA) in a recent advert in the Financial Times: “When others go quiet your voice gets louder”.
 

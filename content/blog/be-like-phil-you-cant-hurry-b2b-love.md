@@ -6,7 +6,7 @@ excerpt: "As we give thanks in this holiday issue, Dennis Shiao shares a B2B cus
 excerptGenerated: false
 author: "Dennis Shiao"
 authorSlug: "dennis-shiao"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/11/shutterstock_1723755508-1-e1606752948614.jpg"
+image: "/images/blog/a5a8db501d0c.jpg"
 categories: ["the-come-together-issue"]
 needsReview: []
 sourceId: "6184"
@@ -15,11 +15,11 @@ sourceUrl: "https://rockstarcmo.com/be-like-phil-you-cant-hurry-b2b-love/"
 
 ***As we give thanks in this holiday issue, Dennis Shiao shares a B2B customer experience lesson he's learned from Phil. No, not Phil Collins, but a roofer called Phil***.
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/11/shutterstock_1723755508.jpg)
+![](/images/blog/f5ba1d5c4cc4.jpg)
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/06/dennis.jpeg)
+![](/images/blog/288f71ec3333.jpg)
 
 This Fall, I had some work done on the roof of my house to repair leaks. I’m grateful for the customer experience provided by my roofer, Phil.
 

@@ -6,7 +6,7 @@ excerpt: "Every rock hero stands on the shoulders of giants: think Prince’s de
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Hall_of_Fame_for_Great_Americans-e1545817682347.jpg"
+image: "/images/blog/5465841d8c44.jpg"
 categories: ["london-calling"]
 needsReview: []
 sourceId: "1741"

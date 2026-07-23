@@ -6,7 +6,7 @@ excerpt: "We welcome a new writer, Theresa Michelle to the Rockstar CMO penthous
 excerptGenerated: false
 author: "Theresa Michelle"
 authorSlug: "theresa-michelle"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/analytics-3088958_960_720-1-e1556194405478.jpg"
+image: "/images/blog/b583205fc4ff.jpg"
 categories: ["the-changesbowie-issue", "the-martech-mix-desk"]
 needsReview: []
 sourceId: "3547"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/bad-for-business-automation-will-remove-huma
 
 ***We welcome a brand new writer, Theresa Michelle to the Rockstar CMO penthouse, inspired by [Ted Rubin](https://rockstarcmo.wpengine.com/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care/) she continues the theme from [The Ghost in the Machine Issue](https://rockstarcmo.wpengine.com/the-ghost-in-the-machine-issue/), suggesting that all this automation is actually bad for business.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/analytics-3088958_960_720.jpg)
+![](/images/blog/eb6faa2ea3c2.jpg)
 
 It’s no secret that automation has the potential to remove human interaction from business deals. Automation through artificial intelligence (AI), the Internet of Things (IoT) technology, robotics, telematics, and other dominating technologies are bound to increase efficiency in a number of vital, global industries. But at what cost?
 

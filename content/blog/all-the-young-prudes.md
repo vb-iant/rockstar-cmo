@@ -6,7 +6,7 @@ excerpt: "Today, youths are ridiculed for their overwhelmingly realistic and sen
 excerptGenerated: false
 author: "Amie Knights"
 authorSlug: "amie-knights"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/08/shutterstock_619927808-e1546095207965.jpg"
+image: "/images/blog/fe5572851a69.jpg"
 categories: ["seat-at-the-table"]
 needsReview: []
 sourceId: "1179"

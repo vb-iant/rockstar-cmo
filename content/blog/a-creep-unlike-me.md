@@ -6,7 +6,7 @@ excerpt: "Marketing consultant, journalist and editor Morag Cuddeford-Jones on h
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/pawel-czerwinski-713956-unsplash-1-e1551360164401.jpg"
+image: "/images/blog/bd302ff5d8ea.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []
 sourceId: "3302"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/a-creep-unlike-me/"
 
 **Marketing consultant, journalist and editor Morag Cuddeford-Jones on how to avoid being both creepy and stalkerish, and to instead use invisible personalization to smash your loftiest customer experience goals.**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/pawel-czerwinski-713956-unsplash-1024x683.jpg)
+![](/images/blog/f7c02e86f5e1.jpg)
 
 Which is worse – a creep or a
 stalker? On the one hand, the creep makes your skin crawl but at least you know

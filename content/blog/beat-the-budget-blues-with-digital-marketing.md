@@ -6,7 +6,7 @@ excerpt: "Right now businesses are really feeling the pinch, and many are going 
 excerptGenerated: false
 author: "Carmine Mastropierro"
 authorSlug: "carmine-mastropierro"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/06/joel-vogt-yT57ReRgk-g-unsplash-1-scaled-e1591033464580.jpg"
+image: "/images/blog/ee2d92abcaf6.jpg"
 categories: ["the-club-classics-volume-one-issue"]
 needsReview: []
 sourceId: "5751"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/beat-the-budget-blues-with-digital-marketing
 
 ***Right now businesses are really feeling the pinch, and many are going under. For ***experienced copywriter*** Carmine Mastropierro, when [money’s too tight to mention](https://www.youtube.com/watch?v=DrUB0g8Vjgg), there’s little point spending it frivolously. A focus on digital marketing might help see you through.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/06/joel-vogt-yT57ReRgk-g-unsplash-1024x683.jpg)
+![](/images/blog/2a9fd1e25852.jpg)
 
 ---
 

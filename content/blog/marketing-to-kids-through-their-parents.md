@@ -6,7 +6,7 @@ excerpt: "Photofy CEO – and father – John Andrews on why parents banning the
 excerptGenerated: false
 author: "John Andrews"
 authorSlug: "john-andrews"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/06/120716_20PICZ-0060-e1546105729749.jpg"
+image: "/images/blog/4d23d7c818ce.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []
 sourceId: "1174"

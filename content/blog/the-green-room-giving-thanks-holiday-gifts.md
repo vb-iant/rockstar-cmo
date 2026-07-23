@@ -6,7 +6,7 @@ excerpt: "It's been a crazy year, find out what our rocks star CMOs have found t
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/11/shutterstock_1061601521-1-e1606764501588.jpg"
+image: "/images/blog/fe5d7138cc64.jpg"
 categories: ["the-come-together-issue", "the-green-room"]
 needsReview: []
 sourceId: "6224"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-giving-thanks-holiday-gifts/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/11/shutterstock_1061601521.jpg)
+![](/images/blog/ec0474539292.jpg)
 
 The Geen Room, where each month we go through the velvet rope to catch-up with the CMO's we've spent time with during our Backstage Q&A series. We hang out, not just because the drinks are free, but to ask a question relevant to our theme.
 
@@ -31,7 +31,7 @@ Best advice: marketing "the hard way" – the way no one wants to do it, the one
 
 I'm thankful for you and every other lovely human who has selflessly, spontaneously and in many cases, surprisingly lifted my little-engine-that-could up in ways I wouldn't have imagined. How will I ever hug the entire "village" that it continues to take for their collective kindness?
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/katiebc.jpeg)
+![](/images/blog/56ca4424fd4b.jpg)
 
 *Kate Bradley Chernis is the Founder & CEO of [Lately](https://trylately.com/), which uses Artificial Intelligence to automatically transform blogs, videos and podcasts into dozens of amazing social posts.*
 
@@ -45,7 +45,7 @@ I'm thankful for you and every other lovely human who has selflessly, spontaneou
 
 Our marketing team pushed through so much COVID support to our membership throughout the year, and our credit union waived fees and created 0% loans helping consumers and small businesses get the help they needed.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png)
+![](/images/blog/a36c32f4287f.png)
 
 *Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*
 
@@ -61,7 +61,7 @@ Marketing Technology and, in particular, eCommerce saw enhanced growth due to or
 
 My tip would be to build an organization and marketing department that is digitally savvy, data-driven, and able to respond fast to changing situations. This translates into the right people, processes, and technology. The right combination of this and you will have a team that is able to cope with almost any situation.
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/20200826_052112982_iOS-1-scaled-e1599570387990-1024x1024.jpg)
+![](/images/blog/85ea173e8db5.jpg)
 
 *Eric Jan van Putten is VP Marketing at Dynamicweb. Eric’s experience over the last 15 years ranges from field marketing to marketing operations to leading marketing in international software vendor companies*
 
@@ -87,7 +87,7 @@ Insight is invaluable to us because it tells us about behaviour and why humans a
 
 It’s been a tough year for everyone, that’s for sure! I am thankful that I finally got to tick something on my bucket list – publishing my first book on customer insight strategies. Delayed for several months due to COVID, but I got there in the end. I’m enormously grateful to the 33 marketing practitioners and academics who generously gave up their time to share their expert opinions and case studies, as well as the 9 people who read and reviewed the book. A big thank you to them all!
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing. Christine is also the author of [Customer Insight Strategies](https://www.koganpage.com/product/customer-insight-strategies-9781789662504)*.
 

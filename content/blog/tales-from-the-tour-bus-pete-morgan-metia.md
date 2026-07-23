@@ -6,14 +6,14 @@ excerpt: "Global agency Metia recently published some new research “B2B market
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/02/88_head_petemorgan-e1581091367423.jpg"
+image: "/images/blog/ba8bd5da8a50.jpg"
 categories: ["tales-from-the-tour-bus", "the-features-creatures-issue"]
 needsReview: []
 sourceId: "5224"
 sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-pete-morgan-metia/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/88_head_petemorgan-e1581091367423.jpg)
+![](/images/blog/ba8bd5da8a50.jpg)
 
 ***Global agency [Metia](https://www.metia.com/) recently published research on what we should watch in 2020 called “[B2B marketing trends for 2020, Six essential trends for the curious CMO](https://info.metia.com/b2b-marketing-trends-for-2020).”***
 
@@ -71,7 +71,7 @@ sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-pete-morgan-metia/"
 
 *Brand purpose is a particular bugbear. The idea that brands which have a declared purpose beyond profit outperform those who don't was empirically disproved several years ago. If your business is genuinely built upon a purpose besides profit then great, but trying to reverse engineer a connection won’t work. Some marketers seem ashamed of the business of selling, in which case they’ve chosen the wrong career.*
 
-![Image result for pete morgan metia](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/image.jpeg)
+![Image result for pete morgan metia](/images/blog/c696fa82dfff.jpg)
 
 **YES!! Finally - where can folks find the report and more from you?**
 

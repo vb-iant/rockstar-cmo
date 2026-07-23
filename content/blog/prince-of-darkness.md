@@ -6,7 +6,7 @@ excerpt: "Marketers are in a flap: private messaging platforms are on the rise, 
 excerptGenerated: false
 author: "Dave Waller"
 authorSlug: "dave-waller"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/matthew-henry-87142-unsplash.jpg"
+image: "/images/blog/9c998ec4706a.jpg"
 categories: ["sound-check"]
 needsReview: []
 sourceId: "883"

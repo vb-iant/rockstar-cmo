@@ -6,7 +6,7 @@ excerpt: "A roundup of what's been happening on the podcast this month, with som
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/Rockstar-CMO-FM-Promo-1.png"
+image: "/images/blog/424533e68e64.png"
 categories: ["the-miseducation-of-lauryn-hill-issue"]
 needsReview: ["shortcode:buzzsprout", "reusable_block_ref"]
 sourceId: "5873"
@@ -21,7 +21,7 @@ Back in January, we asked; ***does the world need another f’in marketing podca
 
 So, maybe the world didn't "need" another marketing podcast, but with our great guests we continue to grow, and here are some highlights of who we've spoken to since the last issue.
 
-[![](https://rockstarcmo.com/wp-content/uploads/2020/07/rockstar-cmo-fm-promo-IT-1024x536.png)](https://rockstarcmo.com/category/podcast/)
+[![](/images/blog/ab1bc65eba12.png)](https://rockstarcmo.com/category/podcast/)
 
 ---
 

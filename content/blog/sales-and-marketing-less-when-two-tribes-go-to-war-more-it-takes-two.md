@@ -6,7 +6,7 @@ excerpt: "The \"leads are weak\" the sales lead singer laments to the marketing 
 excerptGenerated: false
 author: "Lauren Bowden"
 authorSlug: "lauren-bowden"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/0.jpeg"
+image: "/images/blog/42a3c56b7784.jpg"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: ["raw_html_block", "iframe"]
 sourceId: "4430"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/sales-and-marketing-less-when-two-tribes-go-
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/shutterstock_368652632.jpg)
+![](/images/blog/a29518bc89bf.jpg)
 
 All sorts of partnerships can be formed to accelerate business – whether it be to leverage resources, talent, or market access if a win-win relationship is there, partnerships can be a no-brainer. Many organizations invest heavily in devising and nurturing programs to keep these collaborations fruitful. But there is one partnership that doesn’t get such treatment in many an organization and is in some cases woefully neglected - the on-going dysfunctional relationship between marketing and sales.
 
@@ -61,11 +61,11 @@ want that?
 Toolbox Creative also assert that the model
 should look less like this:
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/partner-blog-1.png)
+![](/images/blog/4bf884ad1dd3.png)
 
 And more like this:
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/partner-blog-2.png)
+![](/images/blog/d714bc3380cd.png)
 
 The benefits of this kind of model are clear. Chucking a lead over the wall – no matter how “qualified” it is – without knowing what happens along the way is useless. Win or lose, the more intelligence marketing has about a sale, the better. Not just to attract a stream of new customers but the kind of invaluable information a salesperson can get from signing a renewal an up-sell or a cross-sell is gold dust for marketers working on customer loyalty programs.
 

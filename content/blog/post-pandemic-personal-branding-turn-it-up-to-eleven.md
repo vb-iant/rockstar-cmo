@@ -6,7 +6,7 @@ excerpt: "Personal branding expert Jane Scandurra shares 3 tips to turn your per
 excerptGenerated: false
 author: "Jane Scandurra"
 authorSlug: "jane-scandurra"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/06/shutterstock_1471011434-1-scaled-e1591037143836.jpg"
+image: "/images/blog/e3ed13b46210.jpg"
 categories: ["the-club-classics-volume-one-issue", "top-10", "top-10-2020"]
 needsReview: ["embed_block"]
 sourceId: "5795"

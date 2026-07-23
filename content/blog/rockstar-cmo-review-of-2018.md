@@ -6,7 +6,7 @@ excerpt: "If you've visited before, you'll see we've entered the new year with a
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/jeshoots-com-490731-unsplash-1-e1546356877802.jpg"
+image: "/images/blog/75a5066888bb.jpg"
 categories: ["featured"]
 needsReview: []
 sourceId: "2881"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/rockstar-cmo-review-of-2018/"
 
 **If you've visited before, you'll see we've entered the new year with a fresh new look and as we combed through our first 10 issues, we thought this was a great opportunity to reflect and celebrate the fantastic folks that have contributed to our community in 2018.**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/jeshoots-com-490731-unsplash-1024x683.jpg)
+![](/images/blog/370df5efe0fe.jpg)
 
 ## Cheers to 2018!
 
@@ -23,7 +23,7 @@ We started in March, with an aim to provide something a bit different, to grow a
 
 We have gone [backstage](/backstage) with 13 marketing rockstars, commissioned over 30 fantastic long form articles from our journalists, shared the 'marketing street knowledge' of a dozen practitioners who have been there, seen it, done it and from a standing start, thousands of visitors have dropped by.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/profile-500x500.jpg)
+![](/images/blog/ba6004b18f36.jpg)
 
 Thank you for your support, here are some of my highlights from the last year.
 
@@ -33,7 +33,7 @@ Hope you have a happy and prosperous 2019, from all of us at Rockstar CMO.
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg)
+![](/images/blog/f04796e0e527.jpg)
 
 ## Ted Rubin
 
@@ -45,7 +45,7 @@ Only one place to start with a roundup of 2018, our resident Rockstar who has su
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/mullen_passport.hi_res-684x1024.jpg)
+![](/images/blog/0792b0b4f2d2.jpg)
 
 ## Chatbots. Seriously, why is this a big deal now? We’ve been using chatbots for over 15 years. People! Catch up!
 
@@ -55,7 +55,7 @@ Jeanniey Mullen introduced us to her vision of cobots...
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/0-1.jpeg)
+![](/images/blog/a8a25771648f.jpg)
 
 ## "Mandatory weekly karaoke team building exercises"
 
@@ -65,7 +65,7 @@ We have some fantastic suggestions on our [Rockstar CMO Rider,](https://rockstar
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/10/rosie-kerr-780185-unsplash-e1545846806343-1024x1024.jpg)
+![](/images/blog/800ead7a5f26.jpg)
 
 ## The Swimming Pool
 
@@ -79,7 +79,7 @@ It's hard to decide a favorite, but inspired by [Jenni Young](/jenni-young), the
 
 This has been the heart of Rockstar CMO in 2018, not the quick blog posts and listicles you get elsewhere, but long form articles written by journalists from outside our goldfish bowl. Here are three of my favorites:
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/05/Image-2-Transparency-e1546190281895-1024x1024.jpg)
+![](/images/blog/b67f54fa9739.jpg)
 
 #### [Stark Bollock Naked](https://rockstarcmo.wpengine.com/stark-bollock-naked/)**.**
 
@@ -87,7 +87,7 @@ This has been the heart of Rockstar CMO in 2018, not the quick blog posts and li
 
 [[ READ MORE ]](https://rockstarcmo.wpengine.com/stark-bollock-naked/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/04/848A8963-e1546193641845-1024x1024.jpg)
+![](/images/blog/2ae80f0728b5.jpg)
 
 #### [Diversify (the Right Way)..](https://rockstarcmo.wpengine.com/diversify-the-right-way-or-die/)
 
@@ -95,7 +95,7 @@ This has been the heart of Rockstar CMO in 2018, not the quick blog posts and li
 
 [[ READ MORE ]](https://rockstarcmo.wpengine.com/diversify-the-right-way-or-die/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/07/thom-masat-718630-unsplash-e1546170084193-1024x1024.jpg)
+![](/images/blog/cd57ba771afd.jpg)
 
 #### [Selling Death Row](https://rockstarcmo.wpengine.com/selling-death-row/)
 
@@ -105,7 +105,7 @@ This has been the heart of Rockstar CMO in 2018, not the quick blog posts and li
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/09/robert-rose-e1546086041492-1024x1024.jpg)
+![](/images/blog/72baf2269e7d.jpg)
 
 ## Yes, You Better be a F\*\*king Storyteller
 
@@ -115,7 +115,7 @@ My content marketing hero Robert Rose responding to some cynicism about the term
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/Christine-crop-768x1024.jpg)
+![](/images/blog/62fbd2207b5e.jpg)
 
 ## Christine's Gifts
 
@@ -127,7 +127,7 @@ Seven of our Rockstar CMO's offered the world of marketing holiday gifts from th
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/michelle_featured_image.png)
+![](/images/blog/2c9fe7e02d18.png)
 
 ## Backstage
 
@@ -145,9 +145,9 @@ But.. the most recent with L.Michelle Smith gave me an excuse to drop some LL Co
 
 Aside from our contributors and writers, thanks also to our sponsor [censhare AG](http://censhare.com) and a special mention to [Photofy](http://photofy.com), who do not officially sponsor this publication, but thanks to CEO [John Andrews](/john-andrews) and VP of Marketing [Casey Petersen](/casey-petersen) for their contribution.
 
-[![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/censhareGrey-450_feature.png)](http://censhare.com)
+[![](/images/blog/4ed83cbe5ea7.png)](http://censhare.com)
 
-[![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/V-Photofy-logo.png)](http://photofy.com)
+[![](/images/blog/2e227285b9f4.png)](http://photofy.com)
 
 ---
 

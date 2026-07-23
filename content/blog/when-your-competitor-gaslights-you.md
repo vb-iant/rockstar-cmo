@@ -6,7 +6,7 @@ excerpt: "Ever been badmouthed, undermined or falsified? Robert Rose shares some
 excerptGenerated: false
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/robert-rose-e1546086062766.jpg"
+image: "/images/blog/545e4c3a6a30.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []
 sourceId: "874"

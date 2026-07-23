@@ -6,14 +6,14 @@ excerpt: "Influencers are the hot topic of marketing right now, but Ted Rubin ha
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/05/shutterstock_659662009-e1558870005658.jpg"
+image: "/images/blog/71efe437cd9b.jpg"
 categories: ["the-invasion-of-privacy-issue"]
 needsReview: []
 sourceId: "3704"
 sourceUrl: "https://rockstarcmo.com/good-influencer-marketing-and-measurement/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/05/shutterstock_659662009-1.jpg)
+![](/images/blog/151e1393f58c.jpg)
 
 ***Influencers are the hot topic of marketing right now, but Ted Rubin has always believed in the value of relationships, in this article our resident Rockstar, one of the most shared CMOs on Twitter shares his experience...***
 

@@ -6,7 +6,7 @@ excerpt: "‘Tis the season to be shopping and Ted Rubin, our straight-talking r
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/11/ted-square.jpeg"
+image: "/images/blog/c0c928c0c9e7.jpg"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []
 sourceId: "4723"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/consumers-are-loyal-to-experience-not-brands
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/image1.jpeg)
+![](/images/blog/ef016a85abbb.jpg)
 
 Think about your favorite song or artist and consider why it's your favorite. Do you remember when you first heard it? Does it transport you back to a certain time in your life? It may not be the ‘best’ song you've ever heard on a technical level, but it means something unique to you because of the way that you experienced it. If you happened to be listening to a different song frequently at that important time in your life, perhaps that one would be your favorite instead.
 
@@ -83,6 +83,6 @@ prefer. **The store shelf is now wherever the consumer wants it to be.**
 
 The good news is that, when the experience is a consistently positive one, consumers are willing to speak up about that, too. Smart brands understand the influence that each consumer wields, and work to create an experience that causes consumers to use their influence in a positive way for the brand. A referral alone isn't close to enough to build brand loyalty, but it does provide the opportunity to show one more consumer why your *experience*is worth their loyalty.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/image0.jpeg)
+![](/images/blog/ad04a6be3d62.jpg)
 
 ---

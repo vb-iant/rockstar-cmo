@@ -6,7 +6,7 @@ excerpt: "This month, Ian Truscott is inspired by Wendy Bryant-Beswick, VP of Ma
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/aftab-chandsha-433315-unsplash-e1548930623167.jpg"
+image: "/images/blog/88d48006f2fe.jpg"
 categories: ["brand-new-thang", "the-swimming-pool"]
 needsReview: []
 sourceId: "3123"

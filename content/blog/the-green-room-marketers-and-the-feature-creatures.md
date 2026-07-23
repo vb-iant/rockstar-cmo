@@ -6,7 +6,7 @@ excerpt: "The Green Room, our excuse to do our best Colombo impression and ask \
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/02/green-room-square.png"
+image: "/images/blog/f1ddcde522d5.png"
 categories: ["the-features-creatures-issue"]
 needsReview: []
 sourceId: "5161"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-marketers-and-the-feature-cre
 
 ***The Green Room, our excuse to do our best Colombo impression and ask "Just one more thing" to the wonderful Rockstar marketers we've gone [backstage](https://rockstarcmo.wpengine.com/category/features/backstage/) with. This month in keeping with the theme, [The Features Creatures](https://rockstarcmo.wpengine.com/the-features-creatures-issue/), we chatted about marketings' relationship with product development.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/shutterstock_357947318.jpg)
+![](/images/blog/501a4783190e.jpg)
 
 ---
 
@@ -37,7 +37,7 @@ experience.
 
 Product design and development must be an integrated part of marketing today. A siloed approach will result in a product or service with little relevance to the needs of the market.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/06/120716_20PICZ-0060-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 
 *John Andrews is the head honcho at Photofy – a content creation app that enables users to transform ordinary photos into slick, professional images that can be easily shared on social platforms.*
 
@@ -68,7 +68,7 @@ launch/activation campaigns.
 
 Our firm belief is, independent of how you’re organized, content (especially) and promotional marketing and advertising roles need to be represented from the earliest days of product ideation and development. We should make sure all four Ps are developed together.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/Robert-Rose-1-1.jpg)
+![](/images/blog/3034b21c903d.jpg)
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
@@ -91,7 +91,7 @@ In reality, neither scenario is that black and white.  There’s a commercial d
 
 Similarly, if the product driver is too strong, you could over invest in a ‘perfect’ product when a lesser one is more commercially viable.  Ideally, product marketing should sit within the marketing function. But more importantly, the relationship between product and marketing needs to be as strong as the more traditional relationship between sales and marketing.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
@@ -101,7 +101,7 @@ Similarly, if the product driver is too strong, you could over invest in a ‘pe
 
 ## More from this issue
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/1447389246178.jpeg-1-e1551354115237.jpg)
+![](/images/blog/39fbb3339ce7.jpg)
 
 In [this article](https://rockstarcmo.wpengine.com/better-products-better-marketing-better-listen/) our resident Rockstar CMO Ted Rubin shares his advice about getting marketing involved early and the importance of re-evaluating a product with fresh eyes and he warns:
 

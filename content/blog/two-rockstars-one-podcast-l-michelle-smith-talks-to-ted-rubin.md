@@ -6,7 +6,7 @@ excerpt: "This month two of our favorite Rockstar CMOs got together, as L. Miche
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/aHR0cDovL2NvbnRlbnQuaWhlYXJ0LmNvbS90YWxrL2pwZy9zaG93LzEyLzMwMzc1NDk5LjE1NDY2MzMxNTAuanBn.jpeg"
+image: "/images/blog/de15fe49b53f.jpg"
 categories: ["brand-new-thang"]
 needsReview: ["raw_html_block", "iframe"]
 sourceId: "3171"
@@ -15,11 +15,11 @@ sourceUrl: "https://rockstarcmo.com/two-rockstars-one-podcast-l-michelle-smith-t
 
 **This month two of our favorite Rockstar CMOs got together, as** [**L. Michelle Smith**](https://rockstarcmo.wpengine.com/backstage-with-l-michelle-smith/) **welcomed** [**Ted Rubin**](https://rockstarcmo.wpengine.com/author/ted-rubin/) **to** [***The Culture Soup***](https://www.stitcher.com/podcast/l-michelle-smith/the-culture-soup-podcast/e/58237183) **podcast to talk personal branding. Here we share why we’re shouting for an encore.**
 
-[![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/aHR0cDovL2NvbnRlbnQuaWhlYXJ0LmNvbS90YWxrL2pwZy9zaG93LzEyLzMwMzc1NDk5LjE1NDY2MzMxNTAuanBn-1024x1024.jpeg)](https://lmichellesmith.com/podcast-2/)
+[![](/images/blog/e15e9f95f000.jpg)](https://lmichellesmith.com/podcast-2/)
 
 L. Michelle Smith – who recently sat down with me for a [Backstage Q&A](https://rockstarcmo.wpengine.com/backstage-with-l-michelle-smith/) – has launched [a podcast](https://lmichellesmith.com/podcast-2/), and it’s definitely worth a listen. As diverse as *The Cultural Soup* title suggests, each episode takes you on a new journey, whether it’s exploring the world of marketing tech start-ups,  standing in respect at Aretha Franklin’s funeral or taking a seat in the salon chair to hear about the pioneers of black hair care.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg)
+![](/images/blog/f04796e0e527.jpg)
 
 In this episode, Michelle invites Ted Rubin to her show. Listening to and then watching them was a joy ([you can view the uncut version on Youtube](https://www.youtube.com/watch?v=TjeD6xcNskk)), these guys clearly practice what they preach. Ted’s passion for relationships shines through, while Michelle’s wonderfully positive interpretation of the Internet – a place that has been so derided and misused recently – as ‘The Cultural Soup’ a place to bring these diverse relationships together, is refreshing.
 

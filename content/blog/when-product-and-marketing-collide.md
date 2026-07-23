@@ -6,7 +6,7 @@ excerpt: "Lauren Bowden, experienced B2B marketer shares her experience of the r
 excerptGenerated: false
 author: "Lauren Bowden"
 authorSlug: "lauren-bowden"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/02/lauren-bowden.jpeg"
+image: "/images/blog/42a3c56b7784.jpg"
 categories: ["the-features-creatures-issue"]
 needsReview: []
 sourceId: "5215"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/when-product-and-marketing-collide/"
 
 ***Lauren Bowden, experienced B2B marketer shares her experience of the relationship between product development and marketing, with some pragmatic advice to be Pragmatic.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/photo-1490111718993-d98654ce6cf7-1024x683.jpeg)
+![](/images/blog/4c2666ac6ec9.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ But for that to happen, clear communication about who is responsible for what ne
 
 Luckily there are organizations that are devoted to espousing the many benefits of solid product management/marketing collaboration. For me (channeling my favorite Bond theme) nobody does it better than the [Pragmatic Institute](https://www.pragmaticinstitute.com/). I would recommend its training courses and patented [Pragmatic Framework](https://www.pragmaticinstitute.com/framework) to anyone interested in this topic, or in fact anyone who has a product or service they would like to take to market… so that’ll be any business then.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/image.png)
+![](/images/blog/bc83f96e6c6b.png)
 
 Pragmatic Framework
 

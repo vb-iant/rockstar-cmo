@@ -6,7 +6,7 @@ excerpt: "Ian Truscott catches up with six of Rockstar CMOs and asks for their v
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/03/green-room-promo-square.png"
+image: "/images/blog/8f683a87c4c6.png"
 categories: ["the-ghost-in-the-machine-issue", "the-green-room", "the-martech-mix-desk"]
 needsReview: []
 sourceId: "3431"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-the-rise-of-the-marketing-mac
 
 ***Each month in the Green Room we return backstage to pose a question to a group of our Rockstar CMOs. In this issue Ian Truscott catches up with six of them and, sticking to the [Ghost in the Machine](https://rockstarcmo.wpengine.com/the-ghost-in-the-machine-issue) theme for this issue, asks for their view on whether tech has been a force for good for marketing.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/shutterstock_300637061.jpg)
+![](/images/blog/8af097bf8cac.jpg)
 
 Maybe it’s because my teenage kids were curious about where all the Terminator derived memes come from, leading to our Friday movie and pizza nights being dominated by a Arnie and a human purging dystopia ruled by the machines, but in the Green Room this issue we've been thinking about marketing tech.
 
@@ -36,7 +36,7 @@ Without a doubt automation is the future, but how to embrace it?  I’m a great
 
 Most importantly, keep an open mind - sometimes we don’t even know we want something until it arrives!  On the practical side, have a discussion up front with IT about who is going to fund marketing technology.  More often than not, marketing technology is not regarded as a key business process and is therefore not provided for in the same way as a CRM or ERP system.  If the marketing budget has to accommodate marketing technology/tools, there’s an important trade-off to consider.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
 
@@ -48,7 +48,7 @@ The realization of the impact and potential of  both machine learning and AI ha
 
 Automation is allowing us to create the truly personalized, hyper targeted messaging that we have only dreamed of creating in the past, freeing our minds and teams to be even more creative about how we build brands for the future. What an exciting time!
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/mullen_passport.hi_res-684x1024.jpg)
+![](/images/blog/0792b0b4f2d2.jpg)
 
 *Jeanniey Mullen is clearly a Rockstar Marketer in demand, currently acting as the CMO for two companies, is on two CMO governing bodies, is a board member, a strategic advisor, author of three books and the Internet Marketing Association’s Networker of the Year.*
 
@@ -65,7 +65,7 @@ some instagram worthy Caribbean beach.
 
 The reality is much different. Over-saturation of messaging has sent shoppers running for cover as they are inundated with incessant emails, retargeted ads and noise of all types. How many well-meaning brands send an email to their 'valued customers' every single day? Many do and even one is ridiculous. In the aggregate, third-party data is all the same with any 'unique insights' quickly exploited with diminishing returns. The brands that win the #retailrelevancy test of the future will build real relationships that are not quantified by a mailing list.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/06/120716_20PICZ-0060-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 
 *John Andrews is the head honcho at Photofy – a content creation app that enables users to transform ordinary photos into slick, professional images that can be easily shared on social platforms.*
 
@@ -104,7 +104,7 @@ shipwreck.  But, it’s just a matter of changing perspective, and slowing
 down.  What’s next is (I believe) a move toward the more creative,
 expressive, and – the word I like to use – wise use of technology.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/09/robert-rose-e1546086041492-1024x1024.jpg)
+![](/images/blog/72baf2269e7d.jpg)
 
 *As the Chief Strategy Advisor for the*[*Content Marketing Institute*](http://contentmarketinginstitute.com/)*, Robert innovates creative and technical content marketing strategies for his clients. An early internet pioneer, Robert has more than 15 years of experience, and a track record of helping brands and businesses develop successful web and content marketing strategies.*
 
@@ -132,7 +132,7 @@ replacing the human element.
 Customer Experience and Marketing will truly WIN when Humans control the
 Machines instead of the Machines controlling the Humans.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg)
+![](/images/blog/f04796e0e527.jpg)
 
 *Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits, speaker, author and provocateur. Ted is our resident rock star and tells it straight in his*[*regular column*](https://rockstarcmo.wpengine.com/author/ted-rubin/)*.*
 
@@ -146,7 +146,7 @@ The evolution of marketing automation should be to anticipate the needs of their
 
 Given new privacy and data regulations, marketing automation has to evolve to establishing trust with the customer which is crucial to future success.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png)
+![](/images/blog/a36c32f4287f.png)
 
 *Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)*.﻿*
 

@@ -6,7 +6,7 @@ excerpt: "What’s the key to an unwavering marketing focus? Our resident Rockst
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-at-Laptop-questioning-e1545650103660.jpg"
+image: "/images/blog/0e4109888ad3.jpg"
 categories: ["the-martech-mix-desk", "the-think-about-it-issue"]
 needsReview: []
 sourceId: "3983"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/beware-automation/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/shutterstock_175821881.jpg)
+![](/images/blog/fcf901aec67d.jpg)
 
 There are plenty of marketing tools that promise more than they can deliver... and truthfully more than you should want to deliver with a "tool".
 

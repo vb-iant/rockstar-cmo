@@ -6,7 +6,7 @@ excerpt: "Ian Truscott sat down with John Andrews, head honcho at Photofy – an
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/06/120716_20PICZ-0060-e1546105729749.jpg"
+image: "/images/blog/4d23d7c818ce.jpg"
 categories: ["backstage", "ok-computer"]
 needsReview: []
 sourceId: "803"

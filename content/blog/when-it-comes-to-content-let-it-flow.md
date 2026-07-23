@@ -6,7 +6,7 @@ excerpt: "Paid, owned and earned – it’s a very neat wrap up of how brands sh
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/actionvance-744657-unsplash.jpg"
+image: "/images/blog/bcf912db7902.jpg"
 categories: ["brand-new-thang"]
 needsReview: []
 sourceId: "3106"

@@ -6,7 +6,7 @@ excerpt: "Personal branding expert, Jane Scandurra, has been our font of knowled
 excerptGenerated: false
 author: "Jane Scandurra"
 authorSlug: "jane-scandurra"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/J-Scandurra-Headshot-e1561794109201.jpg"
+image: "/images/blog/8c57e5f1acb9.jpg"
 categories: ["street-knowledge", "the-youve-come-a-long-way-baby-issue"]
 needsReview: []
 sourceId: "6297"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/words-matter-the-unintended-consequences-of-
 
 ***Personal branding expert, Jane Scandurra, has been our font of knowledge and rockstar life coach for how we've coped with the pandemic and all that 2020 has thrown at us. In this article, she focuses on the words that have summarized 2020, and most of all the specter of being "non-essential".***
 
-![](https://rockstarcmo.com/wp-content/uploads/2021/01/shutterstock_1620213991.jpg)
+![](/images/blog/55b0470783ca.jpg)
 
 ---
 

@@ -6,7 +6,7 @@ excerpt: "Having been following the direct opinions and observations of this fra
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/09/download-1.jpeg"
+image: "/images/blog/979e11855113.jpg"
 categories: ["backstage", "the-one-nation-under-a-groove-issue"]
 needsReview: []
 sourceId: "4399"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-j-robert-slaughter/"
 
 ***Having been following the direct opinions and observations of this fractional CMO, veteran marketing & sales strategist and practitioner, we had to sit down with J.Robert Slaughter and learn more.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/download.jpeg)
+![](/images/blog/979e11855113.jpg)
 
 Robert has spent his career advising global enterprise organizations to plan, execute and scale revenue growth programs and frameworks. Recognized marketing & sales enablement thought leader with numerous articles published regarding account-based marketing, demand generation and social marketing strategies.
 
@@ -88,7 +88,7 @@ words before you drop the mic?**
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/1_mJyZ3p4PllIh3O_calFGGA.jpeg)
+![](/images/blog/34153248ae65.jpg)
 
 #### J.Robert Slaughter
 

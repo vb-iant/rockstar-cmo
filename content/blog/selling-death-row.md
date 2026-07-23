@@ -6,7 +6,7 @@ excerpt: "It's the dilemma every marketer faces sooner or later: is it right to 
 excerptGenerated: false
 author: "Dave Waller"
 authorSlug: "dave-waller"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/07/thom-masat-718630-unsplash-e1546170113539.jpg"
+image: "/images/blog/9306b6762cfd.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []
 sourceId: "976"

@@ -6,7 +6,7 @@ excerpt: "Ian Lowe, VP of Marketing for global SaaS WCM vendor Crownpeak popped 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/0-4.jpeg"
+image: "/images/blog/41add14f75b0.jpg"
 categories: ["backstage", "the-changesbowie-issue"]
 needsReview: []
 sourceId: "3649"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-ian-lowe/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/0-4.jpeg)
+![](/images/blog/41add14f75b0.jpg)
 
 #### **What would be top of your rider for your next marketing gig?**
 

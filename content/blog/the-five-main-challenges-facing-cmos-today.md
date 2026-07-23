@@ -6,7 +6,7 @@ excerpt: "From employee advocacy to peak data, Ted Rubin lays down the big chall
 excerptGenerated: true
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-Rubin-e1545645433398.jpg"
+image: "/images/blog/4fb8b2ef4554.jpg"
 categories: ["thriller"]
 needsReview: []
 sourceId: "917"

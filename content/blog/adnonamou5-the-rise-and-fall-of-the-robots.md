@@ -6,7 +6,7 @@ excerpt: "Marketing is ushering in an army of robots and the anonymous advertise
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-features-creatures-issue"]
 needsReview: []
 sourceId: "5153"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/adnonamou5-the-rise-and-fall-of-the-robots/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/shutterstock_175821881.jpg)
+![](/images/blog/fcf901aec67d.jpg)
 
 This interesting blog article cites the marketing automation vendor SharpSpring’s Investor Presentation Jan 2019 and states that the US Marketing Automation Software industry was a $6.1B market in 2019 and is growing 20%+ annually.
 

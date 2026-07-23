@@ -6,7 +6,7 @@ excerpt: "As The Dandy Warhols sang in the late 1990s, “Heroin is so passé”
 excerptGenerated: false
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/record-1-e1545501468144.jpg"
+image: "/images/blog/10dfe4d7aa72.jpg"
 categories: ["features-2", "we-are-family"]
 needsReview: []
 sourceId: "610"

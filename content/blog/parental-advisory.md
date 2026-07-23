@@ -6,7 +6,7 @@ excerpt: "When the sweary, sarcastic Deadpool crashed into our cinemas in 2016, 
 excerptGenerated: false
 author: "Stephen Kelly"
 authorSlug: "stephen-kelly"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/07/Image_1_Deadpool-1-e1546174733605.png"
+image: "/images/blog/2778df857625.png"
 categories: ["straight-outta-compton"]
 needsReview: ["embed_block"]
 sourceId: "1022"

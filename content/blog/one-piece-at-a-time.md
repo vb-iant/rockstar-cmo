@@ -6,7 +6,7 @@ excerpt: "Keith Smith, an expert on the drums of new business, is inspired by th
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790489825.jpg"
+image: "/images/blog/7dd93fd70b3d.jpg"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: []
 sourceId: "4391"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/one-piece-at-a-time/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/shutterstock_649957096.jpg)
+![](/images/blog/898fa838dac8.jpg)
 > ***“Now the headlight was another sight***
 >
 > ***We had two on the left and one on the right***

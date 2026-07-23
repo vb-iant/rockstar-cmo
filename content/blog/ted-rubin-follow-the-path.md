@@ -6,7 +6,7 @@ excerpt: "Photofy CMO, MC/Host of Brand Innovators Summits, and Co-Founder of Pr
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/photo-1447117219916-d8cb5f373434-e1546191679607.jpeg"
+image: "/images/blog/6671507a6440.jpg"
 categories: ["project-funk-da-world"]
 needsReview: []
 sourceId: "953"

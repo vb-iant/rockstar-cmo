@@ -6,7 +6,7 @@ excerpt: "It's clear, our brand, service and value are in the hands of everyone 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/green-room.png"
+image: "/images/blog/f978d49227b7.png"
 categories: ["employee-engagement", "the-green-room", "the-inside-in-inside-out-issue"]
 needsReview: []
 sourceId: "3887"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-amplify-the-sound-turn-collea
 
 ***It's clear, our brand, service and value are in the hands of everyone in a business. In the Green Room this month we sit down with eight of our Rockstar CMOs and ask them how they approach getting employees engaged, in sharing the story***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/shutterstock_271972331-1024x652.jpg)
+![](/images/blog/103ca37f17da.jpg)
 
 It’s easy to consider marketing to be wholly focused outwards, recruiting advocates, building trust and finding customers, but marketing has an important part to play in telling the story internally that keeps the band together and amplifies the sound. Create true believers internally and the benefits to the company, its culture, and its customers can be transformative.
 
@@ -43,7 +43,7 @@ CMO’s together in the Green Room and asked them:
 
 "*Find the internal evangelists, the ones that are most vocal and support them. A good place to start is finding those who are working for the company, already actively promoting and driving conversations the brand across social media or ones that are creating communities*"
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/0-1.jpeg)
+![](/images/blog/a8a25771648f.jpg)
 
 Amber Osborne is CMO at Doghead Simulations – the company behind rumii, a social-virtual reality space that enables collaboration in VR. Amber suggested mandatory karaoke when we [went backstage with her](https://rockstarcmo.wpengine.com/backstage-with-amber-osborne/).
 
@@ -57,7 +57,7 @@ Ted always tells it straight and in this issue, we published his uncut response 
 
 *"Content is how brands can level the playing field. But not just any content cranked out by your corporate marketing department. I’m talking about going to a source that’s close to home—your employees*"
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg)
+![](/images/blog/f04796e0e527.jpg)
 
 Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits… Speaker, Author, Provocateur Ted is our resident rock star. [Read more about Ted.](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
 
@@ -69,7 +69,7 @@ Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO
 
 *Spoon-feed them ways to get involved with the brand and the comms and reward and highlight great engagement and advocacy. Give people a forum to contribute  - from content planning meetings through to focus groups and one to ones. Employees are the best brand advocates you can have - and if you can’t motivate your teams, then the chance of anyone else adopting your brand is even less likely*."
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/jenni-young.jpg)
+![](/images/blog/3fc416744864.jpg)
 
 Jenni Young is Managing Director at Partnership for Growth & Innovation (LBHF & Imperial College London) and the CMO of Tappit, a cashless payment platform for event organizers. Go backstage with her [here](https://rockstarcmo.wpengine.com/backstage-with-jenni-young/).
 
@@ -87,7 +87,7 @@ Like Ted, Robert's thorough response had to be published in full and in [this ar
 
 [[ Read more ]](https://rockstarcmo.wpengine.com/sing-the-same-song-3-steps-for-employee-engagement/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/Robert-Rose.jpg)
+![](/images/blog/c46f341a8f83.jpg)
 
 *As the Chief Strategy Advisor for the*[*Content Marketing Institute*](http://contentmarketinginstitute.com/)*, Robert innovates creative and technical content marketing strategies for his clients. An early internet pioneer, Robert has more than 15 years of experience, and a track record of helping brands and businesses develop successful web and content marketing strategies. Learn more about Robert, as we went*[*backstage with him*](https://rockstarcmo.wpengine.com/backstage-with-robert-rose/)*in our very first issue.*
 
@@ -101,7 +101,7 @@ Like Ted, Robert's thorough response had to be published in full and in [this ar
 
 *All of my efforts have been in the B2C space – retail locations love to be brought into the fold and appreciate being included. The more you educate on the business of marketing and create internal advocates – we made it a formal program, the more you’ll gain in terms of those folks across the business who can speak for you and help others understand the why behind your efforts.*"
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/Headshot1-e1561803535536.png)
+![](/images/blog/6bc97080831b.png)
 
 *Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)*.﻿*
 
@@ -124,7 +124,7 @@ Like Ted, Robert's thorough response had to be published in full and in [this ar
 
 *In short, a word-of-mouth marketing engine for the digital age. Done badly, it can have the opposite effect. For example, implementing a social advocacy platform that gamifies content sharing (don‘t get me started….!)*
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A [here](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/).
 
@@ -140,7 +140,7 @@ Christine Bailey is CMO of Valitor, an international payment solutions company 
 
 *Everything from involving them in the messaging/products to the strategy and direction. **The greater you involve your people in defining what you’re building/selling/providing, the more likely the engagement and positive messaging.***"
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/0-1-e1561804436966.jpeg)
+![](/images/blog/ad09e8929328.jpg)
 
 Global Head of Customer Engagement Marketing at [Spark44](http://spark44.com/) (an agency dedicated to the global marketing of Jaguar Land Rover brands) Ahmed Hasan has spent his career carving out success in unorthodox ways. Ahmed was formerly Chief Digital Officer at GE Healthcare.
 
@@ -162,7 +162,7 @@ Learn more about Ahmed in our [backstage interview](https://rockstarcmo.wpengine
 
 *Any one of these can help kick start some great ideas!*"
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/mullen_passport.hi_res-684x1024.jpg)
+![](/images/blog/0792b0b4f2d2.jpg)
 
 *Jeanniey Mullen is clearly a Rockstar CMO in demand, currently CMO at [DailyPay, Inc](https://www.dailypay.com/) and CMO, Principal Analyst at [The Relevancy Group](http://www.relevancygroup.com/), is on two CMO governing bodies, is a board member, a strategic advisor, author of three books and the Internet Marketing Association’s Networker of the Year. Sounds exhausting! You can follow*[*Jeanniey on Twitter.*](https://twitter.com/jeannieymullen?lang=en)
 

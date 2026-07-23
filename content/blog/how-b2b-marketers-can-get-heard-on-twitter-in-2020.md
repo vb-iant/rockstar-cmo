@@ -6,14 +6,14 @@ excerpt: "While many report that the influence of Twitter is waning, but its use
 excerptGenerated: false
 author: "Dennis Shiao"
 authorSlug: "dennis-shiao"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/shutterstock_253560718-1-e1577807045288.jpg"
+image: "/images/blog/275e88255936.jpg"
 categories: ["the-future-starts-here-issue", "top-10-2020"]
 needsReview: ["embed_block"]
 sourceId: "4987"
 sourceUrl: "https://rockstarcmo.com/how-b2b-marketers-can-get-heard-on-twitter-in-2020/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/12/shutterstock_253560718.jpg)
+![](/images/blog/f93a8ff2013f.jpg)
 
 ***While many report that the influence of Twitter is waning, last year Twitter reported it had***[***330 million monthly active users***](https://www.statista.com/statistics/282087/number-of-monthly-active-twitter-users/)***, of which more than 40 percent (134 million people), use the service on a daily basis. That’s up from the previous year and seemingly halting the reported slide in users in 2018. So, as we cast our minds forward to a new year, Twitter remains relevant and Dennis Shiao guides us through some best practices for B2B marketers.***
 

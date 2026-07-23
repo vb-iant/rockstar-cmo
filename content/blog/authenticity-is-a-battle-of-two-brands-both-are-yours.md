@@ -6,7 +6,7 @@ excerpt: "Think you’ve only got one brand? You actually have two, argues Ian T
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/shutterstock_368652632-e1546085436309.jpg"
+image: "/images/blog/f33c9f6250de.jpg"
 categories: ["branding", "rockstar-cmo-advisors", "street-knowledge", "nevermind"]
 needsReview: []
 sourceId: "968"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/authenticity-is-a-battle-of-two-brands-both-
 
 **Think you’ve only got one brand? You actually have two, argues** [**Ian Truscott**](https://rockstarcmo.wpengine.com/ian-truscott)**. And the space between them is crucial to ensuring your brand’s authenticity – and trustworthiness.**
 
-![](https://rockstarcmo.com/wp-content/uploads/2018/12/shutterstock_368652632.jpg)
+![](/images/blog/a29518bc89bf.jpg)
 
 The brand you define through your marketing is a promise. It’s the story you tell that represents who you aspire to be as an organization, why you do what you do and how you are going to it for the potential customers, carefully crafted in a conference room or over a chai latte in an agency think space, you are wondering if they will finish or if it’s supposed to look like that.
 

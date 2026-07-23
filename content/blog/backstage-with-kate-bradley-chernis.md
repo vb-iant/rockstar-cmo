@@ -6,7 +6,7 @@ excerpt: "In this backstage interview we find out how founder and CEO of Lately,
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/11/kbc-square.png"
+image: "/images/blog/0e106a22f94a.png"
 categories: ["backstage", "the-breaking-glass-issue", "the-magic-of-christmas-issue", "top-10", "top-10-2020"]
 needsReview: []
 sourceId: "4691"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-kate-bradley-chernis/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/sqKate-One-063_RT_2_flat.jpg)
+![](/images/blog/d45f851f517c.jpg)
 
 ## Hello Kate!
 
@@ -118,7 +118,7 @@ polishing and let it rip. Humans react to humans. So be one.
 
 ## Kate Bradley Chernis
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/katiebc.jpeg)
+![](/images/blog/56ca4424fd4b.jpg)
 
 Kate Bradley Chernis is the Founder & CEO of [Lately](https://trylately.com), which uses Artificial Intelligence to automatically transform blogs, videos and podcasts into dozens of amazing social posts.
 
@@ -138,6 +138,6 @@ Prior to founding Lately, Kate served 20 million listeners as Music Director and
 
 After this Backstage Q&A we caught up with Kate on [Rockstar CMO FM](https://rockstarcmo.com/rockstar-cmo-fm-kate-bradley-chernis/).
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/04/Rockstar-CMO-FM-Kate-Bradley-Chernis-1024x536.png)
+![](/images/blog/1951634d2819.png)
 
 ---

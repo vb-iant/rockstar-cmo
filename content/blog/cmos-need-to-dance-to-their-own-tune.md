@@ -6,7 +6,7 @@ excerpt: "The CMO is the Lennon, Bowie, Dylan, Prince or Dr. Dre of a business, 
 excerptGenerated: false
 author: "Jane Scandurra"
 authorSlug: "jane-scandurra"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/shutterstock_209970322-1-e1564081824132.jpg"
+image: "/images/blog/5104d9adddbf.jpg"
 categories: ["the-think-about-it-issue"]
 needsReview: []
 sourceId: "3974"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/cmos-need-to-dance-to-their-own-tune/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/shutterstock_209970322.jpg)
+![](/images/blog/01035382eaba.jpg)
 
 CMOs know that brand is about the DNA of a business.  No branding, no differentiation. No differentiation, no long-term profitability.
 

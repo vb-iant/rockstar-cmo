@@ -6,7 +6,7 @@ excerpt: "When you find that potential partner, this advice, that our resident R
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
+image: "/images/blog/91eb73950e06.jpg"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: []
 sourceId: "4397"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/pay-attention-to-the-person-in-the-partnersh
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/04/ted-rubin-3-1024x640.jpg)
+![](/images/blog/4ca20206ca97.jpg)
 
 Let me tell you a story. I’m an older guy…. I graduated college in 1980, and I was taught by my parents to look people in the eye when speaking to them.
 

@@ -6,7 +6,7 @@ excerpt: "We asked Ted Rubin, our resident Rockstar CMO, \"What does the post Co
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/04/jose-antonio-gallego-vazquez-HQpzT47S7Vo-unsplash-1-scaled-e1588257226579.jpg"
+image: "/images/blog/9e62a1986d47.jpg"
 categories: ["the-welcome-to-jamrock-issue"]
 needsReview: []
 sourceId: "5649"
@@ -57,7 +57,7 @@ This is also true for companies, who have needed a reset button for a long time.
 
 ---
 
-[![](https://rockstarcmo.com/wp-content/uploads/2020/04/employee-amplifier.png)](https://25f8is47msau1m5alox5ma3h-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/Employee-Amplifier-FINAL.pdf)
+[![](/images/blog/3c82f3626e49.png)](https://25f8is47msau1m5alox5ma3h-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/Employee-Amplifier-FINAL.pdf)
 
 ## The Employee Amplifier
 

@@ -6,7 +6,7 @@ excerpt: "If marketing wants to tap into the power of having an employee fan clu
 excerptGenerated: false
 author: "Jane Scandurra"
 authorSlug: "jane-scandurra"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/shutterstock_1420630511-1-e1561795595675.jpg"
+image: "/images/blog/09a44b241ee9.jpg"
 categories: ["features-2", "the-breaking-glass-issue", "the-inside-in-inside-out-issue"]
 needsReview: []
 sourceId: "3862"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/waitwhats-in-it-for-me/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/shutterstock_1420630511.jpg)
+![](/images/blog/e36301afebd7.jpg)
 
 I’ve
 worked in the online/internet industry for (dare I admit it?) over 30 years (I

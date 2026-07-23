@@ -6,7 +6,7 @@ excerpt: "We've covered the best practices for marketing tech, which have come f
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2024/03/martin-pechy-u-2g_UCBP4E-unsplash-scaled-e1710855386192.jpg"
+image: "/images/blog/13a0bb3194d8.jpg"
 categories: ["martech", "street-knowledge"]
 needsReview: []
 sourceId: "8404"
@@ -39,7 +39,7 @@ Back to the CRM project above. Even though the redesigned lead and opportunity f
 
 **Lesson Learned**: A system is not truly live until the users’ processes are defined and they have been trained. Don’t set an official “go live” date for when the system is ready. Set it for when all users have been trained, and then measure adoption from that point.
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/03/martin-pechy-u-2g_UCBP4E-unsplash-scaled-e1710855386192-1024x1024.jpg)
+![](/images/blog/b624aa259eb3.jpg)
 
 ## The Data Misfit
 

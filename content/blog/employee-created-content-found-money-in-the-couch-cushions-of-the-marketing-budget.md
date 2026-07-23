@@ -6,7 +6,7 @@ excerpt: "Following the theme of partnership for this issue, John Andrews, CEO o
 excerptGenerated: false
 author: "John Andrews"
 authorSlug: "john-andrews"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/06/120716_20PICZ-0060-e1546105729749.jpg"
+image: "/images/blog/4d23d7c818ce.jpg"
 categories: ["employee-engagement", "the-one-nation-under-a-groove-issue"]
 needsReview: []
 sourceId: "4419"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/employee-created-content-found-money-in-the-
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/shutterstock_196522676.jpg)
+![](/images/blog/7123f24d889f.jpg)
 
 Raise your hand if you’ve ever heard, “Hey, let’s increase our marketing budget because everything we’re doing is killing it!”
 
@@ -37,7 +37,7 @@ Influencer marketing has created a more organic approach to this problem and is 
 
 One possibility is expanding the impact of people closest to the customer… company employees. [Employee Created Content (ECC)](https://tedrubin.com/take-back-branded-content-outsourcing-and-dependency/) is a largely overlooked, yet growing trend among marketers that are seeking to solve reach and localization challenges. Like influencer marketing, ECC helps reach new audiences through the strong bonds of connectivity available via employee’s personal networks.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/120716_20PICZ-0060-1-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 > Like influencer marketing, ECC helps reach new audiences through the strong bonds of connectivity available via employee’s personal networks.
 
 A recent evaluation of [Employee Created Content](https://tedrubin.com/byod-retail-marketing/) from one of our Photofy platform partners showed a total measurable marketing footprint expansion of 20% from almost 500,000 pieces of employee content created over a 6-month time period. The content was shared via a variety of networks, with the most popular being private email and text, channels that are unavailable to most marketers on a personal level.
@@ -48,7 +48,7 @@ The beauty of content created and shared by employees is that it solves a couple
 
 At Photofy, our partners using ECC experience an 8X+ level of engagement over brand channels from content created and shared by their employees… there simply is not a better solution for local content at scale. Thousands of employees easily creating content locally from branded elements, pre-loaded in the PhotofyApp, helps drive not only local search optimization but also builds local authority for search which is critical to winning ‘near me’ searches that are increasingly part of Suggested Search results.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/james.schwartz.good_..jpg)
+![](/images/blog/3c92dff300a0.jpg)
 
 > *At RE/MAX, our agents are independent contractors of individually owned and operated franchises. Their challenge is to differentiate and market themselves with the global RE/MAX brand to create hyper-local content that connects with their audience. Leveraging the customization, branded designs, and video capabilities of Photofy have provided our network with a turnkey marketing solution that instills confidence to create on-brand and engaging messaging to grow their business.*
 >

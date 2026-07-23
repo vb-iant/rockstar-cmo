@@ -6,7 +6,7 @@ excerpt: "What new year's marketing publication would be complete without predic
 excerptGenerated: false
 author: "Eric Jan van Putten"
 authorSlug: "eric-jan-van-putten"
-image: "https://rockstarcmo.com/wp-content/uploads/2021/01/shutterstock_662832856-1-e1609835425470.jpg"
+image: "/images/blog/4a4aea3c8799.jpg"
 categories: ["the-youve-come-a-long-way-baby-issue"]
 needsReview: []
 sourceId: "6287"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/whats-going-to-rock-in-digital-marketers-in-
 
 ***What new year's marketing publication would be complete without predictions? In this article, Eric Jan van Putten, VP Marketing at Dynamicweb offers his perspective on 3 trends we should be looking for in digital marketing. As you expect for a marketing leader for a digital experience vendor, it has a focus on the opportunity for technology-led digital transformation.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2021/01/shutterstock_662832856.jpg)
+![](/images/blog/c8c1043d5aa4.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ All these developments are exciting to keep an eye on. However, the overall goal
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/ejvp_400x400.jpg)
+![](/images/blog/3ac195cb531c.jpg)
 
 You can learn more about Eric Jan van Putten, his marketing approach, what gets his Monday morning marketing mojo working and what he would throw into the Rockstar CMO Swimming Pool in [this backstage interview.](https://rockstarcmo.com/backstage-qa-eric-jan-van-putten-dynamicweb/)
 

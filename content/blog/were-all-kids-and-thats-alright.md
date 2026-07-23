@@ -6,7 +6,7 @@ excerpt: "Ian Truscott explores the issue of ageism in marketing, and the attrib
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/08/header-image-hustle-be-remarkable-photo-1518732355562-7f21052c89e5-e1546098654978.jpeg"
+image: "/images/blog/96864fdda292.jpg"
 categories: ["seat-at-the-table"]
 needsReview: []
 sourceId: "1144"

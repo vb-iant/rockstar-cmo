@@ -6,7 +6,7 @@ excerpt: "Created your OKRs? Jeff Clark takes us through the next step to get us
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2023/04/markus-spiske-KWQ2kQtxiKE-unsplash-scaled-e1680874050795.jpg"
+image: "/images/blog/3923b3424d42.jpg"
 categories: ["measurement", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "7647"
@@ -31,7 +31,7 @@ If contributing to demand is important, the questions could be “How much in op
 
 If you get detailed answers, don’t take them literally. They don’t know what sources of data you can access, or they may understand tactical metrics (e.g., leads) and you don’t want to go there, yet. With our demand example, this is where you confirm the expectation that marketing is to source, influence, engage or accelerate opportunities.
 
-![Marketing Goal Setting](https://rockstarcmo.com/wp-content/uploads/2023/04/markus-spiske-KWQ2kQtxiKE-unsplash-scaled-e1680874050795-1024x1024.jpg "Goal Setting")
+![Marketing Goal Setting](/images/blog/940d117ef4fd.jpg "Goal Setting")
 
 ## **Principle #2: Prioritise Measures of Impact**
 

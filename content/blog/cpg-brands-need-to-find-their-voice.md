@@ -6,7 +6,7 @@ excerpt: "Our resident rock star, Ted Rubin tells it straight on why the sound o
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-Rubin-e1545645433398.jpg"
+image: "/images/blog/4fb8b2ef4554.jpg"
 categories: ["london-calling"]
 needsReview: []
 sourceId: "1554"

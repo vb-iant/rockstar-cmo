@@ -6,7 +6,7 @@ excerpt: "As a former Forrester analyst, B2B marketing leader and Senior Directo
 excerptGenerated: false
 author: "David Aponovich"
 authorSlug: "david-aponovich"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/03/david-A-e1553784452269.png"
+image: "/images/blog/3d436c57bac2.png"
 categories: ["the-ghost-in-the-machine-issue"]
 needsReview: []
 sourceId: "3417"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/three-traits-of-successful-cmos/"
 
 ***As a former Forrester senior analyst, B2B marketing leader and Senior Director of Digital Experience at global marketing technology vendor Acquia, David Aponovich has earned his place as a respected industry voice and in this article he shares what makes a CMO successful.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/shutterstock_627628097.jpg)
+![](/images/blog/c5a4fa30201e.jpg)
 
 If you’re a CMO or high ranking marketing exec, it’s not just the competition you and your teams need to worry about these days. It’s your customers, whose rising expectations and fluid loyalties challenge even the most savvy chief marketers.
 

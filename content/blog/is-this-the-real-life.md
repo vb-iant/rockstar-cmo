@@ -6,7 +6,7 @@ excerpt: "There’s a new kid on the block: augmented reality. Gareth May speaks
 excerptGenerated: false
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/06/Lead_Image_-_Courtesy_Ikea-e1546180411234.jpg"
+image: "/images/blog/00b6a0df73d4.jpg"
 categories: ["ok-computer"]
 needsReview: []
 sourceId: "996"

@@ -6,7 +6,7 @@ excerpt: "Influencers are the latest group to buy fake followers in order to boo
 excerptGenerated: false
 author: "Dave Waller"
 authorSlug: "dave-waller"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/DW-Fake-3-1-e1551352669470.jpg"
+image: "/images/blog/04de8ee4cc35.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []
 sourceId: "3255"

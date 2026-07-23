@@ -6,7 +6,7 @@ excerpt: "This month four of our Rockstar CMOs chime in on the topic of this mon
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/10/the-green-room-promo-issue-29-square.png"
+image: "/images/blog/cfdcaa69dcdc.png"
 categories: ["the-green-room", "the-life-for-rent-issue"]
 needsReview: []
 sourceId: "6058"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-rent-or-build/"
 
 ***This month four of our Rockstar CMOs chime in on the topic of this month's issue, when it comes to building an audience do you rent or build?***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/10/the-green-room-promo-issue-29-1024x537.png)
+![](/images/blog/a6bc9969c842.png)
 
 ---
 
@@ -37,7 +37,7 @@ You have to be brutal in leveraging these platforms and determining where you wi
 
 Blending your approach offers more control and puts you in the lead singer spot. I also believe we need to redefine how we measure success and think about what attention means vs. earning or maintaining the value of attention.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png)
+![](/images/blog/a36c32f4287f.png)
 
 *Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).*
 
@@ -57,7 +57,7 @@ Don't forget: inconsistency is the number one reason for lack of customer trust 
 
 Stop that.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/katiebc.jpeg)
+![](/images/blog/56ca4424fd4b.jpg)
 
 *Kate Bradley Chernis is the Founder & CEO of [Lately](https://trylately.com/), which uses Artificial Intelligence to automatically transform blogs, videos and podcasts into dozens of amazing social posts.*
 
@@ -73,7 +73,7 @@ Building upon rented channels like Linkedin, Facebook, Instagram, and WeChat is 
 
 Eric shares more [in this article](https://rockstarcmo.com/even-when-your-commerce-has-an-e-you-need-to-think-about-the-rent/) from this issue.
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/20200826_052112982_iOS-1-scaled-e1599570387990-1024x1024.jpg)
+![](/images/blog/85ea173e8db5.jpg)
 
 Eric Jan van Putten currently runs Marketing at Dynamicweb. He believes that marketing is a function that works in close collaboration with Sales, Customer Operations, and Product Strategy.
 
@@ -87,7 +87,7 @@ You can learn more about Eric when we went [backstage with him.](https://rocksta
 
 "*Syndicate, syndicate, syndicate! All of my content is posted to TedRubin.com and syndicated from there. I use Medium, LinkedIn, and blogs owned by others to support and repost my content.*" - [Read more from Ted's post this month.](https://rockstarcmo.com/dont-rent-co-own/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/1447389246178.jpeg-1-e1551354115237.jpg)
+![](/images/blog/39fbb3339ce7.jpg)
 
 *Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
 

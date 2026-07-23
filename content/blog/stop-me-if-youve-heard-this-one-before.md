@@ -6,7 +6,7 @@ excerpt: "As content marketers, we want to be useful, and educational content ca
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2024/01/kai-pilger-1k3vsv7iIIc-unsplash-square.png"
+image: "/images/blog/b9bf5e8038e0.png"
 categories: ["b2b-marketing", "content-marketing", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "8292"
@@ -21,7 +21,7 @@ Recently, I was doing some research for a potential consulting client, a global 
 
 I took a look, did a quick content audit, and signed up for some of their programs, and I could see the problem.
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/01/THE-LADYBIRD-BOOK-FOR-IDIOTS-2-1-642x1024.png)
+![](/images/blog/79ef3fcfc83e.png)
 
 ## The Ladybird book for idiots
 
@@ -91,7 +91,7 @@ So yes, stop me if you’ve heard this one before.
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/01/ep202-podcast-promo-square-1024x1024.png)
+![](/images/blog/ce30ae7911c7.png)
 
 ## Rockstar CMO FM: The It’s a Sink, not a Funnel and Owning Media over a Cocktail Episode.
 

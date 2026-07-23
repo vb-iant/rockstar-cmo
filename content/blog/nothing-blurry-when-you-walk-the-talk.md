@@ -6,7 +6,7 @@ excerpt: "If you follow Kate Bradley Chernis, Co-Founder & CEO of Lately, an A.I
 excerptGenerated: false
 author: "Kate Bradley Chernis"
 authorSlug: "kate-bradley-chernis"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/Kate-Bradley-Chernis-Square-Color-Headshot-HighResolution_preview-thegem-blog-timeline-large.png"
+image: "/images/blog/feb5e2d34d8b.png"
 categories: ["the-blur-issue", "top-10"]
 needsReview: ["raw_html_block", "reusable_block_ref"]
 sourceId: "6008"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/nothing-blurry-when-you-walk-the-talk/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/Kate-Bradley-Chernis-Square-Color-Headshot-HighResolution_preview-thegem-blog-timeline-large.png)
+![](/images/blog/feb5e2d34d8b.png)
 
 I don't think of this as blurring lines or separating life from work so much as walking the talk.
 

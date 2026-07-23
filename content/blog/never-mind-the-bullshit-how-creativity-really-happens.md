@@ -6,7 +6,7 @@ excerpt: "Keith Smith, MD at The Advertist has been exploring creativity. Along 
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/06/fuel-podcast.png"
+image: "/images/blog/0cd2f76675e7.png"
 categories: ["the-club-classics-volume-one-issue"]
 needsReview: ["embed_block"]
 sourceId: "5749"
@@ -59,7 +59,7 @@ Barn says, *“On this particular film, [the director] he’s ‘temped’ it - 
 
 Jason, whose visuals bring to life the theories and findings of the science community, needed to imagine what certain human living habitats might be like on the planet Mars as part of NASA’s [Mars X-House 2](http://www.spacexarch.com/mars-xhouse-v2) concepts.
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/06/LifeonMars_done-1024x512.jpg)
+![](/images/blog/2bad8e64286e.jpg)
 
 For this, Jason needed to harness the power of context - the right creative to fit a situation - to meet the brief:
 

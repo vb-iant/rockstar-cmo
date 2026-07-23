@@ -6,7 +6,7 @@ excerpt: "Ted Rubin tells it straight on the impact marketing automation tools a
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
+image: "/images/blog/91eb73950e06.jpg"
 categories: ["the-ghost-in-the-machine-issue"]
 needsReview: []
 sourceId: "3412"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/too-many-marketing-tools-create-sloppy-work-
 
 ***Ted Rubin tells it straight on the impact marketing automation tools are having on marketing and he highlights a couple of examples that have caught his eye.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/shutterstock_423614980.jpg)
+![](/images/blog/7e0508313a4b.jpg)
 
 There are plenty of marketing tools that promise more than they can deliver. That’s always been the case. But when the tools themselves are marketed effectively and they promise something that seems vitally necessary, it's hard for some brands to pull themselves away from the promise to see reality. When enough brands adopt a bad idea, it becomes a trend regardless of its true effectiveness. Doubly so if the idea is pitched on increased efficiency and decreased costs.
 

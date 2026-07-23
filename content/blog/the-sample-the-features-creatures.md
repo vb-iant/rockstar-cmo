@@ -6,7 +6,7 @@ excerpt: "Welcome to The Sample, where we whirl the dial on the interwebs, hit r
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-e1569754611847.jpg"
+image: "/images/blog/3fb59bdc060e.jpg"
 categories: ["the-features-creatures-issue"]
 needsReview: []
 sourceId: "5272"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-sample-the-features-creatures/"
 
 ***Welcome to The Sample, where we whirl the dial on the interwebs, hit record and sample what we find about the topic we've focused on in [this issue](https://rockstarcmo.wpengine.com/the-features-creatures-issue/).***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/casset-recorder-1-1024x768.jpg)
+![](/images/blog/c8eb0c286990.jpg)
 
 In [this issue](https://rockstarcmo.wpengine.com/the-features-creatures-issue/) we are looking at the relationship between marketing and the product teams (the 'features creatures') and here are some articles that caught our eye:
 
@@ -61,7 +61,7 @@ In [The Art of Audience-Driven Marketing: Stop Selling Products, Start Building 
 
 [[ READ MORE ]](https://www.cmswire.com/digital-marketing/the-art-of-audience-driven-marketing-stop-selling-products-start-building-audiences/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/Betamax-1024x358.jpg)
+![](/images/blog/07664cecd09e.jpg)
 
 ### 155 Failed Products
 

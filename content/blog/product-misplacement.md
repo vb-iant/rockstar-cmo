@@ -6,7 +6,7 @@ excerpt: "Morag Cuddleford-Jones takes up the challenge to pick her way through 
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/03/shutterstock_130569944-1-e1553781850152.jpg"
+image: "/images/blog/8ff17dcecdc0.jpg"
 categories: ["the-ghost-in-the-machine-issue"]
 needsReview: []
 sourceId: "3406"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/product-misplacement/"
 
 ***Morag Cuddeford-Jones takes up the challenge to pick her way through the minefield of acronyms, departmental silos and systems to figure out the essential bit of the marketing technology stack that should be safeguarding our product content.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/shutterstock_130569944.jpg)
+![](/images/blog/e0988af94ff8.jpg)
 
 Marketers can be a precious bunch. Hours spent agonising
 over the *mot juste*, just to find

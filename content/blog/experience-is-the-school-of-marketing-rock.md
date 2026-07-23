@@ -6,7 +6,7 @@ excerpt: "One of our mantras here on Rockstar CMO is from The School of Rock –
 excerptGenerated: false
 author: "Carmine Mastropierro"
 authorSlug: "carmine-mastropierro"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/07/schoolofrock-1-e1594972004302.jpg"
+image: "/images/blog/07f25d6b0a61.jpg"
 categories: ["the-miseducation-of-lauryn-hill-issue"]
 needsReview: []
 sourceId: "5866"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/experience-is-the-school-of-marketing-rock/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/07/schoolofrock-1024x576.jpg)
+![](/images/blog/031af87cc5d6.jpg)
 
 ---
 

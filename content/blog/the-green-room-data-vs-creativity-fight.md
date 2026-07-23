@@ -6,14 +6,14 @@ excerpt: "This month the question we ask the Green Room - our Rockstar CMO panel
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/03/green-room-square-ghost-issue.png"
+image: "/images/blog/87a3856efc83.png"
 categories: ["the-ghost-town-issue", "the-green-room"]
 needsReview: []
 sourceId: "5471"
 sourceUrl: "https://rockstarcmo.com/the-green-room-data-vs-creativity-fight/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/03/green-room-ghost-issue-1024x536.png)
+![](/images/blog/34e11df1145d.png)
 
 Marketing has been shaking its reputation for gut feel,
 hunches, Mad Men and that 50% of whatever activity it is wasted through an
@@ -49,7 +49,7 @@ that helps us ask *better* questions and set *new* goals.
 
 As I’ve said before, data shouldn’t be the driver of our decisions. We drive. Data rides shotgun. It finds the great radio stations with us and sings along with us. And it helps us read the maps to reach our desired destination.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/Robert-Rose-1-1.jpg)
+![](/images/blog/3034b21c903d.jpg)
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
@@ -83,7 +83,7 @@ strategy and execution.
 
 Remember that if marketing or any strategic role was JUST about data then humans aren’t needed. We still \*currently\* (touches wood) have a valuable part to play in the success of a business and probably more so than some departments as marketing is about making human connections and changing behaviours. Not that easy to do - and while data plays a part, it is about the subtle balance of support and back up and creative risk. That’s where brilliance happens.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/03/jenni-e1584028164140.png)
+![](/images/blog/f992085fb171.png)
 
 Jenni Young is CMO of Tappit, a cashless payment platform for event organizers.
 
@@ -112,7 +112,7 @@ growth.
 
 Don’t get frustrated - find ways to collaborate with your peers and you’ll actually come out on the other side with richer data and a better methodology because it’s been agreed upon collectively.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png)
+![](/images/blog/a36c32f4287f.png)
 
 Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).*﻿*
 
@@ -128,7 +128,7 @@ The good news is that the democratization of data and technology means that ever
 
 Today’s marketer needs to have both the attitude to look for and demonstrate evidence while also having enough latitude and leeway to do the unexpected and sometimes think counterintuitively. The power of data and customer insight is extraordinary and is only going to get better, but the power of human intuition and its deployment is still a vital component.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 

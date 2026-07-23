@@ -6,7 +6,7 @@ excerpt: "This month we go backstage with a shiny new CMO, Eric Jan van Putten w
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/20200826_052112982_iOS-1-scaled-e1599570405333.jpg"
+image: "/images/blog/e8904c8e727e.jpg"
 categories: ["backstage", "the-blur-issue", "top-10"]
 needsReview: []
 sourceId: "6015"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-qa-eric-jan-van-putten-dynamicweb/
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/20200826_052112982_iOS-768x1024.jpg)
+![](/images/blog/7c2291163b38.jpg)
 
 #### Hi Eric, tell us a little bit about yourself and your current role
 
@@ -99,7 +99,7 @@ Marketing in 2020 has never been so interesting. You get to be creative, ranging
 
 ## About Eric
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/ejvp_400x400.jpg)
+![](/images/blog/3ac195cb531c.jpg)
 
 Eric Jan van Putten currently runs Marketing at Dynamicweb. He believes that marketing is a function that works in close collaboration with Sales, Customer Operations, and Product Strategy.
 

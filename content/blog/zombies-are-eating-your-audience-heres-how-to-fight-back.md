@@ -6,7 +6,7 @@ excerpt: "This is the story of a major national retailer. A national retailer th
 excerptGenerated: true
 author: "Casey Petersen"
 authorSlug: "casey-petersen"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/10/shutterstock_740193271-e1545997133587.jpg"
+image: "/images/blog/c0366ffae149.jpg"
 categories: ["thriller"]
 needsReview: []
 sourceId: "913"

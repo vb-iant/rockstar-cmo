@@ -6,7 +6,7 @@ excerpt: "According to our resident retail expert, John Andrews, the sector was 
 excerptGenerated: false
 author: "John Andrews"
 authorSlug: "john-andrews"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/03/freestocks-org-182581-unsplash-e1546272669987.jpg"
+image: "/images/blog/49af3ceb3775.jpg"
 categories: ["the-welcome-to-jamrock-issue"]
 needsReview: []
 sourceId: "5644"
@@ -49,7 +49,7 @@ The local employee is, in fact, the face and backbone of what’s keeping the st
 
 ***Learn more about Employee Created Content (ECC) and Photofy in our latest Long Play (our take on the eBook) that you can download for free!***
 
-[![](https://rockstarcmo.com/wp-content/uploads/2020/04/employee-amplifier.png)](https://25f8is47msau1m5alox5ma3h-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/Employee-Amplifier-FINAL.pdf)
+[![](/images/blog/3c82f3626e49.png)](https://25f8is47msau1m5alox5ma3h-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/Employee-Amplifier-FINAL.pdf)
 
 ## The Employee Amplifier
 

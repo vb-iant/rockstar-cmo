@@ -6,7 +6,7 @@ excerpt: "You may have heard that there is a new acronym kid on the tech product
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2022/05/seed-image.png"
+image: "/images/blog/138cd78767c9.png"
 categories: ["b2b-marketing", "marketing", "street-knowledge"]
 needsReview: []
 sourceId: "6863"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/what-the-f-is-plg/"
 
 ***You may have heard that there is a new acronym kid on the tech product marketing block; Product Led Growth (PLG). Thank f\*\*k for that, another sales and marketing acronym, but is this a hit or something only its mother will love?***
 
-![](https://rockstarcmo.com/wp-content/uploads/2022/05/name_-gravity-_AdUs32i0jc-unsplash-1024x575.jpg)
+![](/images/blog/5c626314c55e.jpg)
 
 ## PLG - Product Led Growth
 

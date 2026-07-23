@@ -6,7 +6,7 @@ excerpt: "IFS develops and delivers enterprise software for customers around the
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/02/Oliver-Pilgerstorfer-1-scaled-e1581097866255.jpg"
+image: "/images/blog/b0c8c9f09701.jpg"
 categories: ["backstage", "the-features-creatures-issue", "top-10-2020"]
 needsReview: []
 sourceId: "5252"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-oliver-pilgerstorfer/"
 
 ***IFS develops and delivers enterprise software for customers around the world and when their CMO, Oliver Pilgerstorfer, sat down with us and started an answer with "I probably shouldn't admit this" our editor Ian Truscott knew he was in for a fun interview...***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/Oliver-Pilgerstorfer-683x1024.jpg)
+![](/images/blog/2b75c922bdee.jpg)
 
 ## Hello Oliver!
 
@@ -87,7 +87,7 @@ was a marketing hall of fame, who would you induct?**
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/oliver-pilgerstorfer.jpeg)
+![](/images/blog/581f0a363d7c.jpg)
 
 As CMO, Oliver is responsible for IFS’s global marketing and communications activities. With his team, he is on a mission to increase the company’s visibility, as well as attract and retain a loyal IFS following.
 

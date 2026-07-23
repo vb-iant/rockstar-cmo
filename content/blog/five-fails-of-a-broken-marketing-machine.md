@@ -6,7 +6,7 @@ excerpt: "The Machine is the engine that makes your marketing plan and campaigns
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2023/05/michal-matlon-YTKh06aL7to-unsplash-scaled-e1685296334212.jpg"
+image: "/images/blog/07077bc27ec0.jpg"
 categories: ["marketing-operations", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: ["iframe"]
 sourceId: "8979"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/five-fails-of-a-broken-marketing-machine/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/05/michal-matlon-YTKh06aL7to-unsplash-scaled-e1685296319571-1024x1024.jpg)
+![](/images/blog/28288a7fc952.jpg)
 
 For years, we’ve talked about the **Five F’in B2B Marketing Fundamentals**: the master plan, the knowledge, the story, the campaign, and the machine. They’re the core workstreams every CMO needs to actively own if marketing is going to deliver awareness, revenue, and trust.
 
@@ -45,7 +45,7 @@ And because marketing is often viewed as a cost center rather than a profit cent
 
 The irony? When the machine works well, marketing doesn’t feel like a hamster wheel at all. People spend their time productively, expectations are clear, and internal confidence rises.
 
-[![](https://rockstarcmo.com/wp-content/uploads/2024/02/Rockstar-CMO-MOPS-Assesment-1024x724.png)](https://rockstarcmo.com/wp-content/uploads/2024/02/Rockstar-CMO-MOPS-Assesment-FebFlyer.pdf)
+[![](/images/blog/89ce932b45e5.png)](https://rockstarcmo.com/wp-content/uploads/2024/02/Rockstar-CMO-MOPS-Assesment-FebFlyer.pdf)
 
 Download a copy of our [Marketing Operations Assessment](https://rockstarcmo.com/wp-content/uploads/2024/02/Rockstar-CMO-MOPS-Assesment-FebFlyer.pdf) to tune up your machine.
 

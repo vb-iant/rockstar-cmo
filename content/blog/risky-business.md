@@ -6,7 +6,7 @@ excerpt: "It used to be brand suicide to align yourself openly with a political 
 excerptGenerated: false
 author: "Ian Hsieh"
 authorSlug: "ian-hsieh"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ian_Hsieh_01-1-e1545818625345.jpg"
+image: "/images/blog/e1b3b3b8d74b.jpg"
 categories: ["features-2", "london-calling", "the-people-are-people-issue"]
 needsReview: ["embed_block"]
 sourceId: "1748"

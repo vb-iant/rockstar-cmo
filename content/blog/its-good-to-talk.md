@@ -6,7 +6,7 @@ excerpt: "With the likes of Alexa, Google Home and Siri, voice assistants are mo
 excerptGenerated: false
 author: "Dave Waller"
 authorSlug: "dave-waller"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Voice_Image_1-1-e1545663294584.jpg"
+image: "/images/blog/eba5e42c7e26.jpg"
 categories: ["features-2", "london-calling"]
 needsReview: []
 sourceId: "1655"

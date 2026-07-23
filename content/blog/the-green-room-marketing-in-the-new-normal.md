@@ -6,7 +6,7 @@ excerpt: "Commentators are calling whatever we emerge from lockdown the \"new no
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/05/green-room-promo-square.png"
+image: "/images/blog/d2dd37f937ba.png"
 categories: ["the-green-room", "the-welcome-to-jamrock-issue"]
 needsReview: []
 sourceId: "5670"
@@ -39,7 +39,7 @@ There's a great pool of knowledge we have being marketers that can help others t
 
 From a little seed can grow a great tree.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/0-1.jpeg)
+![](/images/blog/a8a25771648f.jpg)
 
 Amber Osborne ([@missdescructo](https://twitter.com/MissDestructo)) is former CMO [@DogheadSims](https://twitter.com/DogheadSims) [@Meshfire](https://twitter.com/Meshfire) and [@Forbes](https://twitter.com/Forbes) #2 Most Influential CMOs on Social • [@Adobe](https://twitter.com/Adobe) Insider • [@VRAwards](https://twitter.com/VRAwards) Judge •
 
@@ -52,7 +52,7 @@ Amber Osborne ([@missdescructo](https://twitter.com/MissDestructo)) is former CM
 3. For our business:  Tappit is fortunate to work with events and entertainment. In the short term, the event and sports industry have taken a major body blow. We are gutted that the events industry has suffered so much and a huge part of people’s lives has been put on hold (personally gutted about the football) - people are readjusting and finding new ways to create events. We are proud that our services are considered part of the solution for the resurgence of the industry.  What we see now is the accelerated move to cashless - who wants to touch cash, a pin terminal, or even share a credit card at this point? Whilst this move was considered inevitable, the pace at which attitudes are changing in the last month has been incredible. We are in talks every day with major global entertainment and sports organizations about how to reassure their fans, keep staff and fans safe, and support a new, safer, environment - with cash being considered a real risk and downside to the live experience.
 4. For marketing - as a consumer, I’ve been impressed and somewhat overwhelmed by the volume and quality of content that is currently flooding my inbox. So many things to read, listen to, watch and so little time. Whilst outreach has been of premium quality - I can't be the only person thinking (whilst homeschooling and working full time) that there aren’t enough hours in the day. Particular credit to Mango, Allbright, Getthegloss and Secondhome for their content in terms of targeting, creativity, and ability to innovate. I think marketeers have shown how amazingly rich and engaging content can be - but at the same time - timing and which medium you use to engage your audience is vital.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/03/jenni-e1584028164140.png)
+![](/images/blog/f992085fb171.png)
 
 Jenni Young is CMO of [Tappit](https://tappit.com/), a cashless payment platform for event organizers.
 
@@ -68,7 +68,7 @@ What has impacted our team is internal and external communications – we have r
 
 The other area I see as a current and lasting effect is advertising. Regardless of your industry, branding and purpose-driven marketing has never been more important. Many organizations may struggle with this – it’s critical to operating now and in the future.
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/06/Headshot1-e1561803535536.png)
+![](/images/blog/6bc97080831b.png)
 
 Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.
 
@@ -78,7 +78,7 @@ Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience i
 
 ## Also..
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/03/Ted-Thinking.Photofy-1024x640.jpg)
+![](/images/blog/11f6fb644534.jpg)
 
 ## Press Reset
 
@@ -86,7 +86,7 @@ Ted Rubin shares some straight talking advice in his regular columns in this iss
 
 [[ READ MORE ]](https://rockstarcmo.com/time-to-hit-the-reset-button/)
 
-![](https://rockstarcmo.com/wp-content/uploads/2018/12/120716_20PICZ-0060-1-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 
 ## And retail?
 

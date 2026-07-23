@@ -6,7 +6,7 @@ excerpt: "Want to learn how to take your customer relationships to the next leve
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-at-Laptop-questioning-e1545650103660.jpg"
+image: "/images/blog/0e4109888ad3.jpg"
 categories: ["brand-new-thang"]
 needsReview: []
 sourceId: "3178"

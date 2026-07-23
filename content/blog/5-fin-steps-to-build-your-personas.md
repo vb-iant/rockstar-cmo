@@ -6,7 +6,7 @@ excerpt: "A simple model for creating personas, the essential insight you need t
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2023/07/marten-newhall-uAFjFsMS3YY-unsplash-square.jpg"
+image: "/images/blog/8a0035c6b0f2.jpg"
 categories: ["b2b-marketing", "content-marketing", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "7791"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/5-fin-steps-to-build-your-personas/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/07/marten-newhall-uAFjFsMS3YY-unsplash-1024x683.jpg)
+![](/images/blog/be47e64189af.jpg)
 
 Over the years, I’ve been through many persona development processes, either buyer personas for sales and marketing or user personas for product development (and yes, [these are different)](https://iantruscott.com/tuesday-2c-build-for-users-and-market-for-buyers/). And I have spent quite a bit of my career advising, selling, marketing and meeting these ***actual folks,*** not just creating their personas.
 

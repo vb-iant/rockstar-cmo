@@ -6,7 +6,7 @@ excerpt: "Our resident rock star, Ted Rubin, on why empathy for your consumer wi
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Image_1.jpg"
+image: "/images/blog/db49c3e4c099.jpg"
 categories: ["seat-at-the-table"]
 needsReview: []
 sourceId: "927"

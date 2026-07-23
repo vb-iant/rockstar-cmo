@@ -6,14 +6,14 @@ excerpt: "While the majority of this issue we are looking forward to the future 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/promo-template.png"
+image: "/images/blog/f1d80ae1201a.png"
 categories: ["the-future-starts-here-issue"]
 needsReview: ["gallery"]
 sourceId: "5107"
 sourceUrl: "https://rockstarcmo.com/best-of-2019-editors-picks/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/01/editors-picks.png)
+![](/images/blog/60c7f75b7187.png)
 
 ***While the majority of this issue we are looking forward to the future of marketing, the turn of the year is also a time for reflection, and I thought I’d take a step back through 2019, our second year and share some of the highlights.***
 
@@ -49,7 +49,7 @@ The data speaks on this one and it’s really tight, but our audience are clearl
 
 If I look at the data, [The Think About it Issue](https://rockstarcmo.wpengine.com/the-think-about-it-issue/) edges it, as it featured some very popular articles. These include  [Backstage with Lynne Capozzi](https://rockstarcmo.wpengine.com/backstage-with-lynne-capozzi/), CMO of Acquia, Nicholas Einstein’s research that suggesting that [Email Marketers are Crushing it](https://rockstarcmo.wpengine.com/email-marketers-are-currently-crushing-it/) and John Andrews excellent commentary on retail; [The 4 Ps Give Way to Simplicity Along The New Path to Purchase](https://rockstarcmo.wpengine.com/the-4-ps-give-way-to-simplicity-along-the-new-path-to-purchase/).
 
-[![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/08/prople-are-people-wide-promo-1024x512.png)](https://rockstarcmo.wpengine.com/the-people-are-people-issue/)
+[![](/images/blog/be174b67c8cc.png)](https://rockstarcmo.wpengine.com/the-people-are-people-issue/)
 
 But, if I go with my head rather than the data, putting together our issue on diversity and inclusion ([The People are People Issue](https://rockstarcmo.wpengine.com/category/issues/the-people-are-people-issue/)) was important to me personally and the interview with multicultural marketing expert [Sydni Craig-Hart for Tales from the Tour Bus](https://rockstarcmo.wpengine.com/tales-from-the-tour-bus-sydni-craig-hart/) was a joy, I had pages of notes and she shares so much positivity, experience and data that underlines the importance that everyone broadens their marketing perspectives.
 
@@ -57,9 +57,9 @@ But, if I go with my head rather than the data, putting together our issue on di
 
 Of course, the old cliché is true, it’s like choosing between your children and we welcomed many new writers in 2019, like [Lauren Bowden](https://rockstarcmo.wpengine.com/author/laurenbowden/) and [Dennis Shiao](https://rockstarcmo.wpengine.com/author/dennis-shiao/), who write with a passion for this marketing craft. But these three, who have been with us throughout the year stand out for me:
 
-* ![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/04/ted-rubin-3-1-1024x640.jpg)
-* ![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/Robert-Rose.jpg)
-* ![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+* ![](/images/blog/4ca20206ca97.jpg)
+* ![](/images/blog/c46f341a8f83.jpg)
+* ![](/images/blog/2a071060235c.jpg)
 
 * [Ted Rubin](https://rockstarcmo.wpengine.com/author/ted-rubin/), leading social
   marketing strategist, influencer, keynote speaker, Photofy CMO/advisor, author,
@@ -86,7 +86,7 @@ I could pick literally a hundred of these - but this fromfounder and CEO of [La
 
 ## Pick of the words
 
-![Rachel Miller](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/9HiAVCSY_400x400-300x300.jpg)
+![Rachel Miller](/images/blog/2b1862465147.jpg)
 
 Only one contender, the word of 2019 for Rockstar CMO: **"wackadoos"**
 
@@ -94,7 +94,7 @@ Thank you to [Rachel Miller](https://twitter.com/rachelloumiller) and her articl
 
 ## Picking out the swimming pool filter
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/aftab-chandsha-433315-unsplash-e1548930623167-1024x1024.jpg)
+![](/images/blog/1cdb51468594.jpg)
 
 ***You know how rockstars have this reputation for throwing stuff from the hotel window into the pool? Hell, Keith Moon even parked his Rolls Royce in the deep end once. In tribute, we’ve been throwing all the crap, bullshit acronyms, empty fads and snake oil of marketing, week on week, straight into the Rockstar CMO swimming pool.***
 

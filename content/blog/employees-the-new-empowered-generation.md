@@ -6,7 +6,7 @@ excerpt: "Marketing needs to realize that we aren't the only ones holding the mi
 excerptGenerated: false
 author: "Casey Petersen"
 authorSlug: "casey-petersen"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/casey-e1545490443660.jpeg"
+image: "/images/blog/4e89b02251b7.jpg"
 categories: ["employee-engagement", "the-one-nation-under-a-groove-issue"]
 needsReview: []
 sourceId: "4447"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/employees-the-new-empowered-generation/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/shutterstock_652079014.jpg)
+![](/images/blog/f2dbcb82f654.jpg)
 
 ### ECC > EGC > UGC – Adapting to the New Employee Power Paradigm
 

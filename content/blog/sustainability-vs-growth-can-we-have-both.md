@@ -6,7 +6,7 @@ excerpt: "Is sustainability the enemy of growth? Depending on your personal etho
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2022/06/growth-vs-sustainability-square.png"
+image: "/images/blog/95131d5a76df.png"
 categories: ["rockstar-cmo-advisors", "street-knowledge", "sustainability"]
 needsReview: []
 sourceId: "7255"
@@ -21,7 +21,7 @@ Is sustainability the enemy of growth? Depending on your personal ethos, you may
 
 To help form my own opinion on whether a business can be both sustainable and grow, I attended a [debate](https://www.youtube.com/watch?v=WezZL6Tn-MA) hosted by [Lux Research](https://www.luxresearchinc.com/). It was a real debate, not like the ones we often see during political campaigns, with [well-credentialed teams](https://www.luxresearchinc.com/lux-events/lux-debate-teams) assigned to argue each side –  a green team saying “Yes, you can have both” and a red team saying “No, they’re diametrically opposed.” They did an excellent job of digging into the arguments on both sides.
 
-![](https://rockstarcmo.com/wp-content/uploads/2022/06/jon-tyson-sTvEqEE6gYY-unsplash2-1024x1024.jpeg)
+![](/images/blog/503a8e1a4744.jpg)
 
 Growth vs. Sustainability
 

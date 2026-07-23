@@ -6,7 +6,7 @@ excerpt: "Following an experience where a hotel offered him the opportunity to s
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/IMG_0651-e1545493027172.jpg"
+image: "/images/blog/9a18a4be3b3c.jpg"
 categories: ["employee-engagement", "we-are-family"]
 needsReview: []
 sourceId: "664"

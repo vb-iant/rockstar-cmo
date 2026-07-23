@@ -6,7 +6,7 @@ excerpt: "When we interviewed founder and CEO of Lately, Kate Bradley Chernis in
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/jakob-owens-qoFQxxuk3QY-unsplash-1-scaled-e1577809778902.jpg"
+image: "/images/blog/3da41a53201c.jpg"
 categories: ["the-future-starts-here-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "5013"
@@ -19,7 +19,7 @@ sourceUrl: "https://rockstarcmo.com/the-swimming-pool-22-the-lazy-call-to-action
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/sqKate-One-063_RT_2_flat.jpg)
+![](/images/blog/d45f851f517c.jpg)
 
 Rock stars have a reputation for chucking things in swimming pools, and our rock stars are no different. However, the Rockstar CMO Swimming Pool is a portal to hell for all the crap, bullshit acronyms, empty fads and snake oil of marketing.
 

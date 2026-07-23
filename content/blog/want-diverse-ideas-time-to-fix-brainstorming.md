@@ -6,7 +6,7 @@ excerpt: "Inclusion of diverse marketing ideas starts early in the process when 
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/1447389246178.jpeg-1-e1551354115237.jpg"
+image: "/images/blog/39fbb3339ce7.jpg"
 categories: ["the-people-are-people-issue"]
 needsReview: []
 sourceId: "4260"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/want-diverse-ideas-time-to-fix-brainstorming
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/ted-rubin-3-1-1024x640.jpg)
+![](/images/blog/4ca20206ca97.jpg)
 
 Brainstorming is a great concept that occasionally becomes twisted when a few members of your strategy sessions, and/or one particular outlook, dominate the conversation and assert that their ideas are the only ones worthy of discussion. Often this comes from the HiPPO, you know, the Highest Paid Person in the Office, which as a Rockstar CMO could be you... and to be fair, it’s easy for the leader to fall into this role.
 
@@ -45,7 +45,7 @@ encouraged to share their thoughts. Your employees have a ton of insights, both
 front-line and personal, that can help shape your strategies, but only if
 you’re willing to hear what they have to say.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/1447389246178.jpeg.jpg)
+![](/images/blog/965c05c227aa.jpg)
 > *The entire point of brainstorming is to gather ideas from diverse sources, discuss them, and let the best ideas rise to the top. You can only do that if the floor is truly open to everyone, and every member of the meeting is encouraged to share their thoughts and openly pay attention to the ideas of others.*
 
 #### How do you encourage people to speak up?

@@ -6,7 +6,7 @@ excerpt: "Casey Petersen, Photofy’s Vice President of Marketing and Analytics,
 excerptGenerated: false
 author: "Casey Petersen"
 authorSlug: "casey-petersen"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/girl-cafe-e1545491395724.jpg"
+image: "/images/blog/848cd5c8fb6c.jpg"
 categories: ["we-are-family"]
 needsReview: []
 sourceId: "629"

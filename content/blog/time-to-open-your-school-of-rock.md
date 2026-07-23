@@ -6,7 +6,7 @@ excerpt: "In this article, Ian Truscott takes a look at educational content mark
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2024/02/start-your-school-of-rock.png"
+image: "/images/blog/36eb6c3be587.png"
 categories: ["content-marketing", "content-strategy", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "8327"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/time-to-open-your-school-of-rock/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/02/cole-keister-vEgVWRBr2VY-unsplash-1024x683.jpg)
+![](/images/blog/3fea5bc55369.jpg)
 
 ## Class is in session
 
@@ -131,7 +131,7 @@ It's time to open your school of rock!
 
 ---
 
-[![](https://rockstarcmo.com/wp-content/uploads/2024/02/Ep-204-Square-promo-1024x1024.png)](https://rockstarcmo.com/204-the-educational-content-and-getting-creative-over-a-kansas-city-cocktail-episode/)
+[![](/images/blog/c2fff4eb42da.png)](https://rockstarcmo.com/204-the-educational-content-and-getting-creative-over-a-kansas-city-cocktail-episode/)
 
 ## Learn more on the podcast
 

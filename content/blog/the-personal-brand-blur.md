@@ -6,7 +6,7 @@ excerpt: "Accomplished B2B marketer and marketing writer Dennis Shiao shares his
 excerptGenerated: false
 author: "Dennis Shiao"
 authorSlug: "dennis-shiao"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_245334322-1-e1599210014773.jpg"
+image: "/images/blog/98ae74d8c46d.jpg"
 categories: ["the-blur-issue"]
 needsReview: []
 sourceId: "5971"
@@ -19,7 +19,7 @@ sourceUrl: "https://rockstarcmo.com/the-personal-brand-blur/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_245334322.jpg)
+![](/images/blog/3bbee902bff6.jpg)
 
 ---
 

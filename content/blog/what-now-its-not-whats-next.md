@@ -6,7 +6,7 @@ excerpt: "Chief Trouble Maker at the Content Advisory, Robert Rose, quotes Shaun
 excerptGenerated: false
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/05/zachary-keimig-5r1bhGWQIHo-unsplash-1-scaled-e1588498418337.jpg"
+image: "/images/blog/8ced22ea0ba2.jpg"
 categories: ["street-knowledge", "the-welcome-to-jamrock-issue"]
 needsReview: ["embed_block"]
 sourceId: "5687"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/what-now-its-not-whats-next/"
 
 ***Contrary to popular culture, this apocalypse has not involved zombies. But, as we start to come out of this global crisis, Chief Trouble Maker at the Content Advisory, Robert Rose, quotes Shaun of the Dead as he offers some guidance for marketers toward their slice of fried gold.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/05/zachary-keimig-5r1bhGWQIHo-unsplash-scaled-e1588498207319-1024x710.jpg)
+![](/images/blog/f06eaa71bce6.jpg)
 
 ---
 

@@ -6,7 +6,7 @@ excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser Adnonamau5 do
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-people-are-people-issue"]
 needsReview: []
 sourceId: "4206"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/adnonamau5-its-all-white/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/shutterstock_1097933978.jpg)
+![](/images/blog/65e14499aef4.jpg)
 
 In this awesome issue of Rockstar CMO, the Green Room question is about diversity. In the advertising world, seriously?? I laughed so much I almost crapped myself.
 

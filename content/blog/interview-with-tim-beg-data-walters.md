@@ -6,7 +6,7 @@ excerpt: "Tim \"Beg Data\" Walters, Ph.D. works with an impressive list of organ
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/05/techgdpr-tim-768x768-1-e1559285630751.jpg"
+image: "/images/blog/6f13a052ec47.jpg"
 categories: ["the-invasion-of-privacy-issue"]
 needsReview: []
 sourceId: "3731"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/interview-with-tim-beg-data-walters/"
 
 ***When it comes to privacy and GDPR Tim Walters, Ph.D. is not only our go-to Rockstar, he works with an impressive list of organizations that seek out his advice on how to make their way through the complexity of consumer sensitivity and increasing legislation, yet still deliver a customer experience that they expect. So, when we decided to theme this issue on privacy, "Beg Data" was the first on the penthouse invite list and Ian Truscott asked the questions...***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/05/techgdpr-tim-768x768.jpg)
+![](/images/blog/59505f1b2fc5.jpg)
 
 #### What’s your view on the current, seemly confused state of web privacy implementation?
 

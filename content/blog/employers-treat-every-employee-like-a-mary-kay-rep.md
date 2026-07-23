@@ -6,7 +6,7 @@ excerpt: "Our resident rock star, Ted Rubin, on why empowering your employees wi
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/Mary_Kay-e1546087288865.jpg"
+image: "/images/blog/6e267daa4ae9.jpg"
 categories: ["nevermind"]
 needsReview: []
 sourceId: "923"

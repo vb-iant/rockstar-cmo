@@ -6,7 +6,7 @@ excerpt: "In this issue, we are leaning over the balcony of the penthouse with a
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
+image: "/images/blog/45e339d48f11.jpg"
 categories: ["the-running-in-circles-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "4346"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-swimming-pool-the-bloody-goldfish/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/shutterstock_418715536.jpg)
+![](/images/blog/7b5911b083bf.jpg)
 
 This trip to the balcony is inspired by Robert Rose, who asked his chums on LinkedIn [what were their biggest marketing cliches](https://www.linkedin.com/posts/robrose_hey-content-marketers-working-on-a-thing-activity-6567861370325467137-nfDA/), his, it seems is a goldfish.
 

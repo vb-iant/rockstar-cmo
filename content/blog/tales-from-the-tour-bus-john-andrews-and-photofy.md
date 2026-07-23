@@ -6,7 +6,7 @@ excerpt: "This issue regular Rock Star contributor John Andrews, serial entrepre
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/06/120716_20PICZ-0060-e1546105729749.jpg"
+image: "/images/blog/4d23d7c818ce.jpg"
 categories: ["tales-from-the-tour-bus", "employee-engagement", "the-ghost-in-the-machine-issue"]
 needsReview: []
 sourceId: "3374"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-john-andrews-and-pho
 
 ***This issue regular Rock Star contributor John Andrews, serial entrepreneur, marketer and CEO of Photofy shares his journey, the bumps in the road and the next destination.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/120716_20PICZ-0060-1-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 
 #### John, tell us about your tour bus and how you came to be on it.
 

@@ -6,7 +6,7 @@ excerpt: "In this new Trust economy, consent makes getting and using third-party
 excerptGenerated: false
 author: "Darren Garnaccia"
 authorSlug: "darren-garnaccia"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/03/darren-guarnaccia.gif"
+image: "/images/blog/ea83d1166086.gif"
 categories: ["ok-computer"]
 needsReview: []
 sourceId: "1090"

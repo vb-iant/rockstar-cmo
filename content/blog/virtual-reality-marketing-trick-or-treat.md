@@ -6,7 +6,7 @@ excerpt: "Amber Osborne, CMO at Doghead Simulations knows virtual reality and sh
 excerptGenerated: false
 author: "Amber Osborne"
 authorSlug: "amber-osborne"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/10/lucrezia-carnelos-1081230-unsplash-e1545998939704.jpg"
+image: "/images/blog/e1b62e5e11ba.jpg"
 categories: ["thriller"]
 needsReview: []
 sourceId: "1131"

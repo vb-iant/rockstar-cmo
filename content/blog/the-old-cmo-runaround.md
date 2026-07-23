@@ -6,7 +6,7 @@ excerpt: "In all of the confusion of what the role of the CMO is, we seem to hav
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/Runaround_done-1-e1564082316718.jpg"
+image: "/images/blog/43fdfce0ce7b.jpg"
 categories: ["the-think-about-it-issue"]
 needsReview: []
 sourceId: "4034"
@@ -21,7 +21,7 @@ There’s a lot of navel-gazing being done in the marketing industry about what 
 
 Just when we all thought we had a firm grasp of the new, digitally-enhanced, omnichannel lead marketing role, the powers that be decide to switch it all around again like some crazy 1970’s kids TV quiz show.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/Runaround_done.jpg)
+![](/images/blog/9bef2013700c.jpg)
 
 Now we hear that giant consumer brand owners like Unilever and Mars are redefining the role of a Chief Marketing Officer to include oversight of content and messaging. And that’s just one example. Coca-Cola scrapped its global CMO role late last year and Johnson & Johnson’s first-ever global CMO Alison Lewis departed last month, as the company retired the position.
 

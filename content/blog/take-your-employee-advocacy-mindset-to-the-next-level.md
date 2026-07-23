@@ -6,7 +6,7 @@ excerpt: "Your employees are more important to the success of your company than 
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/shridhar-gupta-678685-unsplash-1-e1548938918684.jpg"
+image: "/images/blog/7c7ef8e00ab4.jpg"
 categories: ["brand-new-thang"]
 needsReview: []
 sourceId: "3165"

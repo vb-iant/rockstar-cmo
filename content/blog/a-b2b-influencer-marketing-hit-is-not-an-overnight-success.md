@@ -6,7 +6,7 @@ excerpt: "Pull your marketing budget together, stick it in a big bag and hand it
 excerptGenerated: false
 author: "Barb Mosher Zinck"
 authorSlug: "barb-mosher-zinck"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/10/barb.jpg"
+image: "/images/blog/dda66fbe5564.jpg"
 categories: ["the-running-in-circles-issue"]
 needsReview: ["embed_block"]
 sourceId: "4524"

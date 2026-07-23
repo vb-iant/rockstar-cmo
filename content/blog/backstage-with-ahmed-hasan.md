@@ -6,18 +6,18 @@ excerpt: "Ian Truscott sits down with Ahmed Hasan,Global Head of Customer Engage
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/0.jpeg"
+image: "/images/blog/7fa271f29d2f.jpg"
 categories: ["backstage", "the-pretender-issue"]
 needsReview: []
 sourceId: "3315"
 sourceUrl: "https://rockstarcmo.com/backstage-with-ahmed-hasan/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Ahmed-Hasan-Chief-Technology-Officer.jpg)
+![](/images/blog/1d2a05fc1031.jpg)
 
 **Global Head of Customer Engagement Marketing at [Spark44](http://spark44.com) (an agency dedicated to the global marketing of Jaguar Land Rover brands) Ahmed Hasan has spent his career carving out success in unorthodox ways.**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Ahmed-Hasan.png)
+![](/images/blog/37194360dc76.png)
 
 **Responsible for driving the transformation and digital marketing strategy of his clients, Ahmed was formerly Chief Digital Officer at GE Healthcare.**
 

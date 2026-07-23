@@ -6,7 +6,7 @@ excerpt: "Consumers have always valued simplicity, in part because it's often no
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/06/shutterstock_526104310-1-e1546182967242.jpg"
+image: "/images/blog/ecea765df1ef.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []
 sourceId: "946"

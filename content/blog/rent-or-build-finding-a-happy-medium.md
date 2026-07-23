@@ -6,7 +6,7 @@ excerpt: "Dennis Shiao runs a popular content marketing meet-up and newsletter a
 excerptGenerated: false
 author: "Dennis Shiao"
 authorSlug: "dennis-shiao"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/10/henry-co-3coKbdfnAFg-unsplash-1-scaled-e1603010350968.jpg"
+image: "/images/blog/c0b44972ce98.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: ["shortcode:buzzsprout"]
 sourceId: "6065"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/rent-or-build-finding-a-happy-medium/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/10/henry-co-3coKbdfnAFg-unsplash-1024x683.jpg)
+![](/images/blog/f3b3497a5841.jpg)
 
 Building your audience on rented land? Some pros and cons revolve around the ‘landlord’. Let’s take Facebook, landlord of the largest online property on the planet. For a business, Facebook gives you access to billions of users.
 
@@ -60,11 +60,11 @@ I established an LLC for my consulting business and purchased a domain. However,
 
 Similar to Meetup.com, Medium provides me with a built-in audience who can discover me - in this case, my writing. In this screenshot, notice how Medium members are discovering and interacting with my posts:
 
-[![](https://rockstarcmo.com/wp-content/uploads/2020/10/medium-notifications-save-1024x731.png)](https://rockstarcmo.com/wp-content/uploads/2020/10/medium-notifications-save.png)
+[![](/images/blog/fdfaf7dc03d0.png)](https://rockstarcmo.com/wp-content/uploads/2020/10/medium-notifications-save.png)
 
 I know, however, that Medium is rented land and that I don’t own my audience there. So one trick I use is to identify my most popular posts and insert a call-to-action (CTA) to sign up for my email newsletter. Here’s an example, which is placed at the bottom of the post:
 
-[![](https://rockstarcmo.com/wp-content/uploads/2020/10/subscribe-to-newsletter-save.png)](https://rockstarcmo.com/wp-content/uploads/2020/10/subscribe-to-newsletter-save.png)
+[![](/images/blog/554f385e0529.png)](/images/blog/554f385e0529.png)
 
 **Pros**: Medium makes it super-easy to publish a post. They provide their publishing system and hosting for free. In addition, I get access to a built-in audience of Medium.com members.
 

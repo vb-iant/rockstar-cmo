@@ -6,7 +6,7 @@ excerpt: "Personalization is good – if you do it right. Darren Guarnaccia brea
 excerptGenerated: false
 author: "Darren Garnaccia"
 authorSlug: "darren-garnaccia"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/05/02eJUsrT_400x400.jpg"
+image: "/images/blog/03c09c5d95c5.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []
 sourceId: "1085"

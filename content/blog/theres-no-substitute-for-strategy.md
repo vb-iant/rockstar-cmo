@@ -6,7 +6,7 @@ excerpt: "When you’re under pressure it’s easy to take short-cuts to tech so
 excerptGenerated: false
 author: "Ian Lowe"
 authorSlug: "ian-lowe"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/0-4.jpeg"
+image: "/images/blog/41add14f75b0.jpg"
 categories: ["the-martech-mix-desk", "the-think-about-it-issue"]
 needsReview: []
 sourceId: "3968"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/theres-no-substitute-for-strategy/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/shutterstock_1406761481.jpg)
+![](/images/blog/42dc24de0530.jpg)
 
 The pressure marketers are under to accelerate results – responding to rapidly changing customer expectations and competitive pressures – means that they often look to technology to provide efficiencies in operations, either for budget or labor hours. They need to get more done and move faster.
 

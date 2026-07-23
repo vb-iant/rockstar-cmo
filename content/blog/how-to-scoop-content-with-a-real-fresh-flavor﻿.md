@@ -6,7 +6,7 @@ excerpt: "Casey Petersen on how an ice cream shop employee reminded him of the b
 excerptGenerated: false
 author: "Casey Petersen"
 authorSlug: "casey-petersen"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/anshu-a-753057-unsplash-1-e1548933235226.jpg"
+image: "/images/blog/6e7d6e8776cc.jpg"
 categories: ["brand-new-thang", "employee-engagement"]
 needsReview: []
 sourceId: "3143"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/how-to-scoop-content-with-a-real-fresh-flavo
 
 [**Photofy’s**](https://photofy.com/) **Vice President of Marketing, Casey Petersen, on how an ice cream shop employee reminded him of the best way to smash those 2019 marketing goals. Changing your attitude to employee generated content.**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/anshu-a-753057-unsplash-e1548932954534-1024x728.jpg)
+![](/images/blog/11a9284f86d3.jpg)
 
 I love the beginning of the year. It’s a clean slate of fresh possibilities. I love the energy of tackling projects I had gotten too bogged down with to deal with last year, and the inertia of a fresh new year that starts with successes and a new vision.
 

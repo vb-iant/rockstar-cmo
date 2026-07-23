@@ -6,7 +6,7 @@ excerpt: "Our anonymous insider goes to task on the agencies and people that are
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-changesbowie-issue"]
 needsReview: []
 sourceId: "3538"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/adnonamau5-fck-old-be-bold/"
 
 ***Our anonymous advertising insider looks like you or me, hanging with the hipsters as a successful marketing creative leader at a trendy London agency, but once a month like the legendary DJ** [**Deadmau5**](https://twitter.com/deadmau5)**, Adnonamau5 (pronounced ad-nonymous) puts on the mask, drops by the Rockstar CMO penthouse and tells us how it really is.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/shutterstock_1097933978.jpg)
+![](/images/blog/65e14499aef4.jpg)
 
 **In this issue Adnonamau5 goes to task on the agencies and people that are getting stale, regardless of experience or age, he has a warning that staying safe is killing you, your brand or your agency.**
 

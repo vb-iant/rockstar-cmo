@@ -6,7 +6,7 @@ excerpt: "Keith Smith looks beyond 2020 and imagines the world of 2060 – will 
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/RockstarCMO2060_done-1-e1577807673358.jpg"
+image: "/images/blog/8ddb7d8ae6c1.jpg"
 categories: ["the-future-starts-here-issue"]
 needsReview: []
 sourceId: "4993"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/never-mind-2020-what-about-2060/"
 
 ![A picture containing fence
 
-Description automatically generated](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/12/RockstarCMO2060_done.jpg)
+Description automatically generated](/images/blog/a2c46ec763e7.jpg)
 
 ## January 01 2060:
 

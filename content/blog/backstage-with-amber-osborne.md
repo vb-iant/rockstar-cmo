@@ -6,7 +6,7 @@ excerpt: "Amber Osborne, Forbes #2 Most Influential CMO on Social, discusses fee
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/164668_10101484668803661_297590743_n-1-e1546080603833.jpg"
+image: "/images/blog/65d600f186b3.jpg"
 categories: ["backstage", "the-breaking-glass-issue", "nevermind"]
 needsReview: []
 sourceId: "794"

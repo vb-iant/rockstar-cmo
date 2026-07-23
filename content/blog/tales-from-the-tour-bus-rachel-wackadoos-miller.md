@@ -6,14 +6,14 @@ excerpt: "We catch-up with Rachel Miller, who recently joined SAP as Global Infl
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/03/9HiAVCSY_400x400.jpg"
+image: "/images/blog/c3f67e303652.jpg"
 categories: ["the-ghost-town-issue"]
 needsReview: []
 sourceId: "5502"
 sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-rachel-wackadoos-miller/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/03/0-1.jpeg)
+![](/images/blog/1869ab3c5e54.jpg)
 
 ***Regular readers will know Rachel Miller, from her popular post last year that urged us to [Ignore the Wackadoos](https://rockstarcmo.wpengine.com/ignore-the-wacadoos-create-community-and-value-through-meaningful-engagement/),*** ***which was in our [TOP 10](https://rockstarcmo.wpengine.com/category/top-10/) for months. But, Rachel is more than an entertaining writer, she is a recognized B2B influencer marketing expert, who's recently joined SAP in what she's described as her "dream job". So, I caught up with her.***
 
@@ -53,7 +53,7 @@ Hi Rachel,
 
 ---
 
-![Rachel Miller](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/9HiAVCSY_400x400.jpg)
+![Rachel Miller](/images/blog/c3f67e303652.jpg)
 
 Rachel Miller in the Global Influencer Marketing Lead at SAP, is an influencer marketing, social media, and content marketing expert who was listed as one of the Top 50 MarTech, Influencer Marketing, and B2B Marketing experts worldwide.
 

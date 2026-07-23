@@ -6,7 +6,7 @@ excerpt: "Playing along to the elevator music of your industry won't get you not
 excerptGenerated: false
 author: "Lauren Bowden"
 authorSlug: "lauren-bowden"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/shutterstock_1378682936-1-e1561797474505.jpg"
+image: "/images/blog/59f6ae56cff2.jpg"
 categories: ["features-2", "the-breaking-glass-issue", "the-inside-in-inside-out-issue"]
 needsReview: []
 sourceId: "3876"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/taking-a-good-look-at-people-can-stop-b2b-bo
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/shutterstock_1378682936.jpg)
+![](/images/blog/8348018e769f.jpg)
 
 As we move into the alleged quiet summer period, many a B2B
 marketer will already be thinking about 2020 marketing plans. Persona

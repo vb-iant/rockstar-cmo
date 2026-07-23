@@ -6,7 +6,7 @@ excerpt: "The fab four of Price, Product, Promotion, and Place are sliding down 
 excerptGenerated: false
 author: "John Andrews"
 authorSlug: "john-andrews"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/ja-2-1-e1564082751727.png"
+image: "/images/blog/917e0c00aa9c.png"
 categories: ["the-think-about-it-issue"]
 needsReview: []
 sourceId: "4024"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-4-ps-give-way-to-simplicity-along-the-ne
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/120716_20PICZ-0060-1-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 
 Both online and bricks ‘n’ mortar stores know that Simplicity has become the new order-winner for retail.
 
@@ -73,7 +73,7 @@ Walmart is probably best suited to address the multitude of options to drive sho
 
 Walmart is even focusing its energy on quick convenience trips with its expanded fuel centers which could eventually serve as multi-modal shopping, return and service platforms. Walmart recently opened a new fuel station in Killeen, TX, featuring self-checkout kiosks and freshly baked doughnuts, making it easy to add ancillary basket purchases to a fuel stop. Imagine how it can leverage this to add grocery pickup, and/or returns, on the same trip.
 
-[![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/ja-2.png)](blob:https://rockstarcmo.wpengine.com/8e76d85c-0cf4-4b95-b526-5a45b72a9335)
+[![](/images/blog/f4b6f6ed189c.png)](blob:https://rockstarcmo.wpengine.com/8e76d85c-0cf4-4b95-b526-5a45b72a9335)
 
 *(Image created via [Photofy](http://photofy.com/) at Killeen, TX Fuel Station Grand Opening)*
 

@@ -6,7 +6,7 @@ excerpt: "Welcome to 2019, where the eSports industry is worth a cool $1.65 bill
 excerptGenerated: false
 author: "Ian Hsieh"
 authorSlug: "ian-hsieh"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/Image_1-1-e1548938328685.jpg"
+image: "/images/blog/c2490201af8a.jpg"
 categories: ["brand-new-thang"]
 needsReview: ["embed_block"]
 sourceId: "3157"

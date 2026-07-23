@@ -6,7 +6,7 @@ excerpt: "50 years ago, family was a simple proposition: mum, dad, two kids – 
 excerptGenerated: false
 author: "Stephen Kelly"
 authorSlug: "stephen-kelly"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/shutterstock_367907396-e1545503328615.jpg"
+image: "/images/blog/781f421593a2.jpg"
 categories: ["features-2", "we-are-family"]
 needsReview: ["embed_block"]
 sourceId: "616"

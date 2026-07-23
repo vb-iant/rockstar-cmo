@@ -6,7 +6,7 @@ excerpt: "Deep in lock down, our resident business development rock star Keith S
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/04/shutterstock_1395576830-1-e1588256155594.jpg"
+image: "/images/blog/281748889f97.jpg"
 categories: ["the-welcome-to-jamrock-issue"]
 needsReview: []
 sourceId: "5646"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/dont-be-afraid-to-dance-to-this-new-tune/"
 
 ***Deep in lock down, our resident business development rock star Keith Smith, offers us a pep talk. Although personally difficult, the role of sales and marketing is to bring change and to get the crowd to dance to a different tune. Well, a new tune has dropped, time to get on the dance floor.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/04/shutterstock_1395576830.jpg)
+![](/images/blog/7cc00fb3a208.jpg)
 
 ---
 

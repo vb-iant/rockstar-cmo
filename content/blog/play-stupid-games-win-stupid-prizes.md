@@ -6,7 +6,7 @@ excerpt: "In the month that saw Tom Goodwin relieved of his duties at Publicis f
 excerptGenerated: false
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_1488343280-1-e1599159772551.jpg"
+image: "/images/blog/149bfcb1713f.jpg"
 categories: ["the-blur-issue"]
 needsReview: []
 sourceId: "5967"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/play-stupid-games-win-stupid-prizes/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_1488343280.jpg)
+![](/images/blog/1b3331dab51b.jpg)
 
 In today’s world, if you choose to engage in social media, you get all the benefits and risks of being in…. well… the media. And, it’s not “if”, it’s “when” it will affect you.
 

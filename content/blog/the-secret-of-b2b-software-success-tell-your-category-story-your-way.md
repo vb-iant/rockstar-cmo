@@ -6,7 +6,7 @@ excerpt: "Taking the time to define a brand story is necessary and fantastic, bu
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/shutterstock_326465084-e1652985531146.jpg"
+image: "/images/blog/4ee240d4fbd6.jpg"
 categories: ["archive", "b2b-marketing", "category-definition", "content-marketing", "street-knowledge"]
 needsReview: []
 sourceId: "346"

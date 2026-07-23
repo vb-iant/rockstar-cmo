@@ -6,7 +6,7 @@ excerpt: "If you’re over the age of 30 and you’re not au fait with the styli
 excerptGenerated: false
 author: "Olivia Foster"
 authorSlug: "olivia-foster"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/08/Supernova_Image_1-e1546096712139.jpg"
+image: "/images/blog/43ad8ffb36c4.jpg"
 categories: ["seat-at-the-table"]
 needsReview: ["embed_block"]
 sourceId: "1168"

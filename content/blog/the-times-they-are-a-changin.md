@@ -6,7 +6,7 @@ excerpt: "This month we asked Ted Rubin: Do good marketers need a formal marketi
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
+image: "/images/blog/91eb73950e06.jpg"
 categories: ["the-miseducation-of-lauryn-hill-issue", "top-10"]
 needsReview: []
 sourceId: "5864"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-times-they-are-a-changin/"
 
 ***This month we asked Ted Rubin: Do good marketers need a formal marketing education? His reply is, as ever, straight-talking, insightful and to the point. As times change you need to be open to it and have the passion...***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/07/ted_article.jpeg)
+![](/images/blog/2f48c5783265.jpg)
 
 In true Rockstar CMO fashion and in the words of the Rockstar immortal Mr. Bob Dylan ... The Times They Are A-Changin’. Traditional advertising certainly isn’t extinct, but there is simply too much noise out there, and people are sick of it.
 

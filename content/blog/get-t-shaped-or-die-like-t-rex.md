@@ -6,7 +6,7 @@ excerpt: "Like the legendary DJ Deadmau5, our agency insider dons a mask and rev
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-running-in-circles-issue"]
 needsReview: []
 sourceId: "4555"

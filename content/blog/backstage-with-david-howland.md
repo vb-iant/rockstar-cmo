@@ -6,7 +6,7 @@ excerpt: "We go backstage with David Howland, CMO of Longview Solutions, former 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/03/david-headshot-smile-1-e1553779414255.jpg"
+image: "/images/blog/f1fb9b3939ca.jpg"
 categories: ["backstage", "the-ghost-in-the-machine-issue"]
 needsReview: []
 sourceId: "3399"

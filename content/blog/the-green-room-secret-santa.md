@@ -6,7 +6,7 @@ excerpt: "Every month we pose a question to our Rockstar CMOs. As this issue dro
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/queue-management-for-busy-christmas-events-1-e1545650732650.jpg"
+image: "/images/blog/0dcc48783438.jpg"
 categories: ["featured", "the-green-room", "london-calling"]
 needsReview: ["embed_block"]
 sourceId: "1592"

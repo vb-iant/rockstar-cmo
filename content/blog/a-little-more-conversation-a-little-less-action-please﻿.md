@@ -6,7 +6,7 @@ excerpt: "Ian Truscott argues that in this new age of marketing, you need to foc
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/shutterstock_149490410-1-e1545648552813.jpg"
+image: "/images/blog/2a662eef9808.jpg"
 categories: ["featured", "london-calling"]
 needsReview: []
 sourceId: "1573"

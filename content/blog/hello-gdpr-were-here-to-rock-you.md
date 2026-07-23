@@ -6,7 +6,7 @@ excerpt: "As the General Data Protection Regulation (GDPR) becomes law, Robert R
 excerptGenerated: true
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/05/We_Will_Rock_You_2459862472-e1546188179400.jpg"
+image: "/images/blog/0679e10de99c.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []
 sourceId: "1072"

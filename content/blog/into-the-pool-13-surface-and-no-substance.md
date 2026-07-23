@@ -6,7 +6,7 @@ excerpt: "What would Margaret Molloy, the Global Chief Marketing Officer at Sieg
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/03/91EGqCHtRlL._SR500500_.jpg"
+image: "/images/blog/bbd4f700d2b3.jpg"
 categories: ["the-ghost-in-the-machine-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "3379"
@@ -15,11 +15,11 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-13-surface-and-no-substance/"
 
 ***In [The Brand New Thang Issue](https://rockstarcmo.wpengine.com/category/issues/brand-new-thang/) we were fortunate enough to go [backstage with Margaret Molloy](https://rockstarcmo.wpengine.com/backstage-with-margaret-molloy/), Global CMO for [Siegel+Gale](https://www.siegelgale.com/). In this issue we explore her nomination for the Rockstar CMO Swimming Pool, our portal to marketing hell for all the BS, shady or outdated practices, snake oil or over-hyped buzzwords in this industry.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/91EGqCHtRlL._SR500500_.jpg)
+![](/images/blog/bbd4f700d2b3.jpg)
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/SiegelGale-Margaret-Molloy-New-682x1024.jpg)
+![](/images/blog/64dd73ac3462.jpg)
 
 When we chatted with Margaret Molloy, the Global Chief Marketing Officer at [Siegel+Gale](https://www.siegelgale.com/), her reputation for bringing sense and sensibility (a potent blend of analytics and creative thinking) to everything she does was clear throughout the interview, as she shared her experience and some gems of straight talking advice ([check it out!).](https://rockstarcmo.wpengine.com/backstage-with-margaret-molloy/)
 

@@ -6,7 +6,7 @@ excerpt: "Facial recognition is a pervasive and powerful tool, offering brands n
 excerptGenerated: false
 author: "Dave Waller"
 authorSlug: "dave-waller"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/06/437541_1287311921_large-e1546184025204.jpg"
+image: "/images/blog/d7d9d9b5a209.jpg"
 categories: ["ok-computer"]
 needsReview: []
 sourceId: "982"

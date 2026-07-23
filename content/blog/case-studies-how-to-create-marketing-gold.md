@@ -6,7 +6,7 @@ excerpt: "In a world seemingly more and more cynical of sales and marketing, the
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/jingming-pan-iYsrkq5qq0Q-unsplash-square.png"
+image: "/images/blog/28e6da9251f7.png"
 categories: ["b2b-marketing"]
 needsReview: []
 sourceId: "1403"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/case-studies-how-to-create-marketing-gold/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/02/jingming-pan-iYsrkq5qq0Q-unsplash.jpg)
+![](/images/blog/a2241410fb87.jpg)
 
 I talk a lot about the three objectives for marketing, that I call ART, we need to raise **Awareness**, increase **Revenue** and create **Trust** (you can read more about this [here](https://appropingo1.wpengine.com/the-art-of-b2b-marketing/)). Without trust, your ability to create awareness and revenue is kinda screwed and there is no better way to engender trust than with case studies and their development should be top of the list for any marketer.
 

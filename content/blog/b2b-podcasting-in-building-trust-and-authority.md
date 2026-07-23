@@ -6,7 +6,7 @@ excerpt: "Guillaume Jouvencel, from GHA Marketing, shares this guest article on 
 excerptGenerated: false
 author: "Guillaume Jouvencel"
 authorSlug: "guillaume-jouvencel"
-image: "https://rockstarcmo.com/wp-content/uploads/2024/04/iStock-1412633860-square.jpeg"
+image: "/images/blog/c1d0c7631300.jpg"
 categories: ["podcasting"]
 needsReview: ["embed_block"]
 sourceId: "8448"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/b2b-podcasting-in-building-trust-and-authori
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/04/iStock-1412633860-1024x554.jpg)
+![](/images/blog/8e40b1b8f8ad.jpg)
 
 Success in marketing, particularly in the realm of B2B podcasting, demands authenticity, flexibility, and an in-depth understanding of the constantly evolving landscape.
 

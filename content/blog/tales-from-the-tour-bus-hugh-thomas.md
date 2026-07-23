@@ -6,7 +6,7 @@ excerpt: "In our second ride on the tour bus, FMCG disruptor Hugh Thomas, co-fou
 excerptGenerated: false
 author: "Ian Hsieh"
 authorSlug: "ian-hsieh"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/IMG_4303-1-e1551353351321.jpg"
+image: "/images/blog/45f4e247cece.jpg"
 categories: ["tales-from-the-tour-bus", "the-pretender-issue"]
 needsReview: []
 sourceId: "3262"

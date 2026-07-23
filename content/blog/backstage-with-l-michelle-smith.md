@@ -6,7 +6,7 @@ excerpt: "A classically-trained mezzo soprano, entrepreneur, author, speaker, co
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/michelle_featured_image.png"
+image: "/images/blog/2c9fe7e02d18.png"
 categories: ["backstage", "the-breaking-glass-issue", "london-calling"]
 needsReview: []
 sourceId: "1764"

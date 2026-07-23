@@ -6,7 +6,7 @@ excerpt: "The flash mob. Went viral, then... nothing. Where did it come from? Wh
 excerptGenerated: false
 author: "Samuel Crosby"
 authorSlug: "samuel-crosby"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/10/shutterstock_271972331-e1545996635129.jpg"
+image: "/images/blog/868c6e3f876b.jpg"
 categories: ["thriller"]
 needsReview: ["embed_block"]
 sourceId: "1133"

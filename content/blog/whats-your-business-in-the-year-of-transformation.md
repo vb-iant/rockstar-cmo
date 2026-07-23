@@ -6,7 +6,7 @@ excerpt: "Rock stars don't have a great reputation for education on the classics
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/11/0.jpeg"
+image: "/images/blog/fc29346827e7.jpg"
 categories: ["rockstar-cmo-advisors", "sustainability", "the-youve-come-a-long-way-baby-issue"]
 needsReview: []
 sourceId: "6330"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/whats-your-business-in-the-year-of-transform
 
 *And, as the rediscovery of Cicero's letters is often credited for initiating the 14th-century Renaissance, maybe Jeff's quote and call to action is a good omen for 2021*....
 
-![](https://rockstarcmo.com/wp-content/uploads/2021/01/cicero-1024x515.jpg)
+![](/images/blog/af2a01a400c3.jpg)
 > “Salus populi suprema lex esto.”
 >
 > [Cicero](https://en.wikipedia.org/wiki/Cicero), 106 – 43 BCE

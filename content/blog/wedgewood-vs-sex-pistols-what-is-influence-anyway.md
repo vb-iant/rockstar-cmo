@@ -6,7 +6,7 @@ excerpt: "What's your influencer groove? Shilling for a product or promoting ide
 excerptGenerated: false
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/10/wedgewood-vs-sex-pistols-square.png"
+image: "/images/blog/727b4b6c6839.png"
 categories: ["the-running-in-circles-issue"]
 needsReview: ["embed_block"]
 sourceId: "4551"

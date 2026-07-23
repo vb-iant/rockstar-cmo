@@ -6,7 +6,7 @@ excerpt: "Forget chasing the zeitgeist, says Ian Truscott. Have faith in your pr
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/angel-art-black-and-white-96127-e1546268951389.jpg"
+image: "/images/blog/532916ed5c5c.jpg"
 categories: ["project-funk-da-world"]
 needsReview: []
 sourceId: "1051"

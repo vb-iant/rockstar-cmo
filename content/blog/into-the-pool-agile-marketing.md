@@ -6,7 +6,7 @@ excerpt: "We kick off our series by flinging agile marketing off the balcony… 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/photo-1465198901163-2d15b88fecea-e1544724190136.jpeg"
+image: "/images/blog/c09756e8f5a7.jpg"
 categories: ["sound-check", "the-swimming-pool"]
 needsReview: []
 sourceId: "136"

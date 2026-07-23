@@ -6,7 +6,7 @@ excerpt: "Retail continues to be disrupted, our malls and high syreets continue 
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1-e1546192626465.jpg"
+image: "/images/blog/91eb73950e06.jpg"
 categories: ["sound-check"]
 needsReview: []
 sourceId: "961"

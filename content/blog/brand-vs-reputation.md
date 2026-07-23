@@ -6,7 +6,7 @@ excerpt: "The difference between your brand and your reputation can be easy to m
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg"
+image: "/images/blog/f04796e0e527.jpg"
 categories: ["sound-check"]
 needsReview: []
 sourceId: "1161"

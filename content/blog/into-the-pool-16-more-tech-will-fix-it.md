@@ -6,7 +6,7 @@ excerpt: "We find ourselves peering over the balcony pondering the fate of the i
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
+image: "/images/blog/45e339d48f11.jpg"
 categories: ["the-inside-in-inside-out-issue", "the-martech-mix-desk", "the-swimming-pool"]
 needsReview: []
 sourceId: "3816"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-16-more-tech-will-fix-it/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1024x683.jpg)
+![](/images/blog/3d5d7c78cd36.jpg)
 
 This month, inspiring our trip to the balcony of the Rockstar CMO penthouse is Ian Lowe, VP Marketing for web content management vendor CrownPeak and the view he shared with us in [his Backstage Q&A](https://rockstarcmo.wpengine.com/backstage-with-ian-lowe/) that technology is often seen as a panacea for marketing problems:
 

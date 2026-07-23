@@ -6,7 +6,7 @@ excerpt: "Ian Truscott looks at rap past and present, and finds that NWA, Public
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/07/41FD4E7200000578-4660910-image-m-18_1499080541415-e1546170708194.jpg"
+image: "/images/blog/55449f674d0f.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []
 sourceId: "1147"

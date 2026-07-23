@@ -6,7 +6,7 @@ excerpt: "Inspired by a chat with Simon Daniels, marketing operations expert, Ia
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/11/jon-tyson-nI8YlkExQoI-unsplash-1-scaled-e1606749572159.jpg"
+image: "/images/blog/ef692c39591b.jpg"
 categories: ["the-come-together-issue"]
 needsReview: ["shortcode:buzzsprout"]
 sourceId: "6187"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/love-the-one-youre-with/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/11/jon-tyson-nI8YlkExQoI-unsplash-1024x910.jpg)
+![](/images/blog/6955cf1241bf.jpg)
 
 During [episode 37 of the Rockstar CMO Podcast](https://rockstarcmo.com/rockstar-cmo-podcast-37-the-swimming-pool-simon-daniels-roberts-rose-and-a-cocktail-episode/), I chatted with [Simon Daniels](https://www.linkedin.com/in/simondaniels/), of Percassity Associates, who is a marketing operations consultant advising marketing leaders on the challenges with data technology and process. We discussed marketing technology, and he shared his experience of organizations perpetually churning their marketing technology.
 
@@ -49,7 +49,7 @@ You can listen to the whole episode here:
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/11/simon-daniels.jpg)
+![](/images/blog/0483cf1bbad8.jpg)
 
 Simon Daniels is a Marketing Operations consultant advising marketing leaders on the challenges with data, technology, and process.
 

@@ -6,7 +6,7 @@ excerpt: "The pool guy is not going to be pleased with what he’s going to be s
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/05/pool_guy-e1546186762372.jpg"
+image: "/images/blog/eb5fa0f20524.jpg"
 categories: ["the-age-of-consent", "the-swimming-pool"]
 needsReview: []
 sourceId: "1077"

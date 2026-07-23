@@ -6,7 +6,7 @@ excerpt: "Every month we grab our backstage pass to our Rockstar CMO’s, hang o
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/09/green-room-square.png"
+image: "/images/blog/c8d91c057e15.png"
 categories: ["the-people-are-people-issue"]
 needsReview: []
 sourceId: "4279"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-diving-into-diversity/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/green-room-sept-1024x512.png)
+![](/images/blog/8b72b330bb9f.png)
 
 Welcome to the Green Room - this month we are asking:
 
@@ -31,7 +31,7 @@ I think it’s potentially easier to have a diverse marketing output in a compan
 
 All of this, requires an understanding from your leadership team of the value of diversity, both in thinking and organizational composition. It also requires a commitment to both fund and supports such programs even though it can be very difficult to quantify the value. We are lucky though, to have over 19 offices around the globe and 1000 employees make implementing such programs possible. It doesn’t cost the earth and the positive impact on the quality of output, the volume of ideas and overall culture is too great to ignore.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/0-1-e1561804436966.jpeg)
+![](/images/blog/ad09e8929328.jpg)
 
 Ahmed Hasan is Global Head of Customer Engagement Marketing at [Spark44](http://spark44.com/) (an agency dedicated to the global marketing of Jaguar Land Rover brands) Ahmed Hasan has spent his career carving out success in unorthodox ways. Ahmed was formerly Chief Digital Officer at GE Healthcare.
 
@@ -47,7 +47,7 @@ When we asked Wendy about diversity, we got [this fantastic](https://rockstarcmo
 
 [Read more](https://rockstarcmo.wpengine.com/diversity-not-just-a-party-invite-its-inclusion-in-the-plan/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/Headshot1-e1561803535536.png)
+![](/images/blog/6bc97080831b.png)
 
 *Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*
 
@@ -73,7 +73,7 @@ marketing types.
 
 Industry diversity is rarely questioned, intuitively it makes sense, however, I would suggest that it can be very limiting in terms of broad thinking and innovation. Bringing in some outside industry perspective could help see business challenges from a different point of view, especially if these views are specifically requested and valued by the organization. At Collective Bias, we borrowed a saying for new employees, "tell us what you see here before you become part of the problem." It was helpful and part of our process to get a 'fresh eyes' look at our business and seek to bring that into our business. People diversity is a must, diversity of industry experience is a competitive step beyond.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/06/120716_20PICZ-0060-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 
 *John Andrews is the head honcho at Photofy – a content creation app that enables users to transform ordinary photos into slick, professional images that can be easily shared on social platforms.*
 
@@ -83,7 +83,7 @@ Industry diversity is rarely questioned, intuitively it makes sense, however, I 
 
 ## Ted Rubin
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/1447389246178.jpeg-1-e1551354115237.jpg)
+![](/images/blog/39fbb3339ce7.jpg)
 
 Our resident Rockstar CMO tells it straight to marketing leaders, in order to capture diverse ideas, get your brainstorming act together. ***Avoid the groupthink, include the right people and listen…***
 
@@ -99,7 +99,7 @@ Whilst I always try to hire the “right person for the job”, I’m very aware
 
 With this in mind, and after making sure that people have the right skills and cultural fit for the team, I try to ensure diversity of age, gender, nationality, experience and the role they naturally play in a team e.g. dreamer or completer/finisher.  Then I try and ensure that we constantly feed our brains, ask lots of questions, seek out insights to inform everything we do, break free of our comfort zones, experiment, be prepared to get it wrong.  I’ve been a very active proponent and supporter of gender diversity for many years now.  Still one of my favorite blogs is “[Why can’t a woman be more like a man?  Vive la difference](https://www.linkedin.com/pulse/why-cant-woman-more-like-man-vive-la-difference-bailey/)!”
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
@@ -113,7 +113,7 @@ We leave the last word to Robert Rose, who, in our conversation referred to [thi
 
 > Great storytelling happens when you artfully use your distinctive voices to create multiple facets to a character’s unique personality. Not celebrating the differences in our voices is one of the biggest mistakes we can make.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/Robert-Rose-1-1.jpg)
+![](/images/blog/3034b21c903d.jpg)
 
 Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts [This Old Marketing](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) and founder and Founder, Chief Trouble Maker at [The Content Advisory.](https://contentadvisory.net/)
 

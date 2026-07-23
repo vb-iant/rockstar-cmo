@@ -6,7 +6,7 @@ excerpt: "Robert Rose is a certified rockstar. Not just because he's a content m
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/robert-rose-e1546086062766.jpg"
+image: "/images/blog/545e4c3a6a30.jpg"
 categories: ["backstage", "featured", "sound-check"]
 needsReview: []
 sourceId: "134"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-robert-rose/"
 
 In this series of articles we go backstage with a marketing rockstar, we sit at their feet while they share with us what made them rockstars, what excites them and what we might learn on our journey to marketing rockstardom.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/robertrose_1369869647_72-1024x603.jpg)
+![](/images/blog/5bbde3d52e86.jpg)
 
 [Robert](/authors/robert-rose)[Rose](/authors/robert-rose) is a certified rockstar. Not just because he's a content marketing celebrity that gets us all groupie-eyed over here (and such a nice fella he'd never admit that), but chat to him for a bit and you'll learn that as a musician, he's had more than a brush with being the real thing.
 

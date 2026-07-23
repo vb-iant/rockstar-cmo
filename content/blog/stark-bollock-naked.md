@@ -6,7 +6,7 @@ excerpt: "To wear a sock, or not? Debates around radical transparency are heatin
 excerptGenerated: false
 author: "Helene Dancer"
 authorSlug: "helene-dancer"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/05/Image-2-Transparency-e1546190295698.jpg"
+image: "/images/blog/e68214f9254b.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []
 sourceId: "1080"

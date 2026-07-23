@@ -6,7 +6,7 @@ excerpt: "This month we heard a whisper of someone taking a punk beat and applyi
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/D8CdU75XoAAsFvw-1-e1564082553959.jpg"
+image: "/images/blog/62a5366f999d.jpg"
 categories: ["tales-from-the-tour-bus", "the-think-about-it-issue"]
 needsReview: []
 sourceId: "4010"
@@ -29,7 +29,7 @@ As a result and having built businesses and propositions that had great experien
 
 #### What’s the inspiration behind Punk CX?
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/D8CdU75XoAAsFvw.jpg)
+![](/images/blog/8d2553e30713.jpg)
 
 The book is based on the hypothesis that the CX space is becoming more and more like prog-rock in the 1970s i.e. overly technical, too elaborate and complicated, inwardly focused, a little exclusive and in danger of disappearing up its own a\*\*\*.
 
@@ -41,7 +41,7 @@ Given that, that led me to ask the question: what would a punk rock version of C
 
 #### What’s your approach to writing? I notice you started this book with a newsletter.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/Adrian-Swinscoe-001-e1564059126165-1024x1024.jpg)
+![](/images/blog/e707e35538e3.jpg)
 
 I’ve now written 3 books: the first (RARE Business, 2010) was a self-published anthology of a number of blog posts that I had written.
 
@@ -107,7 +107,7 @@ More speaking and telling the story of Punk CX everywhere from New York to Londo
 
 #### Finally – where can people follow you, see you speak?
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/U5Lvg5US.jpg)
+![](/images/blog/5937cd164f07.jpg)
 
 If you want to see me speak then just ask me to speak. Details about how to get in touch are here: [http://www.adrianswinscoe.com/contact](http://www.adrianswinscoe.com/contact/)
 

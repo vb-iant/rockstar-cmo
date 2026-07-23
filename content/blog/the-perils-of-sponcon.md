@@ -6,7 +6,7 @@ excerpt: "Unlike its musical counterpart of pop, where the lip-synch reigns supr
 excerptGenerated: false
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/rawpixel-1116840-unsplash-1-e1551362791419.jpg"
+image: "/images/blog/704eb51823f2.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []
 sourceId: "3308"

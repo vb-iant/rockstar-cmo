@@ -6,7 +6,7 @@ excerpt: "In part one of a two-part series, guest writer, a friend of the Rockst
 excerptGenerated: false
 author: "Irene Nehrkorn-Kayn"
 authorSlug: "irene-nehrkorn-kayn"
-image: "https://rockstarcmo.com/wp-content/uploads/2022/08/Trouble-with-CMOS-1.png"
+image: "/images/blog/dfa65a337475.png"
 categories: ["street-knowledge"]
 needsReview: []
 sourceId: "7367"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-trouble-with-the-cmos-part-one/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2022/08/Trouble-with-CMOS-1.png)
+![](/images/blog/dfa65a337475.png)
 
 ## **How to jailbreak out of prescribed CEO assumptions in Marketing**
 

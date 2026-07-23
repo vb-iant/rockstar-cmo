@@ -6,7 +6,7 @@ excerpt: "This month, senior content marketer and marketing technology analyst B
 excerptGenerated: false
 author: "Barb Mosher Zinck"
 authorSlug: "barb-mosher-zinck"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/10/barb.jpg"
+image: "/images/blog/dda66fbe5564.jpg"
 categories: ["the-club-classics-volume-one-issue"]
 needsReview: []
 sourceId: "5746"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/play-for-the-customer-not-the-brand/"
 
 ***This month, senior content marketer and marketing technology analyst Barb Mosher Zinck picks out some brands that have learned to play their tune for the customer, not for the brand, and hopes that this playlist continues after the current Covid-19 crisis.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/09/shutterstock_540487849.jpg)
+![](/images/blog/541b4d149221.jpg)
 
 ---
 

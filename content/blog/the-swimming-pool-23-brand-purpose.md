@@ -6,7 +6,7 @@ excerpt: "In this trip to the Rockstar CMO Swimming Pool, we are inspired by Pet
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
+image: "/images/blog/45e339d48f11.jpg"
 categories: ["the-ghost-town-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "5493"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-swimming-pool-23-brand-purpose/"
 
 ***In this trip to the Rockstar CMO Swimming Pool, we are inspired by Peter Morgan, [Metia](https://www.metia.com/)’s VP of Demand and our recent trip on the tour bus with him. Should 'brand purpose' be the next big splash in our portal to marketing hell?***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1024x683.jpg)
+![](/images/blog/3d5d7c78cd36.jpg)
 
 ---
 

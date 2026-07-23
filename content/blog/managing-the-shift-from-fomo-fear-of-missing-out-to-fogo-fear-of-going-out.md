@@ -6,7 +6,7 @@ excerpt: "In this article Jane Scandurra, global marketing consultant and coach,
 excerptGenerated: false
 author: "Jane Scandurra"
 authorSlug: "jane-scandurra"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/04/milo-bauman-SvEzuw2cy3s-unsplash-1-scaled-e1588254815899.jpg"
+image: "/images/blog/2869edc9fd04.jpg"
 categories: ["top-10", "the-welcome-to-jamrock-issue", "top-10-2020"]
 needsReview: []
 sourceId: "5639"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/managing-the-shift-from-fomo-fear-of-missing
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/04/milo-bauman-SvEzuw2cy3s-unsplash-1024x680.jpg)
+![](/images/blog/4319db61986c.jpg)
 
 Although it has already become an overused description, it is still safe to say we are truly living in an unprecedented time in history. Never before has the entire planet been impacted so widely and so deeply by a single event as it is now with the Covid-19 pandemic. It is affecting every human being in every way imaginable - physically, mentally, financially.
 

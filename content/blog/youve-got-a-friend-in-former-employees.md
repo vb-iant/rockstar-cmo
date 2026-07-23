@@ -6,7 +6,7 @@ excerpt: "Of all the collaborations we focus on as marketers, how often do we co
 excerptGenerated: false
 author: "Jane Scandurra"
 authorSlug: "jane-scandurra"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/J-Scandurra-Headshot-e1561794109201.jpg"
+image: "/images/blog/8c57e5f1acb9.jpg"
 categories: ["employee-engagement", "the-one-nation-under-a-groove-issue"]
 needsReview: ["embed_block"]
 sourceId: "4394"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/youve-got-a-friend-in-former-employees/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/shutterstock_1411349033.jpg)
+![](/images/blog/fd07e1efecdc.jpg)
 
 One of the most memorable concerts I ever attended was an amazing performance of two legendary superstars, [Carole King and James Taylor, at NYC’s Madison Square Garden on June 16, 2010.](https://www.nytimes.com/2010/06/17/arts/music/17taylor.html)
 

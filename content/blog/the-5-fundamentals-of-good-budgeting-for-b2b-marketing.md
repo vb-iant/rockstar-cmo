@@ -6,7 +6,7 @@ excerpt: "Effective budget planning is critical for B2B marketing leaders, parti
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2024/08/roman-synkevych-aSjJ-aCzR7Q-unsplash-square-scaled-e1725126807660.jpg"
+image: "/images/blog/a658a108b8c0.jpg"
 categories: ["rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "8561"
@@ -25,7 +25,7 @@ At least that’s what we advisors always say. In my decades of building, spendi
 
 Effective budget planning is critical for B2B marketing leaders, particularly in a highly competitive and ever-changing market. Balancing between driving growth, aligning with corporate strategy, and managing operational constraints requires a thoughtful approach to budget allocation and management. To that end, let’s break down five core principles that must guide B2B marketing leaders in their budget planning efforts. These "five fundamentals" focus on benchmarking, allocation, ROI, and the flexibility needed to respond to market shifts.
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/08/roman-synkevych-aSjJ-aCzR7Q-unsplash-1024x649.png)
+![](/images/blog/2220cd5138d7.png)
 
 ## One. Benchmark Your Budget Against Your Peers
 

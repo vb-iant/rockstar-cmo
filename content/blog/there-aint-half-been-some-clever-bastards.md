@@ -6,7 +6,7 @@ excerpt: "As UK music legend Ian Dury said “There ain’t half been some cleve
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/07/Ian_Dury_One-e1594932299735.jpg"
+image: "/images/blog/e058dfc4a78d.jpg"
 categories: ["the-miseducation-of-lauryn-hill-issue"]
 needsReview: []
 sourceId: "5861"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/there-aint-half-been-some-clever-bastards/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/07/Ian_Dury_2.jpg)
+![](/images/blog/db0cb5366f72.jpg)
 > *Einstein can't be classed as witless.  
 > He claimed atoms were the littlest.*
 >

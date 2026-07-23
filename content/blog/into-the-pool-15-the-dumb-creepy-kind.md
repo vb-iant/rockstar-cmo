@@ -6,7 +6,7 @@ excerpt: "Inspired by our backstage chat with David Howland, we ponder if we sho
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
+image: "/images/blog/45e339d48f11.jpg"
 categories: ["the-invasion-of-privacy-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "3747"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-15-the-dumb-creepy-kind/"
 
 ***In keeping with the privacy theme this month, inspired by our backstage chat with David Howland, we ponder if we should chuck personalization into our portal to marketing hell, or maybe just the dumb, creepy kind.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/05/shutterstock_297737654.jpg)
+![](/images/blog/8824989230b7.jpg)
 
 * There is an ad for a motoring event that is following me wherever I go online, I’m interested but I can’t go as I am on vacation, but it doesn’t know and follows me anyway.
 * A business bank ad appears constantly in my Facebook feed, I already have a business bank account with them, it doesn’t know.

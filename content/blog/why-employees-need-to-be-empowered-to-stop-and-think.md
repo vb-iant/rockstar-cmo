@@ -6,7 +6,7 @@ excerpt: "We live in a culture where the simple act of distraction free thinking
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/03/shutterstock_1184817265-e1553786879593.jpg"
+image: "/images/blog/2ab5ab34f9d6.jpg"
 categories: ["employee-engagement", "the-ghost-in-the-machine-issue"]
 needsReview: []
 sourceId: "3425"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/why-employees-need-to-be-empowered-to-stop-a
 
 ***We live in a culture where the simple act of distraction free thinking has become alien, day dreaming has been replaced with scrolling through a feed on our smart phones and the office is a place for the hustle, not to think - Ted Rubin believes we are missing a trick.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/Ted-Thinking.Photofy-1024x640.jpg)
+![](/images/blog/11f6fb644534.jpg)
 
 Try this exercise out and see what happens: Sit at your desk just staring straight ahead and see how long it takes for someone to ask if you're okay. If you say yes, you’re fine, but keep on staring into space, they might ask, “What are you doing?” See what happens if you reply, “I’m thinking.” I’ll be willing to bet that you’ll get some weird stares, or another query, “Thinking? Really??”
 

@@ -6,7 +6,7 @@ excerpt: "Deepfake videos are on the rise, resurrecting dead icons. But before y
 excerptGenerated: false
 author: "Ian Hsieh"
 authorSlug: "ian-hsieh"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/Image_2-1-e1551365613835.jpg"
+image: "/images/blog/4f848703fc53.jpg"
 categories: ["the-pretender-issue"]
 needsReview: ["embed_block"]
 sourceId: "3327"
@@ -85,7 +85,7 @@ commercial ever made”.
 
 ## Kurt Cobain, Dr. Martens
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Image_2.jpg)
+![](/images/blog/9e0ad6d5c4ee.jpg)
 
 Back
 in 2007, Dr. Martens found themselves in the middle of an advertising snafu. Its

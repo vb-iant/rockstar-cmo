@@ -6,7 +6,7 @@ excerpt: "This month, Ian Truscott has been shooting the shit with Jenni Young. 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/shutterstock_418715536-e1546084849462.jpg"
+image: "/images/blog/41d974894852.jpg"
 categories: ["featured", "nevermind", "the-swimming-pool"]
 needsReview: []
 sourceId: "867"
@@ -19,7 +19,7 @@ sourceUrl: "https://rockstarcmo.com/into-the-pool-7-can-we-get-some-pr-on-this/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/jenni-young.jpg)
+![](/images/blog/3fc416744864.jpg)
 
 Marketing is probably the business activity, craft or profession that everyone seems to have an opinion about and we are often asked to do things that are disconnected from our goals. During our [backstage Q&A](https://rockstarcmo.wpengine.com/opinion/backstage-with-jenni-young) Jenni Young, CMO of [tappit](https://justtappit.com/), singled out one question that irks her, and nominated it to be chucked into our swimming pool:
 

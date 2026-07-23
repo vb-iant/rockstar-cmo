@@ -6,7 +6,7 @@ excerpt: "Want to be authentic? Ted Rubin shares 6 tips on expressing a real poi
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/1447389246178.jpeg-1-e1551354115237.jpg"
+image: "/images/blog/39fbb3339ce7.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []
 sourceId: "3267"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/six-steps-to-keeping-it-real-with-ted-rubin%
 
 **Every month in the Green Room we chat with our regular Rockstars and get their take on a topic. This month, we discussed all that is fake in our industry, asking for their advice on how marketers can avoid getting caught up in all the hyperbole – and ultimately keep it real. Ted went to town, so we thought we’d share his response his full.**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/1447389246178.jpeg.jpg)
+![](/images/blog/965c05c227aa.jpg)
 
 You want a recipe for boring,
 cookie-cutter content? Probably not, but I’m going to give you one anyway.

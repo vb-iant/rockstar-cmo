@@ -6,7 +6,7 @@ excerpt: "It's time to up your game from vanity metrics to getting value from bu
 excerptGenerated: false
 author: "Rachel Miller"
 authorSlug: "rachel-miller"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/03/shutterstock_612593618.jpg"
+image: "/images/blog/7bed9db1f5c3.jpg"
 categories: ["the-ghost-in-the-machine-issue"]
 needsReview: []
 sourceId: "3394"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/ignore-the-wackadoos/"
 
 ***It's time to up your game from vanity metrics to getting value from building relationships, as Rachel Miller, social and influencer marketing expert explains.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/shutterstock_612593618.jpg)
+![](/images/blog/7bed9db1f5c3.jpg)
 
 How’s the engagement on your social properties? Are you still chasing follower counts and [impressions](https://thulium.co/impressions-theyre-not-that-great/)? Do you give your marketers a hard time when those and other vanity metrics go the opposite of up-and-to-the-right?
 

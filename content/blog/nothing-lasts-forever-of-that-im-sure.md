@@ -6,7 +6,7 @@ excerpt: "The brands they are a changin’ – well, ones who want success are, 
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790489825.jpg"
+image: "/images/blog/7dd93fd70b3d.jpg"
 categories: ["the-inside-in-inside-out-issue"]
 needsReview: []
 sourceId: "4208"

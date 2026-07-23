@@ -6,7 +6,7 @@ excerpt: "Ian Truscott has been hanging out in the proverbial penthouse with Chr
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/08/submergedcar-1-e1546092822257.jpg"
+image: "/images/blog/bd0fec2186f3.jpg"
 categories: ["seat-at-the-table", "the-swimming-pool"]
 needsReview: []
 sourceId: "1135"

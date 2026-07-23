@@ -6,7 +6,7 @@ excerpt: "We've heard the views of the marketers on the rise of the marketing ma
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/0-3.jpeg"
+image: "/images/blog/874c5c00e40a.jpg"
 categories: ["the-changesbowie-issue", "the-martech-mix-desk"]
 needsReview: []
 sourceId: "3573"
@@ -17,13 +17,13 @@ sourceUrl: "https://rockstarcmo.com/the-rise-of-the-marketing-machines-carlos-do
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/shutterstock_300637061.jpg)
+![](/images/blog/8af097bf8cac.jpg)
 
 In last month’s [Green Room](https://rockstarcmo.wpengine.com/the-green-room-the-rise-of-the-marketing-machines/) we sat down with six of our Rockstar CMO’s and asked them about the impact of technology on the craft of marketing and their response got us curious about what folks in the marketing technology industry made of this discussion.
 
 For this interview, I sat down with Carlos Doughty, Founder and Marketing Technology Lead at [MarTech Alliance](https://www.martechalliance.com/), who for over a decade has been at the sharp end of marketing technology, both client side and as a consultant.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/0-3.jpeg)
+![](/images/blog/874c5c00e40a.jpg)
 
 Carlos is also the force behind the successful [Martech Festival](https://www.martechalliance.com/festival), that this year is bringing the godfather of Martech [Scott Brinker](https://chiefmartec.com/) to London.
 

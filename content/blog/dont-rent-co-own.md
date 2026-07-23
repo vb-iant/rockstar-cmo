@@ -6,7 +6,7 @@ excerpt: "Ted Rubin has built an audience, you don't become the most followed CM
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/Ted-Thinking.Photofy-e1599213781701.jpg"
+image: "/images/blog/8d3538dc095b.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: []
 sourceId: "6063"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/dont-rent-co-own/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/03/Ted-Thinking.Photofy-1024x640.jpg)
+![](/images/blog/11f6fb644534.jpg)
 
 All of my content is posted to [TedRubin.com](https://tedrubin.com) and syndicated from there. I use Medium, LinkedIn, and blogs owned by others to support and repost my content. Even if the content is created for another site (and I am compensated), it is posted to TedRubin.com as well… I co-own all of the content I create for others.
 

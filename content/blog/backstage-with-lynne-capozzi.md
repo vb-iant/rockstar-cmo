@@ -6,7 +6,7 @@ excerpt: "Lynne Capozzi is the CMO of Acquia, a global marketing technology vend
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/lynne-acquia-1-e1583499899396.jpg"
+image: "/images/blog/d7ba01a79f04.jpg"
 categories: ["backstage", "the-breaking-glass-issue", "the-think-about-it-issue"]
 needsReview: []
 sourceId: "3990"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/backstage-with-lynne-capozzi/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/lynne-acquia.jpg)
+![](/images/blog/478e10042084.jpg)
 
 #### Hi Lynne, **what would be top of your rider for your next marketing gig?**
 
@@ -129,7 +129,7 @@ which is a high-tech mecca near MIT. Given that these were new initiatives, we
 measured their success through the uptick in website traffic and our recruiting/hiring
 efforts which soared with new candidates.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/backstage-lc.png)
+![](/images/blog/5ace05130e41.png)
 
 Lastly, our customer and partner events for conferences
 are also great expressions of our brand. Not only do we find creative ways to
@@ -173,7 +173,7 @@ To marketers looking for advice:
 
 #### Lynne Capozzi
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/Lynne-Capozzi-.png)
+![](/images/blog/71db0b80067d.png)
 
 As Acquia’s chief marketing officer, Lynne Capozzi oversees all global marketing functions including digital marketing, demand generation, operations, regional and field marketing, customer and partner marketing, events, vertical strategy, analyst relations, content and corporate communications.
 

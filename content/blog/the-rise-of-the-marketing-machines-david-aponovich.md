@@ -6,7 +6,7 @@ excerpt: "We’ve heard the views of the marketers on the rise of the marketing 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/03/david-A-e1553784452269.png"
+image: "/images/blog/3d436c57bac2.png"
 categories: ["the-changesbowie-issue", "the-martech-mix-desk"]
 needsReview: []
 sourceId: "3603"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-rise-of-the-marketing-machines-david-apo
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/shutterstock_300637061.jpg)
+![](/images/blog/8af097bf8cac.jpg)
 
 In
 last month’s [Green
@@ -26,7 +26,7 @@ and asked them about the impact of technology on the craft of marketing and the
 response got us curious about what folks in the marketing technology industry
 made of this discussion.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/david-A-e1553784452269.png)
+![](/images/blog/3d436c57bac2.png)
 
 The first person I asked was David Aponovich, Senior Director of Digital Experience at [Acquia](https://www.acquia.com/), the open source digital experience company, who have with close to 4000 customers globally and are considered one the leading providers of Web Content Management software (according to Gartner and Forrester).
 

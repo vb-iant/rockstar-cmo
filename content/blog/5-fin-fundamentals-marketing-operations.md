@@ -6,7 +6,7 @@ excerpt: "Next up in our series of 5 F'in' Fundamentals Jeff Clark has some advi
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2023/05/michal-matlon-YTKh06aL7to-unsplash-scaled-e1685296334212.jpg"
+image: "/images/blog/07077bc27ec0.jpg"
 categories: ["marketing-operations", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "7702"
@@ -25,7 +25,7 @@ What’s the gap between the machine you need and the machine you have? Marketin
 
 The capabilities to do the job, i.e., the parts in your machine, can be categorized in the familiar terms of people, process, technology, and data. I add analytics to help us answer those questions above.
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/05/michal-matlon-YTKh06aL7to-unsplash-1024x683.jpg)
+![](/images/blog/b0432750ef9f.jpg)
 
 Is your marketing machine able to get the job done?
 

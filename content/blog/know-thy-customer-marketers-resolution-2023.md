@@ -6,7 +6,7 @@ excerpt: "Many of the coming year’s predictions for marketing (and sales) rela
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2023/01/resolutions.png"
+image: "/images/blog/7c42e91d23b7.png"
 categories: ["rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "7540"
@@ -33,7 +33,7 @@ In my own experience, writing customer case studies and helping customers delive
 
 ***Action***: Conduct an in-person or virtual customer tour. If you have a specific purpose, such as developing references or success stories, great. But do the tour, nonetheless.
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/01/tim-mossholder-arkSClmO86U-unsplash-scaled-e1672953713963-1024x683.jpg)
+![](/images/blog/802c1c143a40.jpg)
 
 Let’s resolve to do a few things to help our companies win in 2023
 

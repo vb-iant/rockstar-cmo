@@ -6,7 +6,7 @@ excerpt: "We go back stage with Casey Petersen, Vice President of Marketing and 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/casey-e1545490443660.jpeg"
+image: "/images/blog/4e89b02251b7.jpg"
 categories: ["backstage", "we-are-family"]
 needsReview: []
 sourceId: "626"

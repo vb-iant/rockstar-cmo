@@ -6,7 +6,7 @@ excerpt: "Award-winning marketer with 20 years’ experience in the financial se
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/Wendy_Bryant-1-e1546001647454.jpeg"
+image: "/images/blog/53b86063814c.jpg"
 categories: ["backstage", "the-breaking-glass-issue", "nevermind"]
 needsReview: []
 sourceId: "598"

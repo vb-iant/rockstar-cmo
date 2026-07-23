@@ -6,7 +6,7 @@ excerpt: "In this holiday issue, freelance marketing writer Morag Cuddeford-Jone
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/11/morag-cudderford-jones-1.png"
+image: "/images/blog/923459b8d16b.png"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []
 sourceId: "4681"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/all-i-want-for-christmas-is-the-day-off/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/shutterstock_753692347.jpg)
+![](/images/blog/6f5f63fa7e0a.jpg)
 
 One of the most common things my desk-bound counterparts say to me is: “It must be great being a freelancer. Your schedule is your own. You can sack off work whenever you feel like it.”
 

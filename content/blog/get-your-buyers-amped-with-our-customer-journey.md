@@ -6,7 +6,7 @@ excerpt: "In a couple of podcast episodes, we’ve discussed buyers and customer
 excerptGenerated: true
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2025/01/AMPED.png"
+image: "/images/blog/7a20c2171e4f.png"
 categories: ["b2b-marketing", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "8682"
@@ -27,7 +27,7 @@ So, in the current marketing zeitgeist, we should put much more effort into the 
 
 Enter the AMPED model: Awareness, Muse, Purchase, Engage, and Develop—a five-step journey inspired by the best practices across industries and frameworks like McKinsey, Gartner, and more.
 
-![](https://rockstarcmo.com/wp-content/uploads/2025/01/AMPED-1024x1024.png)
+![](/images/blog/ab986155cd49.png)
 
 ---
 

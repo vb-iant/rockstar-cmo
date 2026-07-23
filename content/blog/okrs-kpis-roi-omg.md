@@ -6,7 +6,7 @@ excerpt: "OKR's, the accronym to rule all accronyms, or at least the accronym to
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2023/03/afif-ramdhasuma-F3dFVKj6q8I-unsplash-scaled-e1679665270152.jpg"
+image: "/images/blog/576bf75ea4cd.jpg"
 categories: ["marketing-education", "marketing-operations", "measurement", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: ["raw_html_block", "iframe"]
 sourceId: "7626"
@@ -69,7 +69,7 @@ Keep your OKR list short. I’ve worked with clients who are trying to define th
 
 In most cases, we were able to select a half dozen company goals that marketing could impact, often consolidating some goals that, such as ability to develop resources for sales and other functions. Then we defined how to measure them and the sources of data that marketing could leverage. The metric selection and draft dashboard was reviewed with the execs, and they approved their methodology for tracking marketing’s progress.
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/03/afif-ramdhasuma-F3dFVKj6q8I-unsplash-scaled-e1679665270152-1024x1024.jpg)
+![](/images/blog/55a480a1c4ca.jpg)
 
 Make Marketing relevant, accountable & measurable ... OMG!
 

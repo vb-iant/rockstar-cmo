@@ -6,7 +6,7 @@ excerpt: "Ian Truscott chats to Tom Wentworth CMO at Boston-based RapidMiner, wh
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/07/tomwentworth-e1546105240336.jpg"
+image: "/images/blog/4e15744ea9f8.jpg"
 categories: ["backstage", "straight-outta-compton"]
 needsReview: []
 sourceId: "798"

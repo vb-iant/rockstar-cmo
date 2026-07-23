@@ -6,7 +6,7 @@ excerpt: "Influencer marketing is in a bit of state, as marketing writer Morag C
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/morag.jpeg"
+image: "/images/blog/0e4799f0cdb6.jpg"
 categories: ["the-running-in-circles-issue"]
 needsReview: []
 sourceId: "4530"

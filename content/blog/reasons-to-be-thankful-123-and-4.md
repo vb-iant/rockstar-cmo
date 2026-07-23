@@ -6,7 +6,7 @@ excerpt: "Our regular business development headline act, Keith Smith, takes a mo
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790489825.jpg"
+image: "/images/blog/7dd93fd70b3d.jpg"
 categories: ["the-come-together-issue"]
 needsReview: []
 sourceId: "6182"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/reasons-to-be-thankful-123-and-4/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790468543-1024x1024.jpg)
+![](/images/blog/6a275e51d29e.jpg)
 
 I’m very envious of the Americans in that they have a day (or a few days really) when they just give thanks.
 

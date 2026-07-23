@@ -6,7 +6,7 @@ excerpt: "Back in The London Calling Issue, we went backstage with L. Michelle S
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/08/732BAADB-0A4E-4F94-AF3C-DD261E95FB8F-e1567062433228.jpeg"
+image: "/images/blog/265a87d4face.jpg"
 categories: ["tales-from-the-tour-bus", "the-people-are-people-issue"]
 needsReview: []
 sourceId: "4195"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-catch-up-with-l-mich
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/08/732BAADB-0A4E-4F94-AF3C-DD261E95FB8F-915x1024.jpeg)
+![](/images/blog/ea6ac2e7948c.jpg)
 
 #### Hi Michelle, we went Backstage with you back in January, since then you seem to be conquering the world – what’s new with you?
 
@@ -38,7 +38,7 @@ And finally, there is no silos communications group which is all about public r
 
 #### Wow... that sounds exhausting, yes, we love your Culture Soup podcast, you have some great guests – what inspired the name?
 
-[![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/2019-Cover-Art-TCSP-4.png)](https://lmichellesmith.com/podcast-2/)
+[![](/images/blog/271f29fb5f41.png)](https://lmichellesmith.com/podcast-2/)
 
 Thank you, Ian!  The podcast name is based on one of my
 keynotes that was very popular in 2017.  I make the statement that “social

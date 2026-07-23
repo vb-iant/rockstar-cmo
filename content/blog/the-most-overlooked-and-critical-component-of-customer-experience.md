@@ -6,7 +6,7 @@ excerpt: "Our resident rock star Ted Rubin on why data needs to be used more int
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/06/021717-PICZ-8919-1-e1546182517897.jpg"
+image: "/images/blog/aed068faa5ed.jpg"
 categories: ["ok-computer"]
 needsReview: []
 sourceId: "937"

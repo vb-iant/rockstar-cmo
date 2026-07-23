@@ -6,7 +6,7 @@ excerpt: "Keeping a close eye on your follower numbers? Getting a little too ups
 excerptGenerated: false
 author: "Casey Petersen"
 authorSlug: "casey-petersen"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/casey-e1545490443660.jpeg"
+image: "/images/blog/4e89b02251b7.jpg"
 categories: ["the-pretender-issue"]
 needsReview: ["embed_block"]
 sourceId: "3312"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/celebrate-the-lost-fake-followers/"
 
 **Keeping a close eye on your follower numbers? Getting a little too upset when those numbers dip? Casey Petersen,** [**Photofy’s**](https://photofy.com/) **Vice President of Marketing, explains why you’ve got it all wrong.**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/shutterstock_589482413.jpg)
+![](/images/blog/a65746a0929b.jpg)
 
 Fake Followers are in the [news again](https://www.fastcompany.com/90306679/heres-why-you-just-lot-some-of-your-instagram-followers). Instagram
 users lost millions of followers in a glitch. However, the initial belief was

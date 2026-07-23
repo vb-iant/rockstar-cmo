@@ -6,7 +6,7 @@ excerpt: "Your brand story doesn’t get you very far if you are just puffing yo
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/James-Brown_1973-e1548923833923.jpg"
+image: "/images/blog/36c4c3e422a6.jpg"
 categories: ["brand-new-thang"]
 needsReview: []
 sourceId: "3091"

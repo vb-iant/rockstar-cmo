@@ -6,7 +6,7 @@ excerpt: "We can't get the marketing technology song out of our head, it's a top
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/martech-clouds-interviewers.png"
+image: "/images/blog/374a97721d47.png"
 categories: ["the-inside-in-inside-out-issue", "the-martech-mix-desk"]
 needsReview: []
 sourceId: "3837"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/marketing-clouds-lip-syncing-fake-or-fab-fou
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/shutterstock_399094327.jpg)
+![](/images/blog/b75fd9b2dc83.jpg)
 
 With Gartner claiming marketers spend a third of our budgets and time on technology, it’s a song we can’t get out of our heads and no surprise it’s a topic we return to regularly here on Rockstar CMO.
 
@@ -44,7 +44,7 @@ and analysts? Or is it what the buyer wants to buy?***
 
 ## Cathy McKnight - VP of Strategy and Consulting, The Content Advisory
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/Cathy-McKnight.jpg)
+![](/images/blog/7c3d027f7370.jpg)
 
 **Cathy helps organizations transform the way they approach content technology to enable their business strategy and improve performance. With 20 years of global experience and expertise in content strategy, content management, intranets, marketing technologies and customer experience, Cathy has led both strategic business transformation initiatives and the detailed execution of enterprise technology implementations.**
 
@@ -84,7 +84,7 @@ You can follow Cathy on Twitter [here](https://twitter.com/cathymcknight).
 
 ## Darren Garnaccia, Chief Product Officer at Crownpeak
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/03/darren-guarnaccia.gif)
+![](/images/blog/ea83d1166086.gif)
 
 **Darren has been working in the marketing technology world since the original dot-com boom and is a champion of building experiences customers actually want. He is former CMO at Lytics, a customer data platform.**
 
@@ -114,7 +114,7 @@ Read more from Darren [here on Rockstar CMO](https://rockstarcmo.wpengine.com/au
 
 ## John Kottcamp, Chief Marketing Technologist Tahzoo
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/2014_Tahzoo_JohnK-1.jpg)
+![](/images/blog/953511628aba.jpg)
 
 **Making businesses truly customer centric has been the guiding principle for John throughout his career.**
 
@@ -163,7 +163,7 @@ Learn more about John and Tahzoo [here](https://tahzoo.com/).
 
 ## David Aponovich – Senior Director, Product Marketing, Acquia
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/03/david-A-e1553784452269.png)
+![](/images/blog/3d436c57bac2.png)
 
 **Through his insight into trends in digital experience, David helps develop and articulate the benefits of Acquia’s open source, digital experience platform. Prior to joining Acquia, David was a senior analyst at Forrester Research, focused on web content management and digital experience technology and consulted to Forrester’s global clients on their digital transformation initiatives.**
 

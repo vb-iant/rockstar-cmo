@@ -6,7 +6,7 @@ excerpt: "Storytelling. It’s one of the most over-hyped words in the marketing
 excerptGenerated: false
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/photo-1511057630-054448f045a3-1-e1546268190401.jpeg"
+image: "/images/blog/7b28a406dbb4.jpg"
 categories: ["project-funk-da-world"]
 needsReview: ["embed_block"]
 sourceId: "1055"

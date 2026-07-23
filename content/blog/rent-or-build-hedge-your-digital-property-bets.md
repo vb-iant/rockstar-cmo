@@ -6,7 +6,7 @@ excerpt: "Carmine Mastropierro brings us some practical advice on the theme of t
 excerptGenerated: false
 author: "Carmine Mastropierro"
 authorSlug: "carmine-mastropierro"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/10/shutterstock_1712082787-1-e1603036370741.jpg"
+image: "/images/blog/8fe63cae5181.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: []
 sourceId: "6076"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/rent-or-build-hedge-your-digital-property-be
 
 ***Experienced digital marketing consultant and copywriter Carmine Mastropierro brings us some practical advice on the theme of this months issue, should you build or rent your digital property? Carmine suggests we hedge...***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/10/shutterstock_1712082787.jpg)
+![](/images/blog/6e6b0b37dc40.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ Email marketing is absolutely *essential*in 2020.
 
 Why? Firstly because it generates up to a [40x ROI](https://www.omnisend.com/blog/email-marketing-roi/). Who doesn’t want that?
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/10/Picture-1.png)
+![](/images/blog/c67fc3c386e1.png)
 
 Secondly, it empowers businesses to not rely on rented channels where rules can be changed in an instant.
 
@@ -55,7 +55,7 @@ Don’t you remember the organic reach fiasco with Facebook Groups?
 
 Starbucks amassed a following of millions on their official Facebook page.
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/10/Picture-2.png)
+![](/images/blog/a035db592639.png)
 
 After Facebook released an update limiting their organic reach, they were forced to run paid ads to engage with the audience they spent so much time building. That doesn’t sound fair, does it?
 
@@ -77,7 +77,7 @@ A lead magnet is exactly what it sounds like, something that attracts leads whic
 
 Take Marketo’s resource section for example. Many of their reports and guides require you to enter information before downloading them, getting you into their funnel.
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/10/Picture31.png)
+![](/images/blog/e0ae2e76a0ae.png)
 
 This will drastically increase the conversion rate of the second component which is a form. Forms can be a popup, in a sidebar, as a welcome mat, or embedded directly into web pages.
 
@@ -89,7 +89,7 @@ As you begin generating more subscribers, there are a few important steps to tak
 
 The first is to keep Pareto’s principle in mind. This is also known as [the 80/20 rule](https://www.harishsaras.com/stress-management/how-80-20-rule-reduces-your-work-stress/).
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/10/Picture-4.png)
+![](/images/blog/bc64feba9893.png)
 
 In terms of email marketing, keep 80% of the emails you send out value based. This means that they share information, news, and updates.
 

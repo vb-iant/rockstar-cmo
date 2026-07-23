@@ -6,7 +6,7 @@ excerpt: "Amber Osborne inspires Ian Truscott this month, as she tires of some o
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/10/rosie-kerr-780185-unsplash-e1545846840533.jpg"
+image: "/images/blog/e2466972366d.jpg"
 categories: ["the-swimming-pool", "thriller"]
 needsReview: []
 sourceId: "912"

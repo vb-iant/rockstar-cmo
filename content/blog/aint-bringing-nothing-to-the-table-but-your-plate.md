@@ -6,7 +6,7 @@ excerpt: "It's unlikely that rapper Meghan Thee Stallion and personal branding J
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/11/2478.jpg"
+image: "/images/blog/734b47953565.jpg"
 categories: ["the-come-together-issue"]
 needsReview: []
 sourceId: "6185"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/aint-bringing-nothing-to-the-table-but-your-
 
 ***Sometimes inspiration comes from a juxtaposition and it's unlikely that rapper Meghan Thee Stallion and personal branding Jane Scandurra have been seen in the same room. But, Jane's thoughts of thanks have inspired Ian Truscott to share something inspired by Hot Girl Meg, and of course who can resist an image bit of Oliver Twist during the holidays...***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/11/2478-1024x1024.jpg)
+![](/images/blog/5ad5bb65994d.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ So true, the Internet and social media have given us the tools, but you have to 
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/06/J-Scandurra-Headshot-e1561794080448-1024x1024.jpg)
+![](/images/blog/808a864e36e3.jpg)
 
 Jane Scandurra is a global marketer, speaker and an online pioneer who has worked for industry-leading companies including IBM, Prodigy, Nokia, Bristol-Myers and BBDO before starting her consulting and coaching business in 2006.
 

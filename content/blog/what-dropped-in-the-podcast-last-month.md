@@ -6,7 +6,7 @@ excerpt: "The latest from the podcast this month. A fabulous line up stepped up 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/Rockstar-CMO-FM-Promo-1.png"
+image: "/images/blog/424533e68e64.png"
 categories: ["the-life-for-rent-issue"]
 needsReview: ["shortcode:buzzsprout"]
 sourceId: "6098"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/what-dropped-in-the-podcast-last-month/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/12/rockstar-cmo-fm-1024x536.png)
+![](/images/blog/ffc75d0f312a.png)
 
 This month has been a great one for me personally as I caught up with two old bosses, in Paige O'Neill and Grant Johnson, I met some new, and very smart people and the regular feature with Robert Rose in the virtual Rockstar CMO bar is just fun, but there is a seriousness as Robert generously shares some fabulous insight into all things marketing.
 

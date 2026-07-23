@@ -6,7 +6,7 @@ excerpt: "Every month we grab our backstage pass to our Rockstar CMO’s, hang o
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/seabass-creatives-61546-unsplash-e1545483012398.jpg"
+image: "/images/blog/a9038ff37eb3.jpg"
 categories: ["the-green-room", "the-one-nation-under-a-groove-issue"]
 needsReview: []
 sourceId: "4453"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-marketing-collaborations/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/frankie-cordoba-1245700-unsplash-1024x771.jpg)
+![](/images/blog/1394993f1797.jpg)
 
 Not the actual Green Room
 
@@ -39,7 +39,7 @@ Your band is your company -- all the folks you work with and collaborate with. W
 
 For me, our agency is my right hand. They are a key partner, collaborator and truly understand our business. It’s a push and pull relationship which results in stronger marketing. Whether it’s a last-minute project or a long-term initiative, they stay by our side guiding us and pushing us to new boundaries.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/Headshot1-e1561803535536.png)
+![](/images/blog/6bc97080831b.png)
 
 *Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*
 
@@ -47,7 +47,7 @@ For me, our agency is my right hand. They are a key partner, collaborator and tr
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/11/casey-e1545490443660.jpeg)
+![](/images/blog/4e89b02251b7.jpg)
 
 ## Casey Petersen
 
@@ -65,7 +65,7 @@ Marketing is very much a team sport.  Internally it’s impossible to do great 
 
 Externally, you need a great support crew of agencies, contractors, specialists, technologies, influencers and inspiration.  The thing I actually value the most is my network of marketing buddies that I’ve accumulated over the years – they’re definitely my favourite people to make sweet marketing music with!
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
@@ -85,7 +85,7 @@ And we’re still trying to play. Four guitarists, three drummers, and a whole s
 
 [[ Read more ]](https://rockstarcmo.wpengine.com/that-catchy-marketing-tune-is-not-a-solo-or-a-duet-its-by-the-band/)
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/Robert-Rose-1-1.jpg)
+![](/images/blog/3034b21c903d.jpg)
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
@@ -95,7 +95,7 @@ And we’re still trying to play. Four guitarists, three drummers, and a whole s
 
 ## PS...
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/04/ted-rubin-3-1-1024x640.jpg)
+![](/images/blog/4ca20206ca97.jpg)
 
 ### *"It's marketing and the customer dude.."*
 

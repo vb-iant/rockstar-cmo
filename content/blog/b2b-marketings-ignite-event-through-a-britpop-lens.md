@@ -6,7 +6,7 @@ excerpt: "It's festival season in the UK, and fresh from Glastonbury and the rea
 excerptGenerated: false
 author: "Lauren Bowden"
 authorSlug: "lauren-bowden"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/0163_IGNITE-2018-e1564078626945.jpg"
+image: "/images/blog/ff24fa754a12.jpg"
 categories: ["the-think-about-it-issue"]
 needsReview: []
 sourceId: "3980"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/b2b-marketings-ignite-event-through-a-britpo
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/Webp.net-resizeimage.jpg)
+![](/images/blog/85a97a548dca.jpg)
 
 As I walked around B2B marketing’s Ignite event as a solo act for the first time ever, a couple of things crossed my mind. The freedom of being a freelancer at an event like that was pretty sweet. Totally free to absorb all the thinking for myself and none of the pressure of regurgitating snippets to prove it wasn’t a complete day off work jolly (not that I ever did that in the past of course…).
 

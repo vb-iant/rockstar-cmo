@@ -6,7 +6,7 @@ excerpt: "Jenni Young, the CMO of tappit shares the importance of company values
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/jenni-young.jpg"
+image: "/images/blog/3fc416744864.jpg"
 categories: ["backstage", "the-breaking-glass-issue", "seat-at-the-table"]
 needsReview: []
 sourceId: "606"

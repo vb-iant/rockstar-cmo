@@ -6,7 +6,7 @@ excerpt: "Inspired by a recent conversation on the podcast with six-time CMO and
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2024/07/Steps_2-e1721221991215.jpg"
+image: "/images/blog/20456d714c30.jpg"
 categories: ["measurement", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "8530"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/five-steps-for-cmos-to-get-aligned-on-metric
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/07/Steps_2-e1721221991215-1024x1024.jpg)
+![](/images/blog/dad70207ef44.jpg)
 
 Recently, we have been having a pod-to-blog-to-pod conversation with former boss, six-time CMO and now [CMO Mentor](https://cmomentor.com/), [Grant Johnson](https://cmomentor.com/about/), who has taken the plunge into the “how to measure the value of marketing” controversy with his [Marketing Performance Index](https://cmomentor.com/2024/05/30/the-marketing-performance-index/) (MPI). An objective framework for quantifying marketing’s impact of marketing by tracking the key metrics that assess the company’s relative brand, demand and market strength.
 

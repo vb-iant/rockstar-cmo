@@ -6,7 +6,7 @@ excerpt: "Stand aside Twitter. Pipe down Facebook. You’re old news. Reddit is 
 excerptGenerated: false
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/hangoutsscreen_3.0-2-1-e1545822240929.jpg"
+image: "/images/blog/07b7aa387198.jpg"
 categories: ["features-2", "london-calling"]
 needsReview: []
 sourceId: "1755"

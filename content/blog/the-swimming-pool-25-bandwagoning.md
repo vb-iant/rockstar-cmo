@@ -6,16 +6,16 @@ excerpt: "This month we are joined John Howe-Marshall, Chief Marketing Officer o
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
+image: "/images/blog/45e339d48f11.jpg"
 categories: ["the-club-classics-volume-one-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "5744"
 sourceUrl: "https://rockstarcmo.com/the-swimming-pool-25-bandwagoning/"
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1024x683.jpg)
+![](/images/blog/3d5d7c78cd36.jpg)
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/04/22885753_10155208105888565_1006877511225230671_n.jpg)
+![](/images/blog/c2af4b9993cb.jpg)
 
 ***The Rockstar CMO Swimming pool, our portal to hell for all the bullshit, snake oil, and doublespeak of our industry.***
 

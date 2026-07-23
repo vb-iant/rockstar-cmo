@@ -6,7 +6,7 @@ excerpt: "All of our gigs have gone virtual and marketing teams have had to quic
 excerptGenerated: false
 author: "Lauren Bowden"
 authorSlug: "lauren-bowden"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/0.jpeg"
+image: "/images/blog/42a3c56b7784.jpg"
 categories: ["the-club-classics-volume-one-issue"]
 needsReview: ["shortcode:Full"]
 sourceId: "5745"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/altogether-now-on-a-video-conferencing-platf
 
 ***All of our gigs have gone virtual and marketing teams have had to quickly pivot to embrace this change. We've all experienced the hits, the one-hit wonders, and the misses, Lauren Bowden, experienced B2B marketer shares her experience*.**
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/06/TVs.jpg)
+![](/images/blog/2da41dcfdb68.jpg)
 
 ---
 

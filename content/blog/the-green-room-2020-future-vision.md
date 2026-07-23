@@ -6,7 +6,7 @@ excerpt: "Hanging out with rock stars backstage rarely gives anyone 2020 vision,
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/green-room.png"
+image: "/images/blog/c662c78e5808.png"
 categories: ["the-future-starts-here-issue", "the-green-room"]
 needsReview: []
 sourceId: "4975"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-2020-future-vision/"
 
 ***Every month in the Green Room we pose a question to our Rockstar CMOs that’s top of mind for us in the Rockstar CMO penthouse. Hanging out with rock stars backstage rarely gives anyone 2020 vision, but as we welcome a new decade, what do they think is the future for marketing?***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/12/shutterstock_677943049.jpg)
+![](/images/blog/826052a0cda9.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ Looking out at the future of marketing, I see the operative word becoming ‘bel
 
 We are all becoming numb to the noise, the fake news, the lies, and the doublespeak. It’s no longer an active dislike of interruptive, persuasive content – it’s indifference. The future of marketing will be in rebalancing our ability to stir emotions, inspire and make people care more deeply.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/Robert-Rose-1-1.jpg)
+![](/images/blog/3034b21c903d.jpg)
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
@@ -57,7 +57,7 @@ And I know how important annunciation is. For example, sometimes when I say ‘V
 
 In the end, it's all about communication, whether in writing or in voice… Are you making yourself plain? That's what matters. And it's my belief that clarity is the onus of the communicator not the communicatee. So we all better keep those lips limber!
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/katiebc.jpeg)
+![](/images/blog/56ca4424fd4b.jpg)
 
 *Kate Bradley Chernis is the Founder & CEO of [Lately](https://trylately.com/), which uses Artificial Intelligence to automatically transform blogs, videos and podcasts into dozens of amazing social posts.*
 
@@ -85,7 +85,7 @@ A match is something more lasting, even if it’s not permanent. If I’m matche
 
 So MY future of marketing in 2020 is to [#FollowThePath](https://rockstarcmo.wpengine.com/ted-rubin-follow-the-path/) I've been paving, continue to do everything I can to instill a new thought process, a more valuable mindset, in the marketing community, and to embrace the incredible value of the Rockstar CMO Community that Ian has built and nurtured. Always remember... ***a network give you reach, a community gives you power!***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/1447389246178.jpeg-1-e1551354115237.jpg)
+![](/images/blog/39fbb3339ce7.jpg)
 
 *Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
 
@@ -111,7 +111,7 @@ Along the way, marketers will have to deal with the challenges of deep fakes, mi
 
 Buckle up. Rockstar CMOs are going to be busy….
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
@@ -119,7 +119,7 @@ Buckle up. Rockstar CMOs are going to be busy….
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/Jasmine-Martirossian-Photo-1.jpg)
+![](/images/blog/b474c0cfa6c0.jpg)
 
 ## Also in this issue:
 

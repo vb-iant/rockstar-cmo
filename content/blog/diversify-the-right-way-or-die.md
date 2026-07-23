@@ -6,7 +6,7 @@ excerpt: "From #OscarSoWhite to the realisation that the tech and creative indus
 excerptGenerated: false
 author: "Ian Hsieh"
 authorSlug: "ian-hsieh"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/848A8963-e1546193661478.jpg"
+image: "/images/blog/d052c7d3861d.jpg"
 categories: ["the-people-are-people-issue", "project-funk-da-world"]
 needsReview: []
 sourceId: "904"

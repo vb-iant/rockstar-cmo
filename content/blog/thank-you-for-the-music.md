@@ -6,7 +6,7 @@ excerpt: "Dennis Shiao is definitely in the holiday mood as he reflects and give
 excerptGenerated: false
 author: "Dennis Shiao"
 authorSlug: "dennis-shiao"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/247c71f0c83e0624b891f98515b65559_400x400.png"
+image: "/images/blog/d68fbde458f0.png"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: ["embed_block"]
 sourceId: "4687"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/thank-you-for-the-music/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/highres_234298622.png)
+![](/images/blog/48970476953f.png)
 
 While we ought to give thanks all year long, I often forget to do so. Perhaps it’s the hustle and bustle of the work week and the desire to sit back and relax on the weekends. The holidays are a nice reminder for me -- a time to take a step back, celebrate what I have and be thankful for the people who make my life more whole.
 
@@ -32,7 +32,7 @@ Without further ado:
 
 ### Monina Wagner: helpful, kind and welcoming spirit
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/monina-wagner-300x300.jpg)
+![](/images/blog/f0c7a0b3f5f1.jpg)
 
 Mo ([@MoninaW](https://twitter.com/moninaW)) is social media and community manager at Content Marketing Institute. Mo is a big part of what makes the #CMWorld community so special. She’s kind and welcoming. When new people join the community, I bet Mo’s not thinking of them as ‘new members’ but as ‘soon-to-be friends’.
 
@@ -51,7 +51,7 @@ Happy holidays, Mo! See you soon.
 
 ### Carter Hostelley: the great connector
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/image.jpeg)
+![](/images/blog/8d0782b1f783.jpg)
 
 Carter ([@carterhostelley](https://twitter.com/carterhostelley))
 is CEO of social media marketing agency Leadtail. Carter was a big help when I

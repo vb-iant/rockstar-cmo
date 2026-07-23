@@ -6,7 +6,7 @@ excerpt: "Ever unsubscribe from a mailing list only to keep getting emails from 
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-at-Laptop-questioning-e1545650103660.jpg"
+image: "/images/blog/0e4109888ad3.jpg"
 categories: ["london-calling"]
 needsReview: []
 sourceId: "1586"

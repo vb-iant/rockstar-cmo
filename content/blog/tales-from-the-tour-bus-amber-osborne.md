@@ -6,7 +6,7 @@ excerpt: "Now on her third start-up, Amber Osborne is the CMO at Doghead Simulat
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/164668_10101484668803661_297590743_n-1-e1546080603833.jpg"
+image: "/images/blog/65d600f186b3.jpg"
 categories: ["tales-from-the-tour-bus", "the-invasion-of-privacy-issue"]
 needsReview: []
 sourceId: "3720"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-amber-osborne/"
 
 ***Now on her third start-up, Amber Osborne is the CMO at Doghead Simulations (the company behind Rumii, a virtual reality conferencing and collaboration platform) and industry influencer. In this Tale from the Tour Bus, she reveals what it takes to launch something new and gives an insiders view of being an insider.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/09/164668_10101484668803661_297590743_n.jpg)
+![](/images/blog/1cd49e367bfa.jpg)
 
 #### Amber, tell us about the Doghead Simulations tour bus and how you came to be on it.
 
@@ -65,6 +65,6 @@ This was our second interview with Amber, in the first, when we went backstage w
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/05/doghead.png)
+![](/images/blog/4326172a7f3f.png)
 
 Follow [@missdestructo](https://twitter.com/MissDestructo)  (Amber has given us all Twitter handle envy) and check out [Doghead Simulations](https://www.dogheadsimulations.com/) and [rumii](https://www.rumii.net/landing)

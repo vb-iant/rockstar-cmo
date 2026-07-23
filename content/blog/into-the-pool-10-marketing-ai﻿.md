@@ -6,7 +6,7 @@ excerpt: "Casey Petersen is conspiring with Ian Truscott to chuck Marketing AI i
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/shutterstock_331696088-1-e1545660587459.jpg"
+image: "/images/blog/c1923168375e.jpg"
 categories: ["london-calling", "the-swimming-pool"]
 needsReview: []
 sourceId: "1623"

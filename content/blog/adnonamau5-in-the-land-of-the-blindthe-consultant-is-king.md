@@ -6,7 +6,7 @@ excerpt: "Like the legendary DJ Deadmau5, this month our anonymous agency execut
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-club-classics-volume-one-issue"]
 needsReview: []
 sourceId: "5811"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/adnonamau5-in-the-land-of-the-blindthe-consu
 
 ***Like the legendary DJ Deadmau5, our anonymous agency executive anonomau5 dons a mask to do his best work. This month his head honchos are clearly hanging out with men in gray suits.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/04/shutterstock_1097933978.jpg)
+![](/images/blog/65e14499aef4.jpg)
 
 ---
 

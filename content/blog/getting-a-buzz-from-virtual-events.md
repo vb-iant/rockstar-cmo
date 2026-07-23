@@ -6,7 +6,7 @@ excerpt: "As we shared on the podcast, Dennis Shiao is a virtual event veteran. 
 excerptGenerated: false
 author: "Dennis Shiao"
 authorSlug: "dennis-shiao"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/04/shutterstock_1498149011-1-e1588253923379.jpg"
+image: "/images/blog/0ee5c1c40546.jpg"
 categories: ["street-knowledge", "the-welcome-to-jamrock-issue"]
 needsReview: ["embed_block"]
 sourceId: "5631"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/getting-a-buzz-from-virtual-events/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/04/shutterstock_1498149011.jpg)
+![](/images/blog/72939eb31ef5.jpg)
 
 I get fired up from attending good conferences.
 

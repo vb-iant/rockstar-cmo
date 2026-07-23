@@ -6,7 +6,7 @@ excerpt: "Over a career spanning two decades, Ian Truscott has launched various 
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/03/untitled-18-of-19-e1546108200205.jpg"
+image: "/images/blog/d305aaede7bf.jpg"
 categories: ["backstage", "sound-check"]
 needsReview: []
 sourceId: "812"

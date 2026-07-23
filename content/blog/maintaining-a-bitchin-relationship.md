@@ -6,14 +6,14 @@ excerpt: "Marketing journalist Morag Cuddeford-Jones casts a cynical eye over th
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/morag.jpeg"
+image: "/images/blog/0e4799f0cdb6.jpg"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: []
 sourceId: "4424"
 sourceUrl: "https://rockstarcmo.com/maintaining-a-bitchin-relationship/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/shutterstock_14372617.jpg)
+![](/images/blog/e32f18b1589c.jpg)
 
 ***The theme for this issue is the collaborations that marketers need to foster to create that big marketing sound, but as we learned from Beyonce and Jay-Z it's not always easy. Marketing journalist Morag Cuddeford-Jones casts a cynical eye over the true nature of the relationships between marketing, their agencies and tech vendors, but has some positive advice on how to go from bitchin' to a bitchin' relationship.***
 

@@ -6,7 +6,7 @@ excerpt: "Lauren Bowden, experienced (and educated) B2B marketer shares her expe
 excerptGenerated: false
 author: "Lauren Bowden"
 authorSlug: "lauren-bowden"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/07/Pink_Floyd_The_Wall_-_Rock_and_Roll_Hall_of_Fame_2014-12-30_15.20.43_by_Sam_Howzit-1-scaled-e1595094336419.jpg"
+image: "/images/blog/b69d595cd9c9.jpg"
 categories: ["marketing-education", "the-miseducation-of-lauryn-hill-issue"]
 needsReview: []
 sourceId: "5858"
@@ -17,11 +17,11 @@ sourceUrl: "https://rockstarcmo.com/we-dont-need-no-education-right/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/07/Pink_Floyd_The_Wall_-_Rock_and_Roll_Hall_of_Fame_2014-12-30_15.20.43_by_Sam_Howzit-1024x683.jpg)
+![](/images/blog/1d5d6c843b05.jpg)
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/02/lauren-bowden.jpeg)
+![](/images/blog/42a3c56b7784.jpg)
 
 There I was. My first ‘proper job’. In the centre of Oxford Circus, no less. My yearlong work placement was beginning, after two year of studying for a BA honours in Public Relations at Bournemouth University.
 

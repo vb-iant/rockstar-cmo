@@ -6,7 +6,7 @@ excerpt: "Ahmed Hassan, independent Digital Transformation Strategist and former
 excerptGenerated: false
 author: "Ahmed Hasan"
 authorSlug: "ahmed-hasan"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/ahmed.jpg"
+image: "/images/blog/919d4e831360.jpg"
 categories: ["the-blur-issue"]
 needsReview: []
 sourceId: "5957"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/dont-stop-the-marketing-music-change-the-tun
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/shutterstock_1472254040.jpg)
+![](/images/blog/4c5f86dbbaba.jpg)
 
 Knee-jerk reactions are interesting things, at best almost always detrimental to business, and at worst catastrophic. Essentially they are a protective response, rapid in nature, usually with little thought, often emotional and caused by an action that a person is highly sensitive to or feels the need to be protected from. We have seen a lot of these over the last few months in the wider world and more interestingly in the business world too.
 

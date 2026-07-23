@@ -6,7 +6,7 @@ excerpt: "An F'in' practical set of Fundamentals to prepare for a new budget yea
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2023/11/lucas-favre-MNXaW_ABlZY-unsplash-square.jpeg"
+image: "/images/blog/bb7037503b43.jpg"
 categories: ["rockstar-cmo-advisors", "street-knowledge"]
 needsReview: ["embed_block"]
 sourceId: "7897"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/five-fin-fundamentals-of-budget-planning/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/11/lucas-favre-MNXaW_ABlZY-unsplash-1024x576.jpg)
+![](/images/blog/9e12547c4c8a.jpg)
 
 If your fiscal year aligns with the calendar year, you’re probably in budget hell right now. Are you getting your next year’s budget approved? Just starting to think about it? Waiting until after New Year’s? Waiting for the word from on mount high?
 

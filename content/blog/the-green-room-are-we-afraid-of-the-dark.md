@@ -6,7 +6,7 @@ excerpt: "Our audience is going dark, we ask 5 of our Rockstar CMOs what they th
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/05/shutterstock_52802965-1-e1559294031761.jpg"
+image: "/images/blog/0456b040d489.jpg"
 categories: ["the-green-room", "the-invasion-of-privacy-issue"]
 needsReview: []
 sourceId: "3752"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-are-we-afraid-of-the-dark/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/05/shutterstock_52802965.jpg)
+![](/images/blog/60bf824b48e7.jpg)
 
 The impact of GDPR varies between organizations, but as global marketers, in whatever territory we in the crosshairs of the privacy movement. Refusal of cookie consent, ad-blockers, the Brave browser, incognito browsing and the prevailing cynical grumble that we marketers are up to something. It all has had an impact on how we engage and how we measure the performance of our campaigns.
 
@@ -53,7 +53,7 @@ I love the term vanity metrics because it's very descriptive of how valuable the
 
 Has there ever been ANYTHING that actually mattered more than driving people to your website (Or other online purchase experience) and then pushing them through the sale funnel to buy?  Where and how we interact on social has changed and will continue to over time, but its place in the customer journey is still firmly in place.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/11/casey-e1545490443660.jpeg)
+![](/images/blog/4e89b02251b7.jpg)
 
 *Casey Petersen is the Vice President of Marketing and Analytics at Photofy, and has been a leader in digital marketing for retailers and CPG’s for over 15 years. [Read more about Casey](https://rockstarcmo.wpengine.com/backstage-with-casey-petersen/)*.
 
@@ -65,7 +65,7 @@ From a marketing perspective, it is becoming more important than ever to create 
 
 In addition... creating the understanding and mindset that simplicity is the future of retail... players combine media, payment, and channel into a single solution will have a huge advantage over those that aren't able to deliver a seamless experience. Retail isn't a store anymore. It is a method of engagement... start thinking Omni-Present instead of Omni-Channel.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg)
+![](/images/blog/f04796e0e527.jpg)
 
 *Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
 
@@ -79,7 +79,7 @@ There’s a fun way to do this: Position with empathy. That means you’re reach
 
 Educate your customer on the why behind GDPR or other privacy regulations. Put them in the driver’s seat because they will have more control of their data and choose what they will receive. You can be that literal about it. These extra steps ensure your customer sees your company as being responsible, transparent and sensitive to their preference. Those that opt to see your information will be your more engaged consumers and brand advocates.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png)
+![](/images/blog/a36c32f4287f.png)
 
 *Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)*.﻿*
 
@@ -118,7 +118,7 @@ would that marketing system look like?
 
 So, instead of the various vanity metrics, and gnashing of ROI teeth, today’s modern marketer can begin to measure trust instead of transactions. They can look at developing treating a subscriber (an audience member) as they would a customer from the beginning.  They can lean into the use of (what we’ve begun to call) “emotional data.” This is data that is given gladly, willingly, trustingly because of the value they receive, rather than being scraped or gathered unwillingly.  In today’s world, a willing, trusting and expectant audience may be, quite simply, the most important strategic asset that a company might create.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/09/robert-rose-e1546086041492-1024x1024.jpg)
+![](/images/blog/72baf2269e7d.jpg)
 
 *As the Chief Strategy Advisor for the*[*Content Marketing Institute*](http://contentmarketinginstitute.com/)*, Robert innovates creative and technical content marketing strategies for his clients. An early internet pioneer, Robert has more than 15 years of experience, and a track record of helping brands and businesses develop successful web and content marketing strategies. Learn more about Robert, as we went*[*backstage with him*](https://rockstarcmo.wpengine.com/backstage-with-robert-rose/)*in our very first issue.*
 
@@ -132,7 +132,7 @@ Think about the entire customer journey and be guided by customer insights at ev
 
 Unless the right people are engaging with us, they’re never going to move further along the buying cycle i.e. from reach to response to revenue.  Once they’ve become customers, we have a wealth of insights at our fingertips and if used wisely, can be used to develop and retain our most valuable customers.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing. Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
 

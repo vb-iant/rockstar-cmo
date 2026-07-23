@@ -6,7 +6,7 @@ excerpt: "Vinyl records. Film photography. Vintage fashion. There’s no doubtin
 excerptGenerated: false
 author: "Stephen Kelly"
 authorSlug: "stephen-kelly"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/08/Image_1-e1546093414199.jpg"
+image: "/images/blog/90e9eec61103.jpg"
 categories: ["seat-at-the-table"]
 needsReview: ["embed_block"]
 sourceId: "1018"

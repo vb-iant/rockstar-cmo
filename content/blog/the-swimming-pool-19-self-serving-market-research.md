@@ -6,7 +6,7 @@ excerpt: "You find us on the Rockstar CMO penthouse balcony, peering down at the
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/10/rosie-kerr-780185-unsplash-e1545846840533.jpg"
+image: "/images/blog/e2466972366d.jpg"
 categories: ["the-one-nation-under-a-groove-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "4377"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-swimming-pool-19-self-serving-market-res
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/rosie-kerr-780185-unsplash-1024x791.jpg)
+![](/images/blog/9b339fae8b00.jpg)
 
 Last issue we hopped aboard [the
 Tour Bus with the rather wonderful Sydni Craig-Hart](https://rockstarcmo.wpengine.com/tales-from-the-tour-bus-sydni-craig-hart/) and chatted about her
@@ -26,7 +26,7 @@ and minorities, and we talked how this experience has developed into working
 with an impressive array of big tech companies as they look to diversify their
 research for their marketing and product development.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/08/images.jpeg)
+![](/images/blog/d80de9c50c33.jpg)
 
 In our conversation, it was clear that Sydni had no time for marketers that never leave their internal brainstorming sessions, that develop personas on a whiteboard and that had never met a customer.
 

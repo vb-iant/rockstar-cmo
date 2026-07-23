@@ -6,7 +6,7 @@ excerpt: "Ted Rubin argues that instead of laying the blame for poor performance
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/07/shutterstock_1043589361-e1546171890946.jpg"
+image: "/images/blog/2034e82f14bd.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []
 sourceId: "870"

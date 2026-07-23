@@ -6,7 +6,7 @@ excerpt: "Is there a fight for the microphone when it comes to leading influence
 excerptGenerated: false
 author: "Lauren Bowden"
 authorSlug: "lauren-bowden"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/0.jpeg"
+image: "/images/blog/42a3c56b7784.jpg"
 categories: ["the-running-in-circles-issue"]
 needsReview: []
 sourceId: "4535"
@@ -69,7 +69,7 @@ report also proclaims that in many ways the battle of influencer ownership has
 already been lost to the marketing industry, but PR should have a role because
 the bigger opportunity is to establish long term relationships.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/10/influencer-marketing.jpg)
+![](/images/blog/a079f39f7e3c.jpg)
 
 I don’t know many marketers who would agree to the statement
 that marketing is short term and tactical while PR is long term and strategic.

@@ -6,7 +6,7 @@ excerpt: "Ted Rubin on why matching your product or service with the consumer wi
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/photo-1444807016527-23eae0a4b246-1-e1551350343285.jpeg"
+image: "/images/blog/a984a9c1e3f7.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []
 sourceId: "3239"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/why-its-time-to-change-the-conversation-from
 
 **Ted Rubin, our resident rock star, on why matching your product or service with the consumer will always be more effective than hunting your audience like prey.**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/photo-1444807016527-23eae0a4b246-1024x683.jpeg)
+![](/images/blog/5772cc0be0ef.jpg)
 
 Targeted
 ads, targeted content, target demographics... We see the word ‘target’ used

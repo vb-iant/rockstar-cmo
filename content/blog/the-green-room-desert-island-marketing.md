@@ -6,7 +6,7 @@ excerpt: "In this issue Ian Truscott catches up with five of our Rockstars and g
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/shutterstock_620039804-1-e1556219042369.jpg"
+image: "/images/blog/8f2e5e418637.jpg"
 categories: ["the-changesbowie-issue", "the-green-room"]
 needsReview: []
 sourceId: "3637"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-desert-island-marketing/"
 
 ***Each month in the Green Room we return backstage to pose a question to a group of our Rockstar CMOs. In this issue Ian Truscott catches up with five of them and gets his inspiration from a 77 year old radio show.. wait.. what?***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/shutterstock_620039804.jpg)
+![](/images/blog/e57cf373e124.jpg)
 
 Here in the UK, there is a famous and long-running radio program called “[Desert Island Discs](https://en.wikipedia.org/wiki/Desert_Island_Discs)” first broadcast in 1942 (who says we are not down with the kids!). The premise of the show is that the guest imagines that they are a castaway on a desert island, they are only allowed 8 recordings (usually music), a luxury item and a book to take with them.
 
@@ -29,7 +29,7 @@ One thing we learned, we hang out with some pretty cultured folks and the booksh
 
 ## Ted Rubin
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg)
+![](/images/blog/f04796e0e527.jpg)
 
 Book: [Papillon by Henri Charrière](https://www.goodreads.com/book/show/6882.Papillon)
 
@@ -45,7 +45,7 @@ Twitter: [@StephenAtHome](https://twitter.com/StephenAtHome)
 
 ### Robert Rose
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/Robert_Rose.jpg)
+![](/images/blog/e3f9d96a3d39.jpg)
 
 Assuming I had to actually actively market the desert island, choosing one book would be the most difficult of all the choices.
 
@@ -79,7 +79,7 @@ Twitter feed – I have 2: [@buzzfeed](https://twitter.com/BuzzFeed) and [@funny
 
 ### Christine Bailey
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/07/chris-1-e1546104575296-1024x1024.png)
+![](/images/blog/511c1a65bd01.png)
 
 Ooh, this is a tough one!  It’s so hard to pick but if you’re going to make me……
 
@@ -95,7 +95,7 @@ I’ve always been a fan of Seth Godin since he wrote THE book on permission mar
 
 ### Wendy Bryant-Beswick
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png)
+![](/images/blog/a36c32f4287f.png)
 
 It's difficult to distill my daily reads into one list but I do have a few favorites, ones I tend to revisit and reference.  
 ["The Alchemist" by Paulo Coelho](https://www.amazon.com/dp/0061122416/ref=cm_sw_r_other_apa_i_ARfWCbR6WFDC0﻿) - I read this book every two or three years. It's about going on a personal journey, but learning to appreciate all the treasures you already have instead of travelling the whole world to find new ones.
@@ -111,7 +111,7 @@ I continually go back to Kimberley Whistler's Twitter feed Check out Kimberly Wh
 
 ## ME?
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/profile-500x500.jpg)
+![](/images/blog/ba6004b18f36.jpg)
 
 Oh go on, I want to play.
 

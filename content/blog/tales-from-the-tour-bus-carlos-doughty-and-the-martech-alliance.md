@@ -6,7 +6,7 @@ excerpt: "On the tour bus this month is Carlos Doughty, founder of the Martech A
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/0-3.jpeg"
+image: "/images/blog/874c5c00e40a.jpg"
 categories: ["tales-from-the-tour-bus", "the-club-classics-volume-one-issue"]
 needsReview: []
 sourceId: "5806"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-carlos-doughty-and-t
 
 ***On the tour bus this month is Carlos Doughty, founder of the Martech Alliance, who recently ran a series of virtual events called the MarTechFest Dial-up and we caught up with him to find out how that went.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/06/tales-promo-carlos-1024x536.png)
+![](/images/blog/80e0f80ca3e9.png)
 
 ---
 

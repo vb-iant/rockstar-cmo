@@ -6,7 +6,7 @@ excerpt: "Celebrity brand endorsements reached a whole new level when Kanye's co
 excerptGenerated: false
 author: "Helene Dancer"
 authorSlug: "helene-dancer"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/04/virgil-abloh-louis-vuitton-appointment-e1546193247534.jpg"
+image: "/images/blog/7c3a8bc7c05a.jpg"
 categories: ["project-funk-da-world"]
 needsReview: []
 sourceId: "1038"

@@ -6,7 +6,7 @@ excerpt: "The days of brands being detached, abstract and ultimately faceless en
 excerptGenerated: false
 author: "Stephen Kelly"
 authorSlug: "stephen-kelly"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/antonino-visalli-1272426-unsplash-1-e1551351502187.jpg"
+image: "/images/blog/dee730fa851f.jpg"
 categories: ["the-pretender-issue"]
 needsReview: []
 sourceId: "3250"

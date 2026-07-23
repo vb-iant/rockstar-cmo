@@ -6,7 +6,7 @@ excerpt: "The Brief, the essential song sheet that could decide if the work is a
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/05/Tuesday-People_MG_5152-1-e1559291254287.jpeg"
+image: "/images/blog/6fcba57f4b39.jpg"
 categories: ["the-invasion-of-privacy-issue"]
 needsReview: ["embed_block"]
 sourceId: "3742"

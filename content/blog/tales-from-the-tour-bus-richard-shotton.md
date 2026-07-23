@@ -6,7 +6,7 @@ excerpt: "This issue we hop on the tour bus with the author of one of our favori
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/05/DSC_0782-e1559114504369.jpg"
+image: "/images/blog/5c31de8edcc4.jpg"
 categories: ["tales-from-the-tour-bus", "the-invasion-of-privacy-issue"]
 needsReview: []
 sourceId: "3711"
@@ -86,7 +86,7 @@ to get everything in writing, even if it’s just an e-mail.
 
 #### **You’ve done something that a lot of us aspire to do, you’ve written a book, what’s your tip for anyone considering it?**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/05/rs_book.jpeg)
+![](/images/blog/541a27ec8b74.jpg)
 
 I would strongly recommend writing a book if there’s a topic
 you’re passionate about. I wouldn’t have been able to start up Astroten without

@@ -6,7 +6,7 @@ excerpt: "Here on Rockstar CMO, we love to talk about the mission of marketing t
 excerptGenerated: false
 author: "Megan Isola"
 authorSlug: "megan-isola"
-image: "https://rockstarcmo.com/wp-content/uploads/2023/05/handshake-square.png"
+image: "/images/blog/7c9ba12a6374.png"
 categories: ["branding", "street-knowledge"]
 needsReview: []
 sourceId: "7706"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/building-trust-with-brand-values/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/05/maks-styazhkin-FAebY51RJ_c-unsplash-1024x680.jpg)
+![](/images/blog/09572b728137.jpg)
 
 In the last few years, we’ve seen a shift among consumers. Now more than ever, people are voting with their wallets and are saving their purchases to shop with brands they trust. Your brand values play a pivotal role in connecting with your audience and hopefully turning them into customers. It’s clear that consumers want to support businesses that align with their values, but you may be wondering how to achieve this.
 
@@ -55,7 +55,7 @@ You may have heard the acronym ESG in the business discourse regarding sustainab
 
 ## 5 Steps for Building Consumer Trust
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/05/krzysztof-maksimiuk-47zxjAvBglI-unsplash-1024x683.jpg)
+![](/images/blog/77f7dc9365af.jpg)
 
 ### #1 - Tell your story
 

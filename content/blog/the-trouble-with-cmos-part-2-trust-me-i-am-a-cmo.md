@@ -6,7 +6,7 @@ excerpt: "Accomplished marketing and communications professional Irene Nehrkorn-
 excerptGenerated: false
 author: "Irene Nehrkorn-Kayn"
 authorSlug: "irene-nehrkorn-kayn"
-image: "https://rockstarcmo.com/wp-content/uploads/2022/08/INK-Trouble-with-CMOS-Square.png"
+image: "/images/blog/da736c4db985.png"
 categories: ["street-knowledge"]
 needsReview: []
 sourceId: "7389"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-trouble-with-cmos-part-2-trust-me-i-am-a
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2022/08/nick-karvounis-6qVskOfkgZY-unsplash-1024x683.jpg)
+![](/images/blog/8085b555e1cd.jpg)
 
 # Trust me, I am a CMO!
 
@@ -83,7 +83,7 @@ The Chef!
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2022/08/Trouble-with-CMOS-1-150x150.png)
+![](/images/blog/b1e50a9c97af.png)
 
 ---
 

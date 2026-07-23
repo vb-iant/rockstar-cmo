@@ -6,7 +6,7 @@ excerpt: "This month’s penthouse ruckus has been started by Jeanniey Mullen wh
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/shutterstock_331696088-1-e1545660587459.jpg"
+image: "/images/blog/c1923168375e.jpg"
 categories: ["the-martech-mix-desk", "the-swimming-pool", "we-are-family"]
 needsReview: []
 sourceId: "659"

@@ -6,7 +6,7 @@ excerpt: "A roundup of another splendid month on the podcast, with some fascinat
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/11/podcast-this-month-promo.png"
+image: "/images/blog/10a56c62a16f.png"
 categories: ["the-come-together-issue"]
 needsReview: ["shortcode:buzzsprout", "reusable_block_ref"]
 sourceId: "6189"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/thanks-to-the-podcast-this-month/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/03/podcast-promo-1024x536.png)
+![](/images/blog/a97142189641.png)
 
 As it's the Thanksgiving issue, I definitely want to be thankful for this podcast, it's a labor of love for sure, way more work than I realized, but it's fun.
 

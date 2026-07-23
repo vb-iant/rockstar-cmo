@@ -6,7 +6,7 @@ excerpt: "As we approach the UK holidays and celebrate the US Thanksgiving, I th
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/11/12-days-square.jpeg"
+image: "/images/blog/4a2bc906739b.jpg"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []
 sourceId: "4792"
@@ -25,7 +25,7 @@ Sing with me...
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/ted-rubin-300x298.jpg)
+![](/images/blog/f04796e0e527.jpg)
 
 #### ***On the first day of Christmas, Rockstar CMO gave to me - straight talking from Ted Rubin***
 
@@ -33,7 +33,7 @@ Our resident Rockstar CMO who has been with us since the first issue and has bee
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/jenni-young.jpg)
+![](/images/blog/3fc416744864.jpg)
 
 #### ***On the second day of Christmas, Rockstar CMO gave to me - two important metrics***
 
@@ -44,7 +44,7 @@ Jenni shared](https://rockstarcmo.wpengine.com/backstage-with-jenni-young/).
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/Robert-Rose.jpg)
+![](/images/blog/c46f341a8f83.jpg)
 
 #### ***On the third day of Christmas, Rockstar CMO gave to me - three steps to employee engagement…***
 
@@ -55,7 +55,7 @@ more.](https://rockstarcmo.wpengine.com/sing-the-same-song-3-steps-for-employee-
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/06/120716_20PICZ-0060-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 
 #### ***On the fourth day of Christmas, Rockstar CMO gave to me - four ‘P’s that give way to simplicity…***
 
@@ -63,7 +63,7 @@ John Andrews, CEO of [Photofy](https://photofy.com/) has expertise not just in 
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/10/dennis-shiao.jpeg)
+![](/images/blog/687054cd1c89.jpg)
 
 #### ***On the fifth day of Christmas, Rockstar CMO gave to me - FIVE --- FAVORITE --- INFLUENCER --- MISTAKES ----***
 
@@ -71,7 +71,7 @@ John Andrews, CEO of [Photofy](https://photofy.com/) has expertise not just in 
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 #### ***On the sixth day of Christmas***, ***Rockstar CMO gave to me - the end of wasted interruptions***
 
@@ -79,7 +79,7 @@ Our sixth trip to the Rockstar CMO Swimming Pool, our special portal to marketin
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/0-1.jpeg)
+![](/images/blog/a8a25771648f.jpg)
 
 #### ***On the seventh day of Christmas, Rockstar CMO gave to me - Amber and mandatory karaoke***
 
@@ -87,7 +87,7 @@ In issue seven we went backstage with Amber Osborne ([@MissDestructo](https://tw
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/tourbus.png)
+![](/images/blog/a8f2b0da9569.png)
 
 #### ***On the eighth day of Christmas, Rockstar CMO gave to me - eight tales from the Tour Bus***
 
@@ -98,7 +98,7 @@ on the tour bus](https://rockstarcmo.wpengine.com/category/features/tales-from-t
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/mullen_passport.hi_res-684x1024.jpg)
+![](/images/blog/0792b0b4f2d2.jpg)
 
 #### ***On the ninth day of Christmas, Rockstar CMO gave to me - the big deal about chatbots***
 
@@ -106,7 +106,7 @@ I know, I keep breaking the rhythm of the song, but in our ninth trip to the Roc
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/top-10.png)
+![](/images/blog/7d20d380c1e1.png)
 
 #### ***On the tenth day of Christmas, Rockstar CMO gave to me - ten popular articles***
 
@@ -116,7 +116,7 @@ days. [The Top Ten](https://rockstarcmo.wpengine.com/category/top-10/).
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/06/Headshot1-e1561803535536.png)
+![](/images/blog/6bc97080831b.png)
 
 #### ***On the eleventh day of Christmas, Rockstar CMO gave to me - the end of one and done marketing***
 
@@ -124,7 +124,7 @@ In out eleventh trip to the Rockstar CMO Swimming Pool we were inspired by [Wen
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/The-Pretender-issue-Square.png)
+![](/images/blog/c291e77171ec.png)
 
 #### ***On the twelfth day of Christmas, Rockstar CMO gave to me - an issue dedicated to fakery***
 

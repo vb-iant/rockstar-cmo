@@ -6,7 +6,7 @@ excerpt: "Welcome to The Sample, where we spin the dial on the interwebs and rec
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-e1569754611847.jpg"
+image: "/images/blog/3fb59bdc060e.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: ["embed_block"]
 sourceId: "6049"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-sample-rent-vs-build/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-1-1024x768.jpg)
+![](/images/blog/c8eb0c286990.jpg)
 
 The theme for this month is a quandary for marketers. It's generally considered that the best way to build a true fanbase is with an owned digital platform. But, this takes time, and platforms like Facebook, LinkedIn, and Medium offer instant access to a rented audience. So, we spun the dial on the interwebs to see what the experts thought and this is what we found.
 
@@ -57,7 +57,7 @@ Author and marketing thought leader Mark Schaefer in [this article](https://busi
 
 ## Instagram outage reminds us not to build only on rented land
 
-![PR Blogger Spotlight: Scott Guthrie | Vuelio](https://rockstarcmo.com/wp-content/uploads/2020/10/image.jpeg)
+![PR Blogger Spotlight: Scott Guthrie | Vuelio](/images/blog/469380a17a5e.jpg)
 
 Last year Scott Guthrie used an Instagram outage to make the case for building versus renting, specifically looking at it through the lens of influencers in [this article on his blog](https://sabguthrie.info/instagram-outage-build-rented-land/).
 

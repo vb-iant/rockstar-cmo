@@ -6,7 +6,7 @@ excerpt: "Buzzing off those results you secured for your company? Feeling confid
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/08/rawpixel-250087-unsplash-e1546098283322.jpg"
+image: "/images/blog/8cb5d0eda9dd.jpg"
 categories: ["sound-check", "top-10", "top-10-2020"]
 needsReview: []
 sourceId: "930"

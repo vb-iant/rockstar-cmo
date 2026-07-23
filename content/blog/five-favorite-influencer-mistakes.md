@@ -6,7 +6,7 @@ excerpt: "Sheryl Crowe once lamented about her favorite mistake, but content mar
 excerptGenerated: false
 author: "Dennis Shiao"
 authorSlug: "dennis-shiao"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/11/hand-square.png"
+image: "/images/blog/d48dd0842674.png"
 categories: ["the-running-in-circles-issue"]
 needsReview: []
 sourceId: "4533"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/five-favorite-influencer-mistakes/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/photo-1552912276-dde406237918.jpeg)
+![](/images/blog/89ff705a96a9.jpg)
 
 During my formative years, I was influenced by a number of people: my parents, teachers and coaches. Also, my Chinese school teacher, SAT tutor and private piano instructor. Some of the best advice I got? It wasn’t the prescriptive advice (“Go West, young man”). Instead, it was advice on what **NOT** to do. Things and mistakes to avoid.
 

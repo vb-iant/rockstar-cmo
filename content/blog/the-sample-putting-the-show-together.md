@@ -6,7 +6,7 @@ excerpt: "This month we kick off a new series, The Sample, where we whirl the di
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-e1569754611847.jpg"
+image: "/images/blog/3fb59bdc060e.jpg"
 categories: ["employee-engagement", "the-one-nation-under-a-groove-issue"]
 needsReview: []
 sourceId: "4371"

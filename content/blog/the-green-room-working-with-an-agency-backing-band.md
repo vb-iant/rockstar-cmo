@@ -6,14 +6,14 @@ excerpt: "Each month in the Green Room we return backstage to pose a question to
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/shutterstock_1075147661-1-e1548949410416.jpg"
+image: "/images/blog/3cde4e17bb9e.jpg"
 categories: ["brand-new-thang"]
 needsReview: []
 sourceId: "3181"
 sourceUrl: "https://rockstarcmo.com/the-green-room-working-with-an-agency-backing-band/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/shutterstock_1075147661.jpg)
+![](/images/blog/9b32a7a18b23.jpg)
 
 **Each month in the Green Room we return backstage to pose a question to our Rockstar CMOs. This month Ian Truscott catches up with five of them and they share their advice on working with agencies.**
 
@@ -27,7 +27,7 @@ They have taken a diverse range of products to market, both B2B and B2C, and of 
 
 ### **John Andrews**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/06/120716_20PICZ-0060-1024x682.jpg)
+![](/images/blog/561fbff1ff61.jpg)
 
 "*We love to work with agencies that have industry expertise. As a content creation platform, we want to focus on the functionality of our platform and making it easy to make beautiful, branded content. Agencies can leverage our tools to expand the reach of their creative work and manage the cadence and flow of content creation with their clients’ employees, partners and influencers. We believe it's the perfect partnership for extending the reach and engagement of their work.*"
 
@@ -39,7 +39,7 @@ They have taken a diverse range of products to market, both B2B and B2C, and of 
 
 *The best way to work with agencies is to treat them as a partner or extension to your in-house team – make sure you have a good cultural match, keep them up to date with what’s going on, tell them when they’ve got it right (and when they’ve got it wrong). It’s a two-way street at the end of the day, and the best partnerships involve trust and mutual respect. If it’s not working, move on!"*
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 **Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A** [**her*e***](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)***.***
 
@@ -59,7 +59,7 @@ They have taken a diverse range of products to market, both B2B and B2C, and of 
 
 ### Ted Rubin
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/ted-rubin-3-1-1024x640.jpg)
+![](/images/blog/4ca20206ca97.jpg)
 
 *"Never, ever, outsource your brand personality and/or voice to an agency. I do not care how good they are or how many others they have done it for. Use them to support your efforts, outsource creative and busy work when/if need be, but maintain creative control AND direct contact with your customers at all costs.*
 
@@ -69,7 +69,7 @@ They have taken a diverse range of products to market, both B2B and B2C, and of 
 
 ### **Jenni Young**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/jenni-young.jpg)
+![](/images/blog/3fc416744864.jpg)
 
 "*The bottom line is that you are choosing to work with a group of people. Your success will be determined (in the long run) by having a motivated, high-quality team working for you. When you’re choosing an agency, always get a chance to meet with the whole team.*
 
@@ -79,7 +79,7 @@ They have taken a diverse range of products to market, both B2B and B2C, and of 
 
 ### **Me?**
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/0-1.jpeg)
+![](/images/blog/dc171f303474.jpg)
 
 Although I have been client-side for most of my career, I did have the pleasure of working for the “Mad Men” at McCann London, and for a wonderful smaller agency in Washington D.C. ([Tahzoo](http://tahzoo.com/)).
 

@@ -6,7 +6,7 @@ excerpt: "Taking us for a spin in his tour bus this issue is life-long Londoner 
 excerptGenerated: false
 author: "Ian Hsieh"
 authorSlug: "ian-hsieh"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/TG_Photo-1-e1548929236595.jpg"
+image: "/images/blog/171e356a2c1d.jpg"
 categories: ["tales-from-the-tour-bus", "brand-new-thang"]
 needsReview: []
 sourceId: "3111"

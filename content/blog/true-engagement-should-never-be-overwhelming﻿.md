@@ -6,20 +6,20 @@ excerpt: "Coming over a little needy? Ted Rubin suggests it's time your marketin
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/shutterstock_1144709537-1-e1556205442267.jpg"
+image: "/images/blog/3809a9c21d9b.jpg"
 categories: ["the-changesbowie-issue"]
 needsReview: []
 sourceId: "3599"
 sourceUrl: "https://rockstarcmo.com/true-engagement-should-never-be-overwhelming%ef%bb%bf/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/shutterstock_1144709537.jpg)
+![](/images/blog/79b6b015c4d6.jpg)
 
 ***Coming over a little needy? Ted Rubin suggests it's time your marketing stopped overwhelming the audience on every channel and touchpoint with stories about you, your product and brand and instead focused on them and their needs.***
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2018/12/Ted-at-Laptop-questioning-1024x640.jpg)
+![](/images/blog/762858ae667f.jpg)
 
 What is engagement? Many brands have one simple answer: more, more, more. More ads, more offers, more emails, more re-targeting and following me everywhere I go online, more of everything but real conversation. For those brands, engagement is not about the customer or building relationships. It's about checking off the right boxes, having one-sided conversations, and never missing an opportunity to remind the consumer that the brand exists. It's really all about me, me, me for brands, and not at all about the customer.
 

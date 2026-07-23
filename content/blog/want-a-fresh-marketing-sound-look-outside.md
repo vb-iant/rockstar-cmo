@@ -6,7 +6,7 @@ excerpt: "Pop music has remained relevant through outside influences, Paul Simon
 excerptGenerated: false
 author: "Dennis Shiao"
 authorSlug: "dennis-shiao"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/07/247c71f0c83e0624b891f98515b65559_400x400.png"
+image: "/images/blog/d68fbde458f0.png"
 categories: ["the-people-are-people-issue"]
 needsReview: []
 sourceId: "4243"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/want-a-fresh-marketing-sound-look-outside/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/08/shutterstock_107629802.jpg)
+![](/images/blog/b02f932fd7f6.jpg)
 
 Time to call it like it is.
 

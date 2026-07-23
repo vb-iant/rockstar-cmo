@@ -6,7 +6,7 @@ excerpt: "I got a backstage pass at the Sitecore Experience event in London, the
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/Paige_Oneill_final_v3a-1-e1556204452836.jpg"
+image: "/images/blog/e26e293ac46a.jpg"
 categories: ["features-2", "the-breaking-glass-issue", "the-changesbowie-issue"]
 needsReview: []
 sourceId: "3588"
@@ -15,13 +15,13 @@ sourceUrl: "https://rockstarcmo.com/five-marketing-truths-from-paige-oneill/"
 
 ***I got a backstage pass at the Sitecore Experience event in London, the opportunity to catch-up with my old boss Paige O'Neill and chat about her keynote and her latest message to marketers...***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/Paige_Oneill_final_v3a-1024x853.jpg)
+![](/images/blog/dd7f23a1434a.jpg)
 
 Paige O’Neill is the CMO for Sitecore, a marketing technology vendor that is recognized by major analysts as a Rockstar in the industry, firmly positioned in Gartner's magic quadrant and riding high on the Forrester Wave.
 
 This month, following her keynote presentation at the [Sitecore Experience](https://sitecore-experience.sitecore.com/) event, I sat down with Paige to discuss her 5 marketing truths, the role and responsibilities of marketing in the customer experience and how research suggests that, maybe marketing is getting a bit cocky.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/IMG_1316-1-e1556203130701-1024x660.jpg)
+![](/images/blog/a0e50b93c0ab.jpg)
 
 **Hi Paige, you’ve just got off stage from your Sitecore Experience keynote here in London and I think you touched on all the hot topics for marketers right now; the role of the CMO, personalization, content, AI and customer data. You referred to them as the 5 Hard Truths for marketers – what inspired you to choose these 5?**
 

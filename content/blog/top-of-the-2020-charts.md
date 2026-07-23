@@ -6,7 +6,7 @@ excerpt: "Maybe there was something good to come out of 2020? In keeping with th
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2021/01/top-20-of-2020-square.png"
+image: "/images/blog/31bba28ec90f.png"
 categories: ["the-youve-come-a-long-way-baby-issue"]
 needsReview: []
 sourceId: "6292"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/top-of-the-2020-charts/"
 
 ***Maybe there was something good to come out of 2020? In keeping with the theme of this issue, as we reflect on 2020 and look forward to the new year, our editor looks back on the most popular articles from this year.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2021/01/2020-top-articles-1024x536.png)
+![](/images/blog/be56f0b63ae4.png)
 
 ---
 
@@ -53,7 +53,7 @@ Happy new year!
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/02/oliver-pilgerstorfer.jpeg)
+![](/images/blog/581f0a363d7c.jpg)
 
 #### #1 Backstage with Oliver Pilgerstorfer
 
@@ -63,7 +63,7 @@ IFS develops and delivers enterprise software for customers around the world and
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/06/J-Scandurra-Headshot-e1561794080448-1024x1024.jpg)
+![](/images/blog/808a864e36e3.jpg)
 
 #### #2 Managing the shift from FOMO (Fear of Missing Out) to FOGO (Fear of Going Out)
 
@@ -73,7 +73,7 @@ In this article Jane Scandurra, global marketing consultant and coach, suggests 
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-Rubin-e1545645433398.jpg)
+![](/images/blog/4fb8b2ef4554.jpg)
 
 #### #3 Beware the Risks of Arrogance and Pride in Business
 
@@ -83,7 +83,7 @@ Buzzing off those results you secured for your company? Feeling confident? Maybe
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/06/shutterstock_1471011434-1-727x1024.jpg)
+![](/images/blog/a2200afdacf4.jpg)
 
 #### #4 Post-pandemic personal branding: Turn it up to eleven
 
@@ -93,7 +93,7 @@ Jane Scandurra's second entry in our top 10, in which she shares 3 tips to turn 
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/11/kbc-square.png)
+![](/images/blog/0e106a22f94a.png)
 
 #### #5 Backstage with Kate Bradley Chernis
 
@@ -103,7 +103,7 @@ As marketers, sometimes we are not the rock stars, but the DJs that drop their t
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/11/ted-square.jpeg)
+![](/images/blog/c0c928c0c9e7.jpg)
 
 #### #6 Better products, better marketing, better listen
 
@@ -113,7 +113,7 @@ In his second entry in the top 10 for 2020, our resident Rockstar CMO Ted Rubin 
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/tuvsud-Jasmine-Martirossian-3.jpg)
+![](/images/blog/897a93e99b90.jpg)
 
 #### #7 3 questions for success in the Post-COVID-19 world
 
@@ -123,7 +123,7 @@ In this article, Jasmine Martirossian VP of Marketing at TÜV SÜD Americas shar
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/02/nick-einstein.jpeg)
+![](/images/blog/9be0ec130371.jpg)
 
 #### #8 Modern product marketers: Roadies or rockstars?
 
@@ -133,7 +133,7 @@ We enjoyed [Nick Einstein’s](https://rockstarcmo.com/author/nicholaseinstein/)
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/01/tom-wentworth.jpeg)
+![](/images/blog/8b723b67eb6e.jpg)
 
 #### #9 Tales from the tour bus: Tom Wentworth
 
@@ -143,7 +143,7 @@ Back in the summer of 2018, for [The Straight Outta Compton Issue](https://rock
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/06/dennis.jpeg)
+![](/images/blog/288f71ec3333.jpg)
 
 #### #10 How B2B marketers can get heard on Twitter in 2020
 
@@ -157,7 +157,7 @@ Thanks to all our authors, I am sure we are in for more of the same for 2021!
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/12/Rockstar-CMO-FM-Promo-1-1024x1017.png)
+![](/images/blog/ad104aff2aae.png)
 
 ## The F'in Marketing Podcast
 

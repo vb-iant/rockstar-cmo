@@ -6,7 +6,7 @@ excerpt: "Marketers come from diverse career backgrounds, we are not like accoun
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/05/green-room-promo-square.png"
+image: "/images/blog/d2dd37f937ba.png"
 categories: ["marketing-education", "the-green-room", "the-miseducation-of-lauryn-hill-issue"]
 needsReview: []
 sourceId: "5870"
@@ -27,7 +27,7 @@ In this Green Room we went backstage with six of our marketers and asked them:
 
 “Aptitude and attitude trump a formal marketing education, but an appetite to learn – be it through the formalities of a course, experimenting with new approaches or technology, or throwing yourself into new initiatives – is fundamental to the success of a growth-focused marketeer.”
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/oliver-pilgerstorfer.jpeg)
+![](/images/blog/581f0a363d7c.jpg)
 
 *As CMO of Global enterprise software vendor [IFS](https://www.ifs.com/uk/), Oliver is responsible for their global marketing and communications activities. With his team, he is on a mission to increase the company’s visibility, as well as attract and retain a loyal IFS following.*
 
@@ -39,7 +39,7 @@ In this Green Room we went backstage with six of our marketers and asked them:
 
 My top three are #1 right attitude/cultural fit; #2 relevant experience and skill set; #3 good social presence/personal profile.  I’ll look at where they’ve worked before and if anyone in my network knows them.  I’ll certainly look to see what education they have and for entry-level marketers in particular, a formal marketing education is a real bonus.  Not least because this indicates a passion for the profession of marketing which always sits well with me.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
@@ -59,7 +59,7 @@ While intuition is a great attribute for a marketer, the ability to truly under
 
 Too many marketers fall into the "my uncle Larry" trap. Just because you know someone that has a certain behavior, it does not necessarily represent a larger audience. Your uncle Larry might be a nice guy, but he drinks craft beer and the new shopper loves White Claw. AB was late to both trends.
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/05/ja.jpeg)
+![](/images/blog/6c5586f405be.jpg)
 
 *John Andrews is the head honcho at Photofy – a content creation app that enables users to transform ordinary photos into slick, professional images that can be easily shared on social platforms.*
 
@@ -75,7 +75,7 @@ However, while my degree in marketing has served me well and mattered to hiring 
 
 A customer driven mindset, a strong work ethic and sense of curiosity is just as important. It also depends on the specific marketing discipline you're talking about. The world of marketing is so much more data driven than it ever was and now other more analytic-focused degrees could be well suited for marketing too.
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/06/J-Scandurra-Headshot-e1561794080448-1024x1024.jpg)
+![](/images/blog/808a864e36e3.jpg)
 
 Jane Scandurra is a global marketer, speaker and an online pioneer who has worked for industry-leading companies including IBM, Prodigy, Nokia, Bristol-Myers and BBDO before starting her consulting and coaching business in 2006.
 
@@ -91,7 +91,7 @@ Our individual journeys are exactly that: bespoke experiences that help us becom
 
 Yes, I want to see many impressive diplomas on the wall in my doctor’s office and the requisite certifications in my mechanic’s waiting room. However, when hiring for my teams, I look for candidates with demonstrated positive impact and the potential to grow beyond the position at hand. A formal education in Marketing is a vehicle to achieve this, as are degrees in Art History, English, Math and countless other areas of study.
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/03/david-headshot-smile-1-e1553779343988-1024x1024.jpg)
+![](/images/blog/a74095c56b10.jpg)
 
 *David Howland, is a former creative and art director, marketing leader at Nasdaq *and experienced CMO, most recently with Longview Solutions.**
 
@@ -111,7 +111,7 @@ When I hire people, a degree in marketing does not influence my choice. Today, I
 
 Having a degree or not doesn’t matter to me. I’m interested in what you’ve done, the type of person you are, and what unique experience you bring to the table.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png)
+![](/images/blog/a36c32f4287f.png)
 
 Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).*﻿*
 

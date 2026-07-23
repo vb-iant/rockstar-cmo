@@ -6,7 +6,7 @@ excerpt: "We asked our Rockstar CMOs who is the most important collaborator when
 excerptGenerated: false
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/Robert-Rose.jpg"
+image: "/images/blog/c46f341a8f83.jpg"
 categories: ["the-one-nation-under-a-groove-issue"]
 needsReview: []
 sourceId: "4380"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/that-catchy-marketing-tune-is-not-a-solo-or-
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/shutterstock_540487849.jpg)
+![](/images/blog/541b4d149221.jpg)
 
 There is a saying (usually appearing as a complaint among marketers) that everyone has two jobs – theirs and marketing. It’s funny, my experience is that this is almost always true when marketing is trotting around the newest creative campaign or the newest design for the website. Everybody has an opinion and wants to partner on that. But when it comes time to sweat out how to get one more incremental point on a conversion rate, or how to allocate scant media dollars to the most effective media, suddenly no one wants to come to that meeting.
 

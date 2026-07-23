@@ -6,7 +6,7 @@ excerpt: "We caught up with Ted Rubin this month and asked him about the theme o
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/Ted-Thinking.Photofy-e1599213781701.jpg"
+image: "/images/blog/8d3538dc095b.jpg"
 categories: ["the-blur-issue"]
 needsReview: []
 sourceId: "5964"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/who-decided-the-lines/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/03/Ted-Thinking.Photofy-1024x640.jpg)
+![](/images/blog/11f6fb644534.jpg)
 
 Here is what my take is now, and what it has been for the past 10+ years...
 

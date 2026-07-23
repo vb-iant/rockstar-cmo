@@ -6,7 +6,7 @@ excerpt: "Christine Bailey, CMO of Valitor, an international payment solutions c
 excerptGenerated: false
 author: "Christine Bailey"
 authorSlug: "christine-bailey"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg"
+image: "/images/blog/2a071060235c.jpg"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []
 sourceId: "4683"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/data-the-gift-that-keeps-on-giving/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/shutterstock_1124483078.png)
+![](/images/blog/6461dbcc9964.png)
 
 2019 has
 been about deeply understanding our audience and refining our value

@@ -6,7 +6,7 @@ excerpt: "Hustle. Be remarkable. Be special. Live off coffee. Sleep is for the w
 excerptGenerated: false
 author: "Robert Rose"
 authorSlug: "robert-rose"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/08/omar-lopez-246581-unsplash-1-e1546094822849.jpg"
+image: "/images/blog/aa71c109cd5b.jpg"
 categories: ["seat-at-the-table"]
 needsReview: []
 sourceId: "901"

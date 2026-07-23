@@ -6,7 +6,7 @@ excerpt: "Ted Rubin breaks down why the act of customer service is the only time
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/09/shutterstock_533074990-e1546084457251.jpg"
+image: "/images/blog/33e61e89246b.jpg"
 categories: ["nevermind"]
 needsReview: []
 sourceId: "919"

@@ -6,7 +6,7 @@ excerpt: "Our resident rock star, Ted Rubin, on why marketers need to really und
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-Rubin-e1545645433398.jpg"
+image: "/images/blog/4fb8b2ef4554.jpg"
 categories: ["straight-outta-compton"]
 needsReview: []
 sourceId: "933"

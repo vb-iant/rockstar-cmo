@@ -6,14 +6,14 @@ excerpt: "A debate is raging around whether it’s requisite for marketers to ha
 excerptGenerated: false
 author: "Jasmine Martirossian"
 authorSlug: "jasmine-martirossian"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/07/shutterstock_1018691803-1-e1595095639970.jpg"
+image: "/images/blog/c984e37fc19e.jpg"
 categories: ["the-miseducation-of-lauryn-hill-issue", "top-10"]
 needsReview: []
 sourceId: "5857"
 sourceUrl: "https://rockstarcmo.com/the-magic-marketers-potion-an-educated-mind-and-attitudinal-skills/"
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/07/shutterstock_1018691803.jpg)
+![](/images/blog/42d5ca1e43f3.jpg)
 
 ***A debate is raging around whether it’s requisite for marketers to have a marketing degree. Does a marketing degree create a better marketer? Jasmine Martirossian, PhD, is the Vice President of Marketing at TÜV SÜD Americas, gives us her take.***
 
@@ -21,7 +21,7 @@ sourceUrl: "https://rockstarcmo.com/the-magic-marketers-potion-an-educated-mind-
 
 I have an explicit bias toward education. Being a daughter of university professors and growing up in a family where education was treated with religious fervor led me to personally invest a lot of time and energy earning advanced degrees, including a Ph.D. The opening sentence of my Ph.D. program application read: ‘To paraphrase Dostoyevsky, who said that “Beauty will save the world,” education will save the world.’ My husband’s attitude towards education was one of the key factors of him becoming my husband. We both worked hard to ensure our daughter grew up with a strong awareness of the power of education. So, it goes without saying that I strongly value education.
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/06/Jasmine-Martirossian-Photo-2-1024x575.jpg)
+![](/images/blog/bde8ce6b30ca.jpg)
 
 But an educational degree in itself - advanced or not - is no guarantee that a person will do well in a given position or cultural environment. Much more than a degree is required for success. There are a host of other qualities requisite to succeed in business and life in general.
 

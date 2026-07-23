@@ -6,7 +6,7 @@ excerpt: "All is Vanity was a song by the Manic Street Preachers and when asked 
 excerptGenerated: false
 author: "Dennis Shiao"
 authorSlug: "dennis-shiao"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/03/noah-buscher-M19QtooXPKs-unsplash-1-scaled-e1585563372527.jpg"
+image: "/images/blog/2b9b20bb0895.jpg"
 categories: ["the-ghost-town-issue"]
 needsReview: []
 sourceId: "5483"

@@ -6,7 +6,7 @@ excerpt: "Sounds very rockstar, but this month's Green Room is literally a bit o
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/09/green-rooom-promo-square.png"
+image: "/images/blog/7178298fcca8.png"
 categories: ["the-blur-issue", "the-green-room"]
 needsReview: []
 sourceId: "5976"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-a-bit-of-a-blur/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/green-rooom-promo-1024x537.png)
+![](/images/blog/31866e758c42.png)
 
 With lockdown, our work and home lives have become blurred. We no longer get home from work, we work from home, or do you sometimes feel we are doing home at work? Something that's been playing out on social media, that to a greater or lesser extent we blend our personal lives with our professional passions and the work we do.
 
@@ -37,7 +37,7 @@ Social media already blended our work/home lives and the lockdown has accelerate
 
 But while it’s OK to bring your ‘whole self’ to work, unlike a Rockstar tour, “what goes on social media stays on social media!”  Never post anything that you wouldn’t be happy to say in person to your employer.  If an employee exercises really poor judgment in their social media posts, I would question their judgment in other areas.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
@@ -55,7 +55,7 @@ In the example you provide (Tom Goodwin, [being fired by Publicis](https://www.c
 
 Every day, in word, deed and tweet, we represent more than just ourselves: we represent our families, our culture, our company, our passions and more. Character counts.
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/03/david-headshot-smile-1-e1553779343988-1024x1024.jpg)
+![](/images/blog/a74095c56b10.jpg)
 
 *David Howland, is a former creative and art director, marketing leader at Nasdaq *and experienced CMO, most recently with Longview Solutions.**
 
@@ -75,7 +75,7 @@ For my team, their individual roles shape my expectations. We have identified br
 
 If you want to express your opinion, then do it. Don't express an opinion on social media that you would not express in person. That's hiding behind a digital facade and goes against everything that has made social media powerful and purposeful.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png)
+![](/images/blog/a36c32f4287f.png)
 
 Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).*﻿*
 
@@ -91,7 +91,7 @@ That’s why we’ve moved to hour-long daily standups with my team: to make sur
 
 Today, the room is a Zoom conference, but that’s the best we can do until we get back to face-to-face living.
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/04/0-4.jpeg)
+![](/images/blog/41add14f75b0.jpg)
 
 *Ian Lowe leads marketing technology software provider Crownpeak’s marketing and communications and is responsible for generating demand and creating awareness. He’s a marketing executive with 20 years of marketing and technology experience, with most of the last 10 years in the web content management space*.
 
@@ -105,7 +105,7 @@ Sometimes a topic inspires a little more from our Rockstar CMO band and we go a 
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/Ted-Thinking.Photofy-1024x640.jpg)
+![](/images/blog/3fc7996e14b2.jpg)
 
 ## Ted Rubin
 
@@ -117,7 +117,7 @@ The most popular CMO on social media gives us some straight-talking advice on bl
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/06/Robert-Rose.jpg)
+![](/images/blog/c46f341a8f83.jpg)
 
 ## Robert Rose
 
@@ -129,7 +129,7 @@ Robert Rose, Chief Trouble Maker at [The Content Advisory](https://contentadviso
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/09/tuvsud-Jasmine-Martirossian-3.jpg)
+![](/images/blog/897a93e99b90.jpg)
 
 ## Jasmine Martirossian, PhD
 
@@ -141,7 +141,7 @@ Jasmine Martirossian, Ph.D., VP Marketing at TÜV SÜD Americas, shares her advi
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/12/Rockstar-CMO-FM-Promo-1-1024x1017.png)
+![](/images/blog/ad104aff2aae.png)
 
 ### More of the good stuff from our Rockstars...
 

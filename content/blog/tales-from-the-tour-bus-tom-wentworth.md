@@ -6,7 +6,7 @@ excerpt: "Back in the summer of 2018, for The Straight Outta Compton Issue, we w
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/01/tom-wentworth.jpeg"
+image: "/images/blog/8b723b67eb6e.jpg"
 categories: ["tales-from-the-tour-bus", "the-future-starts-here-issue", "top-10-2020"]
 needsReview: []
 sourceId: "5074"

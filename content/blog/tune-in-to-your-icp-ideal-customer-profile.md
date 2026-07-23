@@ -6,7 +6,7 @@ excerpt: "Jeff Clark shares, how, if you want to get some sales and marketing fo
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2023/02/lidya-nada-_0aKQa9gr4s-unsplash.jpg"
+image: "/images/blog/9f455265ab64.jpg"
 categories: ["marketing", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: ["table"]
 sourceId: "7600"
@@ -43,7 +43,7 @@ This is not an academic exercise. The ICP is integral to designing account plan
 
 It’s also creating clarity about who **NOT** to go after. Do make sales and marketing waste their time. You may land big deal with a business outside your ICP, but watch to see if they deliver value or they churn over time.
 
-![Ideal Customer Profile](https://rockstarcmo.com/wp-content/uploads/2023/02/lidya-nada-_0aKQa9gr4s-unsplash-1024x1024.jpg)
+![Ideal Customer Profile](/images/blog/3becf30147f3.jpg)
 
 Photo by [Lidya Nada](https://unsplash.com/@lidyanada?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/happy-customer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

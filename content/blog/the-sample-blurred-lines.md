@@ -6,7 +6,7 @@ excerpt: "This month on The Sample we spin the dial on the interwebs to discover
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-e1569754611847.jpg"
+image: "/images/blog/3fb59bdc060e.jpg"
 categories: ["the-blur-issue"]
 needsReview: []
 sourceId: "5939"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/the-sample-blurred-lines/"
 
 ***This month on The Sample we spin the dial on the interwebs to discover what you should be grooving to. The topic, the blurring lines between work and home, both at work and on social media.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-1-1024x768.jpg)
+![](/images/blog/c8eb0c286990.jpg)
 
 ---
 

@@ -6,14 +6,14 @@ excerpt: "Our anonymous big agency insider is back this month, sneaking this out
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-welcome-to-jamrock-issue"]
 needsReview: []
 sourceId: "5614"
 sourceUrl: "https://rockstarcmo.com/adnonamau5-the-death-of-the-creative-officer-its-been-too-schlong/"
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/04/shutterstock_1097933978.jpg)
+![](/images/blog/65e14499aef4.jpg)
 
 ***Like the DJ Deadmau5 our anonymous big agency insider operates in a mask, and is back this month, sneaking this out to the Rockstar CMO penthouse, while presumably, the creative team was sleeping off a long, self-congratulatory lunch...***
 

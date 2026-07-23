@@ -6,7 +6,7 @@ excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser Adnonamau5 do
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-think-about-it-issue"]
 needsReview: []
 sourceId: "3987"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/anti-social-media/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/shutterstock_1097933978.jpg)
+![](/images/blog/65e14499aef4.jpg)
 
 What is the point of social media now…seriously what’s the fucking point?
 

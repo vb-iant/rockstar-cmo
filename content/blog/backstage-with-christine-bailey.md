@@ -6,7 +6,7 @@ excerpt: "Christine Bailey is CMO of Valitor, having forged a career in the tech
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/07/chris-1-e1546104656803.png"
+image: "/images/blog/d94c17ed61b4.png"
 categories: ["backstage", "featured", "the-breaking-glass-issue", "straight-outta-compton"]
 needsReview: []
 sourceId: "593"

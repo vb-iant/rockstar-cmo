@@ -6,7 +6,7 @@ excerpt: "It's almost Christmas and the fine gentleman of Beehive are giving awa
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/11/brand-bullshit.png"
+image: "/images/blog/12eefd0c1a5d.png"
 categories: ["the-magic-of-christmas-issue"]
 needsReview: []
 sourceId: "4700"

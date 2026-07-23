@@ -6,7 +6,7 @@ excerpt: "We’ve enjoyed Nick Einstein’s insight as an analyst here on Rockst
 excerptGenerated: false
 author: "Nicholas Einstein"
 authorSlug: "nicholas-einstein"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/02/romain-hus-vWOXjFr6sz4-unsplash-1-scaled-e1581093020793.jpg"
+image: "/images/blog/dc3a8854de74.jpg"
 categories: ["the-features-creatures-issue", "top-10-2020"]
 needsReview: []
 sourceId: "5239"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/modern-product-marketers-roadies-or-rockstar
 
 ***We’ve enjoyed Nick Einstein’s insight as an analyst here on Rockstar CMO. His article*** [***Email marketers are currently crushing it***](https://rockstarcmo.wpengine.com/email-marketers-are-currently-crushing-it/) ***is an evergreen favorite with the band. But, in a timely move coinciding with our focus on the product for this issue, he’s switched to product marketing and ponders if product marketers are the roadies or the rockstars…***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/romain-hus-vWOXjFr6sz4-unsplash-1024x683.jpg)
+![](/images/blog/55e2822e95da.jpg)
 
 ---
 

@@ -6,7 +6,7 @@ excerpt: "Are we squeezing marketing into a spangly new jumpsuit called Diversit
 excerptGenerated: false
 author: "Lauren Bowden"
 authorSlug: "lauren-bowden"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/09/shutterstock_287700842-1-e1567410654715.jpg"
+image: "/images/blog/55d672726778.jpg"
 categories: ["the-people-are-people-issue"]
 needsReview: ["embed_block"]
 sourceId: "4270"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/diversity-marketing-opportunistic-coat-tail-
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/shutterstock_287700842.jpg)
+![](/images/blog/caaad644df81.jpg)
 
 Diversity and equality have been interests of mine for longer than I can remember, and I have been collecting thoughts and quotes on the topic like its vinyl.
 

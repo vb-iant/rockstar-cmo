@@ -6,7 +6,7 @@ excerpt: "As we run with the theme of privacy this issue, we asked Rachel Miller
 excerptGenerated: false
 author: "Rachel Miller"
 authorSlug: "rachel-miller"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/05/eyeball-500px.png"
+image: "/images/blog/7f2cb12d2e61.png"
 categories: ["features-2", "the-breaking-glass-issue", "the-invasion-of-privacy-issue"]
 needsReview: []
 sourceId: "3737"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/drop-the-vanity-its-time-for-action-not-eyeb
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/04/gerax-sotelo-Gxz0D6T0eRU-unsplash-1024x683.jpg)
+![](/images/blog/2f4dbfbcab65.jpg)
 
 Social media is becoming more and more important to business every day. And, I find it quite fascinating that in this current era of data overload, many marketers and individuals are still hyper-focused on vanity metrics such as Likes and Followers. Social media ROI does not come from large follower accounts. It comes from the number of people clicking, downloading, and ultimately purchasing your product or service.
 

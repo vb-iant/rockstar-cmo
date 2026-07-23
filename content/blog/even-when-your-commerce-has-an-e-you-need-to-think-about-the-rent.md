@@ -6,7 +6,7 @@ excerpt: "We asked Eric Jan van Putten, VP Marketing at Dynamicweb, should we bu
 excerptGenerated: false
 author: "Eric Jan van Putten"
 authorSlug: "eric-jan-van-putten"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/10/erik-mclean-cIOwoljvd_Q-unsplash-1-scaled-e1603012528500.jpg"
+image: "/images/blog/876c578d834a.jpg"
 categories: ["the-life-for-rent-issue"]
 needsReview: []
 sourceId: "6060"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/even-when-your-commerce-has-an-e-you-need-to
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/10/erik-mclean-cIOwoljvd_Q-unsplash-1024x683.jpg)
+![](/images/blog/5c71e07eb4c2.jpg)
 
 **Build both on rented land, and have a strategy to get them into your own community**
 

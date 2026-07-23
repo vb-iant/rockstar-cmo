@@ -6,7 +6,7 @@ excerpt: "Lauren Bowden, experienced B2B marketer and Chief Content Creator at U
 excerptGenerated: false
 author: "Lauren Bowden"
 authorSlug: "lauren-bowden"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/12/jenni-jones-WOASNSu731c-unsplash-1-scaled-e1577812241824.jpg"
+image: "/images/blog/52b4e1a52662.jpg"
 categories: ["the-future-starts-here-issue"]
 needsReview: []
 sourceId: "5026"

@@ -6,7 +6,7 @@ excerpt: "He may not be Irene Cara, but this month Dennis Shiao tells his inspir
 excerptGenerated: false
 author: "Dennis Shiao"
 authorSlug: "dennis-shiao"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/06/dennis.jpeg"
+image: "/images/blog/288f71ec3333.jpg"
 categories: ["the-club-classics-volume-one-issue"]
 needsReview: []
 sourceId: "5747"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/light-up-the-sky-like-a-flame-fame/"
 
 ---
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/10/dennis-shiao.jpeg)
+![](/images/blog/687054cd1c89.jpg)
 
 Ever since I was 8 years old, I’ve been a fan of the New York Yankees.
 

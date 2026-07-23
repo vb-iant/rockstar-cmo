@@ -6,7 +6,7 @@ excerpt: "Like the legendary DJ Deadmau5, our anonymous advertiser dons a mask a
 excerptGenerated: false
 author: "adnonamau5"
 authorSlug: "adnonamau5"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/adnonamou5.png"
+image: "/images/blog/77524b88be2d.png"
 categories: ["the-future-starts-here-issue"]
 needsReview: []
 sourceId: "5020"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/adnonamau5-new-years-resolutions-for-agency-
 
 ***Like the legendary DJ Deadmau5, our anonymous advertiser dons a mask. By day he is the leader of an international creative agency, but once a month he drops by the Rockstar CMO penthouse to say it like it is. For this issue, as the year turns and the decade ends, he has some new year’s resolutions for his peers***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/12/dollar-gill-chiosVXrKr8-unsplash-683x1024.jpg)
+![](/images/blog/300e02b27c56.jpg)
 
 To start the new year here is the New Year Resolutions every Ad Agency CEO should have...  
    

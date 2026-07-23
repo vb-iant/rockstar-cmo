@@ -6,7 +6,7 @@ excerpt: "Encouraged by Darren Guarnaccia we're taking bets on the size of splas
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/shutterstock_331696088-1-e1545660587459.jpg"
+image: "/images/blog/c1923168375e.jpg"
 categories: ["ok-computer", "the-swimming-pool"]
 needsReview: []
 sourceId: "1100"

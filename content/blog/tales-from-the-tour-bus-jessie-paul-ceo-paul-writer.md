@@ -6,7 +6,7 @@ excerpt: "Ian Truscott catches up with Jessie Paul, CEO of Paul Writer, an India
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/05/tales-from-the-tour-bus-Jessie-square.png"
+image: "/images/blog/00c86e6c8dbe.png"
 categories: ["tales-from-the-tour-bus", "the-welcome-to-jamrock-issue"]
 needsReview: []
 sourceId: "5673"

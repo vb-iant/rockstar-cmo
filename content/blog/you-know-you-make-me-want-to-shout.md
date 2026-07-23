@@ -6,14 +6,14 @@ excerpt: "Uh oh... this does not sound good, something has definitely got market
 excerptGenerated: false
 author: "Morag Cuddeford-Jones"
 authorSlug: "morag-cuddeford-jones"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/04/shutterstock_703129273-1-e1556202281909.jpg"
+image: "/images/blog/d298fd6a20c4.jpg"
 categories: ["the-changesbowie-issue"]
 needsReview: []
 sourceId: "3584"
 sourceUrl: "https://rockstarcmo.com/you-know-you-make-me-want-to-shout/"
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/04/shutterstock_703129273.jpg)
+![](/images/blog/02573a065b64.jpg)
 
 ***Uh oh... this does not sound good, something has definitely got marketing journalist Morag Cuddeford-Jones riled up this month; it's time marketing prepared for voice...***
 

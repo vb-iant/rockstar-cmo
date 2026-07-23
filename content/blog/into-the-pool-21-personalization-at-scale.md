@@ -6,7 +6,7 @@ excerpt: "This month we are hanging over the balcony with the fractional CMO and
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/02/jay-wennington-280323-unsplash-1-e1551350882306.jpg"
+image: "/images/blog/45e339d48f11.jpg"
 categories: ["the-magic-of-christmas-issue", "the-swimming-pool"]
 needsReview: []
 sourceId: "4882"
@@ -20,11 +20,11 @@ watery demise that is our special place in marketing hell.***
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/aftab-chandsha-433315-unsplash-1-1024x597.jpg)
+![](/images/blog/1477940b2ace.jpg)
 
 When [we went backstage](https://rockstarcmo.wpengine.com/backstage-with-j-robert-slaughter/) with fractional CMO and veteran sales and marketing strategist [J. Robert Slaughter](https://jrobertslaughter.me/) and asked him what marketing snake oil he’d like to fling into the Rockstar Swimming Pool, he seemed spoilt for choice:
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/09/download.jpeg)
+![](/images/blog/979e11855113.jpg)
 
 > *Ah, so much marketing bullshit. So little time.*
 

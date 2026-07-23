@@ -6,7 +6,7 @@ excerpt: "Our resident business development rockstar, Keith Smith returns for hi
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/06/UpnoseBW_done-e1561790489825.jpg"
+image: "/images/blog/7dd93fd70b3d.jpg"
 categories: ["the-youve-come-a-long-way-baby-issue"]
 needsReview: []
 sourceId: "6295"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/7-sure-fire-marketing-hits-to-top-the-charts
 
 ***Our resident business development rock star, Keith Smith returns for his annual predictions for the coming year, picked up from conversations with his guests on his brand new podcast. And the title? Well, he does have a prediction about link bait...***
 
-![](https://rockstarcmo.com/wp-content/uploads/2021/01/jenni-jones-WOASNSu731c-unsplash-683x1024.jpg)
+![](/images/blog/a8ddba4e8d2c.jpg)
 
 ---
 

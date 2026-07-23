@@ -6,7 +6,7 @@ excerpt: "We asked Keith Smith our resident business development Rockstar whethe
 excerptGenerated: false
 author: "Keith Smith"
 authorSlug: "keith-smith"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/02/shutterstock_134607056-1-e1581070577832.jpg"
+image: "/images/blog/4ac3d3baef8d.jpg"
 categories: ["the-features-creatures-issue"]
 needsReview: []
 sourceId: "5175"
@@ -15,7 +15,7 @@ sourceUrl: "https://rockstarcmo.com/welcome-to-the-ministry-of-half-baked-ideas/
 
 ***Continuing on the theme of the relationship between product development and marketing in this issue, we asked Keith Smith our resident business development Rockstar whether he thought marketing should be involved when products are being developed.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2020/02/shutterstock_134607056.jpg)
+![](/images/blog/c66f73c9be1a.jpg)
 
 I’m frankly amazed that the question of
 whether marketing people should be involved in product development even manages

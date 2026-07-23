@@ -6,7 +6,7 @@ excerpt: "The world of rock revels in symbolism. It’s a medium where the visua
 excerptGenerated: false
 author: "Gareth May"
 authorSlug: "gareth-may"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/01/emojis-Image_1-1.jpg"
+image: "/images/blog/03f4f5af92af.jpg"
 categories: ["brand-new-thang"]
 needsReview: []
 sourceId: "3134"
@@ -69,7 +69,7 @@ So how does a brand tap into this? Montaque says [the key is to “join” the c
 
 Thus far Emogi has worked with McDonald’s, Tide, Ikea, and Bose. But it’s the company’s work with [medi-brand Mucinex that’s most impressive](https://www.thedrum.com/news/2018/07/18/emogi-s-greg-wacks-why-emojis-are-transforming-marketing-creative-and-mobile). During the 2017 cold and flu season Emogi created relevant content for people off work, depicting the brand’s mascot, Mr. Mucus, as feeling ‘tired’, ‘sick’ and ‘cold’ to users messaging with matching language. For example, if someone sent a message to a friend saying they felt sick, the option to send a Mr. Mucus character instead popped up on their smartphone. The campaign led to the animated images being four times more popular than written expression and other emojis. Indeed, Emogi’s research reveals that branded emojis or stickers are up to 300% more engaging than static emojis.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/emojis-Image_3.png)
+![](/images/blog/44fbe10fb449.png)
 
 ## **Say it with words**
 

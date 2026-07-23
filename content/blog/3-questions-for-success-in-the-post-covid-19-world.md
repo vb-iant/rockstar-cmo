@@ -6,7 +6,7 @@ excerpt: "In this article, Jasmine Martirossian VP of Marketing at TÜV SÜD Ame
 excerptGenerated: false
 author: "Jasmine Martirossian"
 authorSlug: "jasmine-martirossian"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/05/jon-tyson-XmMsdtiGSfo-unsplash-1-scaled-e1588421828805.jpg"
+image: "/images/blog/4c01e11c8577.jpg"
 categories: ["the-welcome-to-jamrock-issue", "top-10-2020"]
 needsReview: []
 sourceId: "5681"

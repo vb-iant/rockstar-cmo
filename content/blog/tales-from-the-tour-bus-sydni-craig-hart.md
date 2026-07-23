@@ -6,7 +6,7 @@ excerpt: "When Robert Rose interviewed this champion of small, minority and wome
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2019/08/Sydni-Craig-Hart.jpeg"
+image: "/images/blog/08105b06aefa.jpg"
 categories: ["tales-from-the-tour-bus", "the-breaking-glass-issue", "the-people-are-people-issue"]
 needsReview: []
 sourceId: "4252"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/tales-from-the-tour-bus-sydni-craig-hart/"
 
 ---
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/08/Sydni-Craig-Hart.jpeg)
+![](/images/blog/08105b06aefa.jpg)
 
 #### Hi Sydni, tell us about your current gig.
 
@@ -123,7 +123,7 @@ been more diverse. If you ignore the diversity of your target market and don’t
 have an inclusive approach to your campaign design process, you’re guaranteed
 to develop tone-deaf content that helps no-one.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/08/Tvda5Nxq_400x400.jpg)
+![](/images/blog/8b2e2895dc73.jpg)
 
 #### You mentioned the term “product inclusion,” so you see this as bigger than just marketing?
 
@@ -311,7 +311,7 @@ of the impact if you took a more inclusive approach to your work.
 
 #### And where can people find you?
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/08/images.jpeg)
+![](/images/blog/d80de9c50c33.jpg)
 
 On social I’m most easily found on [LinkedIn](https://www.linkedin.com/in/sydnicraighart/), [Facebook](https://www.facebook.com/SydniCraigHart), [Instagram](https://www.instagram.com/SydniCraigHart/) and [Twitter](https://twitter.com/SydniCraigHart/). For folks who are selling to small businesses, visit our website for articles and resources to support you: [http://smartsimplemarketing.com](http://smartsimplemarketing.com/)
 

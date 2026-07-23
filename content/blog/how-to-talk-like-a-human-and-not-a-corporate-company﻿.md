@@ -6,7 +6,7 @@ excerpt: "Wondering how you can connect with your target audience on a deeper le
 excerptGenerated: false
 author: "Casey Petersen"
 authorSlug: "casey-petersen"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/11/casey-e1545490443660.jpeg"
+image: "/images/blog/4e89b02251b7.jpg"
 categories: ["london-calling"]
 needsReview: []
 sourceId: "1745"

@@ -6,7 +6,7 @@ excerpt: "We ask five of our Rockstar CMOs what they’ve learned during the cri
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2020/05/green-room-promo-square.png"
+image: "/images/blog/d2dd37f937ba.png"
 categories: ["the-club-classics-volume-one-issue", "the-green-room"]
 needsReview: []
 sourceId: "5759"
@@ -17,7 +17,7 @@ sourceUrl: "https://rockstarcmo.com/the-green-room-five-cmos-name-their-crisis-k
 
 ***We ask five of our Rockstar CMOs what they’ve learned during the crisis and what practices we should keep as the world slowly emerges from lockdown.***
 
-![](https://rockstarcmo.com/wp-content/uploads/2020/06/green-room-issue-26-promo-1024x537.png)
+![](/images/blog/5852dfc8b4a7.png)
 
 ---
 
@@ -33,7 +33,7 @@ If what you normally do is listen to and attend to what your customers CARE abou
 
 Prioritizing the human is what we live and breathe, within our overall work culture, the product we sell, marketing initiatives, sales strategies and customer service. It's the backbone of everything we do. Even our AI. This was a strategic decision we made early on as an underdog up against big dogs. Now more than ever, those big dogs are struggling not to become dinosaurs. They’d better hurry.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/katiebc.jpeg)
+![](/images/blog/56ca4424fd4b.jpg)
 
 *Kate Bradley Chernis is the Founder & CEO of [Lately](https://trylately.com/), which uses Artificial Intelligence to automatically transform blogs, videos and podcasts into dozens of amazing social posts.*
 
@@ -51,7 +51,7 @@ Consistency is key, just as it is in personal relationships. You can’t be perf
 
 ***A Brand is what a business does, a Reputation is what people remember, share, and embrace.***
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/1447389246178.jpeg-1-e1551354115237.jpg)
+![](/images/blog/39fbb3339ce7.jpg)
 
 *Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
 
@@ -65,7 +65,7 @@ In marketing we’ve been preaching for a while about all things digital and how
 
 Another good habit is that we’ve become more data/insights-driven, in an attempt to create more certainty in an uncertain world.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg)
+![](/images/blog/2a071060235c.jpg)
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
@@ -81,7 +81,7 @@ In addition, the human element has been a game-changer. In a matter of weeks I�
 
 Now I no longer have to lunge for the mute button every time my dog reacts to the latest Amazon delivery… she has a voice in my team’s meetings and is often answered in kind. Can we please hold onto this?
 
-![](https://rockstarcmo.com/wp-content/uploads/2019/03/david-headshot-smile-1-e1553779343988-1024x1024.jpg)
+![](/images/blog/a74095c56b10.jpg)
 
 *David Howland, CMO of Longview Solutions has a fantastic marketing pedigree, as a former creative and art director and then marketing leader at Nasdaq.*
 
@@ -97,7 +97,7 @@ The second area that’s surfaced for me, is that communications both internal a
 
 Think like a person, be transparent and communicate, communicate! These habits will help us regardless of whether being in crisis or operating under standard circumstances.
 
-![](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png)
+![](/images/blog/a36c32f4287f.png)
 
 Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).*﻿*
 

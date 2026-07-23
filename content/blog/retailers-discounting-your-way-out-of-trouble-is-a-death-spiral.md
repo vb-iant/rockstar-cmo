@@ -6,7 +6,7 @@ excerpt: "Why ditching the discount and dialling up the customer experience (wit
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/12/Ted-at-Laptop-questioning-e1545650103660.jpg"
+image: "/images/blog/0e4109888ad3.jpg"
 categories: ["the-age-of-consent"]
 needsReview: []
 sourceId: "950"

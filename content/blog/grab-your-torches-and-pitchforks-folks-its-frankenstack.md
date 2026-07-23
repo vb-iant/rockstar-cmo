@@ -6,7 +6,7 @@ excerpt: "There’s a mind-boggling array of software available to marketers tod
 excerptGenerated: false
 author: "Ian Truscott"
 authorSlug: "ian-truscott"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/10/Frankenstein_s_monster_Boris_Karloff-e1545994455677.jpg"
+image: "/images/blog/0023f702ce6d.jpg"
 categories: ["thriller"]
 needsReview: []
 sourceId: "1132"

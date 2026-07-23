@@ -6,7 +6,7 @@ excerpt: "Jeff Clark shares 5 ROI fundamentals, hard-earned from decades of exec
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2024/01/anton-kotlovskii-pBNnC_4Vf7Q-unsplash-500px.png"
+image: "/images/blog/e0917bd16aff.png"
 categories: ["rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "8241"
@@ -21,7 +21,7 @@ Have you ever been in a meeting where a C-level executive asks, “What’s the 
 
 Those conversations spiral down the ROI rabbit hole, and never end well.
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/01/anton-kotlovskii-pBNnC_4Vf7Q-unsplash-1024x1024.jpg)
+![](/images/blog/adac3a8ce3d9.jpg)
 
 You need to set some expectations when talking about marketing's impact on the business. It even requires a little education for executives who may \*think\* that they know alot about marketing. But, there are five fundamentals that will train them to be better partners, as well as save you from those embarrassing conversations.
 
@@ -80,7 +80,7 @@ Remember, it’s always about telling a story. And that story needs to tie back 
 
 ## More on the podcast
 
-![](https://rockstarcmo.com/wp-content/uploads/2023/10/e189-podcast-promo-square-1024x1024.png)
+![](/images/blog/8a4c947a76ed.png)
 
 ### [189: The Big Payback of Marketing ROI and the Demise of Twitter Episode](https://rockstarcmo.com/189-the-big-payback-of-marketing-roi-and-the-demise-of-twitter-episode/)
 

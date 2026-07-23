@@ -6,7 +6,7 @@ excerpt: "Jeff Clark asks whether you know if your machine needs lubrication, mo
 excerptGenerated: false
 author: "Jeff Clark"
 authorSlug: "jeff-clark"
-image: "https://rockstarcmo.com/wp-content/uploads/2024/02/mike-hindle-urTBnMtWWYc-unsplash-scaled-e1708609031293.jpg"
+image: "/images/blog/a29efddae4c0.jpg"
 categories: ["b2b-marketing", "marketing-operations", "rockstar-cmo-advisors", "street-knowledge"]
 needsReview: []
 sourceId: "8345"
@@ -21,7 +21,7 @@ The fifth of our F’in Fundamentals of Marketing, The Machine (aka marketing op
 
 Start-ups and small businesses start building their machine with the absolute basics. Somebody needs to run tech, and it's simple like a marketing automation platform (MAP). The MAP requires data and produces even more data, which needs to be managed. And, you need standard reports and analysis. One, multi-talented person and a slim tech stack could do all this, but they quickly get overwhelmed as you grow.
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/02/mike-hindle-urTBnMtWWYc-unsplash-scaled.jpg)
+![](/images/blog/733dd03d97bc.jpg)
 
 How do you know where to staff up? How do you know if your tech, processes and data resources are up to snuff? Maybe, you've got the bodies, but they may not be pulling the right levers to make the machine work. The one-armed superstar and tech stack will need help! Perhaps, it's more technology, more efficient processes or analytics platform. Perhaps, it's specialists that focus on the capabilities of tech, data, analytics, process improvement and even skills training.
 
@@ -43,7 +43,7 @@ When looking at each skill set, you must honestly answer whether you’re at a b
 
 Once you review the skill level across tech, data, process, and analytics, you have an objective assessment of the capabilities of your machine. It is helpful to score your team on each dimension, as shown below, to have a record of your status at that point in time.
 
-![](https://rockstarcmo.com/wp-content/uploads/2024/02/Marketing-Operations-Competencies-1.jpg)
+![](/images/blog/f0e4964c3bcb.jpg)
 
 *The delineation between proficiency levels is guided by general characteristics*  
  *in addition to specific responsibilities, as noted above.*

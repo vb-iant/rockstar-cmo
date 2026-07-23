@@ -6,7 +6,7 @@ excerpt: "Success in marketing goes hand in hand with good customer experience. 
 excerptGenerated: false
 author: "Ted Rubin"
 authorSlug: "ted-rubin"
-image: "https://rockstarcmo.com/wp-content/uploads/2018/06/shutterstock_526104310-1-e1546182967242.jpg"
+image: "/images/blog/ecea765df1ef.jpg"
 categories: ["ok-computer"]
 needsReview: []
 sourceId: "942"
