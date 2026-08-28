@@ -79,9 +79,11 @@ export default function LongPlayPage() {
         ))}
       </div>
 
+      <WantAnLP />
+
       <blockquote
         style={{
-          marginTop: "3rem",
+          marginTop: "2rem",
           paddingLeft: "1.25rem",
           borderLeft: "3px solid var(--color-border)",
           color: "#333",
@@ -93,8 +95,6 @@ export default function LongPlayPage() {
           Michael Fraser, Avalanche Media Works
         </footer>
       </blockquote>
-
-      <WantAnLP />
     </main>
   );
 }
