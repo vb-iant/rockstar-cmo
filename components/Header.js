@@ -45,6 +45,7 @@ export default function Header() {
             <li><Link href="/podcast" className="nav-link">Podcast</Link></li>
             <li><Link href="/blog" className="nav-link">Blog</Link></li>
             <li><Link href="/newsletter" className="nav-link">Newsletter</Link></li>
+            <li><Link href="/rockstar-cmo-presents-the-long-play" className="nav-link">Long Plays</Link></li>
             <li><Link href="/about" className="nav-link">About</Link></li>
             <li><Link href="/contact" className="nav-link">Contact</Link></li>
           </ul>
