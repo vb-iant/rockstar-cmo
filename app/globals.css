@@ -218,7 +218,7 @@ a {
   color: #fff;
   font-family: var(--font-dymo), "Courier New", monospace;
   font-weight: 400;
-  font-size: clamp(0.8rem, 2vw, 1.1rem);
+  font-size: clamp(1.6rem, 4vw, 2.1rem);
   line-height: 2.2;
   text-transform: uppercase;
   letter-spacing: 0.03em;
@@ -227,6 +227,15 @@ a {
   box-decoration-break: clone;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.35);
+}
+
+/* Compact variant of the dymo tape treatment -- same look, smaller type.
+   Used wherever the card grid is narrower than the 2-column /blog index
+   (e.g. the homepage's 3-column Street Knowledge rows), where the full-size
+   font overflows the smaller image. Combined selector so it reliably wins
+   over .dymo-label-text regardless of stylesheet order. */
+.dymo-label-text.dymo-label-text-compact {
+  font-size: clamp(0.8rem, 2vw, 1.1rem);
 }
 
 /* Newsletter issue cover images: 16:9 box, but object-fit: contain (not

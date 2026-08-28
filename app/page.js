@@ -58,7 +58,7 @@ function ContentRow({ items, imageClassName = "index-card-image", imageWidth = 5
                     className={imageClassName}
                   />
                   <h4 className="dymo-label">
-                    <span className="dymo-label-text">{item.title}</span>
+                    <span className="dymo-label-text dymo-label-text-compact">{item.title}</span>
                   </h4>
                 </TitleWrap>
               )}
