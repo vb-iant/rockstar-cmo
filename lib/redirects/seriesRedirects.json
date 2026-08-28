@@ -1,0 +1,50 @@
+[
+  {
+    "oldPath": "/category/features/backstage",
+    "newPath": "/tags/series/backstage"
+  },
+  {
+    "oldPath": "/category/features-2",
+    "newPath": "/tags/series/features-2"
+  },
+  {
+    "oldPath": "/category/features",
+    "newPath": "/tags/series/features"
+  },
+  {
+    "oldPath": "/category/rockstar-cmo-advisors",
+    "newPath": "/tags/series/rockstar-cmo-advisors"
+  },
+  {
+    "oldPath": "/category/rockstar-cmo-advisors/street-knowledge",
+    "newPath": "/tags/series/street-knowledge"
+  },
+  {
+    "oldPath": "/category/features/tales-from-the-tour-bus",
+    "newPath": "/tags/series/tales-from-the-tour-bus"
+  },
+  {
+    "oldPath": "/category/features/the-green-room",
+    "newPath": "/tags/series/the-green-room"
+  },
+  {
+    "oldPath": "/category/topics/the-martech-mix-desk",
+    "newPath": "/tags/series/the-martech-mix-desk"
+  },
+  {
+    "oldPath": "/category/features/the-sample",
+    "newPath": "/tags/series/the-sample"
+  },
+  {
+    "oldPath": "/category/features/the-swimming-pool",
+    "newPath": "/tags/series/the-swimming-pool"
+  },
+  {
+    "oldPath": "/category/top-10-2020",
+    "newPath": "/tags/series/top-10-2020"
+  },
+  {
+    "oldPath": "/category/top-10",
+    "newPath": "/tags/series/top-10"
+  }
+]
