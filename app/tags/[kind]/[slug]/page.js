@@ -23,36 +23,89 @@ export function generateMetadata({ params }) {
   };
 }
 
+// Social links for author tag pages. Only rendered when kind === "author"
+// and at least one link is present; harmless no-op for issues/series.
+function AuthorSocialLinks({ tag }) {
+  const links = [
+    tag.linkedin && { href: tag.linkedin, label: "LinkedIn" },
+    tag.twitter && { href: tag.twitter, label: "Twitter" },
+    tag.website && { href: tag.website, label: "Website" },
+  ].filter(Boolean);
+
+  if (links.length === 0) return null;
+
+  return (
+    <div style={{ display: "flex", gap: "1rem", marginBottom: "2rem" }}>
+      {links.map((l) => (
+        <a
+          key={l.label}
+          href={l.href}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="blog-hover-red"
+          style={{ fontWeight: 600, textDecoration: "none" }}
+        >
+          {l.label} &rarr;
+        </a>
+      ))}
+    </div>
+  );
+}
+
 export default function TagIndexPage({ params }) {
   const tag = getTagByKindAndSlug(params.kind, params.slug);
   if (!tag) notFound();
 
   const posts = getPostsForTag(tag.collectsTag);
+  const isAuthor = tag.kind === "author";
 
   return (
     <main style={{ maxWidth: "var(--page-width)", margin: "0 auto", padding: "3rem 1.5rem" }}>
       <div style={{ maxWidth: "var(--prose-width)", margin: "0 auto" }}>
-        {tag.image && (
-          <img
-            src={tag.image}
-            alt={tag.title}
-            className="blog-image"
-            style={{
-              width: "100%",
-              maxHeight: "320px",
-              objectFit: "cover",
-              borderRadius: "8px",
-              marginBottom: "1.5rem",
-              display: "block",
-            }}
-          />
+        {tag.image && isAuthor ? (
+          <div style={{ display: "flex", alignItems: "center", gap: "1.5rem", marginBottom: "1.5rem" }}>
+            <img
+              src={tag.image}
+              alt={tag.title}
+              className="blog-image"
+              style={{
+                width: "140px",
+                height: "140px",
+                objectFit: "cover",
+                borderRadius: "50%",
+                flexShrink: 0,
+              }}
+            />
+            <div>
+              <h1 style={{ margin: 0 }}>{tag.title}</h1>
+            </div>
+          </div>
+        ) : (
+          <>
+            {tag.image && (
+              <img
+                src={tag.image}
+                alt={tag.title}
+                className="blog-image"
+                style={{
+                  width: "100%",
+                  maxHeight: "320px",
+                  objectFit: "cover",
+                  borderRadius: "8px",
+                  marginBottom: "1.5rem",
+                  display: "block",
+                }}
+              />
+            )}
+            <h1 style={{ marginBottom: tag.description ? "0.5rem" : "1.5rem" }}>{tag.title}</h1>
+          </>
         )}
-
-        <h1 style={{ marginBottom: tag.description ? "0.5rem" : "1.5rem" }}>{tag.title}</h1>
 
         {tag.description && (
-          <p style={{ color: "#333", marginBottom: "2rem" }}>{tag.description}</p>
+          <p style={{ color: "#333", marginBottom: isAuthor ? "0.75rem" : "2rem" }}>{tag.description}</p>
         )}
+
+        {isAuthor && <AuthorSocialLinks tag={tag} />}
       </div>
 
       <div className="card-grid" style={{ marginBottom: "2rem" }}>
