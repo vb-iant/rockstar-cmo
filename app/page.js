@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { getAllPosts } from "../lib/posts";
 import { getNewsletterIssues } from "../lib/newsletter";
+import SubscribeEmbed from "../components/SubscribeEmbed";
 
 // Newsletter data is fetched at request time via ISR (see lib/newsletter.js) --
 // matches the /newsletter page's own revalidate window so the two don't drift.
@@ -28,10 +29,14 @@ function formatDate(dateStr) {
   return d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 }
 
-// Shared 3-up teaser row for Podcast / Blog / Newsletter -- same column
-// shape (image, title, byline, excerpt) across all three, per the
-// homepage copy doc's intent that these read as one consistent pattern.
-function ContentRow({ items, imageClassName = "index-card-image" }) {
+// Shared 3-up teaser row for Podcast / Blog / Newsletter.
+//
+// variant="plain"   -- image (square or 16:9 per imageClassName), title below,
+//                      byline + excerpt. Used for Podcast and Newsletter.
+// variant="overlay" -- the blog index page's dymo-tape treatment: title
+//                      overlaid directly on the image. Used for Blog, to
+//                      match /blog exactly per Ian's steer.
+function ContentRow({ items, imageClassName = "index-card-image", imageWidth = 500, imageHeight = 500, variant = "plain" }) {
   return (
     <div className="card-grid-3" style={{ marginBottom: "1.5rem" }}>
       {items.map((item) => {
@@ -39,17 +44,55 @@ function ContentRow({ items, imageClassName = "index-card-image" }) {
         const titleProps = item.external
           ? { href: item.href, target: "_blank", rel: "noopener noreferrer" }
           : { href: item.href };
+
+        if (variant === "overlay") {
+          return (
+            <div key={item.key}>
+              {item.image && (
+                <TitleWrap {...titleProps} className="dymo-label-wrap">
+                  <img
+                    src={item.image}
+                    alt={item.title}
+                    width={imageWidth}
+                    height={imageHeight}
+                    className={imageClassName}
+                  />
+                  <h4 className="dymo-label">
+                    <span className="dymo-label-text">{item.title}</span>
+                  </h4>
+                </TitleWrap>
+              )}
+              {(item.byline || item.date) && (
+                <p style={{ color: "#666", fontSize: "0.85rem", margin: "0.5rem 0 0.4rem" }}>
+                  {item.date}
+                  {item.date && item.byline && " \u00b7 "}
+                  {item.byline}
+                </p>
+              )}
+              {item.excerpt && (
+                <p style={{ color: "#333", fontSize: "0.95rem", marginBottom: "0.4rem" }}>{item.excerpt}</p>
+              )}
+            </div>
+          );
+        }
+
         return (
           <div key={item.key}>
             {item.image && (
               <TitleWrap {...titleProps} style={{ textDecoration: "none" }}>
-                <img src={item.image} alt={item.title} width={500} height={500} className={imageClassName} />
+                <img
+                  src={item.image}
+                  alt={item.title}
+                  width={imageWidth}
+                  height={imageHeight}
+                  className={imageClassName}
+                />
               </TitleWrap>
             )}
             <TitleWrap {...titleProps} style={{ textDecoration: "none", color: "inherit" }}>
-              <h3 className="blog-hover-red" style={{ marginBottom: "0.25rem" }}>
+              <h4 className="blog-hover-red" style={{ marginBottom: "0.25rem" }}>
                 {item.title}
-              </h3>
+              </h4>
             </TitleWrap>
             {(item.byline || item.date) && (
               <p style={{ color: "#666", fontSize: "0.85rem", marginBottom: "0.4rem" }}>
@@ -146,28 +189,71 @@ export default async function Home() {
       <h2 style={{ marginBottom: "2rem" }}>Street Knowledge</h2>
 
       <section style={{ marginBottom: "3rem" }}>
-        <h3 style={{ marginBottom: "1.25rem" }}>Podcast</h3>
-        <ContentRow items={episodeItems} />
+        <h3 style={{ marginBottom: "0.5rem" }}>Podcast</h3>
+        <p style={{ color: "#333", marginBottom: "1.25rem", maxWidth: "var(--prose-width)" }}>
+          Does the world need another f&rsquo;in&rsquo; marketing podcast? Our host and 4xCMO Ian
+          Truscott asked this in 2020, and the world said &ldquo;no&rdquo;, but he did it anyway.
+        </p>
+        {/* Square, matching the original podcast art (source images are
+            themselves 3000x3000) -- imageWidth/imageHeight kept equal so the
+            intrinsic HTML attributes agree with the CSS aspect-ratio. */}
+        <ContentRow items={episodeItems} imageWidth={500} imageHeight={500} />
         <Link href="/podcast" className="blog-hover-red" style={{ fontWeight: 600 }}>
           All episodes &rarr;
         </Link>
       </section>
 
       <section style={{ marginBottom: "3rem" }}>
-        <h3 style={{ marginBottom: "1.25rem" }}>Blog</h3>
-        <ContentRow items={postItems} imageClassName="blog-image index-card-image" />
+        <h3 style={{ marginBottom: "0.5rem" }}>Blog</h3>
+        <p style={{ color: "#333", marginBottom: "1.25rem", maxWidth: "var(--prose-width)" }}>
+          Contributions from our regular podcast guests and across the Rockstar CMO community.
+        </p>
+        <ContentRow
+          items={postItems}
+          imageClassName="blog-image index-card-image"
+          imageWidth={500}
+          imageHeight={500}
+          variant="overlay"
+        />
         <Link href="/blog" className="blog-hover-red" style={{ fontWeight: 600 }}>
           All posts &rarr;
         </Link>
       </section>
 
-      <section>
-        <h3 style={{ marginBottom: "1.25rem" }}>Newsletter</h3>
-        <ContentRow items={issueItems} imageClassName="newsletter-card-image" />
+      <section style={{ marginBottom: "4rem" }}>
+        <h3 style={{ marginBottom: "0.5rem" }}>The Beat Newsletter</h3>
+        <p style={{ color: "#333", marginBottom: "1.25rem", maxWidth: "var(--prose-width)" }}>
+          Join our incredible rockstar CMO community and get our marketing street knowledge
+          straight into your inbox.
+        </p>
+        {/* Landscape 16:9 -- imageWidth/imageHeight set to a true 16:9 pair
+            (not the 500x500 used above) so the intrinsic size matches the
+            .newsletter-card-image CSS aspect-ratio exactly. */}
+        <ContentRow items={issueItems} imageClassName="newsletter-card-image" imageWidth={560} imageHeight={315} />
         <Link href="/newsletter" className="blog-hover-red" style={{ fontWeight: 600 }}>
           All issues &rarr;
         </Link>
       </section>
+
+      {/* Stay in touch: red CTA block per the copy doc. */}
+      <div
+        style={{
+          backgroundColor: "#F22F29",
+          color: "#fff",
+          borderRadius: "8px",
+          padding: "2.5rem",
+          textAlign: "center",
+        }}
+      >
+        <h2 style={{ color: "#fff" }}>Stay in touch</h2>
+        <p style={{ maxWidth: "480px", margin: "0 auto 1.5rem" }}>
+          Sharing the latest from here and around our community with a couple of hundred of our
+          closest friends.
+        </p>
+        <div style={{ maxWidth: "480px", margin: "0 auto" }}>
+          <SubscribeEmbed />
+        </div>
+      </div>
     </main>
   );
 }
