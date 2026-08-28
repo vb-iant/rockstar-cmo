@@ -1,8 +1,8 @@
 // app/rockstar-cmo-presents-the-long-play/rockstar-cmo-presents-the-employee-amplifier/page.js
 import Link from "next/link";
-import PDFResource from "../../../../components/PDFResource";
-import SubscribeEmbed from "../../../../components/SubscribeEmbed";
-import WantAnLP from "../../../../components/WantAnLP";
+import PDFResource from "../../../components/PDFResource";
+import SubscribeEmbed from "../../../components/SubscribeEmbed";
+import WantAnLP from "../../../components/WantAnLP";
 
 export const metadata = {
   title: "The Employee Amplifier | Rockstar CMO",

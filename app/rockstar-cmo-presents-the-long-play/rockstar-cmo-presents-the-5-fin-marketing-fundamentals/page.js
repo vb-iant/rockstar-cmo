@@ -1,8 +1,8 @@
 // app/rockstar-cmo-presents-the-long-play/rockstar-cmo-presents-the-5-fin-marketing-fundamentals/page.js
 import Link from "next/link";
-import PDFResource from "../../../../components/PDFResource";
-import SubscribeEmbed from "../../../../components/SubscribeEmbed";
-import WantAnLP from "../../../../components/WantAnLP";
+import PDFResource from "../../../components/PDFResource";
+import SubscribeEmbed from "../../../components/SubscribeEmbed";
+import WantAnLP from "../../../components/WantAnLP";
 
 export const metadata = {
   title: "The 5 F\u2019in\u2019 Marketing Fundamentals | Rockstar CMO",
