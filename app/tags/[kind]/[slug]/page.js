@@ -72,7 +72,7 @@ export default function TagIndexPage({ params }) {
                 width: "140px",
                 height: "140px",
                 objectFit: "cover",
-                borderRadius: "50%",
+                borderRadius: "8px",
                 flexShrink: 0,
               }}
             />
@@ -151,3 +151,4 @@ export default function TagIndexPage({ params }) {
     </main>
   );
 }
+
