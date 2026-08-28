@@ -2,6 +2,7 @@
 import Link from "next/link";
 import fs from "node:fs";
 import path from "node:path";
+import { formatDuration } from "../../lib/formatDuration";
 
 const PER_PAGE = 10;
 
@@ -58,7 +59,7 @@ export default function EpisodesIndex({ searchParams }) {
             </Link>
             <p style={{ color: "#666", fontSize: "0.9rem", marginBottom: "0.5rem" }}>
               {formatDate(ep.pubDate)}
-              {ep.duration ? ` · ${ep.duration}` : ""}
+              {ep.duration ? ` · ${formatDuration(ep.duration)}` : ""}
             </p>
             <p style={{ color: "#333", marginBottom: "0.5rem" }}>{ep.description}</p>
             <Link href={`/episodes/${ep.slug}`} className="blog-hover-red" style={{ fontWeight: 600 }}>

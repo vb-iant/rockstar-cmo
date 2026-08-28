@@ -4,6 +4,7 @@ import path from "node:path";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import PlatformBadges from "../../../components/PlatformBadges";
+import { formatDuration } from "../../../lib/formatDuration";
 
 function loadEpisodes() {
   const filePath = path.join(process.cwd(), "content", "episodes.json");
@@ -63,7 +64,7 @@ export default function EpisodePage({ params }) {
           <h1 style={{ marginTop: 0, marginBottom: "0.5rem" }}>{episode.title}</h1>
           <p style={{ color: "#666", fontSize: "0.9rem", margin: 0 }}>
             {formatDate(episode.pubDate)}
-            {episode.duration ? ` · ${episode.duration}` : ""}
+            {episode.duration ? ` · ${formatDuration(episode.duration)}` : ""}
             {episode.episodeNumber ? ` · Episode ${episode.episodeNumber}` : ""}
           </p>
         </div>
