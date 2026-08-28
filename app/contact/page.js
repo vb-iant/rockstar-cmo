@@ -21,6 +21,14 @@ export default function ContactPage() {
           <p>Or maybe you&rsquo;ve listened to our podcast and have a comment or suggestion?</p>
           <p>Or would you like to set up an advisory session?</p>
           <p>Connect with us on the socials or fill in our shiny new form, and we&rsquo;ll get back to you.</p>
+          <img
+            src="/images/contact/contact-hero.jpg"
+            alt=""
+            width={818}
+            height={818}
+            className="blog-image"
+            style={{ width: "100%", maxWidth: "400px", height: "auto", borderRadius: "8px", display: "block", marginTop: "1.5rem" }}
+          />
         </div>
 
         <div style={{ flex: "1 1 320px", maxWidth: "500px" }}>
@@ -28,7 +36,12 @@ export default function ContactPage() {
           <p>Drop in your deets..</p>
           {/* FormCrafts -- confirmed as the live form provider on the old
               WordPress site (a leftover HubSpot CSS rule suggested that was
-              once the plan, but the actual embedded widget is FormCrafts). */}
+              once the plan, but the actual embedded widget is FormCrafts).
+              NOTE: FormCrafts appears to allowlist embedding domains -- the
+              form renders fine on rockstarcmo.com but stays empty on
+              rockstar-cmo.vercel.app. Expected to start working once DNS
+              cuts over to rockstarcmo.com; if testing pre-cutover is needed,
+              add the .vercel.app domain in the FormCrafts dashboard. */}
           <div data-fc-key="d28ca9c8" style={{ maxWidth: "500px", minHeight: "490px" }} />
           <Script src="https://app.formcrafts.com/embed.js" strategy="lazyOnload" />
         </div>
