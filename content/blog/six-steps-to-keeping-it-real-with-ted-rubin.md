@@ -1,16 +1,14 @@
 ---
-title: Six Steps to Keeping it Real with Ted Rubin
+title: "Six Steps to Keeping it Real with Ted Rubin"
 date: '2019-02-28'
-slug: six-steps-to-keeping-it-real-with-ted-rubin%ef%bb%bf
-excerpt: Want to be authentic? Ted Rubin shares 6 tips on expressing a real point
-  of view that your audience engages with.
+slug: six-steps-to-keeping-it-real-with-ted-rubin
+excerpt: "Want to be authentic? Ted Rubin shares 6 tips on expressing a real point of view that your audience engages with."
 excerptGenerated: false
-author: Ted Rubin
+author: "Ted Rubin"
 authorSlug: ted-rubin
-image: /images/blog/39fbb3339ce7.jpg
+image: /images/blog/5623f81717b4.jpg
 tags: []
-series:
-- the-pretender-issue
+series: ["the-pretender-issue"]
 needsReview: []
 sourceId: '3267'
 sourceUrl: https://rockstarcmo.com/six-steps-to-keeping-it-real-with-ted-rubin%ef%bb%bf/
@@ -18,7 +16,7 @@ sourceUrl: https://rockstarcmo.com/six-steps-to-keeping-it-real-with-ted-rubin%e
 
 **Every month in the Green Room we chat with our regular Rockstars and get their take on a topic. This month, we discussed all that is fake in our industry, asking for their advice on how marketers can avoid getting caught up in all the hyperbole – and ultimately keep it real. Ted went to town, so we thought we’d share his response his full.**
 
-![](/images/blog/965c05c227aa.jpg)
+![](/images/blog/5405fa462b89.jpg)
 
 You want a recipe for boring,
 cookie-cutter content? Probably not, but I’m going to give you one anyway.
@@ -66,4 +64,4 @@ human. Your audience (and your conscience) will thank you for it.
 *Make this part of your brand
 DNA… **Tell Your Story In a Way People Will Care.***
 
-*Find out how to keep it real from the rest of our Rockstars [in this month’s Green Room](https://rockstarcmo.wpengine.com/the-green-room-with-all-the-fakery-how-do-you-keep-it-real%ef%bb%bf/)*
+*Find out how to keep it real from the rest of our Rockstars [in this month’s Green Room](/blog/the-green-room-with-all-the-fakery-how-do-you-keep-it-real)*

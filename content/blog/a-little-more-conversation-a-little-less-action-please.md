@@ -1,17 +1,14 @@
 ---
-title: A Little More Conversation, a Little Less Action, Please?
+title: "A Little More Conversation, a Little Less Action, Please?"
 date: '2018-12-20'
-slug: a-little-more-conversation-a-little-less-action-please%ef%bb%bf
-excerpt: "Ian Truscott argues that in this new age of marketing, you need to focus\
-  \ on the real, relevant and considered conversations you have with your audiences\
-  \ – and why anything else is just spam.\uFEFF"
+slug: a-little-more-conversation-a-little-less-action-please
+excerpt: "Ian Truscott argues that in this new age of marketing, you need to focus on the real, relevant and considered conversations you have with your audiences – and why anything else is just spam."
 excerptGenerated: false
-author: Ian Truscott
+author: "Ian Truscott"
 authorSlug: ian-truscott
-image: /images/blog/2a662eef9808.jpg
+image: /images/blog/d5794100bb96.jpg
 tags: []
-series:
-- london-calling
+series: ["london-calling"]
 needsReview: []
 sourceId: '1573'
 sourceUrl: https://rockstarcmo.com/a-little-more-conversation-a-little-less-action-please%ef%bb%bf/
@@ -19,7 +16,7 @@ sourceUrl: https://rockstarcmo.com/a-little-more-conversation-a-little-less-acti
 
 **Ian Truscott argues that in this new age of marketing, you need to focus on the real, relevant and considered conversations you have with your audiences – and why anything else is just spam.**
 
-![](/images/blog/f37ce87e7dc6.jpg)
+![](/images/blog/d5794100bb96.jpg)
 
 We are transforming marketing from the ‘coloring in’ department seen as a cost by the CFO to delivering on a strategic investment valued by the CEO, driven by efficiency and action and the craft of marketing is becoming more technical, analytical and measured.
 
@@ -65,7 +62,7 @@ And yet, here is one of many platforms where having a conversation first is easy
 
 A simple example, there is NO excuse for someone to InMail me about a great developer position when it’s clear from my profile I haven’t coded in any meaningful way for fifteen years.
 
-I agree, this is my personal relationship with the platform, maybe you feel differently about LinkedIn or have a different platform where you can see something similar happening. (By the way Gareth May makes a great case for hanging out in Reddit in the [Read All About It](https://rockstarcmo.wpengine.com/read-all-about-it/) feature in this issue.)
+I agree, this is my personal relationship with the platform, maybe you feel differently about LinkedIn or have a different platform where you can see something similar happening. (By the way Gareth May makes a great case for hanging out in Reddit in the [Read All About It](/blog/read-all-about-it) feature in this issue.)
 
 ## Social media marketing is not virtual cold calling
 

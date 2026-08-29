@@ -1,26 +1,22 @@
 ---
-title: 'Into the Pool #10: Marketing AI'
+title: "Into the Pool #10: Marketing AI"
 date: '2018-12-20'
-slug: into-the-pool-10-marketing-ai%ef%bb%bf
-excerpt: Casey Petersen is conspiring with Ian Truscott to chuck Marketing AI into
-  the Rockstar CMO swimming pool. Some would say a brave choice as artificial intelligence
-  is such a darling of the current marketing zeitgeist. Do you agree?
+slug: into-the-pool-10-marketing-ai
+excerpt: "Casey Petersen is conspiring with Ian Truscott to chuck Marketing AI into the Rockstar CMO swimming pool. Some would say a brave choice as artificial intelligence is such a darling of the current marketing zeitgeist. Do you agree?"
 excerptGenerated: false
-author: Ian Truscott
+author: "Ian Truscott"
 authorSlug: ian-truscott
-image: /images/blog/c1923168375e.jpg
+image: /images/blog/730d6458e7e5.jpg
 tags: []
-series:
-- london-calling
-- the-swimming-pool
+series: ["london-calling", "the-swimming-pool"]
 needsReview: []
 sourceId: '1623'
 sourceUrl: https://rockstarcmo.com/into-the-pool-10-marketing-ai%ef%bb%bf/
 ---
 
-**Oh it’s a biggie this month; Casey Petersen is conspiring with Ian Truscott to chuck Marketing AI into the Rockstar CMO swimming pool. Some would say a brave choice as artificial intelligence is such a darling of the current marketing zeitgeist. Do you agree?** [Get in touch.](/contact-us)
+**Oh it’s a biggie this month; Casey Petersen is conspiring with Ian Truscott to chuck Marketing AI into the Rockstar CMO swimming pool. Some would say a brave choice as artificial intelligence is such a darling of the current marketing zeitgeist. Do you agree?** [Get in touch.](/contact)
 
-![](/images/blog/2d2ca53677c1.jpg)
+![](/images/blog/730d6458e7e5.jpg)
 
 [Casey Petersen](/casey-petersen) has been a leader in digital marketing for over 15 years and is currently Vice President of Marketing and Analytics at content creation app [Photofy](http://photofy.com). A glance at [Casey’s LinkedIn profile](https://www.linkedin.com/in/patrickcpetersen/) will tell you that this member of our extended Rockstar CMO band is results-orientated, and when I interviewed him for our Backstage series, he told it to me straight.
 
@@ -66,4 +62,4 @@ We should focus on what the tool does, the results it can achieve for us. Let ot
 
 Like anything we should focus on what we want - I say it’s ART (Awareness, Revenue and Trust) and invest in tools not for the buzzwords, but against our scenarios, use cases, a hands-on proof of concept and what will help move our marketing forward.
 
-So, yes Casey, we are chucking “Marketing AI” into the Rockstar CMO swimming pool - but only the bullshit that surrounds it, after all, how are we going to get [Jeaniey Mullen her cobots?](https://rockstarcmo.wpengine.com/opinion/into-the-pool-9-the-big-deal-today-about-chatbots)
+So, yes Casey, we are chucking “Marketing AI” into the Rockstar CMO swimming pool - but only the bullshit that surrounds it, after all, how are we going to get [Jeaniey Mullen her cobots?](/blog/into-the-pool-9-the-big-deal-today-about-chatbots)
