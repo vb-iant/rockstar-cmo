@@ -100,7 +100,7 @@ export default function BlogPostPage({ params }) {
                     height={500}
                     className="blog-image index-card-image"
                   />
-                  <h3 className="dymo-label"><span className="dymo-label-text">{related.title}</span></h3>
+                  <h3 className="dymo-label"><span className="dymo-label-text dymo-label-text-compact">{related.title}</span></h3>
                 </Link>
               ) : (
                 <Link href={`/blog/${related.slug}`} className="blog-hover-red" style={{ textDecoration: "none" }}>
