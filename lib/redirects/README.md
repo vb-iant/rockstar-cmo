@@ -60,7 +60,30 @@ before the RSS feed existed in its current form, or one-offs with genuinely
 different titles; none were left unresolved.
 
 ## Still not covered
-Nothing identified as needing a redirect is currently missing. If more legacy
-content types turn up (e.g. the 3 flipbook pages already match their old URLs
-exactly per `tm-1784480426040`, so no redirect needed there), add a new
-`*Redirects.json` file here and wire it into `next.config.mjs`.
+Nothing identified as needing a redirect is currently missing (beyond what's
+tracked in the Outstanding Redirects Notion doc — legacy pages, topic-tag
+category pages, orphaned content with no source left, etc.). If more legacy
+content types turn up, add a new `*Redirects.json` file here and wire it into
+`next.config.mjs`.
+
+## The 7 "BOM slug" posts (handled in middleware.js, not here)
+2026-08-29: found 7 posts that were silently skipped during the original July
+migration because their WP slug had a stray Byte Order Mark (U+FEFF) baked
+into it — WordPress's slug sanitizer didn't strip it cleanly and instead left
+it percent-encoded at the end of the slug (e.g. `speaking-in-tongues%ef%bb%bf`).
+They were genuine regular posts (real issue/series categories, not podcast or
+back-issues) that the original conversion script likely choked on and dropped
+without erroring. Migrated them properly this session (content, images, tags/
+series, frontmatter — same shape as the other 373).
+
+The redirect for these lives in `middleware.js`, not as a `*Redirects.json`
+file here: `next.config.mjs`'s declarative `redirects()` couldn't reliably
+match the literal `%` in these old URLs — depending on how the request
+reached Vercel, the BOM showed up as a literal `%ef%bb%bf` string, an
+`%EF%BB%BF` string, or the actual decoded `\uFEFF` character, and testing
+showed `redirects()` echoing the raw encoded suffix back into the destination
+instead of using the clean one (a path-to-regexp quirk with literal `%` in a
+source string). Doing the match against `request.nextUrl.pathname` in
+middleware instead — stripping every representation of the BOM before
+comparing — sidesteps the encoding ambiguity entirely. See `middleware.js`
+for the actual list and logic.

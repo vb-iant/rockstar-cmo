@@ -3,6 +3,9 @@ import path from "path";
 
 // Old-site -> new-site 301 redirects, accumulated across migration phases.
 // See lib/redirects/README.md for how each source file was derived.
+// Note: the 7 "BOM slug" legacy posts (see README) are redirected in
+// middleware.js instead of here -- next.config.js's declarative redirects()
+// mishandled the literal "%" in those old URLs.
 function loadRedirects(file) {
   const p = path.join(process.cwd(), "lib", "redirects", file);
   return JSON.parse(fs.readFileSync(p, "utf-8"));
@@ -15,7 +18,6 @@ const seriesRedirects = loadRedirects("seriesRedirects.json");
 const episodeRedirects = loadRedirects("episodeRedirects.json");
 const pagesRedirects = loadRedirects("pagesRedirects.json");
 const pagesRedirects2 = loadRedirects("pagesRedirects2.json");
-const missing7Redirects = loadRedirects("missing7Redirects.json");
 
 function toNextRedirects(entries) {
   return entries.map(({ oldPath, newPath }) => ({
@@ -46,12 +48,6 @@ const nextConfig = {
       // Search Console traffic/backlink audit (2026-08-29): 3 Long Play PDFs
       // rehosted under a new path, + the umbrella podcast category archive
       ...toNextRedirects(pagesRedirects2),
-      // 7 posts that were silently skipped in the original July migration
-      // because their WP slug had a stray percent-encoded Byte Order Mark
-      // appended (see lib/redirects/README.md). Multiple source variants
-      // per post since it's unclear whether Next decodes the incoming path
-      // before matching.
-      ...toNextRedirects(missing7Redirects),
       // WP pagination URLs Google has indexed for specific author/category
       // archives (found in the same traffic audit) -> the matching tag page.
       // Wildcard on page number since exact old page counts don't matter here.
