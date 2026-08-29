@@ -37,7 +37,7 @@ export default function PrivacyPolicyPage() {
       <h2>The type of personal information we collect</h2>
       <p>We currently collect and process the following personal data:</p>
       <ul>
-        <li>Name and business contact details, including job title and company</li>
+        <li>Name, email address and whatever you share on our contact us form</li>
         <li>Web session data (for example, IP address and browser) captured when visiting our website</li>
       </ul>
 
