@@ -1,4 +1,6 @@
 // components/Footer.js
+import Link from "next/link";
+
 export default function Footer() {
   return (
     <footer
@@ -22,6 +24,7 @@ export default function Footer() {
       >
         <span>&copy; {new Date().getFullYear()} Rockstar CMO</span>
         <span>Marketing wisdom for CMOs, one episode at a time.</span>
+        <Link href="/privacy-policy" style={{ color: "#666" }}>Privacy Policy</Link>
       </div>
     </footer>
   );
