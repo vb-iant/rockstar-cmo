@@ -3,6 +3,7 @@ import { Bevan, Domine, Special_Elite } from "next/font/google";
 import "./globals.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import BigFooter from "../components/BigFooter";
 
 const GTM_ID = "GTM-N6HHRZRR";
 
@@ -60,6 +61,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </noscript>
         <Header />
         {children}
+        <BigFooter />
         <Footer />
       </body>
     </html>

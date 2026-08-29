@@ -273,3 +273,89 @@ a {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* Big dark footer (migrated from the old WordPress site) -- sits above the
+   slim white copyright bar rendered by Footer.js. Three columns (nav /
+   quotes / subscribe+connect+contact) collapsing to one on mobile. */
+.big-footer {
+  background-color: #111;
+  color: rgba(255, 255, 255, 0.85);
+  margin-top: 3rem;
+  padding: 3rem 1.5rem;
+}
+
+.big-footer-inner {
+  max-width: var(--page-width);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem 3rem;
+}
+
+@media (max-width: 800px) {
+  .big-footer-inner {
+    grid-template-columns: 1fr;
+  }
+}
+
+.big-footer-heading {
+  color: #fff;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.big-footer-heading-spaced {
+  margin-top: 2rem;
+}
+
+.big-footer-nav,
+.big-footer-connect {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.big-footer-link {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.big-footer-link:hover {
+  color: #F22F29;
+}
+
+.big-footer-quote {
+  margin: 0 0 1.75rem;
+  padding-left: 1rem;
+  border-left: 3px solid #F22F29;
+}
+
+.big-footer-quote p {
+  margin: 0 0 0.4rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.big-footer-quote cite {
+  font-style: normal;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.big-footer-subscribe-copy {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 1rem;
+}
+
+.big-footer-contact-btn {
+  display: inline-block;
+  margin-top: 1.5rem;
+}
