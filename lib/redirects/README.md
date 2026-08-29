@@ -66,24 +66,28 @@ category pages, orphaned content with no source left, etc.). If more legacy
 content types turn up, add a new `*Redirects.json` file here and wire it into
 `next.config.mjs`.
 
-## The 7 "BOM slug" posts (handled in middleware.js, not here)
-2026-08-29: found 7 posts that were silently skipped during the original July
-migration because their WP slug had a stray Byte Order Mark (U+FEFF) baked
-into it — WordPress's slug sanitizer didn't strip it cleanly and instead left
-it percent-encoded at the end of the slug (e.g. `speaking-in-tongues%ef%bb%bf`).
-They were genuine regular posts (real issue/series categories, not podcast or
-back-issues) that the original conversion script likely choked on and dropped
-without erroring. Migrated them properly this session (content, images, tags/
-series, frontmatter — same shape as the other 373).
+## The 7 "BOM slug" posts
+2026-08-29: found 7 posts with a stray Byte Order Mark (U+FEFF) baked into
+their WP slug (e.g. `speaking-in-tongues%ef%bb%bf`) — WordPress's slug
+sanitizer didn't strip it cleanly and left it percent-encoded on the end.
 
-The redirect for these lives in `middleware.js`, not as a `*Redirects.json`
-file here: `next.config.mjs`'s declarative `redirects()` couldn't reliably
-match the literal `%` in these old URLs — depending on how the request
-reached Vercel, the BOM showed up as a literal `%ef%bb%bf` string, an
-`%EF%BB%BF` string, or the actual decoded `\uFEFF` character, and testing
-showed `redirects()` echoing the raw encoded suffix back into the destination
-instead of using the clean one (a path-to-regexp quirk with literal `%` in a
-source string). Doing the match against `request.nextUrl.pathname` in
-middleware instead — stripping every representation of the BOM before
-comparing — sidesteps the encoding ambiguity entirely. See `middleware.js`
-for the actual list and logic.
+**Correction to the initial diagnosis, logged for anyone re-reading old
+session notes:** these were *not* skipped by the original July migration.
+They *were* converted back then — but with the broken slug carried straight
+through into the filename, frontmatter `slug` field, and the corresponding
+`blogRedirects.json` entry's destination (e.g. `/blog/speaking-in-tongues%ef%bb%bf`,
+not `/blog/speaking-in-tongues`). That's a real page at a technically-valid
+but never-intended URL, which is how it went unnoticed for weeks. First
+attempt at fixing this today wrongly assumed the posts were missing entirely,
+tried adding a second `next.config.mjs` redirect matching the raw old WP URL,
+and burned real time debugging why the destination kept echoing the encoded
+suffix back — before finding the actual duplicate file and the real cause
+in the existing `blogRedirects.json` entry.
+
+Actual fix: replaced the 7 broken-slug files with clean ones (re-converted
+from the fresh WXR export, same shape as the other 373 — content, rehosted
+images, tags/series, frontmatter), and corrected the 7 existing
+`blogRedirects.json` destinations to point at the clean slugs instead of the
+broken ones. No middleware or second redirect file needed — the existing
+mechanism was always sufficient once the underlying data was fixed.
+
