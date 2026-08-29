@@ -257,3 +257,19 @@ a {
 
 
 
+
+
+/* Two-column layout for a footer-style section on bespoke pages (e.g. the
+   Think Like a Brand mini-series page's "Links" + "Follow" pairing) --
+   stacks to a single column on narrow screens. */
+.two-col-section {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2.5rem 3rem;
+}
+
+@media (max-width: 700px) {
+  .two-col-section {
+    grid-template-columns: 1fr;
+  }
+}

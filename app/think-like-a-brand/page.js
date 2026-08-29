@@ -4,11 +4,14 @@
 // (9 episodes with Ian Truscott + Liz High), same treatment as the Long
 // Play pages: hand-built narrative content, not the generic tag-index
 // mechanism (episodes aren't part of that system, and this page has real
-// bio/book/links content beyond an auto-generated list).
+// bio/book/links content beyond an auto-generated list). Width follows
+// the Long Play page's convention -- content runs the full page-width,
+// no extra prose-width narrowing -- rather than mixing narrow text with
+// a wider grid.
 //
 // Episode titles/descriptions/images are pulled live from
 // content/episodes.json (written by scripts/fetch-episodes.mjs at build
-// time) via the same slug list below, so the copy can't drift out of sync
+// time) via the slug list below, so the copy can't drift out of sync
 // with the podcast feed -- only the curated slug list needs maintaining
 // if more episodes are ever added to the mini-series.
 
@@ -16,7 +19,6 @@ import fs from "node:fs";
 import path from "node:path";
 import Link from "next/link";
 import PlatformBadges from "../../components/PlatformBadges";
-import SubscribeEmbed from "../../components/SubscribeEmbed";
 import { formatDuration } from "../../lib/formatDuration";
 
 export const metadata = {
@@ -57,48 +59,46 @@ export default function ThinkLikeABrandPage() {
 
   return (
     <main style={{ maxWidth: "var(--page-width)", margin: "0 auto", padding: "3rem 1.5rem" }}>
-      <div style={{ maxWidth: "var(--prose-width)", margin: "0 auto" }}>
-        <img
-          src="/images/think-like-a-brand/tlab-promo-square.jpg"
-          alt="Think Like a Brand"
-          className="blog-image"
-          style={{
-            width: "100%",
-            maxHeight: "360px",
-            objectFit: "cover",
-            borderRadius: "8px",
-            marginBottom: "1.5rem",
-            display: "block",
-          }}
-        />
+      <img
+        src="/images/think-like-a-brand/tlab-promo-square.jpg"
+        alt="Think Like a Brand"
+        className="blog-image"
+        style={{
+          width: "100%",
+          maxHeight: "360px",
+          objectFit: "cover",
+          borderRadius: "8px",
+          marginBottom: "1.5rem",
+          display: "block",
+        }}
+      />
 
-        <h1 style={{ marginBottom: "0.25rem" }}>Think Like a Brand</h1>
-        <p
-          style={{
-            fontFamily: "var(--font-bevan), Georgia, serif",
-            color: "#666",
-            marginBottom: "1.5rem",
-          }}
-        >
-          Mini Podcast Series
-        </p>
+      <h1 style={{ marginBottom: "0.25rem" }}>Think Like a Brand</h1>
+      <p
+        style={{
+          fontFamily: "var(--font-bevan), Georgia, serif",
+          color: "#666",
+          marginBottom: "1.5rem",
+        }}
+      >
+        Mini Podcast Series
+      </p>
 
-        <p>
-          In this special podcast mini-series, Ian Truscott and author{" "}
-          <a href="https://www.linkedin.com/in/lizhigh/" className="blog-hover-red">
-            Liz High
-          </a>{" "}
-          &mdash; insight ninja, marketing strategist, speaker and author &mdash; dive into her
-          book &ldquo;Think Like a Brand, Not a Bank.&rdquo;
-        </p>
-        <p>
-          Written with her co-author Allison Netzer, based on their experience working with
-          startup and growth FinTechs, banks and credit unions, they developed five growth
-          principles for thinking like a brand. Across nine episodes, Ian and Liz work through
-          each principle &mdash; and round things off with a look at how a real-world brand,
-          Marcus by Goldman Sachs, put them to the test.
-        </p>
-      </div>
+      <p>
+        In this special podcast mini-series, Ian Truscott and author{" "}
+        <a href="https://www.linkedin.com/in/lizhigh/" className="blog-hover-red">
+          Liz High
+        </a>{" "}
+        &mdash; insight ninja, marketing strategist, speaker and author &mdash; dive into her
+        book &ldquo;Think Like a Brand, Not a Bank.&rdquo;
+      </p>
+      <p>
+        Written with her co-author Allison Netzer, based on their experience working with startup
+        and growth FinTechs, banks and credit unions, they developed five growth principles for
+        thinking like a brand. Across nine episodes, Ian and Liz work through each principle
+        &mdash; and round things off with a look at how a real-world brand, Marcus by Goldman
+        Sachs, put them to the test.
+      </p>
 
       <div
         style={{
@@ -106,8 +106,7 @@ export default function ThinkLikeABrandPage() {
           gap: "2rem",
           flexWrap: "wrap",
           alignItems: "flex-start",
-          margin: "2.5rem auto",
-          maxWidth: "var(--prose-width)",
+          margin: "2.5rem 0",
         }}
       >
         <img
@@ -135,7 +134,7 @@ export default function ThinkLikeABrandPage() {
         </div>
       </div>
 
-      <div style={{ maxWidth: "var(--prose-width)", margin: "0 auto 2.5rem" }}>
+      <div style={{ marginBottom: "2.5rem" }}>
         <img
           src="/images/think-like-a-brand/book-graphic.jpg"
           alt="Think Like a Brand, Not a Bank"
@@ -149,7 +148,7 @@ export default function ThinkLikeABrandPage() {
             margin: "0 auto 1rem",
           }}
         />
-        <p style={{ fontStyle: "italic", color: "#333" }}>
+        <p style={{ fontStyle: "italic", color: "#333", maxWidth: "var(--prose-width)", margin: "0 auto" }}>
           In Think Like a Brand, Not a Bank, Allison Netzer and Liz High show banks and credit
           unions how to embrace their brand and reap the benefits. By introducing their five
           principles for growth, you&rsquo;ll learn how to shift your mindset, apply each
@@ -159,11 +158,9 @@ export default function ThinkLikeABrandPage() {
         </p>
       </div>
 
-      <h2 style={{ maxWidth: "var(--prose-width)", margin: "0 auto 1.5rem" }}>
-        All the episodes
-      </h2>
+      <h2 style={{ marginBottom: "1.5rem" }}>All the episodes</h2>
 
-      <div className="card-grid" style={{ marginBottom: "2.5rem" }}>
+      <div className="card-grid-3" style={{ marginBottom: "3rem" }}>
         {episodes.map((ep) => (
           <div key={ep.slug}>
             {ep.image && (
@@ -196,67 +193,53 @@ export default function ThinkLikeABrandPage() {
         ))}
       </div>
 
-      <div style={{ maxWidth: "var(--prose-width)", margin: "0 auto 2.5rem" }}>
-        <h2>The links</h2>
-        <ul>
-          <li>
-            Ian Truscott on{" "}
-            <a href="https://www.linkedin.com/in/iantruscott/" className="blog-hover-red">
-              LinkedIn
-            </a>{" "}
-            and{" "}
-            <a href="https://twitter.com/IanTruscott" className="blog-hover-red">
-              Twitter
-            </a>
-          </li>
-          <li>
-            Liz High on{" "}
-            <a href="https://www.linkedin.com/in/lizhigh/" className="blog-hover-red">
-              LinkedIn
-            </a>{" "}
-            and{" "}
-            <a href="https://twitter.com/LizzHighUK" className="blog-hover-red">
-              Twitter
-            </a>
-          </li>
-          <li>
-            Liz High&rsquo;s book &mdash; on the web at{" "}
-            <a href="https://thinklikeabrandbook.com/" className="blog-hover-red">
-              Think Like a Brand Not a Bank
-            </a>{" "}
-            and on Twitter{" "}
-            <a href="https://twitter.com/Brand_B4_Bank" className="blog-hover-red">
-              @Brand_B4_Bank
-            </a>
-          </li>
-          <li>
-            You can also buy it{" "}
-            <a href="https://amzn.to/3SLM5wu" className="blog-hover-red">
-              on Amazon
-            </a>
-          </li>
-        </ul>
-      </div>
+      <div className="two-col-section" style={{ paddingTop: "2rem", borderTop: "1px solid var(--color-border)" }}>
+        <div>
+          <h2>The Links</h2>
+          <ul>
+            <li>
+              Ian Truscott on{" "}
+              <a href="https://www.linkedin.com/in/iantruscott/" className="blog-hover-red">
+                LinkedIn
+              </a>{" "}
+              and{" "}
+              <a href="https://twitter.com/IanTruscott" className="blog-hover-red">
+                Twitter
+              </a>
+            </li>
+            <li>
+              Liz High on{" "}
+              <a href="https://www.linkedin.com/in/lizhigh/" className="blog-hover-red">
+                LinkedIn
+              </a>{" "}
+              and{" "}
+              <a href="https://twitter.com/LizzHighUK" className="blog-hover-red">
+                Twitter
+              </a>
+            </li>
+            <li>
+              Liz High&rsquo;s book &mdash; on the web at{" "}
+              <a href="https://thinklikeabrandbook.com/" className="blog-hover-red">
+                Think Like a Brand Not a Bank
+              </a>{" "}
+              and on Twitter{" "}
+              <a href="https://twitter.com/Brand_B4_Bank" className="blog-hover-red">
+                @Brand_B4_Bank
+              </a>
+            </li>
+            <li>
+              You can also buy it{" "}
+              <a href="https://amzn.to/3SLM5wu" className="blog-hover-red">
+                on Amazon
+              </a>
+            </li>
+          </ul>
+        </div>
 
-      <div style={{ maxWidth: "var(--prose-width)", margin: "0 auto 2.5rem" }}>
-        <h2>Follow Rockstar CMO FM</h2>
-        <p>On all good podcast apps, including:</p>
-        <PlatformBadges />
-      </div>
-
-      <div style={{ maxWidth: "var(--prose-width)", margin: "0 auto" }}>
-        <h2>Say hello!</h2>
-        <p>Like what you&rsquo;ve heard? Can we help you think like a brand?</p>
-        <p>Or maybe you just have some feedback or comments &mdash; then stop by and say hello!</p>
-        <Link href="/contact" className="btn-primary" style={{ textDecoration: "none" }}>
-          Get in touch
-        </Link>
-
-        <div style={{ marginTop: "2.5rem", maxWidth: "480px" }}>
-          <p style={{ fontStyle: "italic", marginBottom: "0.75rem", color: "#333" }}>
-            Join hundreds of your peers and get your weekly hit of marketing street knowledge.
-          </p>
-          <SubscribeEmbed />
+        <div>
+          <h2>Follow Rockstar CMO FM</h2>
+          <p>On all good podcast apps, including:</p>
+          <PlatformBadges />
         </div>
       </div>
     </main>
