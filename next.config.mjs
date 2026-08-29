@@ -17,6 +17,7 @@ const pagesRedirects = loadRedirects("pagesRedirects.json");
 const pagesRedirects2 = loadRedirects("pagesRedirects2.json");
 const pagesRedirects3 = loadRedirects("pagesRedirects3.json");
 const pagesRedirects4 = loadRedirects("pagesRedirects4.json");
+const pagesRedirects5 = loadRedirects("pagesRedirects5.json");
 
 function toNextRedirects(entries) {
   return entries.map(({ oldPath, newPath }) => ({
@@ -54,6 +55,8 @@ const nextConfig = {
       // assessment flyer (already rehosted) and TCA webinar deck (rehosted
       // this round from the file Ian supplied directly)
       ...toNextRedirects(pagesRedirects4),
+      // /privacy -> /privacy-policy, confirmed live 2026-08-29
+      ...toNextRedirects(pagesRedirects5),
       // WP pagination URLs Google has indexed for specific author/category
       // archives (found in the same traffic audit) -> the matching tag page.
       // Wildcard on page number since exact old page counts don't matter here.
