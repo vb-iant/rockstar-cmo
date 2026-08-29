@@ -45,8 +45,10 @@ export async function middleware(request) {
   // Legacy BOM-slug redirects (see comment above).
   const cleaned = stripBom(pathname).replace(/^\/+/, "").replace(/\/+$/, "");
   if (BOM_SLUGS.has(cleaned)) {
-    const url = new URL(`/blog/${cleaned}`, request.url);
-    return NextResponse.redirect(url, 308);
+    return new NextResponse(`DEBUG pathname=${JSON.stringify(pathname)} cleaned=${JSON.stringify(cleaned)}`, {
+      status: 200,
+      headers: { "content-type": "text/plain" },
+    });
   }
 
   // /admin/login must stay reachable, or a logged-out visitor can never
