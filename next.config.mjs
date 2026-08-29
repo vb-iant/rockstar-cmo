@@ -16,6 +16,7 @@ const episodeRedirects = loadRedirects("episodeRedirects.json");
 const pagesRedirects = loadRedirects("pagesRedirects.json");
 const pagesRedirects2 = loadRedirects("pagesRedirects2.json");
 const pagesRedirects3 = loadRedirects("pagesRedirects3.json");
+const pagesRedirects4 = loadRedirects("pagesRedirects4.json");
 
 function toNextRedirects(entries) {
   return entries.map(({ oldPath, newPath }) => ({
@@ -49,6 +50,10 @@ const nextConfig = {
       // Outstanding-redirects triage, round 2 (2026-08-29): Ian's decisions
       // from the Notion doc for the sub-category and old "write for us" page
       ...toNextRedirects(pagesRedirects3),
+      // 2 lead-magnet PDFs from the Notion doc, round 3 (2026-08-29): MOPS
+      // assessment flyer (already rehosted) and TCA webinar deck (rehosted
+      // this round from the file Ian supplied directly)
+      ...toNextRedirects(pagesRedirects4),
       // WP pagination URLs Google has indexed for specific author/category
       // archives (found in the same traffic audit) -> the matching tag page.
       // Wildcard on page number since exact old page counts don't matter here.
