@@ -19,14 +19,6 @@ export const metadata = {
     "Understand your marketing machine in 5 f'in' steps -- a marketing operations competency assessment covering tech stack, reporting, data, process and demand center operations.",
 };
 
-const CAPABILITIES = [
-  "Marketing & Sales Tech Stack Management",
-  "Performance Reporting and Analysis",
-  "Marketing Data Management",
-  "Process Management",
-  "Demand Center Operations",
-];
-
 const STEPS = [
   {
     n: "1",
@@ -96,14 +88,6 @@ export default function MarketingOperationsAssessmentPage() {
         ]}
       />
 
-      <ul style={{ marginTop: "-1rem", marginBottom: "2.5rem", paddingLeft: "1.25rem" }}>
-        {CAPABILITIES.map((c) => (
-          <li key={c} style={{ marginBottom: "0.4rem" }}>
-            {c}
-          </li>
-        ))}
-      </ul>
-
       <h2>A 5 F&rsquo;in&rsquo; Step Program</h2>
       <div style={{ marginBottom: "2.5rem" }}>
         {STEPS.map((step) => (
@@ -159,6 +143,7 @@ export default function MarketingOperationsAssessmentPage() {
           alt="Jeff Clark, Principal, Strategic Advisory"
           width={160}
           height={160}
+          className="blog-image"
           style={{
             width: "140px",
             height: "auto",
@@ -205,3 +190,4 @@ export default function MarketingOperationsAssessmentPage() {
     </main>
   );
 }
+
