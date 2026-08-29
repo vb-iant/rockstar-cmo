@@ -3,9 +3,6 @@ import path from "path";
 
 // Old-site -> new-site 301 redirects, accumulated across migration phases.
 // See lib/redirects/README.md for how each source file was derived.
-// Note: the 7 "BOM slug" legacy posts (see README) are redirected in
-// middleware.js instead of here -- next.config.js's declarative redirects()
-// mishandled the literal "%" in those old URLs.
 function loadRedirects(file) {
   const p = path.join(process.cwd(), "lib", "redirects", file);
   return JSON.parse(fs.readFileSync(p, "utf-8"));
@@ -18,6 +15,7 @@ const seriesRedirects = loadRedirects("seriesRedirects.json");
 const episodeRedirects = loadRedirects("episodeRedirects.json");
 const pagesRedirects = loadRedirects("pagesRedirects.json");
 const pagesRedirects2 = loadRedirects("pagesRedirects2.json");
+const pagesRedirects3 = loadRedirects("pagesRedirects3.json");
 
 function toNextRedirects(entries) {
   return entries.map(({ oldPath, newPath }) => ({
@@ -48,6 +46,9 @@ const nextConfig = {
       // Search Console traffic/backlink audit (2026-08-29): 3 Long Play PDFs
       // rehosted under a new path, + the umbrella podcast category archive
       ...toNextRedirects(pagesRedirects2),
+      // Outstanding-redirects triage, round 2 (2026-08-29): Ian's decisions
+      // from the Notion doc for the sub-category and old "write for us" page
+      ...toNextRedirects(pagesRedirects3),
       // WP pagination URLs Google has indexed for specific author/category
       // archives (found in the same traffic audit) -> the matching tag page.
       // Wildcard on page number since exact old page counts don't matter here.
