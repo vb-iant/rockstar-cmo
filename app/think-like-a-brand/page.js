@@ -134,28 +134,37 @@ export default function ThinkLikeABrandPage() {
         </div>
       </div>
 
-      <div style={{ marginBottom: "2.5rem" }}>
+      <div
+        style={{
+          display: "flex",
+          gap: "2rem",
+          flexWrap: "wrap",
+          alignItems: "flex-start",
+          marginBottom: "2.5rem",
+        }}
+      >
+        <div style={{ flex: "1 1 300px" }}>
+          <p style={{ color: "#333" }}>
+            In Think Like a Brand, Not a Bank, Allison Netzer and Liz High show banks and credit
+            unions how to embrace their brand and reap the benefits. By introducing their five
+            principles for growth, you&rsquo;ll learn how to shift your mindset, apply each
+            principle, and utilize branding strategies for sustainable growth. With data-rich
+            insight and real-life examples, it&rsquo;s a compelling look at how financial
+            institutions can build value now and create a roadmap for the future.
+          </p>
+        </div>
         <img
           src="/images/think-like-a-brand/book-graphic.jpg"
           alt="Think Like a Brand, Not a Bank"
           className="blog-image"
           style={{
-            width: "100%",
-            maxWidth: "480px",
+            width: "280px",
+            maxWidth: "100%",
             height: "auto",
             borderRadius: "8px",
-            display: "block",
-            margin: "0 auto 1rem",
+            flexShrink: 0,
           }}
         />
-        <p style={{ fontStyle: "italic", color: "#333", maxWidth: "var(--prose-width)", margin: "0 auto" }}>
-          In Think Like a Brand, Not a Bank, Allison Netzer and Liz High show banks and credit
-          unions how to embrace their brand and reap the benefits. By introducing their five
-          principles for growth, you&rsquo;ll learn how to shift your mindset, apply each
-          principle, and utilize branding strategies for sustainable growth. With data-rich
-          insight and real-life examples, it&rsquo;s a compelling look at how financial
-          institutions can build value now and create a roadmap for the future.
-        </p>
       </div>
 
       <h2 style={{ marginBottom: "1.5rem" }}>All the episodes</h2>
