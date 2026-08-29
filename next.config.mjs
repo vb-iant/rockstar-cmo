@@ -14,6 +14,7 @@ const issueRedirects = loadRedirects("issueRedirects.json");
 const seriesRedirects = loadRedirects("seriesRedirects.json");
 const episodeRedirects = loadRedirects("episodeRedirects.json");
 const pagesRedirects = loadRedirects("pagesRedirects.json");
+const pagesRedirects2 = loadRedirects("pagesRedirects2.json");
 
 function toNextRedirects(entries) {
   return entries.map(({ oldPath, newPath }) => ({
@@ -41,6 +42,17 @@ const nextConfig = {
       ...toNextRedirects(episodeRedirects),
       // handful of misc. old pages with a clear one-off new-site destination
       ...toNextRedirects(pagesRedirects),
+      // Search Console traffic/backlink audit (2026-08-29): 3 Long Play PDFs
+      // rehosted under a new path, + the umbrella podcast category archive
+      ...toNextRedirects(pagesRedirects2),
+      // WP pagination URLs Google has indexed for specific author/category
+      // archives (found in the same traffic audit) -> the matching tag page.
+      // Wildcard on page number since exact old page counts don't matter here.
+      { source: "/author/ian/page/:num", destination: "/tags/author/ian-truscott", permanent: true },
+      { source: "/author/jeffclark/page/:num", destination: "/tags/author/jeff-clark", permanent: true },
+      { source: "/category/podcast/page/:num", destination: "/podcast", permanent: true },
+      { source: "/category/rockstar-cmo-advisors/page/:num", destination: "/tags/series/rockstar-cmo-advisors", permanent: true },
+      { source: "/category/rockstar-cmo-advisors/street-knowledge/page/:num", destination: "/tags/series/street-knowledge", permanent: true },
     ];
   },
 };
