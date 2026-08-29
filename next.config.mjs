@@ -13,6 +13,7 @@ const authorRedirects = loadRedirects("authorRedirects.json");
 const issueRedirects = loadRedirects("issueRedirects.json");
 const seriesRedirects = loadRedirects("seriesRedirects.json");
 const episodeRedirects = loadRedirects("episodeRedirects.json");
+const pagesRedirects = loadRedirects("pagesRedirects.json");
 
 function toNextRedirects(entries) {
   return entries.map(({ oldPath, newPath }) => ({
@@ -38,6 +39,8 @@ const nextConfig = {
       // 390 podcast episode posts -> /episodes/[slug] (title-matched against
       // the Megaphone RSS feed, since new slugs are RSS-derived, not WP slugs)
       ...toNextRedirects(episodeRedirects),
+      // handful of misc. old pages with a clear one-off new-site destination
+      ...toNextRedirects(pagesRedirects),
     ];
   },
 };
