@@ -30,10 +30,10 @@ export default function BlogPostPage({ params }) {
 
   const html = renderPostHtml(post);
 
-  // Only linkify series/issue values that actually have a tag-index page
-  // built for them yet -- genuine topic tags (post.tags) don't have their
-  // own tag-index pages yet, so they aren't surfaced as clickable badges.
-  const tagLinks = (post.series || [])
+  // Linkify series/issue values and genuine topic tags alike -- any value
+  // that has a matching tag-index page (by collects_tag) gets surfaced as a
+  // clickable badge here.
+  const tagLinks = [...(post.series || []), ...(post.tags || [])]
     .map((c) => getTagByCollectsTag(c))
     .filter(Boolean);
 
