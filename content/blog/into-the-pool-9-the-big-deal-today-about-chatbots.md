@@ -29,7 +29,7 @@ sourceUrl: https://rockstarcmo.com/into-the-pool-9-the-big-deal-today-about-chat
 
 Author of three books, launcher of five companies and the Internet Marketing Association’s Networker of the Year. [Jeanniey Mullen](/blog/backstage-with-jeanniey-mullen) knows a thing or two about being a rockstar marketer.
 
-In our Backstage interview Jeanniey shared with us what makes her tick – and she ticks fast – asking us to add “anything I can run to on the treadmill at 5am, so over 160BPM please” to our playlist.
+In our Backstage interview Jeanniey shared with us what makes her tick – and she ticks fast – asking us to add “anything I can run to on the treadmill at 5am, so over 160BPM please” to [our playlist](/track-list).
 
 And when it comes to chatbots, this urgency to move fast shines through. It’s not chatbots she wants in the pool, it’s the fact we as an industry are still talking about them as if they are the *next* best thing.
 
