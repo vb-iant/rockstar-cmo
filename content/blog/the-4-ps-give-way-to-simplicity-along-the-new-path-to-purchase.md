@@ -62,7 +62,7 @@ few years ago.
 
 **From Maserati to McDonald's... Digital is Helping Shoppers Get What They Want.**
 
-[![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/07/ja-1.png?fit=834%2C371&ssl=1)](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/ja-1.png)
+![](/images/blog/6a43d100f669.png)
 
 Google is perhaps the biggest retailer on the planet today. In
 almost every category, Google is integrating shopping into virtually every
