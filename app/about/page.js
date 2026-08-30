@@ -7,6 +7,30 @@ export const metadata = {
     "Founded in 2018, our jam is to share our marketing street knowledge to help ambitious CEOs, CMOs, marketing leaders and founders grow their start-up or established B2B businesses.",
 };
 
+const BAND = [
+  {
+    name: "Jeff Clark",
+    title:
+      "Independent marketing consultant with extensive experience running high tech marketing teams and was Principal Analyst at Forrester Research.",
+    image: "/images/rockstar-b2b/jeff-clark.jpg",
+    linkedin: "https://www.linkedin.com/in/jjclark08/",
+  },
+  {
+    name: "Robert Rose",
+    title:
+      "Creative marketing leader \u2014 clear thinking, bold storytelling, real business results. Bestselling author, keynote speaker, trusted marketing guide.",
+    image: "/images/rockstar-b2b/robert-rose.jpg",
+    linkedin: "https://www.linkedin.com/in/robrose/",
+  },
+  {
+    name: "Cathy McKnight",
+    title:
+      "Marketing Strategy & Operations Advisor | Content Orchestration Expert | Helping enterprise leaders and teams fix broken content and marketing systems.",
+    image: "/images/rockstar-b2b/cathy-mcknight.jpg",
+    linkedin: "https://www.linkedin.com/in/cathymcknight/",
+  },
+];
+
 export default function AboutPage() {
   return (
     <main style={{ maxWidth: "var(--page-width)", margin: "0 auto", padding: "3rem 1.5rem" }}>
@@ -68,6 +92,43 @@ export default function AboutPage() {
             style={{ width: "100%", height: "auto", borderRadius: "8px", display: "block" }}
           />
         </div>
+      </div>
+
+      <div style={{ borderTop: "1px solid var(--color-border)", margin: "3rem 0" }} />
+
+      {/* The band: the three regular advisory-team collaborators who show up
+          across the podcast/blog, pulled over from the /rockstar-b2b page so
+          new visitors landing on About get introduced to them too. */}
+      <h2 style={{ marginBottom: "0.25rem" }}>The Band</h2>
+      <p style={{ fontStyle: "italic", color: "#666", marginBottom: "1.5rem" }}>
+        Meet our regulars
+      </p>
+
+      <div className="card-grid-3" style={{ marginBottom: "1rem" }}>
+        {BAND.map((person) => (
+          <div key={person.name}>
+            <img
+              src={person.image}
+              alt={person.name}
+              width={400}
+              height={400}
+              className="blog-image index-card-image"
+            />
+            <h3 style={{ marginBottom: "0.25rem", marginTop: "0.75rem" }}>{person.name}</h3>
+            <p style={{ color: "#333", fontSize: "0.95rem", marginBottom: "0.5rem" }}>
+              {person.title}
+            </p>
+            <a
+              href={person.linkedin}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="blog-hover-red"
+              style={{ fontWeight: 600 }}
+            >
+              LinkedIn &rarr;
+            </a>
+          </div>
+        ))}
       </div>
     </main>
   );
