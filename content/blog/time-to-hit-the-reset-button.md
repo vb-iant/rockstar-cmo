@@ -22,7 +22,7 @@ sourceUrl: https://rockstarcmo.com/time-to-hit-the-reset-button/
 
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2020/04/jose-antonio-gallego-vazquez-HQpzT47S7Vo-unsplash-scaled.jpg?fit=834%2C552&ssl=1)
+![](/images/blog/fd9895734032.jpg)
 
 ## For people
 

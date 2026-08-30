@@ -19,7 +19,7 @@ sourceUrl: https://rockstarcmo.com/how-to-build-better-relationships-with-custom
 
 **Want to learn how to take your customer relationships to the next level? Ted Rubin has you covered…**
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/crew-89808-unsplash.jpg?fit=834%2C526)
+![](/images/blog/9b53b31c237a.jpg)
 
 When it comes to marketing and customer service, nothing is more important than building relationships with your customers. It's really that simple. Building those relationships, however, may not always feel like a simple process. The first, most important thing to remember is that building relationships with customers (like any relationship) requires consistent, and long-term effort. You get out of the process what you put into it. The next step is learning what it takes to build relationships with customers and making sure that you're focusing your effort efficiently on the tasks that matter most.
 

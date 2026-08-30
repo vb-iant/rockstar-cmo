@@ -67,7 +67,7 @@ And then the one Twitter feed I would follow assuming I can’t click through to
 
 ## Jeanniey Mullen
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/04/mullen_passport.hi_res.jpg?fit=684%2C1024&ssl=1)
+![](/images/blog/097346610343.jpg)
 
 Book: [Dominic by William Steig](https://www.goodreads.com/book/show/860745.Dominic)
 

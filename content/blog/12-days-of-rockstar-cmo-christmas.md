@@ -18,7 +18,7 @@ sourceUrl: https://rockstarcmo.com/12-days-of-rockstar-cmo-christmas/
 
 ***I******t's wonderful to be the editor of Rockstar CMO, I get the gift of sitting in the front row and hearing this wonderful band of writers. So as we approach the UK holidays and celebrate the US Thanksgiving, I thought I'd destroy a beloved Christmas carol with our gifts for the 12 days of Christmas.***
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/11/shutterstock_1248449575-scaled.jpg?fit=834%2C525&ssl=1)
+![](/images/blog/9f068c1be90a.jpg)
 
 ---
 

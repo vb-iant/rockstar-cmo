@@ -20,7 +20,7 @@ sourceUrl: https://rockstarcmo.com/the-swimming-pool-22-the-lazy-call-to-action/
 
 ***When we interviewed founder and CEO of Lately, Kate Bradley Chernis in our Backstage Q&A, she asked us to chuck the term ‘check out’ as a call to action into the Rockstar CMO Swimming Pool. But, why stop there?***
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/12/jakob-owens-qoFQxxuk3QY-unsplash-scaled.jpg?fit=834%2C626&ssl=1)
+![](/images/blog/9682e4c62a9f.jpg)
 
 ---
 

@@ -22,7 +22,7 @@ sourceUrl: https://rockstarcmo.com/wedgewood-vs-sex-pistols-what-is-influence-an
 
 ---
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/11/wedgewood-vs-sex-pistols-rectangle.png?fit=834%2C417&ssl=1)
+![](/images/blog/d91bbdb3d4d6.png)
 
 So, yeah, what is an influencer?
 

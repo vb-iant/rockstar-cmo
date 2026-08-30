@@ -22,7 +22,7 @@ sourceUrl: https://rockstarcmo.com/post-pandemic-personal-branding-turn-it-up-to
 
 ***Personal branding expert Jane Scandurra shares 3 tips to turn your personal brand up to 11, to avoid being "out of sight, out of mind" in the wake of the current pandemic.***
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2020/06/shutterstock_1471011434-scaled.jpg?fit=727%2C1024&ssl=1)
+![](/images/blog/9e229c9ebe9b.jpg)
 
 [In an article I wrote for Rockstar CMO last year,](http://bit.ly/317iJhh) I shared my perspective on why building a strong personal brand is so important in a highly competitive, attention-challenged, digital world. Even though the enormous benefits of personal branding have been touted for decades, many people still didn’t understand it, didn’t take it seriously or just didn’t make it a priority.
 

@@ -22,7 +22,7 @@ sourceUrl: https://rockstarcmo.com/backstage-with-jasmine-martirossian/
 
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/06/Jasmine-Martirossian-Photo.jpg?fit=834%2C468&ssl=1)
+![](/images/blog/4cd53478a2bf.jpg)
 
 ### What would be top of your rider for your next marketing gig?
 

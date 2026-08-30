@@ -21,7 +21,7 @@ sourceUrl: https://rockstarcmo.com/backstage-with-margaret-molloy/
 
 **Global Chief Marketing Officer and Head of Business Development at [Siegel+Gale](https://www.siegelgale.com/), Margaret Molloy is renowned for bringing sense and sensibility – a potent blend of analytics and creative thinking – to everything she does. Ian Truscott sat down with the Forbes Top 5 Most Influential CMO on Social Media to talk about the power of simplicity, always staying relevant to the customer, and building brands into movements.**
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/SiegelGale-Margaret-Molloy-New.jpg?fit=682%2C1024)
+![](/images/blog/31a4672cb4ef.jpg)
 
 #### What would be top of your rider for your next marketing gig?
 

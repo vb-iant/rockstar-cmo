@@ -28,9 +28,9 @@ This popular topic was kicked off by Margaret Molloy, Global Chief Marketing Off
 
 > “At the top of the chart would be employee engagement. Employees are at the forefront of brands and have become the new influencers. Whether it is in-store or digital, when the customer experiences the brand, they are interacting with the work product of its employees. Dedicating ample time and resources to employee engagement is a necessity”
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/SiegelGale-Margaret-Molloy-New-1-e1548931093417.jpg?ssl=1)
+![](/images/blog/a07078c2849b.jpg)
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg?ssl=1)![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/06/J-Scandurra-Headshot-e1561794109201.jpg?ssl=1)
+![](/images/blog/385a44aabe61.jpg)![](/images/blog/96489ca19a32.jpg)
 
 It was a topic we kept returning to, with some great stuff from pretty much all of our Rockstars that we’ve bundled together in The Employee Amplifier section, exploring the idea that our colleagues and employees don’t just make a direct contribution to brand reputation through the service they provide, but are the first line of amplification of your story into your industry. As [Christine Bailey summarised](/blog/the-green-room-amplify-the-sound-turn-colleagues-into-fans):
 
@@ -42,9 +42,9 @@ Customers = Happy Customers](/blog/happy-employees-happy-customers), so we start
 
 ## Popular pick
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2018/12/0-1.jpeg?ssl=1)
+![](/images/blog/f6b68c7502de.jpeg)
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/03/david-headshot-smile-1-e1553779414255.jpg?ssl=1)![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/10/dennis-shiao.jpeg?ssl=1)
+![](/images/blog/39e304511c9c.jpg)![](/images/blog/adfad7a0851b.jpeg)
 
 The data speaks on this one and it’s really tight, but our audience are clearly interested in our people features, the entertaining (as ever) interview with Amber Osborne (former CMO of Doghead Simulations) in ‘[Tales from the Tour Bus’](/blog/tales-from-the-tour-bus-amber-osborne) very narrowly beat [Five Favorite Influencer Mistakes](/blog/five-favorite-influencer-mistakes) by Dennis Shiao and our review of the state of marketing technology: [Marketing Clouds: Lip-syncing Fake or Fab Four?](/blog/marketing-clouds-lip-syncing-fake-or-fab-four) with Cathy McKnight, Darren Garnaccia, John Kottcamp and David Aponovich.
 

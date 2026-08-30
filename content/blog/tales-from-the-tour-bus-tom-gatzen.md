@@ -19,7 +19,7 @@ sourceId: '3111'
 sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-tom-gatzen/
 ---
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/TG_Photo.jpg?fit=684%2C1024)
+![](/images/blog/449c244b2917.jpg)
 
 **The wheels are turning, the stereo’s blaring and the windows are black black black – we’re on the road. Our Tales from the Tour Bus series gets the low down from a marketing heavyweight about a project they’re in the throes of right now – the good, the bad and the wrong turns they’ve taken along the way.**
 

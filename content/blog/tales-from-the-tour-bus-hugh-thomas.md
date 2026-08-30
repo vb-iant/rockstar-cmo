@@ -26,7 +26,7 @@ the good, the bad and the wrong turns they’ve taken along the way.**
 
 **In our second ride on the tour bus, FMCG disruptor Hugh Thomas, co-founder of challenger brand** [**Ugly Drinks**](https://uglydrinks.com/)**, takes us on board to tell us about marketing the ‘ugly truth’, and the challenges of taking things Stateside. Bottoms up.**
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/02/IMG_4303.jpg?fit=834%2C556&ssl=1)
+![](/images/blog/43f6299be04e.jpg)
 
 Processed with VSCO with a6 preset
 

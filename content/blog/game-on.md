@@ -21,7 +21,7 @@ sourceUrl: https://rockstarcmo.com/game-on/
 
 **Welcome to 2019, where the eSports industry is worth a cool $1.65 billion, celebrity video gamers earn $500,000 a month live-streaming** ***Fortnite*** **to hundreds of thousands of viewers, and more of us are playing video games than ever before. Ian Hsieh asks: Will the marketing revolution be gamified?**
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/Image_1.jpg?fit=834%2C469)
+![](/images/blog/1723a67c5cbf.jpg)
 
 Ah, the video gamer. That bespectacled, basement-dwelling man child that spends all waking – and sleeping – hours hunched in front of his multiple monitors, smashing buttons on a keyboard and mouse, pausing for only the briefest of moments to quaff a luminescent energy drink. After all, why sleep when you can game amiright?
 
@@ -57,7 +57,7 @@ Then there’s someone like Richard Tyler Blevins, a competitive gamer who rose 
 
 One thing’s clear – thanks to a potent mix of connectivity afforded by online technology, the cultural phenomenon of games like *Fortnite* and sheer accessibility (meaning anyone can become a superstar like Blevins), audiences are officially gaga for gaming. And brands are more than ready to continue playing in the gaming arena.
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/gaming-Image_2.jpg?fit=792%2C1024)
+![](/images/blog/e0ba130bbd34.jpg)
 
 ## **Gamification 2.0**
 

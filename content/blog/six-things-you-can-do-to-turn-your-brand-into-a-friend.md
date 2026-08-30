@@ -19,7 +19,7 @@ sourceUrl: https://rockstarcmo.com/six-things-you-can-do-to-turn-your-brand-into
 
 **The days of brands being detached, abstract and ultimately faceless entities are long gone. Stephen Kelly explores how you can inject a little humanity into proceedings – authentically.**
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/02/antonino-visalli-1272426-unsplash.jpg?fit=834%2C661&ssl=1)
+![](/images/blog/1931249cf43a.jpg)
 
 Thanks to the age of social media, brands are now
 required to live, to breathe, to be able to sparkle with a personality all of

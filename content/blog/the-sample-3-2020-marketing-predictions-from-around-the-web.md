@@ -58,7 +58,7 @@ is plenty to dig into in this excellent article:
 
 ## Diversity
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2020/01/image.png?fit=834%2C289&ssl=1)
+![](/images/blog/2bb62ab6e601.png)
 
 Pretty much whatever you are marketing, whether it’s B2B or B2C your audience is broadening and becoming more diverse and being inclusive is not just the right thing to do socially and creatively, but it’s a marketing opportunity.
 

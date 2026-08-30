@@ -22,7 +22,7 @@ sourceUrl: https://rockstarcmo.com/the-green-room-marketing-in-the-new-normal/
 
 ---
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2020/05/green-room-promo.png?fit=834%2C437&ssl=1)
+![](/images/blog/c0bcfe025e82.png)
 
 Depending on where you are reading this, you are deep into the second month of lockdown and even if things are opening up, we are emerging into a world that has changed.
 

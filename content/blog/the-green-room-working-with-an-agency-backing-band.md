@@ -51,7 +51,7 @@ They have taken a diverse range of products to market, both B2B and B2C, and of 
 
 "*Agencies are a critical resource for marketing teams, now that there are so many different demands on our teams. They can help bring talent and skills into your group to execute certain types of programs.*
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/Wendy-Beswick-Headshot-2-copy-1.png?fit=697%2C1024)
+![](/images/blog/569c5b83c264.png)
 
 *But don’t think hiring an agency means you can sit back and let them do all the work! There’s a significant investment in the onboarding process, but that upfront education will pay dividends in the end.*
 

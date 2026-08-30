@@ -21,7 +21,7 @@ sourceUrl: https://rockstarcmo.com/nothing-lasts-forever-of-that-im-sure/
 
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/08/BryanFerryNorthinglast2_done.jpg?fit=834%2C631&ssl=1)
+![](/images/blog/d0cc99cbf13a.jpg)
 
 What complex animals we are. We’re full of contradictions and ironies. It’s what makes us human, after all.
 

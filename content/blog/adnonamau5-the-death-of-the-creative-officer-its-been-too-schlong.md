@@ -23,7 +23,7 @@ sourceUrl: https://rockstarcmo.com/adnonamau5-the-death-of-the-creative-officer-
 
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2020/04/mariya-georgieva-0O6Fv3Ff_XI-unsplash-scaled.jpg?fit=834%2C905&ssl=1)
+![](/images/blog/8e7ebc985e90.jpg)
 
 Well, who would have guessed (apart from Bill Gates) that the world would be shut up at home for a month or three because of an invisible enemy?
 

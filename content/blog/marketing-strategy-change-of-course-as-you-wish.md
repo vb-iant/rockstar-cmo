@@ -22,7 +22,7 @@ sourceUrl: https://rockstarcmo.com/marketing-strategy-change-of-course-as-you-wi
 
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/07/Cary-Elwes-Westley-1.jpg?fit=834%2C469&ssl=1)
+![](/images/blog/ba999388b853.jpg)
 
 The Princess Bride is one of the best movies of all time. I will fight you on this.
 

@@ -22,7 +22,7 @@ sourceUrl: https://rockstarcmo.com/all-is-vanity/
 
 ---
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2020/03/noah-buscher-M19QtooXPKs-unsplash-scaled.jpg?fit=834%2C953&ssl=1)
+![](/images/blog/91bb6f938ccf.jpg)
 
 This is the tale of what happens when marketers focus (obsess, even!) on a single metric.
 

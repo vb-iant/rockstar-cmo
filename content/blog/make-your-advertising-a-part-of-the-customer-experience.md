@@ -18,7 +18,7 @@ sourceUrl: https://rockstarcmo.com/make-your-advertising-a-part-of-the-customer-
 
 **Is there a disconnect between your advertising and your customer experience? Ted Rubin breaks down the importance of bringing the two together.**
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/02/christian-erfurt-1131100-unsplash.jpg?fit=834%2C626&ssl=1)
+![](/images/blog/16b7d54903e1.jpg)
 
 From
 a consumer perspective, there are few things more frustrating than seeing an ad

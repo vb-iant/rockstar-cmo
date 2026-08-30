@@ -48,7 +48,7 @@ bots thought the marketing trends of 2020 might be.
 
 I started with Google to see what it thought about the trends. Not surprisingly, I was served an ad and then a Google Snippet that aggregated the most popular results.
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2020/01/Screen20Shot202019-12-3020at202.44.0320PM.png?fit=834%2C541&ssl=1)
+![](/images/blog/1fa5190e3792.png)
 
 The rise of new social networks like TikTok
 and social entertainment were among the hottest trends, along with marketing AI

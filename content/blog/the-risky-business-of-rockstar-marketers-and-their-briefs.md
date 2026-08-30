@@ -23,7 +23,7 @@ sourceUrl: https://rockstarcmo.com/the-risky-business-of-rockstar-marketers-and-
 
 ---
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/05/Tuesday-People_MG_5152.jpeg?fit=834%2C555&ssl=1)
+![](/images/blog/e1801fc41094.jpeg)
 
 #### *Why does a bad brief present such a risk for a creative project?*
 

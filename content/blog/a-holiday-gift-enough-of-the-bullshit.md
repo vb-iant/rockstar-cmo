@@ -17,7 +17,7 @@ sourceId: '4700'
 sourceUrl: https://rockstarcmo.com/a-holiday-gift-enough-of-the-bullshit/
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/11/paul_belford_ltd_htabb_1.jpg?fit=776%2C1024&ssl=1)
+![](/images/blog/683006c26cbf.jpg)
 
 ***Aside from finding the original vinyl copy of Once Upon a Time in Shaolin by The Wu Tang Clan (the most expensive record every sold [according to HMV](https://www.hmv.com/music/the-10-most-expensive-vinyl-records-ever-sold)) under the Rockstar CMO penthouse Christmas tree, some of the best gifts are are books*.**
 
@@ -52,7 +52,7 @@ and complication go away and say something original.
 
 So it behooves every CMO reading this to take responsibility for owning their own copy of The [Beehive](https://workingbeehive.co.uk/) team’s creative compendium – How to Avoid Brand Bullshit, a no-nonsense guide to branding. Like modern-day lightermen, Galton, Jordan and Hollins will help you steer your brand ship through today’s acronym-riddled, jargon-infested marketing waters.
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/11/paul_belford_ltd_htacc_3.jpg?fit=834%2C556&ssl=1)
+![](/images/blog/bad1299fdfa7.jpg)
 
 Rather wonderfully, I’ve got copies of this
 book to give away free (well for the price of a few keystrokes anyway). But
@@ -60,7 +60,7 @@ more of that later, allow me to whet your appetite further.
 
 This book is a must-read for brand managers, offering quick reference bon mots that will help any modern brand-savvy manager filter out the white noise and hone in on the perfect pitch. But it’s more than that. It’s a general guide to running a business too. In today’s marketing-driven business world, there’s something for everyone. There are innovative ideas you may not have thought about and there are neat aphorisms that you need to be reminded about.
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/11/paul_belford_ltd_htabb_4.jpg?fit=834%2C556&ssl=1)
+![](/images/blog/29892e7af830.jpg)
 
 How to Avoid Brand Bullshit is a stripped-down, full of wisdom, no-nonsense book to help businesses and brands. It’s a pocket-sized toolbox, designed to be practical. It’s also been art directed by the legendary Paul Belford, who has commanded the creative wellspring of agencies such as TBWA, Ogilvy and AMV BBDO, to name but a few.
 

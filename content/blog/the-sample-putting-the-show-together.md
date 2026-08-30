@@ -18,7 +18,7 @@ sourceId: '4371'
 sourceUrl: https://rockstarcmo.com/the-sample-putting-the-show-together/
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/09/casset-recorder-1.jpg?fit=834%2C626&ssl=1)
+![](/images/blog/62166c1585ab.jpg)
 
 ***This month we kick off a new series, The Sample, where we whirl the dial on the interwebs, hit record and sample what we hear. The topic of this issue is partnerships and we share some of the tunes the cool kids are playing about the critical relationships Rockstar CMOs need to put on the marketing show***.
 

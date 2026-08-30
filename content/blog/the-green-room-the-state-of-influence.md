@@ -22,7 +22,7 @@ sourceUrl: https://rockstarcmo.com/the-green-room-the-state-of-influence/
 
 ---
 
-[![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/11/green-room-influencers.png?fit=834%2C417&ssl=1)](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/green-room-influencers.png)
+[![](/images/blog/8259f3a45ec3.png)](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/11/green-room-influencers.png)
 
 In this issue, with all the hype, fakery and commentary about influencer marketing, we pose the question to our Rockstar CMOs:
 

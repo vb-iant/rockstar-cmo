@@ -66,7 +66,7 @@ environment. Nothing feels better than seeing the change. The sooner you can
 see the benefits, the more people believe change can happen. Actions speak
 louder than words.
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/02/DgE7En1VAAA0sPp.jpg?fit=576%2C1024&ssl=1)
+![](/images/blog/375bd0132632.jpg)
 
 > *“Test and learn in a fail fast environment; nothing feels better than seeing the change. The soon you can see the benefits, the more people believe change can happen.”*
 

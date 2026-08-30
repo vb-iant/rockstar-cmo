@@ -18,7 +18,7 @@ sourceUrl: https://rockstarcmo.com/now-thats-what-i-call-the-future-of-b2b-marke
 
 ***As we welcome a new year and a new decade, in this issue we have cast our minds forward to the future. Lauren Bowden, experienced B2B marketer and Chief Content Creator at UK PR agency The Comms Crowd shares her predictions for B2B marketing.***
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/12/jenni-jones-WOASNSu731c-unsplash-scaled.jpg?fit=683%2C1024&ssl=1)
+![](/images/blog/22f261ad1079.jpg)
 
 ---
 

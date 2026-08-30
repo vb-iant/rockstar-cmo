@@ -159,7 +159,7 @@ Given new privacy and data regulations, marketing automation has to evolve to es
 
 Thank you Christine, Jeanniey, Wendy, Robert, Ted and John - some fantastic advice here, maybe there is nothing to fear, I leave you with this quote from Ted and John.
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/03/image1.jpeg?fit=834%2C470&ssl=1)
+![](/images/blog/e69995d2c616.jpeg)
 
 *Agree? What would your advice be? Drop us a
 comment,*[*tweet us*](http://twitter.com/rockstarcmo)*,**and if you feel really strongly about

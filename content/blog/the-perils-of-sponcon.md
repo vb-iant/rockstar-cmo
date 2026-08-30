@@ -19,7 +19,7 @@ sourceUrl: https://rockstarcmo.com/the-perils-of-sponcon/
 
 **Unlike its musical counterpart of pop, where the lip-synch reigns supreme, rock has never rested on the laurels of authenticity. Not like social media. Gareth May unpacks the weird world of fake #sponcon.**
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/02/rawpixel-1116840-unsplash.jpg?fit=834%2C556&ssl=1)
+![](/images/blog/07e4799241ee.jpg)
 
 Any self-respecting compendium
 of worst performances typically includes [The Who’s infamous 1973

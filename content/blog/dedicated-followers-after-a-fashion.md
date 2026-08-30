@@ -24,7 +24,7 @@ marketing is no different. Influencers are the latest group to buy fake
 followers in order to boost their appeal. But while a large follower count may
 look good, as Dave Waller discovers, this isn’t just a numbers game…**
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/02/DW-Fake-3.jpg?fit=834%2C557&ssl=1)
+![](/images/blog/ccd45a9e1106.jpg)
 
 You
 don’t need massive resources to be an online spook. Nik Speller has been known
@@ -110,7 +110,7 @@ longer work with influencers who were found to have them. Unilever’s CMO Keith
 Weed had previously described the phenomenon as misleading, at best. “At worst
 it’s corrupt,” he told the Wall Street Journal.
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/02/DW-Fake-Image-2.jpg?fit=834%2C556&ssl=1)
+![](/images/blog/76144d6c8f87.jpg)
 
 ## Driven to the dark side
 
@@ -214,7 +214,7 @@ better to know that you're buying fake followers or fake fans, and then to
 broadcast that figure knowing that those people aren't even real? What's that?
 It doesn't make any sense.”
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/02/DW-Fake-Image-1.jpg?fit=834%2C556&ssl=1)
+![](/images/blog/6b6d9c81c6a8.jpg)
 
 ## Rotten game
 

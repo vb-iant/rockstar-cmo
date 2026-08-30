@@ -20,7 +20,7 @@ sourceUrl: https://rockstarcmo.com/backstage-with-david-howland/
 
 ***David Howland, CMO of Longview Solutions has a fantastic marketing pedigree, as a former creative and art director and then marketing leader at Nasdaq. In this Backstage Q&A he shares his journey and the common thread of his career - creating compelling, meaningful experiences.***
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/03/david-headshot-smile.jpg?fit=834%2C728&ssl=1)
+![](/images/blog/0fa8fa6eba66.jpg)
 
 #### Rockstar’s say that overnight success takes years of work and practice, what got you in the charts?
 

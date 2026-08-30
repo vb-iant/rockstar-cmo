@@ -19,7 +19,7 @@ sourceUrl: https://rockstarcmo.com/data-cant-answer-why/
 
 ***In the interest of balance between data and creativity, maybe your fine-honed data-led campaign could use an emotional fire axe. Keith Smith, our resident business development expert explains...***
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2020/03/B101_Ax.png?fit=834%2C468&ssl=1)
+![](/images/blog/c3640b4d4c45.png)
 
 *Image from [Fandom](https://community-sitcom.fandom.com/wiki/Biology_101)*
 

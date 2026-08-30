@@ -22,7 +22,7 @@ sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-punk-cx-with-adrian-s
 
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/07/xAdrian_02-2240x870.jpg.pagespeed.ic_.XSLW6X7ekN.jpg?fit=834%2C324&ssl=1)
+![](/images/blog/52c7c53c43cc.jpg)
 
 #### Hi Adrian, tell us about your current gig and how you came to be so passionate about customer experience
 

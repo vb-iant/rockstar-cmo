@@ -21,7 +21,7 @@ sourceUrl: https://rockstarcmo.com/3-questions-for-success-in-the-post-covid-19-
 
 ---
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2020/05/jon-tyson-XmMsdtiGSfo-unsplash-scaled.jpg?fit=737%2C1024&ssl=1)
+![](/images/blog/08ea39a873df.jpg)
 
 As of writing this, the entire world has been living in “interesting times.” The Chinese saying “May you live in interesting times” is known to be both a blessing and a curse.
 

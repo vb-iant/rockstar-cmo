@@ -20,7 +20,7 @@ sourceUrl: https://rockstarcmo.com/influencer-marketing-pr-remixed-for-a-new-era
 
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/10/Influencer_done.jpg?fit=834%2C358&ssl=1)
+![](/images/blog/d2a63dab02b5.jpg)
 
 It appears that the PR industry has now successfully managed to become a measurable part of the sales process.
 

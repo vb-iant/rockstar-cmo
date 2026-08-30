@@ -19,13 +19,13 @@ sourceId: '3610'
 sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-janice-b-gordon/
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/04/Janice-Gordon_1998_BG_Cut.png?fit=834%2C590&ssl=1)
+![](/images/blog/c64b02fbc4f6.png)
 
 ***Like the Rolling Stones versus the Beatles or Oasis versus Blur, sales and marketing have a reputation for not always getting along. So, for this Tale from the Tour Bus we crossed the tracks, to meet a business leader with a big reputation for mentoring and motivating sales teams and I had the pleasure of chatting to international, serial entrepreneur and Visiting Fellow at Cranfield School of Business; Janice B. Gordon.***
 
 ***Janice takes us on quite a journey, from a village in Leicestershire, England to an executive MBA and an international career creating her own businesses and transforming others, sharing here some wonderful lessons she learned along the tour.***
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/04/IMG_4347_2-1.jpg?fit=834%2C560&ssl=1)
+![](/images/blog/1974195e617e.jpg)
 
 #### Hi Janice, tell us about your current gig
 

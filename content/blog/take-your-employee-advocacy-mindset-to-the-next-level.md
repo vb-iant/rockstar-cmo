@@ -19,7 +19,7 @@ sourceUrl: https://rockstarcmo.com/take-your-employee-advocacy-mindset-to-the-ne
 
 **It sounds obvious, but businesses are missing it: your employees are more important to the success of your company than you think. Our resident rock star Ted Rubin breaks down how you can build an environment that your employees can create, innovate and thrive in.**
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/shridhar-gupta-678685-unsplash.jpg?fit=834%2C556)
+![](/images/blog/61e82c74fcc9.jpg)
 
 Employee advocacy isn’t just about having your employees post on their social channels about your brand. Empowering employees to be more than just mouthpieces for your brand is a way to go beyond advocacy—and benefit both your employees and your brand.
 

@@ -21,7 +21,7 @@ sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-richard-shotton/
 
 ***This issue we hop on the tour bus with the author of one of our favorite recent marketing reads, Richard Shotton, the writer of The Choice Factory, a best-selling book on using behavioral science in marketing. We find out what inspired this former media planner to write and set up his own consultancy.***
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/05/DSC_0785.jpg?fit=834%2C552&ssl=1)
+![](/images/blog/7dfcaa3650f7.jpg)
 
 #### **You are an author and founder of a consultancy, tell us about your current gig**
 
@@ -158,7 +158,7 @@ That should be ready within the next week or so!
 
 ---
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/05/DSC_0779.jpg?fit=834%2C552&ssl=1)
+![](/images/blog/52b0d0eeaa92.jpg)
 
 Richard is the author of The Choice Factory, a best-selling book on how to apply findings from behavioral science to advertising. The Choice Factory topped a global poll organized by ad agency by BBH to find the best book ever written on advertising.
 

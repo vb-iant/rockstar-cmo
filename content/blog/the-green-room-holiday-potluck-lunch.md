@@ -21,7 +21,7 @@ sourceUrl: https://rockstarcmo.com/the-green-room-holiday-potluck-lunch/
 
 ***In this issue we’ve grabbed our backstage pass for holiday treats in the Green Room. In a tradition we’ve borrowed from the US, the potluck lunch where everyone brings a favorite of theirs to share, we’ve asked our Rockstars what they would bring from this year to share with the world of marketing.***
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/11/gifts-from-the-green-room-2.png?fit=834%2C437&ssl=1)
+![](/images/blog/d5bd7f89302b.png)
 
 ---
 
@@ -96,7 +96,7 @@ This erosion of the art of advertising combined with the intrusiveness of ads ha
 
 My learning this year, therefore, is that there has to be a greater focus on omnichannel storytelling and on delivering a value exchange with the audience if we wish to win the war of apathy and disinterest with the ads we produce.
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/11/20190709_spark4429386-scaled.jpg?fit=834%2C556&ssl=1)
+![](/images/blog/3464f1a5b39c.jpg)
 
 *Ahmed Hasan is Global Head of Customer Engagement Marketing at [Spark44](http://spark44.com/) (an agency dedicated to the global marketing of Jaguar Land Rover brands) Ahmed Hasan has spent his career carving out success in unorthodox ways.*
 

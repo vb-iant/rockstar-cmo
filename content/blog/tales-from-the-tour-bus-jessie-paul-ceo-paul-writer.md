@@ -21,7 +21,7 @@ sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-jessie-paul-ceo-paul-
 
 ***Ian Truscott catches up with Jessie Paul, CEO of Paul Writer, an Indian based B2B agency and they chat about her experience as a CMO of some of the biggest organizations in India, the current crisis and what she'd thrown into the Rockstar CMO Swimming Pool.***
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2020/05/tales-from-the-tour-bus-Jessie.png?fit=834%2C437&ssl=1)
+![](/images/blog/ecd37dcb1b55.png)
 
 ---
 

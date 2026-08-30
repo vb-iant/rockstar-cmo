@@ -20,7 +20,7 @@ sourceUrl: https://rockstarcmo.com/the-slim-chance-of-truth-in-the-influencer-si
 
 ---
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/10/keagan-henman-sCTuvTHJE4I-unsplash.jpg?fit=683%2C1024&ssl=1)
+![](/images/blog/ba3f7cbc473b.jpg)
 
 I’m a sucker for a bad luck story. Or more specifically, a ‘my purchase has gone horribly wrong’ story.
 

@@ -20,7 +20,7 @@ sourceUrl: https://rockstarcmo.com/get-fans-with-a-brand-or-big-data/
 
 ---
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2020/03/kaiyu-wu-A_INCt6UTgM-unsplash-scaled.jpg?fit=834%2C626&ssl=1)
+![](/images/blog/8b3dd6ef8803.jpg)
 
 Right
 now there is a tug of war happening in business.

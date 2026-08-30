@@ -116,7 +116,7 @@ strong, authentic personal brand. In a noisy, attention-deficit world, let your
 personal brand speak for you to attract and earn the admiration you desire and
 deserve as a standout CMO.
 
-[![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2019/07/Tenure-Comparisons-of-C-Suite.png?fit=648%2C1024&ssl=1)](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/Tenure-Comparisons-of-C-Suite.png)
+[![](/images/blog/08cc0f6ae7f0.png)](https://rockstarcmo.wpengine.com/wp-content/uploads/2019/07/Tenure-Comparisons-of-C-Suite.png)
 
 [*Source: Korn Ferry*](https://www.kornferry.com/press/age-and-tenure-in-the-c-suite-korn-ferry-institute-study-reveals-trends-by-title-and-industry) *|* [*Image: Infographic*](http://static.kornferry.com/media/sidebar_downloads/Tenure-Comparisons-of-C-Suite.pdf)
 

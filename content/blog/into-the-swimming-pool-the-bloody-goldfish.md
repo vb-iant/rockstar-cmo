@@ -32,7 +32,7 @@ It seems this all started in 2015 with a study by Microsoft in Canada that repor
 
 The problem, as many subsequent researchers have written – (including [this from the BBC](https://www.bbc.co.uk/news/health-38896790)), there is no evidence to suggest that fish have a particularly low attention span. Or, even that the attention of span of humans is declining.
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/09/photo-1520366498724-709889c0c685.jpeg?fit=834%2C556&ssl=1)
+![](/images/blog/2c9143c52fc2.jpeg)
 
 What IS happening is that we have more stuff to focus our attention on, we have the same attention span, it’s just as marketers we have WAY more competition for that attention. And, (as LinkedIn’s Jason Miller points out in [this post](https://business.linkedin.com/marketing-solutions/blog/best-practices--content-marketing/2016/the-great-goldfish-attention-span-myth--and-why-its-killing-cont)) to market on this declining attention span myth is flawed.
 

@@ -68,7 +68,7 @@ supporting entrepreneurs has always been something I am passionate about. Thus,
 my background heavily influences how I approach my work, how I show up as a
 marketer, and how I serve my clients.
 
-[![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/08/maxresdefault.jpg?fit=834%2C469&ssl=1)](https://www.youtube.com/watch?v=EfDvU3aaYns&feature=youtu.be)
+[![](/images/blog/ed62fd677259.jpg)](https://www.youtube.com/watch?v=EfDvU3aaYns&feature=youtu.be)
 
 When my husband and I started our business
 back in 2006, we had three clients. Two were small businesses run by women, and

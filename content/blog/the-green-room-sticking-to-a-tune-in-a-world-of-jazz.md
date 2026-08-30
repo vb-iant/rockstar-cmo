@@ -23,7 +23,7 @@ sourceUrl: https://rockstarcmo.com/the-green-room-sticking-to-a-tune-in-a-world-
 
 ---
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/07/shutterstock_1055565206.jpg?fit=834%2C429&ssl=1)
+![](/images/blog/a92345d13db0.jpg)
 
 In this month's Green Room, the topic of conversation was this:
 

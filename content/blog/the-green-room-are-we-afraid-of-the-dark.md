@@ -40,15 +40,15 @@ This is the question for the Green Room this month and we sit down with Ted Rubi
 
 ### In the age of dark browsing, ad-blockers, cynicism, legislation and very real concerns about privacy – what do you recommend marketers focus on?
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2018/04/ted-rubin-3-1024x640.jpg?ssl=1&resize=659%2C659)
+![](/images/blog/24d3b6071de1.jpg)
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/F9B51DC-FF12-4BB2-9A5E-3B98074F11E9-profileimgupload.jpg?ssl=1&resize=500%2C500)
+![](/images/blog/385a44aabe61.jpg)
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2019/02/Wendy-Beswick-Headshot-2-square.png?ssl=1&resize=600%2C600)
+![](/images/blog/5a84664c05e7.png)
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2018/09/robert-rose-e1546086041492-1024x1024.jpg?ssl=1&resize=500%2C500)
+![](/images/blog/3ee3ae37b0f1.jpg)
 
-![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2018/11/casey-e1545490443660.jpeg?ssl=1&resize=339%2C339)
+![](/images/blog/9d3b9d2c902e.jpeg)
 
 ---
 

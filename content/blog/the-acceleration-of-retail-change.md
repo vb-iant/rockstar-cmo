@@ -21,7 +21,7 @@ sourceUrl: https://rockstarcmo.com/the-acceleration-of-retail-change/
 
 ---
 
-![](https://i2.wp.com/rockstarcmo.com/wp-content/uploads/2020/04/freestocks-_3Q3tsJ01nc-unsplash-scaled.jpg?fit=834%2C556&ssl=1)
+![](/images/blog/4667294efabc.jpg)
 
 Retail has been in a state of change for years now. After a fitful start in Dotcom1, alternative channels have been growing steadily and offering shoppers a multitude of ways to discover, obtain, and service stuff that does and does not include a store. Shoppers have responded in ways that aren’t linear but rather they have started shopping how THEY wanted to vs. how they were previously able to.
 

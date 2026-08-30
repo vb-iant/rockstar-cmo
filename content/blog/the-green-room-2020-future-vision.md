@@ -17,7 +17,7 @@ sourceId: '4975'
 sourceUrl: https://rockstarcmo.com/the-green-room-2020-future-vision/
 ---
 
-![](https://i1.wp.com/rockstarcmo.com/wp-content/uploads/2020/01/2020-green-room-promo.png?fit=834%2C437&ssl=1)
+![](/images/blog/a884d3e725b5.png)
 
 ***Every month in the Green Room we pose a question to our Rockstar CMOs that’s top of mind for us in the Rockstar CMO penthouse. Hanging out with rock stars backstage rarely gives anyone 2020 vision, but as we welcome a new decade, what do they think is the future for marketing?***
 
