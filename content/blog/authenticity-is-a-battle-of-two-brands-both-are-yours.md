@@ -18,7 +18,7 @@ sourceId: '968'
 sourceUrl: https://rockstarcmo.com/authenticity-is-a-battle-of-two-brands-both-are-yours/
 ---
 
-**Think you’ve only got one brand? You actually have two, argues** [**Ian Truscott**](https://rockstarcmo.wpengine.com/ian-truscott)**. And the space between them is crucial to ensuring your brand’s authenticity – and trustworthiness.**
+**Think you’ve only got one brand? You actually have two, argues** [**Ian Truscott**](/tags/author/ian-truscott)**. And the space between them is crucial to ensuring your brand’s authenticity – and trustworthiness.**
 
 ![](/images/blog/a29518bc89bf.jpg)
 

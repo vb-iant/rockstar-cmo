@@ -16,11 +16,11 @@ sourceUrl: https://rockstarcmo.com/into-the-pool-12-omnichannel-for-the-sake-of-
 
 ![](/images/blog/700f2b800d22.jpg)
 
-**Every month we throw a shady or outdated practice, dose of snake oil or over-hyped buzzword into the special place in marketing hell that is the Rockstar CMO Swimming Pool. This month, Ian Truscott is inspired by L. Michelle Smith as he looks to heft “omnichannel for the sake of it” off the penthouse balcony. Don’t agree?**[**Tweet us!**](https://rockstarcmo.wpengine.com/)
+**Every month we throw a shady or outdated practice, dose of snake oil or over-hyped buzzword into the special place in marketing hell that is the Rockstar CMO Swimming Pool. This month, Ian Truscott is inspired by L. Michelle Smith as he looks to heft “omnichannel for the sake of it” off the penthouse balcony. Don’t agree?**[**Tweet us!**](/)
 
 ![](/images/blog/242728f9bc47.jpeg)
 
-Dallas native, [L. Michelle Smith](https://lmichellesmith.com/) is an author, speaker and marketing leader with over 25 years of experience as a communicator and integrated marketer. When I went [backstage with her](https://rockstarcmo.wpengine.com/backstage-with-l-michelle-smith/), we discussed what she would like to see plunging into the Rockstar CMO Swimming pool and this is what she shared:
+Dallas native, [L. Michelle Smith](https://lmichellesmith.com/) is an author, speaker and marketing leader with over 25 years of experience as a communicator and integrated marketer. When I went [backstage with her](/blog/backstage-with-l-michelle-smith), we discussed what she would like to see plunging into the Rockstar CMO Swimming pool and this is what she shared:
 
 > “while omnichannel has its place in some consumer experiences and can be effective, sometimes this surround sound approach can be super-sensory overload and, in some cases, borderline creepy if not executed with care. Some targeted audiences aren’t tuned in to every channel and prefer their messages in particular ways and spaces, and become endeared. If you can hit one or two channels with just the right message, creative and nuances, that audience will keep returning for more”
 

@@ -61,7 +61,7 @@ Not renowned for its social conscience, even Wall Street is paying attention to 
 >
 > Seth Godin
 
-This is not new advice, in fact we touch on this many times on Rockstar CMO (we even devoted [a whole issue](https://rockstarcmo.wpengine.com/nevermind/) to the topic), but when it comes to having a social point of view, you can’t just make this shit up.
+This is not new advice, in fact we touch on this many times on Rockstar CMO (we even devoted [a whole issue](/tags/issue/nevermind) to the topic), but when it comes to having a social point of view, you can’t just make this shit up.
 
 Poor products or poor service might make people grumpy, but mess with what people hold in even higher esteem, their values and feelings, then to affront these, to be ***a liar*** just makes people angry.
 

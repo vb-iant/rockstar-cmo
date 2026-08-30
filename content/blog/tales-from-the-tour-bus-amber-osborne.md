@@ -67,7 +67,7 @@ Currently, I don’t have any gigs booked for the summer but I am always open fo
 
 ---
 
-This was our second interview with Amber, in the first, when we went backstage with her, she suggested our favorite addition to any CMO rider; mandatory karaoke team building! [Read more of that interview.](https://rockstarcmo.wpengine.com/backstage-with-amber-osborne/)
+This was our second interview with Amber, in the first, when we went backstage with her, she suggested our favorite addition to any CMO rider; mandatory karaoke team building! [Read more of that interview.](/blog/backstage-with-amber-osborne)
 
 ---
 

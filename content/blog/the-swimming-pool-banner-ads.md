@@ -27,7 +27,7 @@ You have to feel sorry for the banner ad, 20 years ago, at the dawn of internet 
 Today, this once-proud digital marketing servant is barely noticed in the cacophony of pop-ups, annoying remarketing that follow us across the internet and consent forms that now make up the modern web browsing experience. They don’t even rate as annoying anymore, they are ignored.
 
 Worse, as Jasmine suggested [when we
-went backstage with her](https://rockstarcmo.wpengine.com/backstage-with-jasmine-martirossian/), they don’t perform:
+went backstage with her](/blog/backstage-with-jasmine-martirossian), they don’t perform:
 
 > “They do not produce any leads, and even their value for driving brand awareness is highly questionable because users have become so sophisticated that they either block banner ads or scan past them.  Yet billions of dollars are spent on banner ads every year”
 

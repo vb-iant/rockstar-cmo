@@ -37,4 +37,4 @@ When combining consumer (remember... everyone influences someone, and often the 
    
  [#RetailRelevancy](https://twitter.com/hashtag/RetailRelevancy?src=hash) [~~#~~FollowThePath](https://twitter.com/hashtag/FollowThePath?src=hash) <#RonR>… [#NoLetUp!](https://twitter.com/hashtag/NoLetUp?src=hash)
 
-*Discover more about Ted's experience and what motivates him as a marketer in [our backstage interview.](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)*
+*Discover more about Ted's experience and what motivates him as a marketer in [our backstage interview.](/blog/backstage-with-ted-rubin)*

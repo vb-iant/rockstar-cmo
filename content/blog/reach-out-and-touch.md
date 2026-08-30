@@ -17,7 +17,7 @@ sourceId: '1119'
 sourceUrl: https://rockstarcmo.com/reach-out-and-touch/
 ---
 
-**This summer thousands of revelers sought out the ultimate festival experience. Though it wasn’t guitar shredding or whiplash they were hoping for. For this growing community, the rockstar headliners are brewers, chefs and potters.** **How exactly have these artisans become headline acts?** [**Amie Knights**](https://rockstarcmo.wpengine.com/amie-knights) **talks to the Craft Revolution, furniture maker Heather Scott and design journalist Katie Treggiden, to get the backstage scoop.**
+**This summer thousands of revelers sought out the ultimate festival experience. Though it wasn’t guitar shredding or whiplash they were hoping for. For this growing community, the rockstar headliners are brewers, chefs and potters.** **How exactly have these artisans become headline acts?** [**Amie Knights**](/tags/author/amie-knights) **talks to the Craft Revolution, furniture maker Heather Scott and design journalist Katie Treggiden, to get the backstage scoop.**
 
 ![](/images/blog/0636aebd92a2.jpg)
 
@@ -57,7 +57,7 @@ Look at online craft retailer [Etsy](https://www.etsy.com). With over 54 million
 
 Then there’s social media. Instagram is brimming with artisanal makers. It’s even created celebrity craftspeople, like potter [Jono Smart](https://www.instagram.com/jonosmart/), who has a whopping 90,000 followers. It’s here that makers can let consumers in on their story and processes – the stuff that’s increasingly informing purchasing choices. “That idea of things being authentic and people wanting a part of that really supports makers. Instagram Stories is incredibly popular. People want to know where their things have come from. They want to be part of a story,” says Scott.
 
-Whether it’s your lunch or a ceramic mug, knowing the provenance of the products you choose to consume can be seen as a reaction to distrust in big corporations. It’s about a demand for transparency, which brands now need to step up to (read [All the Young Prudes](https://rockstarcmo.wpengine.com/opinion/all-the-young-prudes) to read more about this).
+Whether it’s your lunch or a ceramic mug, knowing the provenance of the products you choose to consume can be seen as a reaction to distrust in big corporations. It’s about a demand for transparency, which brands now need to step up to (read [All the Young Prudes](/blog/all-the-young-prudes) to read more about this).
 
 > “I think it’s really important to be authentic about the way you engage with the movement as a brand.”
 

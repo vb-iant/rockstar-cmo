@@ -16,7 +16,7 @@ sourceId: '1554'
 sourceUrl: https://rockstarcmo.com/cpg-brands-need-to-find-their-voice/
 ---
 
-**Our resident rock star,** [Ted Rubin](https://rockstarcmo.wpengine.com/ted-rubin)**, on why the sound and voice of your brand is the next frontier to explore.**
+**Our resident rock star,** [Ted Rubin](/tags/author/ted-rubin)**, on why the sound and voice of your brand is the next frontier to explore.**
 
 ![](/images/blog/1ec08baa3e3b.jpg)
 

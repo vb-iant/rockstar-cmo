@@ -18,7 +18,7 @@ sourceId: '3379'
 sourceUrl: https://rockstarcmo.com/into-the-pool-13-surface-and-no-substance/
 ---
 
-***In [The Brand New Thang Issue](https://rockstarcmo.wpengine.com/category/issues/brand-new-thang/) we were fortunate enough to go [backstage with Margaret Molloy](https://rockstarcmo.wpengine.com/backstage-with-margaret-molloy/), Global CMO for [Siegel+Gale](https://www.siegelgale.com/). In this issue we explore her nomination for the Rockstar CMO Swimming Pool, our portal to marketing hell for all the BS, shady or outdated practices, snake oil or over-hyped buzzwords in this industry.***
+***In [The Brand New Thang Issue](/tags/issue/brand-new-thang) we were fortunate enough to go [backstage with Margaret Molloy](/blog/backstage-with-margaret-molloy), Global CMO for [Siegel+Gale](https://www.siegelgale.com/). In this issue we explore her nomination for the Rockstar CMO Swimming Pool, our portal to marketing hell for all the BS, shady or outdated practices, snake oil or over-hyped buzzwords in this industry.***
 
 ![](/images/blog/bbd4f700d2b3.jpg)
 
@@ -26,7 +26,7 @@ sourceUrl: https://rockstarcmo.com/into-the-pool-13-surface-and-no-substance/
 
 ![](/images/blog/64dd73ac3462.jpg)
 
-When we chatted with Margaret Molloy, the Global Chief Marketing Officer at [Siegel+Gale](https://www.siegelgale.com/), her reputation for bringing sense and sensibility (a potent blend of analytics and creative thinking) to everything she does was clear throughout the interview, as she shared her experience and some gems of straight talking advice ([check it out!).](https://rockstarcmo.wpengine.com/backstage-with-margaret-molloy/)
+When we chatted with Margaret Molloy, the Global Chief Marketing Officer at [Siegel+Gale](https://www.siegelgale.com/), her reputation for bringing sense and sensibility (a potent blend of analytics and creative thinking) to everything she does was clear throughout the interview, as she shared her experience and some gems of straight talking advice ([check it out!).](/blog/backstage-with-margaret-molloy)
 
 This was especially evident when she nominated this for the Rockstar CMO Swimming Pool:
 

@@ -23,7 +23,7 @@ sourceUrl: https://rockstarcmo.com/case-studies-how-to-create-marketing-gold/
 
 ![](/images/blog/a2241410fb87.jpg)
 
-I talk a lot about the three objectives for marketing, that I call ART, we need to raise **Awareness**, increase **Revenue** and create **Trust** (you can read more about this [here](https://appropingo1.wpengine.com/the-art-of-b2b-marketing/)). Without trust, your ability to create awareness and revenue is kinda screwed and there is no better way to engender trust than with case studies and their development should be top of the list for any marketer.
+I talk a lot about the three objectives for marketing, that I call ART, we need to raise **Awareness**, increase **Revenue** and create **Trust** (you can read more about this [here](/blog/the-art-of-b2b-marketing)). Without trust, your ability to create awareness and revenue is kinda screwed and there is no better way to engender trust than with case studies and their development should be top of the list for any marketer.
 
 If you study marketing, what separates the great marketing books from the mediocre is always the case studies. The alignment of the author with these practitioners and brands, building trust that we should keep reading and pay attention. It’s exactly the same with your brand story.
 

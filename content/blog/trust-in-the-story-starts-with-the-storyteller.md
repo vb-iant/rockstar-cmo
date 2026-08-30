@@ -17,7 +17,7 @@ sourceId: '1155'
 sourceUrl: https://rockstarcmo.com/trust-in-the-story-starts-with-the-storyteller/
 ---
 
-**Think authenticity guarantees your brand success? You can be authentic all you like, argues** [**Robert Rose**](https://rockstarcmo.wpengine.com/robert-rose)**. But if your brand can’t be trusted, it won’t make any difference.**
+**Think authenticity guarantees your brand success? You can be authentic all you like, argues** [**Robert Rose**](/tags/author/robert-rose)**. But if your brand can’t be trusted, it won’t make any difference.**
 
 ![](/images/blog/8178abe9769c.jpg)
 

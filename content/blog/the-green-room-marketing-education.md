@@ -51,7 +51,7 @@ My top three are #1 right attitude/cultural fit; #2 relevant experience and skil
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
-*Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
@@ -121,6 +121,6 @@ Having a degree or not doesn’t matter to me. I’m interested in what you’ve
 
 ![](/images/blog/a36c32f4287f.png)
 
-Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).*﻿*
+Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](/blog/backstage-with-wendy-bryant-beswick).*﻿*
 
 ---

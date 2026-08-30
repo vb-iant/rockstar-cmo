@@ -43,7 +43,7 @@ leaders for advice and we asked them:
 
 ![](/images/blog/ccbe8e57c218.jpeg)
 
-Amber Osborne is CMO at Doghead Simulations – the company behind rumii, a social-virtual reality space that enables collaboration in VR. Amber suggested mandatory karaoke when we [went backstage with her](https://rockstarcmo.wpengine.com/backstage-with-amber-osborne/).
+Amber Osborne is CMO at Doghead Simulations – the company behind rumii, a social-virtual reality space that enables collaboration in VR. Amber suggested mandatory karaoke when we [went backstage with her](/blog/backstage-with-amber-osborne).
 
 ## Jenni Young
 
@@ -53,7 +53,7 @@ Amber Osborne is CMO at Doghead Simulations – the company behind rumii, a soci
 
 ![](/images/blog/b465dc0ed057.jpg)
 
-Jenni Young is Managing Director at Partnership for Growth & Innovation (LBHF & Imperial College London) and the CMO of Tappit, a cashless payment platform for event organizers. Go backstage with her [here](https://rockstarcmo.wpengine.com/backstage-with-jenni-young/).
+Jenni Young is Managing Director at Partnership for Growth & Innovation (LBHF & Imperial College London) and the CMO of Tappit, a cashless payment platform for event organizers. Go backstage with her [here](/blog/backstage-with-jenni-young).
 
 ## Robert Rose
 
@@ -69,7 +69,7 @@ Jenni Young is Managing Director at Partnership for Growth & Innovation (LBHF &
 
 As the Chief Strategy Advisor for the [Content Marketing Institute](http://contentmarketinginstitute.com/), Robert innovates creative and technical content marketing strategies for his clients. An early internet pioneer, Robert has more than 15 years of experience, and a track record of helping brands and businesses develop successful web and content marketing strategies.
 
-Learn more about Robert, as we went [backstage with him](https://rockstarcmo.wpengine.com/backstage-with-robert-rose/) in our first issue.
+Learn more about Robert, as we went [backstage with him](/blog/backstage-with-robert-rose) in our first issue.
 
 ## 
 
@@ -81,23 +81,23 @@ Learn more about Robert, as we went [backstage with him](https://rockstarcmo.wpe
 
 ![](/images/blog/a1ef977196a0.png)
 
-Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).
+Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](/blog/backstage-with-wendy-bryant-beswick).
 
 ## 
 
 ## Ted Rubin
 
-Ted generously shared with us a great deal on this topic (which you can read [here)](https://rockstarcmo.wpengine.com/six-steps-to-keeping-it-real-with-ted-rubin%ef%bb%bf/) Here’s an excerpt:
+Ted generously shared with us a great deal on this topic (which you can read [here)](/blog/six-steps-to-keeping-it-real-with-ted-rubin) Here’s an excerpt:
 
 *"I’m constantly seeking out the opinions of others, and I’m very big on treating the people I encounter with respect and humanity. But none of that stops me from speaking my mind when it’s time to produce content.*
 
 *The tough thing about trying to please everyone all the time with your content is that it makes it very difficult to speak your mind. You have your own ideas, opinions, and perspectives on what is happening around you. Your experience is valuable, and it should be a major factor in your voice when you’re creating content."*
 
-Read all of Ted's [Six Steps to Keeping it Real](https://rockstarcmo.wpengine.com/six-steps-to-keeping-it-real-with-ted-rubin%ef%bb%bf/)
+Read all of Ted's [Six Steps to Keeping it Real](/blog/six-steps-to-keeping-it-real-with-ted-rubin)
 
 ![](/images/blog/55c967b9a1b5.jpg)
 
-*Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits, speaker, author and provocateur. Ted is our resident rock star and tells it straight in his*[*regular column*](https://rockstarcmo.wpengine.com/author/ted-rubin/)*.*
+*Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits, speaker, author and provocateur. Ted is our resident rock star and tells it straight in his*[*regular column*](/tags/author/ted-rubin)*.*
 
 ## Christine Bailey
 
@@ -109,7 +109,7 @@ Read all of Ted's [Six Steps to Keeping it Real](https://rockstarcmo.wpengine.co
 
 ![](/images/blog/ba9d29423491.jpg)
 
-Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A [here](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/).
+Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A [here](/blog/backstage-with-christine-bailey).
 
 ## **Me?**
 
@@ -134,4 +134,4 @@ Thanks to Amber, Jenni, Robert, Ted, Wendy and Christine for stepping into the G
 *Agree? What would your advice be? Drop us a
 comment,*[*tweet us*](http://twitter.com/rockstarcmo)*,**and if you feel really strongly about
 it,*[*write for
-us*](https://rockstarcmo.wpengine.com/write-for-us/)*.*
+us*](/contact)*.*

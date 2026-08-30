@@ -17,7 +17,7 @@ sourceId: '901'
 sourceUrl: https://rockstarcmo.com/the-ordinary-seat-at-the-extraordinary-table/
 ---
 
-**[Robert Rose](https://rockstarcmo.wpengine.com/robert-rose) on why celebrating the ordinary things in our lives can lead to, well, the extraordinary.**
+**[Robert Rose](/tags/author/robert-rose) on why celebrating the ordinary things in our lives can lead to, well, the extraordinary.**
 
 ![](/images/blog/ed0e59209cea.jpg)
 

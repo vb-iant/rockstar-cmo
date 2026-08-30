@@ -100,6 +100,6 @@ chooses the best payment option, automated ordering and replenishment will make
 us wonder why we ever thought about buying toothpaste or deodorant... it will
 just show up when needed.
 
-[Simplicity has become the new order-winner for retail.](https://rockstarcmo.wpengine.com/simplicity-is-the-new-every-day-low-price/) Price, promotion, place,
+[Simplicity has become the new order-winner for retail.](/blog/simplicity-is-the-new-every-day-low-price) Price, promotion, place,
 product, all matter (and no amount of simplicity will help a bad product), but
 friction-free shopping reigns supreme.

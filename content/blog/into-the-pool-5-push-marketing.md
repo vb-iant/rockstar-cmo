@@ -22,7 +22,7 @@ sourceUrl: https://rockstarcmo.com/into-the-pool-5-push-marketing/
 
 ![](/images/blog/df0b392fbe57.jpg)
 
-I’m seeing a pattern, our marketing rock stars do not like anything that’s easy, cheap, driven by the machine and annoys 99.99% of the people it touches. We’ve already chucked out [retargeting](https://rockstarcmo.wpengine.com/opinion/ian-truscott-retargeting) and [programmatic](https://rockstarcmo.wpengine.com/opinion/into-the-pool-3-programmatic) and in this issue, inspired by our backstage chat with [John Andrews](https://rockstarcmo.wpengine.com/opinion/backstage-with-john-andrews) from the [last issue](https://rockstarcmo.wpengine.com/ok-computer), we're casting an eye over push marketing to see how many of us it will take to lift it off the balcony.
+I’m seeing a pattern, our marketing rock stars do not like anything that’s easy, cheap, driven by the machine and annoys 99.99% of the people it touches. We’ve already chucked out [retargeting](/blog/ian-truscott-retargeting) and [programmatic](/blog/into-the-pool-3-programmatic) and in this issue, inspired by our backstage chat with [John Andrews](/blog/backstage-with-john-andrews) from the [last issue](/tags/issue/ok-computer), we're casting an eye over push marketing to see how many of us it will take to lift it off the balcony.
 
 In John’s opinion:
 

@@ -32,7 +32,7 @@ sourceUrl: https://rockstarcmo.com/the-rockstar-cmo-hall-of-fame/
 
 **Darren Guarnaccia** – “Don Miller and his book *Building a StoryBrand*. I also fell in love with Simon Sinek's *Start with Why*book. Both tell a similar story, and helped ground me in the power of storytelling and how to best understand your customer. Seth Godin's permission-based marketing is my bible for thinking about customers and shaping their experiences.”
 
-**Christine Bailey – “**Because I value my network over everything, I’m going to induct [Ted Rubin](https://rockstarcmo.wpengine.com/ted-rubin), for his ROR (Return on Relationship) philosophy.”
+**Christine Bailey – “**Because I value my network over everything, I’m going to induct [Ted Rubin](/tags/author/ted-rubin), for his ROR (Return on Relationship) philosophy.”
 
 **Jenny Young – “**Cindy Gallop - from advertising guru, to someone on a mission to change the world. Her drive for gender equality is incredible and her social media presence is great - frank, funny and very, very powerful. Anyone who has the LinkedIn intro “I like to blow shit up. I am the Michael Bay of business” deserves that spot in the Hall of Fame.”
 

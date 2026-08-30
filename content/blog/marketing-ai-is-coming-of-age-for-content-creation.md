@@ -16,7 +16,7 @@ sourceId: '5086'
 sourceUrl: https://rockstarcmo.com/marketing-ai-is-coming-of-age-for-content-creation/
 ---
 
-***It’s not a new prediction that artificial intelligence is coming to marketing, not just the rules engines that get dressed up as intelligence in a sales pitch, but the real deal machine learning thing. However, those predictions normally focus on audience insights, while in this article [Photofy](https://photofy.com/) CEO [John Andrews](https://rockstarcmo.wpengine.com/backstage-with-john-andrews/) shares a fresh perspective, of what this technology could mean for content creators. Is this something scary we should have posted about on Halloween or an opportunity for content marketers in the new decade?***
+***It’s not a new prediction that artificial intelligence is coming to marketing, not just the rules engines that get dressed up as intelligence in a sales pitch, but the real deal machine learning thing. However, those predictions normally focus on audience insights, while in this article [Photofy](https://photofy.com/) CEO [John Andrews](/blog/backstage-with-john-andrews) shares a fresh perspective, of what this technology could mean for content creators. Is this something scary we should have posted about on Halloween or an opportunity for content marketers in the new decade?***
 
 ![](/images/blog/8af097bf8cac.jpg)
 

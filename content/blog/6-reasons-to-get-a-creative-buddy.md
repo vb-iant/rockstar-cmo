@@ -63,7 +63,7 @@ Then once it’s a bit more formed, you can focus on refining, knocking the edge
 
 It’s hard to be bold alone, even the most single minded superhero needs a buddy (sometimes more than one if you an Avenger).
 
-Here on this blog I've argued that as a B2B marketer you need to [feel the fear and be different anyway](http://%20https//appropingo1.wpengine.com/feel-the-fear-and-be-different-anyway/) there is no commercial advantage to being like everyone else.
+Here on this blog I've argued that as a B2B marketer you need to [feel the fear and be different anyway](/blog/feel-the-fear-and-be-different-anyway) there is no commercial advantage to being like everyone else.
 
 Your empathy with the internal friction, the immune system that is trying to suppress ideas, could restrict your creativity. Everyone in the business is going to be *very* happy with a small iteration of the message, a website that is slightly fresher, but is all reassuringly familiar – a project that’s shiny new, but still painted in your fathers magnolia emulsion.
 
@@ -95,7 +95,7 @@ While I feel strongly abut creative collaboration, it’s important that externa
 
 You are a marketer, not *just* a contract manager, budget holder and project plate spinner. I argue strongly that creative leadership needs to be in-house – you need a creative buddy, not a creative boss.
 
-If you need a buddy - [Let us know](https://appropingo1.wpengine.com/#contact),
+If you need a buddy - [Let us know](/contact),
 
 ---
 

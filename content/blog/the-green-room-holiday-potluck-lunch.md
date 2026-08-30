@@ -37,7 +37,7 @@ The key is in having a content strategy that leverages not only what is created 
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
-[Read more from Robert](https://rockstarcmo.wpengine.com/author/robert-rose/)
+[Read more from Robert](/tags/author/robert-rose)
 
 ---
 
@@ -45,7 +45,7 @@ The key is in having a content strategy that leverages not only what is created 
 
 ![](/images/blog/62fbd2207b5e.jpg)
 
-*In [this article](https://rockstarcmo.wpengine.com/data:-the-gift-that-keeps-on-giving/), Christine Bailey, CMO of Valitor, an international payment solutions company, gets into the holiday spirit with the gift of data. Not that old regifted parcel we’ve all been passing around, but something a little more polished - and she has the research to prove it - and you can have it too.*
+*In [this article](/blog/data-the-gift-that-keeps-on-giving), Christine Bailey, CMO of Valitor, an international payment solutions company, gets into the holiday spirit with the gift of data. Not that old regifted parcel we’ve all been passing around, but something a little more polished - and she has the research to prove it - and you can have it too.*
 
 *[[ READ MORE ]](https://rockstarcmo.wpengine.com/data:-the-gift-that-keeps-on-giving/)*
 
@@ -100,7 +100,7 @@ My learning this year, therefore, is that there has to be a greater focus on omn
 
 *Ahmed Hasan is Global Head of Customer Engagement Marketing at [Spark44](http://spark44.com/) (an agency dedicated to the global marketing of Jaguar Land Rover brands) Ahmed Hasan has spent his career carving out success in unorthodox ways.*
 
-*Read more from when we went [backstage with Ahmed.](https://rockstarcmo.wpengine.com/backstage-with-ahmed-hasan/)*
+*Read more from when we went [backstage with Ahmed.](/blog/backstage-with-ahmed-hasan)*
 
 ---
 
@@ -108,11 +108,11 @@ My learning this year, therefore, is that there has to be a greater focus on omn
 
 ![](/images/blog/6bc97080831b.png)
 
-*In [this article](https://rockstarcmo.wpengine.com/your-customer-experience-is-your-brand/), Wendy Bryant-Beswick, VP Marketing for Service Credit Union gets in the spirit and shares her spoonful of advice:*
+*In [this article](/blog/your-customer-experience-is-your-brand), Wendy Bryant-Beswick, VP Marketing for Service Credit Union gets in the spirit and shares her spoonful of advice:*
 
 *"be open and look deeply at your company. Be a consumer. Always seek customer feedback and talk to your customers*"
 
-*[Read the whole article.](https://rockstarcmo.wpengine.com/your-customer-experience-is-your-brand/)*
+*[Read the whole article.](/blog/your-customer-experience-is-your-brand)*
 
 ---
 
@@ -126,7 +126,7 @@ A much more SEO-friendly approach is to get decent, yet not perfect, content pos
 
 *Jasmine Martirossian, PhD, is the Vice President of Marketing at TÜV SÜD Americas, where she is responsible for all areas and aspects of marketing from strategy to implementation for the region, with focus on the United States, Canada, Mexico, and Brazil.  Prior to this, Jasmine Martirossian was the Vice President of Marketing at TTA (The Training Associates).*
 
-*Read more from [our backstage interview.](https://rockstarcmo.wpengine.com/backstage-with-jasmine-martirossian/)*
+*Read more from [our backstage interview.](/blog/backstage-with-jasmine-martirossian)*
 
 ---
 

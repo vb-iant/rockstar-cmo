@@ -26,7 +26,7 @@ sourceUrl: https://rockstarcmo.com/the-rise-of-the-marketing-machines-david-apon
 
 In
 last month’s [Green
-Room](https://rockstarcmo.wpengine.com/the-green-room-the-rise-of-the-marketing-machines/) we sat down with six of our Rockstar CMO’s
+Room](/blog/the-green-room-the-rise-of-the-marketing-machines) we sat down with six of our Rockstar CMO’s
 and asked them about the impact of technology on the craft of marketing and the
 response got us curious about what folks in the marketing technology industry
 made of this discussion.
@@ -37,7 +37,7 @@ The first person I asked was David Aponovich, Senior Director of Digital Experie
 
 However, I know David better from his time as a Forrester analyst and so aside from his credentials as a leader of a vendor whose products clearly feature in a lot of our marketing technology stacks, he maintains a keen eye on the industry and it was my pleasure to chat about the trends that our little band identified.
 
-*In this interview I refer to*[*this article*](https://rockstarcmo.wpengine.com/the-green-room-the-rise-of-the-marketing-machines/)*from last months issue and this is a response to that – suggest you check that out first.*
+*In this interview I refer to*[*this article*](/blog/the-green-room-the-rise-of-the-marketing-machines)*from last months issue and this is a response to that – suggest you check that out first.*
 
 ## Is the bubble bursting on Martech?
 
@@ -71,7 +71,7 @@ However, I know David better from his time as a Forrester analyst and so aside f
 
 *Not at all - they’re not mutually exclusive. Although it takes a deft touch to ensure marketing automation technology doesn’t pull the soul out of your customer communications.*
 
-*I like what Ted Rubin said* [*in this article*](https://rockstarcmo.wpengine.com/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care/)*, that people seeking customer service want to interact with someone who understands them, and that they’re “not interested in a canned message, a fake conversation, or a process that spins aimlessly.”*
+*I like what Ted Rubin said* [*in this article*](/blog/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care)*, that people seeking customer service want to interact with someone who understands them, and that they’re “not interested in a canned message, a fake conversation, or a process that spins aimlessly.”*
 
 *Marketers need to hit the brakes on the frequency (and uniformity) that automation allows, and seek instead to communicate carefully in the moments that really matter, with messages in context to the individual.*
 
@@ -86,4 +86,4 @@ However, I know David better from his time as a Forrester analyst and so aside f
 
 Fabulous, thank you David!
 
-*You can read David’s* [*Three Traits of Successful CMOs,*](https://rockstarcmo.wpengine.com/three-traits-of-successful-cmos/) *follow him* [*on Twitter*](https://twitter.com/daponovich) *or learn more about* [*Acquia*](https://acquia.com/)*.*
+*You can read David’s* [*Three Traits of Successful CMOs,*](/blog/three-traits-of-successful-cmos) *follow him* [*on Twitter*](https://twitter.com/daponovich) *or learn more about* [*Acquia*](https://acquia.com/)*.*

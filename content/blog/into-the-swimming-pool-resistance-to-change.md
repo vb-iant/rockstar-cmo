@@ -22,9 +22,9 @@ sourceUrl: https://rockstarcmo.com/into-the-swimming-pool-resistance-to-change/
 
 ![](/images/blog/3d5d7c78cd36.jpg)
 
-As you may have read in [The Pretender issue](https://rockstarcmo.wpengine.com/category/issues/the-pretender-issue/) I’ve had the pleasure of hanging out with Ahmed Hasan, the Global Head of Customer Engagement Marketing at [Spark44](http://spark44.com/) (an agency dedicated to the global marketing of Jaguar Land Rover brands).
+As you may have read in [The Pretender issue](/tags/issue/the-pretender-issue) I’ve had the pleasure of hanging out with Ahmed Hasan, the Global Head of Customer Engagement Marketing at [Spark44](http://spark44.com/) (an agency dedicated to the global marketing of Jaguar Land Rover brands).
 
-I [went backstage with him](https://rockstarcmo.wpengine.com/backstage-with-ahmed-hasan/) and as an industry innovator that has helped shift this venerable British brand firmly into relevance in the 21st century, I was not surprised by the pet peeve. He suggested we chuck into the Rockstar CMO Swimming Pool "the resistance to change".
+I [went backstage with him](/blog/backstage-with-ahmed-hasan) and as an industry innovator that has helped shift this venerable British brand firmly into relevance in the 21st century, I was not surprised by the pet peeve. He suggested we chuck into the Rockstar CMO Swimming Pool "the resistance to change".
 
 Specifically, he said:
 
@@ -35,7 +35,7 @@ and clients that need to feel the beat and, if you forgive the shift in
 metaphor, we are often holding the canary that can detect the relevance of the
 brand, product or service that we are taking into the world.
 
-Disruption is the watch word of the digital age, but of course change is nothing new, like the four-piece boy band, it’s been a constant in the charts. Back in 1960 renowned marketing pioneer Theodore Levitt (considered [a hero](https://rockstarcmo.wpengine.com/heroes/) here at the Rockstar CMO penthouse) penned [Marketing Myopia](https://en.wikipedia.org/wiki/Marketing_myopia) that discussed how companies can become obsolete when they misunderstand their market.
+Disruption is the watch word of the digital age, but of course change is nothing new, like the four-piece boy band, it’s been a constant in the charts. Back in 1960 renowned marketing pioneer Theodore Levitt (considered a hero here at the Rockstar CMO penthouse) penned [Marketing Myopia](https://en.wikipedia.org/wiki/Marketing_myopia) that discussed how companies can become obsolete when they misunderstand their market.
 
 One example Levitt discussed back then, before Amazon came
 along and seemingly gobbled up our high streets, was the demise of the railways

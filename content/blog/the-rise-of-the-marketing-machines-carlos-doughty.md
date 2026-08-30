@@ -23,7 +23,7 @@ sourceUrl: https://rockstarcmo.com/the-rise-of-the-marketing-machines-carlos-dou
 
 ![](/images/blog/8af097bf8cac.jpg)
 
-In last month’s [Green Room](https://rockstarcmo.wpengine.com/the-green-room-the-rise-of-the-marketing-machines/) we sat down with six of our Rockstar CMO’s and asked them about the impact of technology on the craft of marketing and their response got us curious about what folks in the marketing technology industry made of this discussion.
+In last month’s [Green Room](/blog/the-green-room-the-rise-of-the-marketing-machines) we sat down with six of our Rockstar CMO’s and asked them about the impact of technology on the craft of marketing and their response got us curious about what folks in the marketing technology industry made of this discussion.
 
 For this interview, I sat down with Carlos Doughty, Founder and Marketing Technology Lead at [MarTech Alliance](https://www.martechalliance.com/), who for over a decade has been at the sharp end of marketing technology, both client side and as a consultant.
 
@@ -33,7 +33,7 @@ Carlos is also the force behind the successful [Martech Festival](https://www.ma
 
 If you get the opportunity to meet Carlos, you’ll find he talks with an incredible enthusiasm for our craft and the tools we use, and I knew he’d have an opinion and insight into the trends our little band of CMOs had discussed. I wasn’t disappointed.
 
-*In this interview I refer to* [*this article*](https://rockstarcmo.wpengine.com/the-green-room-the-rise-of-the-marketing-machines/) *from last months issue and this is a response to that - suggest you check that out first.*
+*In this interview I refer to* [*this article*](/blog/the-green-room-the-rise-of-the-marketing-machines) *from last months issue and this is a response to that - suggest you check that out first.*
 
 ## Is the bubble bursting on Martech?
 

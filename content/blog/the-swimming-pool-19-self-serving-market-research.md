@@ -25,7 +25,7 @@ sourceUrl: https://rockstarcmo.com/the-swimming-pool-19-self-serving-market-rese
 ![](/images/blog/9b339fae8b00.jpg)
 
 Last issue we hopped aboard [the
-Tour Bus with the rather wonderful Sydni Craig-Hart](https://rockstarcmo.wpengine.com/tales-from-the-tour-bus-sydni-craig-hart/) and chatted about her
+Tour Bus with the rather wonderful Sydni Craig-Hart](/blog/tales-from-the-tour-bus-sydni-craig-hart) and chatted about her
 journey leading an agency with a talent for helping small businesses run by women
 and minorities, and we talked how this experience has developed into working
 with an impressive array of big tech companies as they look to diversify their
@@ -58,4 +58,4 @@ Rockstar Swimming Pool filter, joining the rest of all that is wrong with this
 wonderful marketing discipline.
 
 You can read [the
-full interview with Sydni here](https://rockstarcmo.wpengine.com/tales-from-the-tour-bus-sydni-craig-hart/).
+full interview with Sydni here](/blog/tales-from-the-tour-bus-sydni-craig-hart).

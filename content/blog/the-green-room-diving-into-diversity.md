@@ -40,23 +40,23 @@ All of this, requires an understanding from your leadership team of the value of
 
 Ahmed Hasan is Global Head of Customer Engagement Marketing at [Spark44](http://spark44.com/) (an agency dedicated to the global marketing of Jaguar Land Rover brands) Ahmed Hasan has spent his career carving out success in unorthodox ways. Ahmed was formerly Chief Digital Officer at GE Healthcare.
 
-Learn more about Ahmed in our [backstage interview](https://rockstarcmo.wpengine.com/backstage-with-ahmed-hasan/).
+Learn more about Ahmed in our [backstage interview](/blog/backstage-with-ahmed-hasan).
 
 ---
 
 ## Wendy Bryant-Beswick
 
-When we asked Wendy about diversity, we got [this fantastic](https://rockstarcmo.wpengine.com/diversity;-not-just-a-party-invite,-its-inclusion-in-the-plan)[article](https://rockstarcmo.wpengine.com/diversity;-not-just-a-party-invite,-its-inclusion-in-the-plan) and in it Wendy shares this simple piece of advice:
+When we asked Wendy about diversity, we got [this fantastic](/blog/diversity-not-just-a-party-invite-its-inclusion-in-the-plan)[article](/blog/diversity-not-just-a-party-invite-its-inclusion-in-the-plan) and in it Wendy shares this simple piece of advice:
 
 > Here’s how I always think of diversity and inclusion: diversity is being invited to the party, and inclusion is being asked to plan the party.
 
-[Read more](https://rockstarcmo.wpengine.com/diversity-not-just-a-party-invite-its-inclusion-in-the-plan/)
+[Read more](/blog/diversity-not-just-a-party-invite-its-inclusion-in-the-plan)
 
 ![](/images/blog/6bc97080831b.png)
 
 *Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*
 
-[*Go backstage with Wendy*](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)*.﻿*
+[*Go backstage with Wendy*](/blog/backstage-with-wendy-bryant-beswick)*.﻿*
 
 ---
 
@@ -108,7 +108,7 @@ With this in mind, and after making sure that people have the right skills and c
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
-*Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
@@ -122,4 +122,4 @@ We leave the last word to Robert Rose, who, in our conversation referred to [thi
 
 Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts [This Old Marketing](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) and founder and Founder, Chief Trouble Maker at [The Content Advisory.](https://contentadvisory.net/)
 
-[Read more from Robert](https://rockstarcmo.wpengine.com/author/robert-rose/)
+[Read more from Robert](/tags/author/robert-rose)

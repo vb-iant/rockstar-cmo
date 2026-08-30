@@ -25,7 +25,7 @@ sourceUrl: https://rockstarcmo.com/the-sample-3-2020-marketing-predictions-from-
 
 ## Martech
 
-Marketing technology is something we keep returning to at Rockstar CMO. It creeps into a lot of our discussions and we have a whole section on the topic ([The Martech Mix Desk](https://rockstarcmo.wpengine.com/category/topics/the-martech-mix-desk/)). This prediction for 2020 came earlier in the year from [Anand Thaker](https://twitter.com/anandthaker?lang=en) on [Martech Today](https://martechtoday.com/).
+Marketing technology is something we keep returning to at Rockstar CMO. It creeps into a lot of our discussions and we have a whole section on the topic ([The Martech Mix Desk](/tags/series/the-martech-mix-desk)). This prediction for 2020 came earlier in the year from [Anand Thaker](https://twitter.com/anandthaker?lang=en) on [Martech Today](https://martechtoday.com/).
 
 ![](https://martechtoday.com/images/authors/AnandThaker-lg.jpg)
 
@@ -37,13 +37,13 @@ What I like about this is that Anand suggests we slow down, focus on the people 
 
 ![Image result for tom ward under the influence](/images/blog/04b4143e92ac.jpg)
 
-We dedicated [The Running in Circles Issue](https://rockstarcmo.wpengine.com/the-running-in-circles-issue/) to influencer marketing, as it’s been a hot topic for our community. For predictions for 2020 we’ve picked an article on Forbes from [Tom Ward](https://twitter.com/motdraw1), host of [the Under The Influence YouTube channel](https://www.youtube.com/channel/UCqDjUsk9qGdMWj1q6rFHEJQ). While articles on Forbes are drowned in ads and pop-ups, click them away and enjoy this, as Tom chats to B2C influencers and industry insider and gets their opinion on what’s in store for 2020:
+We dedicated [The Running in Circles Issue](/tags/issue/the-running-in-circles-issue) to influencer marketing, as it’s been a hot topic for our community. For predictions for 2020 we’ve picked an article on Forbes from [Tom Ward](https://twitter.com/motdraw1), host of [the Under The Influence YouTube channel](https://www.youtube.com/channel/UCqDjUsk9qGdMWj1q6rFHEJQ). While articles on Forbes are drowned in ads and pop-ups, click them away and enjoy this, as Tom chats to B2C influencers and industry insider and gets their opinion on what’s in store for 2020:
 
 **Read on:** [**The Influencer Marketing Trends That Are Coming In 2020**](https://www.forbes.com/sites/tomward/2019/12/27/the-influencer-marketing-trends-that-are-coming-in-2020/#468ac0e13536)
 
 ## Employee engagement
 
-As we discuss in [The Employee Amplification](https://rockstarcmo.wpengine.com/category/topics/employee-engagement/) section, we recognize that marketing starts at home, our colleagues and employees are not just the first line in the customer experience that really defines the brand, but are also an often neglected audience for amplification and influence.
+As we discuss in The Employee Amplification section, we recognize that marketing starts at home, our colleagues and employees are not just the first line in the customer experience that really defines the brand, but are also an often neglected audience for amplification and influence.
 
 ![](https://media.licdn.com/dms/image/C5103AQFxX6KM1dhd2g/profile-displayphoto-shrink_200_200/0?e=1583366400&v=beta&t=_ge_9jAZ7zKgRot_SBscWkddKFpDDDmTP5xEWGWvIec)
 
@@ -62,7 +62,7 @@ is plenty to dig into in this excellent article:
 
 Pretty much whatever you are marketing, whether it’s B2B or B2C your audience is broadening and becoming more diverse and being inclusive is not just the right thing to do socially and creatively, but it’s a marketing opportunity.
 
-We dedicated [a whole issue](https://rockstarcmo.wpengine.com/the-people-are-people-issue/) to the topic. In this, our next selected predictions article, staffing company [Randstad](https://www.randstad.com/) shares some research-based predictions for the future of the workplace, including D&I (Diversity & Inclusion) that underline the need to have D&I in your marketing plans:
+We dedicated [a whole issue](/tags/issue/the-people-are-people-issue) to the topic. In this, our next selected predictions article, staffing company [Randstad](https://www.randstad.com/) shares some research-based predictions for the future of the workplace, including D&I (Diversity & Inclusion) that underline the need to have D&I in your marketing plans:
 
 **Read on:** [**D&I impact *is* business impact**](https://rlc.randstadusa.com/for-business/learning-center/future-workplace-trends/2020-predictions#header-chapter2)
 

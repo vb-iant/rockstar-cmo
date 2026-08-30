@@ -19,11 +19,11 @@ sourceUrl: https://rockstarcmo.com/into-the-pool-11-one-and-done/
 
 ![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/aftab-chandsha-433315-unsplash-1.jpg?fit=834%2C486)
 
-**Every month we throw a shady or outdated practice, dose of snake oil or over-hyped buzzword into the special place in marketing hell that is the Rockstar CMO Swimming Pool. This month, Ian Truscott is inspired by** [**Wendy Bryant-Beswick**](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)**, VP of Marketing at Service Credit Union, and ponders if time is up for ‘one and done’ marketing. Don’t agree?** [**Tweet us!**](https://rockstarcmo.wpengine.com)
+**Every month we throw a shady or outdated practice, dose of snake oil or over-hyped buzzword into the special place in marketing hell that is the Rockstar CMO Swimming Pool. This month, Ian Truscott is inspired by** [**Wendy Bryant-Beswick**](/blog/backstage-with-wendy-bryant-beswick)**, VP of Marketing at Service Credit Union, and ponders if time is up for ‘one and done’ marketing. Don’t agree?** [**Tweet us!**](/)
 
 ![](https://i0.wp.com/rockstarcmo.com/wp-content/uploads/2019/01/Wendy-Beswick-Headshot-2-copy.png?fit=697%2C1024)
 
-Rock stars have a reputation for throwing things into the swimming pool at the slightest provocation and when I went backstage for a Q&A with award-winning marketer [Wendy Bryant-Beswick](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/), VP of Marketing at Service Credit Union, it didn’t take much encouragement for her to suggest that ‘one and done marketing’ needed to be flung off the Rockstar CMO penthouse balcony to its chlorinated demise.
+Rock stars have a reputation for throwing things into the swimming pool at the slightest provocation and when I went backstage for a Q&A with award-winning marketer [Wendy Bryant-Beswick](/blog/backstage-with-wendy-bryant-beswick), VP of Marketing at Service Credit Union, it didn’t take much encouragement for her to suggest that ‘one and done marketing’ needed to be flung off the Rockstar CMO penthouse balcony to its chlorinated demise.
 
 Here’s what Wendy shared with me:
 
@@ -41,7 +41,7 @@ I’m not hating on those that preach or teach Agile Marketing, it just shouldn�
 
 Sure, like every part of a commercial organization the timeframes have compressed, in every discipline the data has got better, manufacturing, logistics and supply chain have benefited from automation and it’s the same for marketing.
 
-But, it’s still the same agile discipline it’s always been. Oh and we chucked this Agile Marketing snake oil [in the Swimming Pool already](https://rockstarcmo.wpengine.com/into-the-pool-agile-marketing/).
+But, it’s still the same agile discipline it’s always been. Oh and we chucked this Agile Marketing snake oil [in the Swimming Pool already](/blog/into-the-pool-agile-marketing).
 
 Sure, we love our models, our matrixes, our content plans, our journey maps, the planned budget for the quarter (after the next two) and the creative process is often long, maybe difficult and we grow to love and be vested in the work.
 

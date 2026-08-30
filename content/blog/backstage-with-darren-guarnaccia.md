@@ -67,4 +67,4 @@ Seth Godin. I love his writing, I love how he can write small, powerful books, a
 
 Quality over quantity. There's way too many crappy pieces of head-candy marketing out there. The listicles and clickbait titles. Write longer and more meaningful pieces that really explain the why, what and how of your story. Teach people instead of just teasing, and deliver value to your customer in every encounter.
 
-*Find out more about Darren* [*here*](https://rockstarcmo.wpengine.com/darren-guarnaccia)*, and follow him on* [*Twitter*](https://twitter.com/dguarnaccia)*.*
+*Find out more about Darren* [*here*](/tags/author/darren-garnaccia)*, and follow him on* [*Twitter*](https://twitter.com/dguarnaccia)*.*

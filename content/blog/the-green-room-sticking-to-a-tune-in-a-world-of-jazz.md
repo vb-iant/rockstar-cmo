@@ -49,7 +49,7 @@ As three young ladies from the band TLC sang, "Don't go chasing waterfalls, list
 
 ![](/images/blog/a8a25771648f.jpg)
 
-*Amber Osborne is CMO at Doghead Simulations – the company behind rumii, a social-virtual reality space that enables collaboration in VR. Amber suggested mandatory karaoke when we*[*went backstage with her*](https://rockstarcmo.wpengine.com/backstage-with-amber-osborne/)*.*
+*Amber Osborne is CMO at Doghead Simulations – the company behind rumii, a social-virtual reality space that enables collaboration in VR. Amber suggested mandatory karaoke when we*[*went backstage with her*](/blog/backstage-with-amber-osborne)*.*
 
 ---
 
@@ -61,7 +61,7 @@ Because the volume of noise is so high these days, I think we’ve almost become
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
-*Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
@@ -81,7 +81,7 @@ While our calendar and business plan are constantly reviewed, I also advise meet
 
 ![](/images/blog/a36c32f4287f.png)
 
-*Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)*.﻿*
+*Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](/blog/backstage-with-wendy-bryant-beswick)*.﻿*
 
 ---
 
@@ -93,7 +93,7 @@ Three of our Rockstars had a little more to say on the topic, that you can find 
 
 #### Robert Rose
 
-The founder and Chief Trouble Maker at The Content Advisory suggests we reach for the film The Princess Bride for inspiration. No, he really does and he'll fight you on that. [Read more](https://rockstarcmo.wpengine.com/marketing-strategy-change-of-course-as-you-wish/)
+The founder and Chief Trouble Maker at The Content Advisory suggests we reach for the film The Princess Bride for inspiration. No, he really does and he'll fight you on that. [Read more](/blog/marketing-strategy-change-of-course-as-you-wish)
 
 ![](/images/blog/f04796e0e527.jpg)
 
@@ -101,7 +101,7 @@ The founder and Chief Trouble Maker at The Content Advisory suggests we reach fo
 
 What’s the key to an unwavering marketing focus? Our resident Rockstar Ted Rubin tells it like it is – keep the customer front and center, avoid unnecessary automation and ditch the bots
 
-[Read more](https://rockstarcmo.wpengine.com/beware-automation/)
+[Read more](/blog/beware-automation)
 
 ![](/images/blog/41add14f75b0.jpg)
 
@@ -109,6 +109,6 @@ What’s the key to an unwavering marketing focus? Our resident Rockstar Ted Rub
 
 When you’re under pressure it’s easy to take short-cuts to tech solutions. But the focus a good strategy provides is vital to making the right decisions, shares VP of Marketing at Crownpeak, Ian Lowe
 
-[Read more](https://rockstarcmo.wpengine.com/theres-no-substitute-for-strategy/)
+[Read more](/blog/theres-no-substitute-for-strategy)
 
 ---

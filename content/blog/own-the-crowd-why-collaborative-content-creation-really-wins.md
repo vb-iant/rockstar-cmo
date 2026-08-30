@@ -17,7 +17,7 @@ sourceId: '1127'
 sourceUrl: https://rockstarcmo.com/own-the-crowd-why-collaborative-content-creation-really-wins/
 ---
 
-**CEO of Photofy** [**John Andrews**](https://rockstarcmo.wpengine.com/john-andrews) **considers how collaboration with your employees could make your digital content sing…**
+**CEO of Photofy** [**John Andrews**](/tags/author/john-andrews) **considers how collaboration with your employees could make your digital content sing…**
 
 ![](/images/blog/32dc9da5171f.jpg)
 

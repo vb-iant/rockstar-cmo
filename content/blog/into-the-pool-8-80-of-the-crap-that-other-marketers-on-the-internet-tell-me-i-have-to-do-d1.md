@@ -17,11 +17,11 @@ sourceId: '912'
 sourceUrl: https://rockstarcmo.com/into-the-pool-8-80-of-the-crap-that-other-marketers-on-the-internet-tell-me-i-have-to-do-d1/
 ---
 
-[**Amber Osborne**](/amber-osborne) **inspires** [**Ian Truscott**](/ian-truscott) **this month, as she tires of some of the crap marketing advice that’s being hawked across the internet. Think they’re wrong?** [**Let us know**](https://rockstarcmo.wpengine.com/contact-us)**.**
+[**Amber Osborne**](/amber-osborne) **inspires** [**Ian Truscott**](/ian-truscott) **this month, as she tires of some of the crap marketing advice that’s being hawked across the internet. Think they’re wrong?** [**Let us know**](/contact)**.**
 
 ![](/images/blog/9b339fae8b00.jpg)
 
-It’s Halloween, things are getting a bit out of hand and oh yes, we are going there. Inspired by Doghead Simulations CMO Amber Osborne and her [fantastic Backstage Q&A](https://rockstarcmo.wpengine.com/opinion/backstage-with-amber-osborne), we are practically throwing ourselves in the pool as we shove “80% of the crap that other marketers on the internet tell me I have to do” off the hotel balcony – well, once Amber is done with the karaoke.
+It’s Halloween, things are getting a bit out of hand and oh yes, we are going there. Inspired by Doghead Simulations CMO Amber Osborne and her [fantastic Backstage Q&A](/blog/backstage-with-amber-osborne), we are practically throwing ourselves in the pool as we shove “80% of the crap that other marketers on the internet tell me I have to do” off the hotel balcony – well, once Amber is done with the karaoke.
 
 It’s hard to be in marketing and not to feel the anxiety and social pressure that a quick saunter through LinkedIn, Twitter or even your email box can bring, as seemingly each tweet, update and unsolicited sales email suggests that YOU ARE DOING IT WRONG and here are the top five, seven or 10 things you SHOULD be doing now.
 
@@ -43,4 +43,4 @@ And, I gotta say that’s part of the reason we started Rockstar CMO – so we c
 
 Of course, like the old saying from John Wanamaker that “half the money I spend on advertising is wasted; the trouble is I don't know which half”, it’s going to be a struggle for us to know which 80% of “the crap that other marketers on the internet tell me I have to do” has got to go splash, and which stays dry here in our penthouse suite – but we are giving it a go!
 
-Don’t agree? Let us know what you’d throw into our [Rockstar CMO swimming pool](https://rockstarcmo.wpengine.com/the-swimming-pool).
+Don’t agree? Let us know what you’d throw into our [Rockstar CMO swimming pool](/tags/series/the-swimming-pool).

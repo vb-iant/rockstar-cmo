@@ -41,7 +41,7 @@ We are all becoming numb to the noise, the fake news, the lies, and the doublesp
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
-[*Read more from Robert*](https://rockstarcmo.wpengine.com/author/robert-rose/)
+[*Read more from Robert*](/tags/author/robert-rose)
 
 ---
 
@@ -65,7 +65,7 @@ In the end, it's all about communication, whether in writing or in voice… Are 
 
 *Kate Bradley Chernis is the Founder & CEO of [Lately](https://trylately.com/), which uses Artificial Intelligence to automatically transform blogs, videos and podcasts into dozens of amazing social posts.*
 
-*Learn more from when we went [backstage with Kate](https://rockstarcmo.wpengine.com/backstage-with-kate-bradley-chernis/)*
+*Learn more from when we went [backstage with Kate](/blog/backstage-with-kate-bradley-chernis)*
 
 ---
 
@@ -79,7 +79,7 @@ For me, that is artificial and self-serving (YES, I realize for the most part ma
 
 Maybe the current political climate has opened my eyes to truth in advertising (or ‘truth’ period), but like I say all the time about how I market Ted Rubin (and my businesses)... "I do not want to sell myself, I want to be bought."  
    
- I have spoken a lot this past year about changing our marketing mindset from [‘targeting’ to ‘matchmaking’](https://rockstarcmo.wpengine.com/why-its-time-to-change-the-conversation-from-targeting-to-match-making/)... and I believe this change in mindset will lead to a valuable and necessary change in approach for marketers.  
+ I have spoken a lot this past year about changing our marketing mindset from [‘targeting’ to ‘matchmaking’](/blog/why-its-time-to-change-the-conversation-from-targeting-to-match-making)... and I believe this change in mindset will lead to a valuable and necessary change in approach for marketers.  
    
  It’s not that the idea of targeting is always a bad thing, even from the consumer’s perspective. It's the mode of thinking that results, the culture we create, and the results we produce.
 
@@ -87,11 +87,11 @@ Maybe the current political climate has opened my eyes to truth in advertising (
 
 A match is something more lasting, even if it’s not permanent. If I’m matched with a service, brand, or marketing campaign that genuinely addresses my needs, then ideally that’s just the start of a longer relationship. I gain confidence that the brand is interested in me as more than a statistic, and the brand has a much easier path to learning more about me. It’s a collaboration, rather than a one-sided, transaction-based relationship.
 
-So MY future of marketing in 2020 is to [#FollowThePath](https://rockstarcmo.wpengine.com/ted-rubin-follow-the-path/) I've been paving, continue to do everything I can to instill a new thought process, a more valuable mindset, in the marketing community, and to embrace the incredible value of the Rockstar CMO Community that Ian has built and nurtured. Always remember... ***a network give you reach, a community gives you power!***
+So MY future of marketing in 2020 is to [#FollowThePath](/blog/ted-rubin-follow-the-path) I've been paving, continue to do everything I can to instill a new thought process, a more valuable mindset, in the marketing community, and to embrace the incredible value of the Rockstar CMO Community that Ian has built and nurtured. Always remember... ***a network give you reach, a community gives you power!***
 
 ![](/images/blog/39fbb3339ce7.jpg)
 
-*Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
+*Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](/blog/backstage-with-ted-rubin)
 
 ---
 
@@ -119,7 +119,7 @@ Buckle up. Rockstar CMOs are going to be busy….
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
-*Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
@@ -129,6 +129,6 @@ Buckle up. Rockstar CMOs are going to be busy….
 
 ***What are your marketing resolutions?***
 
-On the topic of the future; Jasmine Martirossian shares her 3 resolutions for 2020 marketing success. [Read them here.](https://rockstarcmo.wpengine.com/three-resolutions-for-2020-marketing-success/)
+On the topic of the future; Jasmine Martirossian shares her 3 resolutions for 2020 marketing success. [Read them here.](/blog/three-resolutions-for-2020-marketing-success)
 
 ---

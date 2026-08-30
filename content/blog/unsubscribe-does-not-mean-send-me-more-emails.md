@@ -17,7 +17,7 @@ sourceId: '1586'
 sourceUrl: https://rockstarcmo.com/unsubscribe-does-not-mean-send-me-more-emails/
 ---
 
-**Ever unsubscribe from a mailing list only to keep getting emails from the brand in question? You’re not alone. It’s actually one of** [**Ted Rubin’s**](https://rockstarcmo.wpengine.com/ted-rubin) **biggest pet peeves, and here’s why.**
+**Ever unsubscribe from a mailing list only to keep getting emails from the brand in question? You’re not alone. It’s actually one of** [**Ted Rubin’s**](/tags/author/ted-rubin) **biggest pet peeves, and here’s why.**
 
 ![](/images/blog/8221b3f166b6.jpg)
 

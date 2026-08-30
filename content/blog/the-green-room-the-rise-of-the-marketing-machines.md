@@ -18,13 +18,13 @@ sourceId: '3431'
 sourceUrl: https://rockstarcmo.com/the-green-room-the-rise-of-the-marketing-machines/
 ---
 
-***Each month in the Green Room we return backstage to pose a question to a group of our Rockstar CMOs. In this issue Ian Truscott catches up with six of them and, sticking to the [Ghost in the Machine](https://rockstarcmo.wpengine.com/the-ghost-in-the-machine-issue) theme for this issue, asks for their view on whether tech has been a force for good for marketing.***
+***Each month in the Green Room we return backstage to pose a question to a group of our Rockstar CMOs. In this issue Ian Truscott catches up with six of them and, sticking to the [Ghost in the Machine](/tags/issue/the-ghost-in-the-machine-issue) theme for this issue, asks for their view on whether tech has been a force for good for marketing.***
 
 ![](/images/blog/8af097bf8cac.jpg)
 
 Maybe it’s because my teenage kids were curious about where all the Terminator derived memes come from, leading to our Friday movie and pizza nights being dominated by a Arnie and a human purging dystopia ruled by the machines, but in the Green Room this issue we've been thinking about marketing tech.
 
-Whilst it’s true, we don’t have issues on the scale of Skynet (yet), sometimes the marketing machines seem to be killing us with death by a thousand facebook ads or as Ted Rubin points out in his [regular straight talking column](https://rockstarcmo.wpengine.com/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care/), making us a bit, well…. lazy.
+Whilst it’s true, we don’t have issues on the scale of Skynet (yet), sometimes the marketing machines seem to be killing us with death by a thousand facebook ads or as Ted Rubin points out in his [regular straight talking column](/blog/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care), making us a bit, well…. lazy.
 
 So, in this issue, I asked our Rockstar’s what they thought,
 gathering them into our virtual Green Room to ask:
@@ -43,7 +43,7 @@ Most importantly, keep an open mind - sometimes we don’t even know we want som
 
 ![](/images/blog/2a071060235c.jpg)
 
-*Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
@@ -113,7 +113,7 @@ expressive, and – the word I like to use – wise use of technology.
 
 *As the Chief Strategy Advisor for the*[*Content Marketing Institute*](http://contentmarketinginstitute.com/)*, Robert innovates creative and technical content marketing strategies for his clients. An early internet pioneer, Robert has more than 15 years of experience, and a track record of helping brands and businesses develop successful web and content marketing strategies.*
 
-*Learn more about Robert, as we went* [*backstage with him*](https://rockstarcmo.wpengine.com/backstage-with-robert-rose/) *in our very first issue.*
+*Learn more about Robert, as we went* [*backstage with him*](/blog/backstage-with-robert-rose) *in our very first issue.*
 
 ---
 
@@ -139,7 +139,7 @@ Machines instead of the Machines controlling the Humans.
 
 ![](/images/blog/f04796e0e527.jpg)
 
-*Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits, speaker, author and provocateur. Ted is our resident rock star and tells it straight in his*[*regular column*](https://rockstarcmo.wpengine.com/author/ted-rubin/)*.*
+*Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits, speaker, author and provocateur. Ted is our resident rock star and tells it straight in his*[*regular column*](/tags/author/ted-rubin)*.*
 
 ---
 
@@ -153,7 +153,7 @@ Given new privacy and data regulations, marketing automation has to evolve to es
 
 ![](/images/blog/a36c32f4287f.png)
 
-*Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)*.﻿*
+*Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](/blog/backstage-with-wendy-bryant-beswick)*.﻿*
 
 ---
 
@@ -164,4 +164,4 @@ Thank you Christine, Jeanniey, Wendy, Robert, Ted and John - some fantastic advi
 *Agree? What would your advice be? Drop us a
 comment,*[*tweet us*](http://twitter.com/rockstarcmo)*,**and if you feel really strongly about
 it,*[*write for
-us*](https://rockstarcmo.wpengine.com/write-for-us/)*.*
+us*](/contact)*.*

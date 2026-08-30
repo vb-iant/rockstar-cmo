@@ -17,7 +17,7 @@ sourceId: '5161'
 sourceUrl: https://rockstarcmo.com/the-green-room-marketers-and-the-feature-creatures/
 ---
 
-***The Green Room, our excuse to do our best Colombo impression and ask "Just one more thing" to the wonderful Rockstar marketers we've gone [backstage](https://rockstarcmo.wpengine.com/category/features/backstage/) with. This month in keeping with the theme, [The Features Creatures](https://rockstarcmo.wpengine.com/the-features-creatures-issue/), we chatted about marketings' relationship with product development.***
+***The Green Room, our excuse to do our best Colombo impression and ask "Just one more thing" to the wonderful Rockstar marketers we've gone [backstage](/tags/series/backstage) with. This month in keeping with the theme, [The Features Creatures](/tags/issue/the-features-creatures-issue), we chatted about marketings' relationship with product development.***
 
 ![](/images/blog/501a4783190e.jpg)
 
@@ -76,7 +76,7 @@ Our firm belief is, independent of how you’re organized, content (especially) 
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
-[*Read more from Robert*](https://rockstarcmo.wpengine.com/author/robert-rose/)
+[*Read more from Robert*](/tags/author/robert-rose)
 
 ---
 
@@ -99,7 +99,7 @@ Similarly, if the product driver is too strong, you could over invest in a ‘pe
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
-*Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
@@ -107,7 +107,7 @@ Similarly, if the product driver is too strong, you could over invest in a ‘pe
 
 ![](/images/blog/39fbb3339ce7.jpg)
 
-In [this article](https://rockstarcmo.wpengine.com/better-products-better-marketing-better-listen/) our resident Rockstar CMO Ted Rubin shares his advice about getting marketing involved early and the importance of re-evaluating a product with fresh eyes and he warns:
+In [this article](/blog/better-products-better-marketing-better-listen) our resident Rockstar CMO Ted Rubin shares his advice about getting marketing involved early and the importance of re-evaluating a product with fresh eyes and he warns:
 
 "*Our product assessment methodologies need to move away from a mindset of confirmation to a mindset of discovery"*
 

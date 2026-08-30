@@ -28,7 +28,7 @@ It’s too obvious to say this, but it’s never been easier to publish content,
 
 So, how do you stand out, how do you elevate your B2B corporate blog from the sea of opinion to something useful and engaging?
 
-This isn’t a blog post about catchy titles, search engine shenanigans, listicles or social media tricks. Yes, all these tactics attract eyeballs, the objective is to create a sustained relationship through content, to create [ART](https://appropingo1.wpengine.com/the-art-of-b2b-marketing/) (Awareness, Revenue & Trust) and specifically trust. And of course, if people like and trust your content, then the other tactics become more effective.
+This isn’t a blog post about catchy titles, search engine shenanigans, listicles or social media tricks. Yes, all these tactics attract eyeballs, the objective is to create a sustained relationship through content, to create [ART](/blog/the-art-of-b2b-marketing) (Awareness, Revenue & Trust) and specifically trust. And of course, if people like and trust your content, then the other tactics become more effective.
 
 As Ann
 Handley, the Wall Street Journal best-selling author of ‘Everybody Writes’ and ‘Content
@@ -52,7 +52,7 @@ A fabulous example of this is Robert Rose on [The Content Advisory blog](https:/
 
 In most cases the client is anonymous, which makes no difference to their credibility as Robert writes with such authority.
 
-These stories also describe what Robert and his team do, the problem his company solves and the kind of clients they work with, so the content not only works for the audience but informs potential clients (which is also why case studies are [content marketing gold](https://appropingo1.wpengine.com/case-studies-how-to-create-marketing-gold/)).
+These stories also describe what Robert and his team do, the problem his company solves and the kind of clients they work with, so the content not only works for the audience but informs potential clients (which is also why case studies are [content marketing gold](/blog/case-studies-how-to-create-marketing-gold)).
 
 ## #2 - Research
 

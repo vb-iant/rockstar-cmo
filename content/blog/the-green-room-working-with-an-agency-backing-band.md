@@ -45,7 +45,7 @@ They have taken a diverse range of products to market, both B2B and B2C, and of 
 
 ![](/images/blog/2a071060235c.jpg)
 
-**Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A** [**her*e***](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)***.***
+**Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A** [**her*e***](/blog/backstage-with-christine-bailey)***.***
 
 ### Wendy Bryant-Beswick
 
@@ -59,7 +59,7 @@ They have taken a diverse range of products to market, both B2B and B2C, and of 
 
 *Having that blend of creativity, strong business knowledge and marketing technology will help you move the needle wherever you go.*"
 
-**Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.** [**Go backstage with Wendy**](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)**.**
+**Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.** [**Go backstage with Wendy**](/blog/backstage-with-wendy-bryant-beswick)**.**
 
 ### Ted Rubin
 
@@ -69,7 +69,7 @@ They have taken a diverse range of products to market, both B2B and B2C, and of 
 
 *If you don’t know your people, and an agency certainly never truly will, you might as well toss your marketing dollars down the drain."*
 
-**Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits, speaker, author and provocateur. Ted is our resident rock star and tells it straight in his** [**regular column**](https://rockstarcmo.wpengine.com/author/ted-rubin/)**.**
+**Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits, speaker, author and provocateur. Ted is our resident rock star and tells it straight in his** [**regular column**](/tags/author/ted-rubin)**.**
 
 ### **Jenni Young**
 
@@ -79,7 +79,7 @@ They have taken a diverse range of products to market, both B2B and B2C, and of 
 
 *How agencies deal with their own people gives you an idea of how they manage and motivate. Once you’ve selected an agency to work with, you need to trust them and treat them with respect. Set clear ground rules and deliverables. I’ve heard terrible stories about how some marketing teams treat agencies – it’s the quality of people that make the difference to your campaigns – so treat them as you would treat your own team."*
 
-**Jenni Young is Managing Director at Partnership for Growth & Innovation (LBHF & Imperial College London) and the CMO of Tappit, a cashless payment platform for event organizers. Go backstage with her** [**here**](https://rockstarcmo.wpengine.com/backstage-with-jenni-young/)**.**
+**Jenni Young is Managing Director at Partnership for Growth & Innovation (LBHF & Imperial College London) and the CMO of Tappit, a cashless payment platform for event organizers. Go backstage with her** [**here**](/blog/backstage-with-jenni-young)**.**
 
 ### **Me?**
 
@@ -93,4 +93,4 @@ My advice from experience on both sides: Use agencies for skill and scale, don�
 
 **Thanks to John, Christine, Wendy, Ted and Jenni for stepping into the Green Room for this issue, some fantastic advice here.**
 
-Agree? What would your advice be? Drop us a comment, [tweet us](http://twitter.com/rockstarcmo) or if you feel really strongly about it [write for us](https://rockstarcmo.wpengine.com/write-for-us/), we accept guest articles.
+Agree? What would your advice be? Drop us a comment, [tweet us](http://twitter.com/rockstarcmo) or if you feel really strongly about it [write for us](/contact), we accept guest articles.

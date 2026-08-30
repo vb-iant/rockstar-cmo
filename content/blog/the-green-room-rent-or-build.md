@@ -43,7 +43,7 @@ Blending your approach offers more control and puts you in the lead singer spot.
 
 ![](/images/blog/a36c32f4287f.png)
 
-*Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).*
+*Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](/blog/backstage-with-wendy-bryant-beswick).*
 
 ---
 
@@ -65,7 +65,7 @@ Stop that.
 
 *Kate Bradley Chernis is the Founder & CEO of [Lately](https://trylately.com/), which uses Artificial Intelligence to automatically transform blogs, videos and podcasts into dozens of amazing social posts.*
 
-*Learn more from when we went [backstage with Kate](https://rockstarcmo.wpengine.com/backstage-with-kate-bradley-chernis/)*
+*Learn more from when we went [backstage with Kate](/blog/backstage-with-kate-bradley-chernis)*
 
 ---
 
@@ -93,6 +93,6 @@ You can learn more about Eric when we went [backstage with him.](https://rocksta
 
 ![](/images/blog/39fbb3339ce7.jpg)
 
-*Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
+*Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](/blog/backstage-with-ted-rubin)
 
 ---

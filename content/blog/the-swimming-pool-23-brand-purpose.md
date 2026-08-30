@@ -31,7 +31,7 @@ has got our Rockstars riled up.
 
 This month, we are inspired by Peter Morgan, [Metia](https://www.metia.com/)’s VP of Demand, who shared with us some
 of his firm’s research into B2B marketing back in the [Features
-Creatures Issue](https://rockstarcmo.wpengine.com/category/issues/the-features-creatures-issue/) and our Tales from the Tour Bus feature series.
+Creatures Issue](/tags/issue/the-features-creatures-issue) and our Tales from the Tour Bus feature series.
 
 Yes, this time we are picking on something that is based on actual research and not gut feel, which feels right for the theme of this issue as we are discussing the balance between marketing creativity and data. Here is what Peter shared with us:
 

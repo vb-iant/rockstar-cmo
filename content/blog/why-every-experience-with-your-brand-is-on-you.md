@@ -19,7 +19,7 @@ sourceUrl: https://rockstarcmo.com/why-every-experience-with-your-brand-is-on-yo
 
 ![](https://i0.wp.com/rockstarcmo.appropingo.com/wp-content/uploads/2018/12/girl-cafe.jpg?fit=834%2C556&ssl=1)
 
-[**Casey Petersen**](https://rockstarcmo.wpengine.com/casey-petersen)**,** [**Photofy’s**](https://photofy.com) **Vice President of Marketing and Analytics, on why marketing needs to consider every aspect of the consumer experience – from planning and strategy, all the way to customer service.**
+[**Casey Petersen**](/tags/author/casey-petersen)**,** [**Photofy’s**](https://photofy.com) **Vice President of Marketing and Analytics, on why marketing needs to consider every aspect of the consumer experience – from planning and strategy, all the way to customer service.**
 
 I bought a washing machine online.
 

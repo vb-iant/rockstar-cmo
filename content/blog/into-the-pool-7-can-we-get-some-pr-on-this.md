@@ -26,7 +26,7 @@ sourceUrl: https://rockstarcmo.com/into-the-pool-7-can-we-get-some-pr-on-this/
 
 ![](/images/blog/3fc416744864.jpg)
 
-Marketing is probably the business activity, craft or profession that everyone seems to have an opinion about and we are often asked to do things that are disconnected from our goals. During our [backstage Q&A](https://rockstarcmo.wpengine.com/opinion/backstage-with-jenni-young) Jenni Young, CMO of [tappit](https://justtappit.com/), singled out one question that irks her, and nominated it to be chucked into our swimming pool:
+Marketing is probably the business activity, craft or profession that everyone seems to have an opinion about and we are often asked to do things that are disconnected from our goals. During our [backstage Q&A](/blog/backstage-with-jenni-young) Jenni Young, CMO of [tappit](https://justtappit.com/), singled out one question that irks her, and nominated it to be chucked into our swimming pool:
 
 > “The question ‘can we get some PR on this?’ When you hear this, if you can take a minute to actually understand the need behind the ask, and what success actually looks like - with the multitude of marketing channels available - PR is probably not the only way to get the result that’s needed, and the other tactics may be a lot more measurable as well.”
 

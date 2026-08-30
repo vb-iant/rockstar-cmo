@@ -28,7 +28,7 @@ sourceUrl: https://rockstarcmo.com/the-swimming-pool-22-the-lazy-call-to-action/
 
 Rock stars have a reputation for chucking things in swimming pools, and our rock stars are no different. However, the Rockstar CMO Swimming Pool is a portal to hell for all the crap, bullshit acronyms, empty fads and snake oil of marketing.
 
-In this issue, we are joined at the penthouse balcony by founder and CEO of [Lately](https://www.trylately.com/), [Kate Bradley Chernis](https://rockstarcmo.wpengine.com/backstage-with-kate-bradley-chernis/), looking down at the watery abyss as during our [backstage Q&A](https://rockstarcmo.wpengine.com/backstage-with-kate-bradley-chernis/) she asked us to chuck the phrase ‘check out’ into the pool:
+In this issue, we are joined at the penthouse balcony by founder and CEO of [Lately](https://www.trylately.com/), [Kate Bradley Chernis](/blog/backstage-with-kate-bradley-chernis), looking down at the watery abyss as during our [backstage Q&A](/blog/backstage-with-kate-bradley-chernis) she asked us to chuck the phrase ‘check out’ into the pool:
 
 > *The phrase ‘check out’ which is the most vapid, lazy, call-to-action ever invented. STOP IT. Verbs are your friends, people! Think about it: when’s the last time you ever checked out anything anyone ever told you to check out? Never? Exactly.*
 

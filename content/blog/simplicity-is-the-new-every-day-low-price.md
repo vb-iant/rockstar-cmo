@@ -44,4 +44,4 @@ The most successful retailers are already trying to make life simple for their c
 
 *SIMPLICITY is the new EDLP! Make it easy for them... and they will buy it from you again and again and again. Frictionless fulfilment is the retail of the future.*
 
-Keep it simple, and your customers won't be the only ones who benefit. [#RetailRelevancy](https://rockstarcmo.wpengine.com/opinion/ted-rubin-retail-times-are-changin)
+Keep it simple, and your customers won't be the only ones who benefit. [#RetailRelevancy](/blog/ted-rubin-retail-times-are-changin)

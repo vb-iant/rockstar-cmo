@@ -24,13 +24,13 @@ sourceUrl: https://rockstarcmo.com/into-the-swimming-pool-marketing-cant-be-meas
 
 ![](/images/blog/3d5d7c78cd36.jpg)
 
-One of our favorite questions in our [Backstage series](https://rockstarcmo.wpengine.com/category/features/backstage/),
+One of our favorite questions in our [Backstage series](/tags/series/backstage),
 when we get to hang with some fabulous marketers, is to ask them what in
 marketing today they would throw from their hotel window into the Rockstar CMO
 Swimming pool, the portal to a special place in marketing hell from where we
 hope they will never return.
 
-When we [went backstage with Acquia CMO Lynne Capozzi](https://rockstarcmo.wpengine.com/backstage-with-lynne-capozzi/), her pet marketing peeve was this:
+When we [went backstage with Acquia CMO Lynne Capozzi](/blog/backstage-with-lynne-capozzi), her pet marketing peeve was this:
 
 ![](/images/blog/478e10042084.jpg)
 

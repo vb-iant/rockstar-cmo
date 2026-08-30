@@ -43,7 +43,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 ![](/images/blog/4fb8b2ef4554.jpg)
 
-[Ted Rubin](https://rockstarcmo.wpengine.com/ted-rubin) is a leading social marketing strategist, keynote speaker, [Photofy CMO/advisor](https://photofy.com/), MC/host for [Brand Innovators Summits](http://brand-innovators.com/), speaker, author, provocateur. Ted is our resident rockstar and tells it straight in his regular column.
+[Ted Rubin](/tags/author/ted-rubin) is a leading social marketing strategist, keynote speaker, [Photofy CMO/advisor](https://photofy.com/), MC/host for [Brand Innovators Summits](http://brand-innovators.com/), speaker, author, provocateur. Ted is our resident rockstar and tells it straight in his regular column.
 
 ## Jenni Young
 
@@ -53,7 +53,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 *“My answer is headspace. Space to think gives you the chance to come up with great solutions. It’s absolutely no coincidence that some of the most creative and innovative companies have ‘thinking time’ built in to their work schedules and culture.”*
 
-[Jenni Young](https://rockstarcmo.wpengine.com/opinion/backstage-with-jenni-young) is Managing Director at Partnership for Growth & Innovation (LBHF & Imperial College London) and the [CMO of Tappit](https://justtappit.com/), a cashless payment platform for event organizers.
+[Jenni Young](/blog/backstage-with-jenni-young) is Managing Director at Partnership for Growth & Innovation (LBHF & Imperial College London) and the [CMO of Tappit](https://justtappit.com/), a cashless payment platform for event organizers.
 
 ## John Andrews
 
@@ -65,7 +65,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 *So, actual shopper data, capturing real behavior, would be my gift, enabling marketers’ to get much closer to delivering on this objective.”*
 
-[John Andrews](https://rockstarcmo.wpengine.com/john-andrews) is the head honcho at Photofy – a content creation app that enables users to transform ordinary photos into slick, professional images that can be easily shared on social platforms. Find out more about [Photofy](https://photofy.com/), and [follow John on Twitter](https://twitter.com/katadhin?lang=en).
+[John Andrews](/tags/author/john-andrews) is the head honcho at Photofy – a content creation app that enables users to transform ordinary photos into slick, professional images that can be easily shared on social platforms. Find out more about [Photofy](https://photofy.com/), and [follow John on Twitter](https://twitter.com/katadhin?lang=en).
 
 ## Amber Osborne
 
@@ -75,7 +75,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 *“For me, it would have to be putting out as much positivity as possible. The world really needs it right now. You don't have to become a sugary sweet type of person to do this, even saying ‘hello’ to someone that looks like they are going through a rough time, or shooting someone a smile can brighten up one’s day.”*
 
-[Amber Osborne](https://rockstarcmo.wpengine.com/amber-osborne) is CMO at Doghead Simulations – the company behind rumii, a social-virtual reality space that enables collaboration in VR. When we went [backstage with Amber](https://rockstarcmo.wpengine.com/opinion/backstage-with-amber-osborne), she revealed that mandatory Karaoke is on her Rockstar CMO Rider, which is our favorite request so far.
+[Amber Osborne](/tags/author/amber-osborne) is CMO at Doghead Simulations – the company behind rumii, a social-virtual reality space that enables collaboration in VR. When we went [backstage with Amber](/blog/backstage-with-amber-osborne), she revealed that mandatory Karaoke is on her Rockstar CMO Rider, which is our favorite request so far.
 
 ## Wendy Bryant-Beswick
 
@@ -87,7 +87,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 *Having that blend of creativity, strong business knowledge and marketing technology will help you move the needle wherever you go.”*
 
-[Wendy Bryant-Beswick](https://rockstarcmo.wpengine.com/opinion/backstage-with-wendy-bryant-beswick) is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. Go [backstage with Wendy](https://rockstarcmo.wpengine.com/opinion/backstage-with-wendy-bryant-beswick).
+[Wendy Bryant-Beswick](/blog/backstage-with-wendy-bryant-beswick) is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. Go [backstage with Wendy](/blog/backstage-with-wendy-bryant-beswick).
 
 ## Christine Bailey
 
@@ -119,7 +119,7 @@ Seriously people, #BeGoodToPeople even when you don’t need something from them
 
 *And finally, I love a great quote!  If you do too,* [*check out my TEDx Talk*](https://www.youtube.com/watch?v=6Y1gAK46oyo) *‘unconventional career advice’”*
 
-Christine Bailey is CMO of [Valitor](https://www.valitor.com/), an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. [Read more](https://rockstarcmo.wpengine.com/opinion/backstage-with-christine-bailey).
+Christine Bailey is CMO of [Valitor](https://www.valitor.com/), an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. [Read more](/blog/backstage-with-christine-bailey).
 
 ## From me, the Editor…
 

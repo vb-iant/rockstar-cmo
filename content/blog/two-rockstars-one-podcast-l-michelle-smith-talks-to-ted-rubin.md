@@ -19,11 +19,11 @@ sourceId: '3171'
 sourceUrl: https://rockstarcmo.com/two-rockstars-one-podcast-l-michelle-smith-talks-to-ted-rubin/
 ---
 
-**This month two of our favorite Rockstar CMOs got together, as** [**L. Michelle Smith**](https://rockstarcmo.wpengine.com/backstage-with-l-michelle-smith/) **welcomed** [**Ted Rubin**](https://rockstarcmo.wpengine.com/author/ted-rubin/) **to** [***The Culture Soup***](https://www.stitcher.com/podcast/l-michelle-smith/the-culture-soup-podcast/e/58237183) **podcast to talk personal branding. Here we share why we’re shouting for an encore.**
+**This month two of our favorite Rockstar CMOs got together, as** [**L. Michelle Smith**](/blog/backstage-with-l-michelle-smith) **welcomed** [**Ted Rubin**](/tags/author/ted-rubin) **to** [***The Culture Soup***](https://www.stitcher.com/podcast/l-michelle-smith/the-culture-soup-podcast/e/58237183) **podcast to talk personal branding. Here we share why we’re shouting for an encore.**
 
 [![](/images/blog/e15e9f95f000.jpg)](https://lmichellesmith.com/podcast-2/)
 
-L. Michelle Smith – who recently sat down with me for a [Backstage Q&A](https://rockstarcmo.wpengine.com/backstage-with-l-michelle-smith/) – has launched [a podcast](https://lmichellesmith.com/podcast-2/), and it’s definitely worth a listen. As diverse as *The Cultural Soup* title suggests, each episode takes you on a new journey, whether it’s exploring the world of marketing tech start-ups,  standing in respect at Aretha Franklin’s funeral or taking a seat in the salon chair to hear about the pioneers of black hair care.
+L. Michelle Smith – who recently sat down with me for a [Backstage Q&A](/blog/backstage-with-l-michelle-smith) – has launched [a podcast](https://lmichellesmith.com/podcast-2/), and it’s definitely worth a listen. As diverse as *The Cultural Soup* title suggests, each episode takes you on a new journey, whether it’s exploring the world of marketing tech start-ups,  standing in respect at Aretha Franklin’s funeral or taking a seat in the salon chair to hear about the pioneers of black hair care.
 
 ![](/images/blog/f04796e0e527.jpg)
 

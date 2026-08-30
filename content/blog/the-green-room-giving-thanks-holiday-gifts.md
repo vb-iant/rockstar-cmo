@@ -40,7 +40,7 @@ I'm thankful for you and every other lovely human who has selflessly, spontaneou
 
 *Kate Bradley Chernis is the Founder & CEO of [Lately](https://trylately.com/), which uses Artificial Intelligence to automatically transform blogs, videos and podcasts into dozens of amazing social posts.*
 
-*Learn more from when we went [backstage with Kate](https://rockstarcmo.wpengine.com/backstage-with-kate-bradley-chernis/)* *and when she joined us on [the podcast](https://rockstarcmo.com/rockstar-cmo-fm-kate-bradley-chernis/)*.
+*Learn more from when we went [backstage with Kate](/blog/backstage-with-kate-bradley-chernis)* *and when she joined us on [the podcast](https://rockstarcmo.com/rockstar-cmo-fm-kate-bradley-chernis/)*.
 
 ---
 
@@ -54,7 +54,7 @@ Our marketing team pushed through so much COVID support to our membership throug
 
 *Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*
 
-*Find out more about Wendy from when we went[backstage](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/) with her or listen to her interview [on the podcast](https://rockstarcmo.com/rockstar-cmo-fm-14-meet-wendy-bryant-beswick-visit-the-green-room-and-have-a-cocktail/)*
+*Find out more about Wendy from when we went[backstage](/blog/backstage-with-wendy-bryant-beswick) with her or listen to her interview [on the podcast](https://rockstarcmo.com/rockstar-cmo-fm-14-meet-wendy-bryant-beswick-visit-the-green-room-and-have-a-cocktail/)*
 
 ---
 

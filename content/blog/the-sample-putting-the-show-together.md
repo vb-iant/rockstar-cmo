@@ -103,4 +103,4 @@ Read more in [Building Effective Marketing + Product Partnership](https://adache
 
 ---
 
-*Back in the penthouse, our Rockstar CMOs have plenty to say about the partnerships they depend on to put the show on the road – learn more [in this issue](https://rockstarcmo.wpengine.com/the-one-nation-under-a-groove-issue/).*
+*Back in the penthouse, our Rockstar CMOs have plenty to say about the partnerships they depend on to put the show on the road – learn more [in this issue](/tags/issue/the-one-nation-under-a-groove-issue).*

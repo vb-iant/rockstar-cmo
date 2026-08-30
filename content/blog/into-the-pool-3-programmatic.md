@@ -22,13 +22,13 @@ sourceUrl: https://rockstarcmo.com/into-the-pool-3-programmatic/
 
 ![](/images/blog/37bb45d95509.jpg)
 
-**After dumping remarketing and retargeting into the pool [in the last issue](https://rockstarcmo.wpengine.com/opinion/ian-truscott-retargeting), there are whole chunks of lazy, cheap marketing clogging up the filter. And the pool guy is not going to be pleased with what he’s going to be scooping out in the morning. In this issue, more of that lazy and cheap shit is on its way down, as Robert Rose hands over programmatic and [Ian Truscott](/ian-truscott) does the honors. Don’t agree? [Let us know why](https://rockstarcmo.wpengine.com/write-for-us).**
+**After dumping remarketing and retargeting into the pool [in the last issue](/blog/ian-truscott-retargeting), there are whole chunks of lazy, cheap marketing clogging up the filter. And the pool guy is not going to be pleased with what he’s going to be scooping out in the morning. In this issue, more of that lazy and cheap shit is on its way down, as Robert Rose hands over programmatic and [Ian Truscott](/ian-truscott) does the honors. Don’t agree? [Let us know why](/contact).**
 
 ---
 
 ![](/images/blog/2ff421f7a604.jpg)
 
-When we sat down [with Robert Rose for our Backstage series](https://rockstarcmo.wpengine.com/opinion/backstage-with-robert-rose) and asked him what he thought was getting old in marketing right now, he replied:
+When we sat down [with Robert Rose for our Backstage series](/blog/backstage-with-robert-rose) and asked him what he thought was getting old in marketing right now, he replied:
 
 > “Programmatic advertising. Basically, anything where the algorithm is taking over the presentation of valuable, content-driven, customer experiences and making our content creation process automated. So, whether it's on the traditional banner ad side, or even the emergent native platform side, the whole idea of programmatic, I think, is one for the oldies charts.”
 

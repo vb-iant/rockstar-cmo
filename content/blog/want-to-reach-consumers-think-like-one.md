@@ -16,7 +16,7 @@ sourceId: '927'
 sourceUrl: https://rockstarcmo.com/want-to-reach-consumers-think-like-one/
 ---
 
-**Our resident rock star,** [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin)**, on why empathy for your consumer will always result in a better, more effective marketing plan.**
+**Our resident rock star,** [**Ted Rubin**](/tags/author/ted-rubin)**, on why empathy for your consumer will always result in a better, more effective marketing plan.**
 
 ![](/images/blog/8a974c778d90.jpg)
 

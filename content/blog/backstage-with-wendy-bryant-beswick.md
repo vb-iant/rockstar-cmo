@@ -25,7 +25,7 @@ In this series of articles we go backstage with a marketing rock star. We sit at
 
 **An award-winning marketer with 20 years’ experience in the financial services industry, Wendy Bryant-Beswick is currently VP of Marketing at Service Credit Union.**
 
-[**Ian Truscott**](https://rockstarcmo.wpengine.com/ian-truscott) **sits down with the industry thought-leader to talk influences, the importance of values, and the intersection of tech, retail and marketing.**
+[**Ian Truscott**](/tags/author/ian-truscott) **sits down with the industry thought-leader to talk influences, the importance of values, and the intersection of tech, retail and marketing.**
 
 ### **What would be top of your rider for your next marketing gig?**
 

@@ -48,4 +48,4 @@ It doesn't have to be that way, but they're simply too slow to adjust, and are m
 
 Smaller businesses have fewer stakeholders to answer to, and that often gives them more freedom to experiment to find what works. But that's no excuse for large retailers to sit idly by. If the team in charge isn't willing to try something new, then maybe it's time to find a new team… or more importantly, new leadership.
 
-[#RetailRelevancy](https://rockstarcmo.wpengine.com/opinion/ted-rubin-retail-times-are-changin) [#FollowThePath](https://rockstarcmo.wpengine.com/opinion/ted-rubin-follow-the-path)… [#NoLetUp!](https://tedrubin.com/so-what-is-noletup/)
+[#RetailRelevancy](/blog/ted-rubin-retail-times-are-changin) [#FollowThePath](/blog/ted-rubin-follow-the-path)… [#NoLetUp!](https://tedrubin.com/so-what-is-noletup/)

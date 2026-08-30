@@ -46,4 +46,4 @@ Whether an executive wants you to do a press release, create a Pinterest page, s
 
 I am not suggesting that all three of these will always be of equal importance, it could be that you’re a well-funded new business and Awareness is the first priority, but like your favourite bar stool, the plan still needs the two other legs, establishing Revenue and Trust as criteria and metrics are still going to be important.
 
-Let’s create some ART! [Get in touch.](https://appropingo1.wpengine.com/#contact)
+Let’s create some ART! [Get in touch.](/contact)

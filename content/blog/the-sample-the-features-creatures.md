@@ -17,11 +17,11 @@ sourceId: '5272'
 sourceUrl: https://rockstarcmo.com/the-sample-the-features-creatures/
 ---
 
-***Welcome to The Sample, where we whirl the dial on the interwebs, hit record and sample what we find about the topic we've focused on in [this issue](https://rockstarcmo.wpengine.com/the-features-creatures-issue/).***
+***Welcome to The Sample, where we whirl the dial on the interwebs, hit record and sample what we find about the topic we've focused on in [this issue](/tags/issue/the-features-creatures-issue).***
 
 ![](/images/blog/c8eb0c286990.jpg)
 
-In [this issue](https://rockstarcmo.wpengine.com/the-features-creatures-issue/) we are looking at the relationship between marketing and the product teams (the 'features creatures') and here are some articles that caught our eye:
+In [this issue](/tags/issue/the-features-creatures-issue) we are looking at the relationship between marketing and the product teams (the 'features creatures') and here are some articles that caught our eye:
 
 ---
 
@@ -35,7 +35,7 @@ In [this splendid article,](https://open.buffer.com/product-marketing/)VP Marke
 
 [[ READ MORE ]](https://open.buffer.com/wp-content/uploads/2019/05/Buffer-San-Diego-team-retreat-posterboard-1024x1536.jpg)
 
-*By the way, it's a sentiment that is echoed in an article by Dennis Shiao in this issue - [How soon is now?](https://rockstarcmo.wpengine.com/when-should-product-development-call-marketing-how-soon-is-now/)*
+*By the way, it's a sentiment that is echoed in an article by Dennis Shiao in this issue - [How soon is now?](/blog/when-should-product-development-call-marketing-how-soon-is-now)*
 
 ### Getting the balance between investing in marketing and product
 

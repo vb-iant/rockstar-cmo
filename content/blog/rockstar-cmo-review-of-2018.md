@@ -63,9 +63,9 @@ Jeanniey Mullen introduced us to her vision of cobots...
 
 ## "Mandatory weekly karaoke team building exercises"
 
-We have some fantastic suggestions on our [Rockstar CMO Rider,](https://rockstarcmo.wpengine.com/the-official-rockstar-cmo-rider/)this is our favorite from Amber Osbourne.
+We have some fantastic suggestions on our Rockstar CMO Rider,this is our favorite from Amber Osbourne.
 
-[Read The Rockstar CMO Rider](https://rockstarcmo.wpengine.com/the-official-rockstar-cmo-rider/)
+Read The Rockstar CMO Rider
 
 ---
 
@@ -75,7 +75,7 @@ We have some fantastic suggestions on our [Rockstar CMO Rider,](https://rockstar
 
 Our special place in hell for all the snake oil, BS and the lazy tactics that plague our craft.
 
-It's hard to decide a favorite, but inspired by [Jenni Young](/jenni-young), there's one that resonates with any marketer: [Can we get some PR on this](https://rockstarcmo.wpengine.com/into-the-pool-7-can-we-get-some-pr-on-this/)?
+It's hard to decide a favorite, but inspired by [Jenni Young](/jenni-young), there's one that resonates with any marketer: [Can we get some PR on this](/blog/into-the-pool-7-can-we-get-some-pr-on-this)?
 
 ---
 
@@ -85,7 +85,7 @@ This has been the heart of Rockstar CMO in 2018, not the quick blog posts and li
 
 ![](/images/blog/b67f54fa9739.jpg)
 
-#### [Stark Bollock Naked](https://rockstarcmo.wpengine.com/stark-bollock-naked/)**.**
+#### [Stark Bollock Naked](/blog/stark-bollock-naked)**.**
 
 [Helene Dancer](/helene-dancer) investigates the debate around radical transparency.
 
@@ -93,7 +93,7 @@ This has been the heart of Rockstar CMO in 2018, not the quick blog posts and li
 
 ![](/images/blog/2ae80f0728b5.jpg)
 
-#### [Diversify (the Right Way)..](https://rockstarcmo.wpengine.com/diversify-the-right-way-or-die/)
+#### [Diversify (the Right Way)..](/blog/diversify-the-right-way-or-die)
 
 [Ian Hsieh](/ian-hsieh) talks to Walker & Company CEO, Tristan Walker - great interview.
 
@@ -101,7 +101,7 @@ This has been the heart of Rockstar CMO in 2018, not the quick blog posts and li
 
 ![](/images/blog/cd57ba771afd.jpg)
 
-#### [Selling Death Row](https://rockstarcmo.wpengine.com/selling-death-row/)
+#### [Selling Death Row](/blog/selling-death-row)
 
 [Dave Waller](/dave-waller) on the marketing dilemma: Is it right to be selling this product?
 
@@ -125,7 +125,7 @@ My content marketing hero Robert Rose responding to some cynicism about the term
 
 Seven of our Rockstar CMO's offered the world of marketing holiday gifts from their experience for our [Green Room](/green-room) series.
 
-[Christine Bailey](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/) didn't just offer us one gift, we got a whole stocking full.
+[Christine Bailey](/blog/backstage-with-christine-bailey) didn't just offer us one gift, we got a whole stocking full.
 
 [[ READ MORE ]](https://rockstarcmo.wpengine.com/the-green-room-secret-santa/)
 

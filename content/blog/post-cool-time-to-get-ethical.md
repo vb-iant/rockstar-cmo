@@ -16,7 +16,7 @@ sourceId: '878'
 sourceUrl: https://rockstarcmo.com/post-cool-time-to-get-ethical/
 ---
 
-**Bob Dylan said it right when he sang *The Times They Are A-Changin’*. Today, if brands want to win consumers it’s not enough to be visually pleasing, or endorsed by celebrities, or nicely and neatly boxed. They need to speak truth.** [**Gareth May**](https://rockstarcmo.wpengine.com/gareth-may) **welcomes you to the post-cool era.**
+**Bob Dylan said it right when he sang *The Times They Are A-Changin’*. Today, if brands want to win consumers it’s not enough to be visually pleasing, or endorsed by celebrities, or nicely and neatly boxed. They need to speak truth.** [**Gareth May**](/tags/author/gareth-may) **welcomes you to the post-cool era.**
 
 ![](/images/blog/2a34865990a4.png)
 

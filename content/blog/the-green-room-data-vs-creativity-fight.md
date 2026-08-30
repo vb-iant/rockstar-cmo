@@ -58,7 +58,7 @@ As I’ve said before, data shouldn’t be the driver of our decisions. We drive
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
-[*Read more from Robert*](https://rockstarcmo.wpengine.com/author/robert-rose/)
+[*Read more from Robert*](/tags/author/robert-rose)
 
 ---
 
@@ -92,7 +92,7 @@ Remember that if marketing or any strategic role was JUST about data then humans
 
 Jenni Young is CMO of Tappit, a cashless payment platform for event organizers.
 
-Go backstage with her [here](https://rockstarcmo.wpengine.com/backstage-with-jenni-young/).
+Go backstage with her [here](/blog/backstage-with-jenni-young).
 
 ---
 
@@ -119,7 +119,7 @@ Don’t get frustrated - find ways to collaborate with your peers and you’ll a
 
 ![](/images/blog/a36c32f4287f.png)
 
-Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).*﻿*
+Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](/blog/backstage-with-wendy-bryant-beswick).*﻿*
 
 ---
 
@@ -137,6 +137,6 @@ Today’s marketer needs to have both the attitude to look for and demonstrate e
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
-*Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---

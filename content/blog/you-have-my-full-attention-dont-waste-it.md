@@ -17,7 +17,7 @@ sourceId: '919'
 sourceUrl: https://rockstarcmo.com/you-have-my-full-attention-dont-waste-it/
 ---
 
-[**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin) **breaks down why the act of customer service is the only time you have your customer’s undivided attention – and why you should be on your A-game when that opportunity arises**.
+[**Ted Rubin**](/tags/author/ted-rubin) **breaks down why the act of customer service is the only time you have your customer’s undivided attention – and why you should be on your A-game when that opportunity arises**.
 
 ![](/images/blog/111cf54463db.jpg)
 

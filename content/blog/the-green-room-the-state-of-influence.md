@@ -59,21 +59,21 @@ Don’t be that bore at a party - make sure you’re in the right conversations!
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
-*Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
 ## Amber Osborne
 
-*A couple of issues ago we went* [*on the tour bus with Amber Osborne*](https://rockstarcmo.wpengine.com/tales-from-the-tour-bus-amber-osborne/) *([@missdestructo](https://twitter.com/MissDestructo)) to get her insiders view of influencer marketing, as aside from her CMO experience, she was part of the Adobe Insider influencer marketing program*, *here is an excerpt from that conversation:*
+*A couple of issues ago we went* [*on the tour bus with Amber Osborne*](/blog/tales-from-the-tour-bus-amber-osborne) *([@missdestructo](https://twitter.com/MissDestructo)) to get her insiders view of influencer marketing, as aside from her CMO experience, she was part of the Adobe Insider influencer marketing program*, *here is an excerpt from that conversation:*
 
 ![](/images/blog/65d600f186b3.jpg)
 
 **There’s a lot of great influencer marketing magic that can happen when you look for the micro-influencers, not the wham bam thank you ma’am megaphones.**
 
-**Find those people and champions that are passionate about your product, industry or products like yours, their audiences are genuinely interested and you can create more lifetime customers rather than fifteen minutes of fame...**[Read more](https://rockstarcmo.wpengine.com/tales-from-the-tour-bus-amber-osborne/)
+**Find those people and champions that are passionate about your product, industry or products like yours, their audiences are genuinely interested and you can create more lifetime customers rather than fifteen minutes of fame...**[Read more](/blog/tales-from-the-tour-bus-amber-osborne)
 
-*Although Amber has now moved on as CMO at Doghead Simulations (and we can't wait to find out where she lands), if you are interested in influencer marketing it's* [*a fabulous interview*](https://rockstarcmo.wpengine.com/tales-from-the-tour-bus-amber-osborne/)*.*
+*Although Amber has now moved on as CMO at Doghead Simulations (and we can't wait to find out where she lands), if you are interested in influencer marketing it's* [*a fabulous interview*](/blog/tales-from-the-tour-bus-amber-osborne)*.*
 
 ---
 
@@ -83,7 +83,7 @@ Influencer marketing, when used to its best effect, is about building a network 
 
 ![](/images/blog/39fbb3339ce7.jpg)
 
-*Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
+*Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](/blog/backstage-with-ted-rubin)
 
 ---
 
@@ -95,7 +95,7 @@ Today, influencers aren’t celebrities who endorse – they are the amplifiers 
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
-[*Read more from Robert*](https://rockstarcmo.wpengine.com/author/robert-rose/)
+[*Read more from Robert*](/tags/author/robert-rose)
 
 ---
 
@@ -107,7 +107,7 @@ Today, influencers aren’t celebrities who endorse – they are the amplifiers 
 
 ## Bad Influence
 
-[Maude Churchill](https://rockstarcmo.wpengine.com/author/maude-churchill/)
+[Maude Churchill](/tags/author/maude-churchill)
 
 Our social channels are saturated with ‘influencers’ representing brands looking to sell us something. Maude Churchill talks with ENDLESSLOVESHOW founder Kazim Rashid and asks: Have we reached peak influencer?
 
@@ -117,7 +117,7 @@ Our social channels are saturated with ‘influencers’ representing brands loo
 
 ## Dedicated Followers (After a Fashion)
 
-**[Dave Walle](https://rockstarcmo.wpengine.com/author/dave-waller/)**[**r**](https://rockstarcmo.wpengine.com/author/dave-waller/)
+**[Dave Walle](/tags/author/dave-waller)**[**r**](/tags/author/dave-waller)
 
 Influencers are the latest group to buy fake followers in order to boost their appeal. But while a large follower count may look good, as Dave Waller discovers, this isn’t just a numbers game
 

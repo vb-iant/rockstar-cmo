@@ -16,7 +16,7 @@ sourceId: '1165'
 sourceUrl: https://rockstarcmo.com/generation-why-not-and-the-age-of-nothings-sacred/
 ---
 
-**Lazy. Self-entitled. Unfocused. The youth of today get a lot of slack. But is it totally justified? According to [Darren Guarnaccia](https://rockstarcmo.wpengine.com/darren-guarnaccia), not so much.**
+**Lazy. Self-entitled. Unfocused. The youth of today get a lot of slack. But is it totally justified? According to [Darren Guarnaccia](/tags/author/darren-garnaccia), not so much.**
 
 ![](/images/blog/0fe615f79492.jpg)
 

@@ -18,7 +18,7 @@ sourceId: '930'
 sourceUrl: https://rockstarcmo.com/beware-the-risks-of-arrogance-and-pride-in-business/
 ---
 
-**Buzzing off those results you secured for your company? Feeling confident? Maybe even a little self-important? Time to check yourself, says** [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin)**.**
+**Buzzing off those results you secured for your company? Feeling confident? Maybe even a little self-important? Time to check yourself, says** [**Ted Rubin**](/tags/author/ted-rubin)**.**
 
 ![](/images/blog/579eb06ec04f.jpg)
 

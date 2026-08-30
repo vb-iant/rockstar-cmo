@@ -32,7 +32,7 @@ Sing with me...
 
 #### ***On the first day of Christmas, Rockstar CMO gave to me - straight talking from Ted Rubin***
 
-Our resident Rockstar CMO who has been with us since the first issue and has been a huge support for us here. [Read more from Ted.](https://rockstarcmo.wpengine.com/author/ted-rubin/)
+Our resident Rockstar CMO who has been with us since the first issue and has been a huge support for us here. [Read more from Ted.](/tags/author/ted-rubin)
 
 ---
 
@@ -43,7 +43,7 @@ Our resident Rockstar CMO who has been with us since the first issue and has bee
 When we went backstage with Jenni Young, CMO of cashless
 payment platform, [tappit](https://justtappit.com/), she shared her two most
 important metrics, sentiment and sales. [Find out what else
-Jenni shared](https://rockstarcmo.wpengine.com/backstage-with-jenni-young/).
+Jenni shared](/blog/backstage-with-jenni-young).
 
 ---
 
@@ -54,7 +54,7 @@ Jenni shared](https://rockstarcmo.wpengine.com/backstage-with-jenni-young/).
 Another of our long time contributors, a fabulous friend of
 Rockstar CMO Robert Rose gave us three steps for employee engagement back in the
 *Inside In Inside Out Issue* – [read
-more.](https://rockstarcmo.wpengine.com/sing-the-same-song-3-steps-for-employee-engagement/)
+more.](/blog/sing-the-same-song-3-steps-for-employee-engagement)
 
 ---
 
@@ -62,7 +62,7 @@ more.](https://rockstarcmo.wpengine.com/sing-the-same-song-3-steps-for-employee-
 
 #### ***On the fourth day of Christmas, Rockstar CMO gave to me - four ‘P’s that give way to simplicity…***
 
-John Andrews, CEO of [Photofy](https://photofy.com/) has expertise not just in employee engagement, but in retail too. He shared with us an article about how simplicity is replacing the traditional four ‘P’s that retailers have always held dear. [Read more.](https://rockstarcmo.wpengine.com/the-4-ps-give-way-to-simplicity-along-the-new-path-to-purchase/)
+John Andrews, CEO of [Photofy](https://photofy.com/) has expertise not just in employee engagement, but in retail too. He shared with us an article about how simplicity is replacing the traditional four ‘P’s that retailers have always held dear. [Read more.](/blog/the-4-ps-give-way-to-simplicity-along-the-new-path-to-purchase)
 
 ---
 
@@ -70,7 +70,7 @@ John Andrews, CEO of [Photofy](https://photofy.com/) has expertise not just in 
 
 #### ***On the fifth day of Christmas, Rockstar CMO gave to me - FIVE --- FAVORITE --- INFLUENCER --- MISTAKES ----***
 
-[Dennis Shiao](https://rockstarcmo.wpengine.com/tales-from-the-tour-bus-dennis-shiao/) has only recently starting jamming with our band and in the *Running in Circles* issue, Dennis found our groove with *[Five Favorite Influencer Mistakes](https://rockstarcmo.wpengine.com/five-favorite-influencer-mistakes/)* in which he shares some of the duff tracks he’s heard when organizations try to jump on the influencer dancefloor.
+[Dennis Shiao](/blog/tales-from-the-tour-bus-dennis-shiao) has only recently starting jamming with our band and in the *Running in Circles* issue, Dennis found our groove with *[Five Favorite Influencer Mistakes](/blog/five-favorite-influencer-mistakes)* in which he shares some of the duff tracks he’s heard when organizations try to jump on the influencer dancefloor.
 
 ---
 
@@ -78,7 +78,7 @@ John Andrews, CEO of [Photofy](https://photofy.com/) has expertise not just in 
 
 #### ***On the sixth day of Christmas***, ***Rockstar CMO gave to me - the end of wasted interruptions***
 
-Our sixth trip to the Rockstar CMO Swimming Pool, our special portal to marketing hell, was done arm in arm with [Christine Bailey](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/) as we said adios to wasted interruptions. [See the splash!](https://rockstarcmo.wpengine.com/into-the-pool6-wasted-interuptions/)
+Our sixth trip to the Rockstar CMO Swimming Pool, our special portal to marketing hell, was done arm in arm with [Christine Bailey](/blog/backstage-with-christine-bailey) as we said adios to wasted interruptions. [See the splash!](/blog/into-the-pool6-wasted-interuptions)
 
 ---
 
@@ -86,7 +86,7 @@ Our sixth trip to the Rockstar CMO Swimming Pool, our special portal to marketin
 
 #### ***On the seventh day of Christmas, Rockstar CMO gave to me - Amber and mandatory karaoke***
 
-In issue seven we went backstage with Amber Osborne ([@MissDestructo](https://twitter.com/MissDestructo)). In what has proved to be one of our most popular interviews she suggested we should insist on mandatory karaoke on our Rockstar CMO rider. [Sing with Amber](https://rockstarcmo.wpengine.com/backstage-with-amber-osborne/).
+In issue seven we went backstage with Amber Osborne ([@MissDestructo](https://twitter.com/MissDestructo)). In what has proved to be one of our most popular interviews she suggested we should insist on mandatory karaoke on our Rockstar CMO rider. [Sing with Amber](/blog/backstage-with-amber-osborne).
 
 ---
 
@@ -97,7 +97,7 @@ In issue seven we went backstage with Amber Osborne ([@MissDestructo](https://tw
 Aside from the fun of going backstage with various CMOs
 we’ve also taken a peep behind the curtain of range of marketing folks, from
 authors to agency owners, and learned their stories. [Ride
-on the tour bus](https://rockstarcmo.wpengine.com/category/features/tales-from-the-tour-bus/).
+on the tour bus](/tags/series/tales-from-the-tour-bus).
 
 ---
 
@@ -105,7 +105,7 @@ on the tour bus](https://rockstarcmo.wpengine.com/category/features/tales-from-t
 
 #### ***On the ninth day of Christmas, Rockstar CMO gave to me - the big deal about chatbots***
 
-I know, I keep breaking the rhythm of the song, but in our ninth trip to the Rockstar CMO Swimming Pool [Jeanniey Mullen](https://rockstarcmo.wpengine.com/opinion/backstage-with-jeanniey-mullen) - now the Chief Innovation and Marketing Officer at [DailyPay](https://www.dailypay.com/)  - asked us to chuck away ‘the big deal about chatbots’. Curious? [Read more.](https://rockstarcmo.wpengine.com/into-the-pool-9-the-big-deal-today-about-chatbots/)
+I know, I keep breaking the rhythm of the song, but in our ninth trip to the Rockstar CMO Swimming Pool [Jeanniey Mullen](/blog/backstage-with-jeanniey-mullen) - now the Chief Innovation and Marketing Officer at [DailyPay](https://www.dailypay.com/)  - asked us to chuck away ‘the big deal about chatbots’. Curious? [Read more.](/blog/into-the-pool-9-the-big-deal-today-about-chatbots)
 
 ---
 
@@ -115,7 +115,7 @@ I know, I keep breaking the rhythm of the song, but in our ninth trip to the Roc
 
 This gift is not just for Christmas. We give ourselves this
 gift every month as we celebrate the most popular articles over the previous 90
-days. [The Top Ten](https://rockstarcmo.wpengine.com/category/top-10/).
+days. [The Top Ten](/tags/series/top-10).
 
 ---
 
@@ -123,7 +123,7 @@ days. [The Top Ten](https://rockstarcmo.wpengine.com/category/top-10/).
 
 #### ***On the eleventh day of Christmas, Rockstar CMO gave to me - the end of one and done marketing***
 
-In out eleventh trip to the Rockstar CMO Swimming Pool we were inspired by [Wendy Bryant-Beswick](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/), VP of Marketing at [Service Credit Union](https://servicecu.org/), and pondered if time is up for ‘one and done’ marketing. [Read more.](https://rockstarcmo.wpengine.com/into-the-pool-11-one-and-done/)
+In out eleventh trip to the Rockstar CMO Swimming Pool we were inspired by [Wendy Bryant-Beswick](/blog/backstage-with-wendy-bryant-beswick), VP of Marketing at [Service Credit Union](https://servicecu.org/), and pondered if time is up for ‘one and done’ marketing. [Read more.](/blog/into-the-pool-11-one-and-done)
 
 ---
 
@@ -134,7 +134,7 @@ In out eleventh trip to the Rockstar CMO Swimming Pool we were inspired by [Wen
 Our twelfth issue was dedicated to a topic that remains
 relevant - all the fakery that seems to be plaguing marketing and how to keep
 it real. [The Pretender
-Issue](https://rockstarcmo.wpengine.com/the-pretender-issue/) was a genuine gift that’s worth opening again.
+Issue](/tags/issue/the-pretender-issue) was a genuine gift that’s worth opening again.
 
 ---
 

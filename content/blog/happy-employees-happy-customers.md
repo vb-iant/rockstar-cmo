@@ -88,7 +88,7 @@ experience begins at home](https://www.mckinsey.com/business-functions/marketing
 reporting that “the closer a company can align its commitment to
 customer-centricity with the interests of its employees, the closer it will get
 to achieving its customer-strategy goals.” One aspect of aligning with employee
-motivations was highlighted my recent CMO Rockstar article, [Wait…what’s in it for ME?](https://rockstarcmo.wpengine.com/waitwhats-in-it-for-me/)
+motivations was highlighted my recent CMO Rockstar article, [Wait…what’s in it for ME?](/blog/waitwhats-in-it-for-me)
 
 #### **Traditional marketing strategies applied inwardly can have positive impact on engagement**
 

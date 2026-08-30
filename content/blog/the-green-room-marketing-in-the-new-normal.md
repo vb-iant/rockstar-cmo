@@ -61,7 +61,7 @@ Amber Osborne ([@missdescructo](https://twitter.com/MissDestructo)) is former CM
 
 Jenni Young is CMO of [Tappit](https://tappit.com/), a cashless payment platform for event organizers.
 
-Go backstage with her [here](https://rockstarcmo.wpengine.com/backstage-with-jenni-young/).
+Go backstage with her [here](/blog/backstage-with-jenni-young).
 
 ---
 
@@ -77,7 +77,7 @@ The other area I see as a current and lasting effect is advertising. Regardless 
 
 Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.
 
-[Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).
+[Go backstage with Wendy](/blog/backstage-with-wendy-bryant-beswick).
 
 ---
 

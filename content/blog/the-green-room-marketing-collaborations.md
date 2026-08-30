@@ -49,7 +49,7 @@ For me, our agency is my right hand. They are a key partner, collaborator and tr
 
 *Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*
 
-[*Go backstage with Wendy*](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)*.﻿*
+[*Go backstage with Wendy*](/blog/backstage-with-wendy-bryant-beswick)*.﻿*
 
 ---
 
@@ -57,7 +57,7 @@ For me, our agency is my right hand. They are a key partner, collaborator and tr
 
 ## Casey Petersen
 
-From [his article in this issu](https://rockstarcmo.wpengine.com/employees-the-new-empowered-generation/)e on the partnership with employees:
+From [his article in this issu](/blog/employees-the-new-empowered-generation)e on the partnership with employees:
 
 ***"If we Marketers entrust our brand to Tina the cashier every single day, with countless people throughout the year, shouldn’t we feel fairly confident that Tina can be trusted with the brand online?"***
 
@@ -75,13 +75,13 @@ Externally, you need a great support crew of agencies, contractors, specialists,
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
-*Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
 ## Robert Rose
 
-*In [this article from this issue,](https://rockstarcmo.wpengine.com/that-catchy-marketing-tune-is-not-a-solo-or-a-duet-its-by-the-band/) Robert shared the importance of the relationship with the whole band but specifically with sales:*
+*In [this article from this issue,](/blog/that-catchy-marketing-tune-is-not-a-solo-or-a-duet-its-by-the-band) Robert shared the importance of the relationship with the whole band but specifically with sales:*
 
 It is perhaps the sales teams where marketing needs to bring the “band back together” in a most pronounced way.
 
@@ -95,7 +95,7 @@ And we’re still trying to play. Four guitarists, three drummers, and a whole s
 
 *Robert Rose is the Chief Strategy Advisor for the Content Marketing Institute, is the co-host of one of our favorite popular marketing podcasts* [*This Old Marketing*](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/) *and founder and Founder, Chief Trouble Maker at* [*The Content Advisory.*](https://contentadvisory.net/)
 
-[Read more from Robert](https://rockstarcmo.wpengine.com/author/robert-rose/)
+[Read more from Robert](/tags/author/robert-rose)
 
 ---
 

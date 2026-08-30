@@ -41,7 +41,7 @@ Prioritizing the human is what we live and breathe, within our overall work cult
 
 *Kate Bradley Chernis is the Founder & CEO of [Lately](https://trylately.com/), which uses Artificial Intelligence to automatically transform blogs, videos and podcasts into dozens of amazing social posts.*
 
-*Learn more from when we went [backstage with Kate](https://rockstarcmo.wpengine.com/backstage-with-kate-bradley-chernis/)*
+*Learn more from when we went [backstage with Kate](/blog/backstage-with-kate-bradley-chernis)*
 
 ---
 
@@ -57,7 +57,7 @@ Consistency is key, just as it is in personal relationships. You can’t be perf
 
 ![](/images/blog/39fbb3339ce7.jpg)
 
-*Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
+*Ted Rubin is a leading social marketing strategist, influencer, keynote speaker, Photofy CMO/advisor… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](/blog/backstage-with-ted-rubin)
 
 ---
 
@@ -73,7 +73,7 @@ Another good habit is that we’ve become more data/insights-driven, in an attem
 
 *Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing.*
 
-*Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
@@ -103,6 +103,6 @@ Think like a person, be transparent and communicate, communicate! These habits w
 
 ![](/images/blog/a36c32f4287f.png)
 
-Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/).*﻿*
+Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union. [Go backstage with Wendy](/blog/backstage-with-wendy-bryant-beswick).*﻿*
 
 ---

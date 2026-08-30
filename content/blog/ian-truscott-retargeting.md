@@ -21,15 +21,15 @@ sourceUrl: https://rockstarcmo.com/ian-truscott-retargeting/
 
 ![](/images/blog/edbdd353e03f.jpg)
 
-**This month, [Ian Truscott](https://rockstarcmo.wpengine.com/ian-truscott) is heaving retargeting – and all those annoying (and slightly creepy) digital ads – over the balcony. Don’t agree? [Let us know why](https://rockstarcmo.wpengine.com/write-for-us).**
+**This month, [Ian Truscott](/tags/author/ian-truscott) is heaving retargeting – and all those annoying (and slightly creepy) digital ads – over the balcony. Don’t agree? [Let us know why](/contact).**
 
 ---
 
 ### This is going to be fun...
 
-You think I had some fun throwing agile marketing into the pool [last month](https://rockstarcmo.wpengine.com/opinion/into-the-pool-agile-marketing)? That lightweight piece of junk practically fell out of my hands. This, my friends, is the full-on Keith Moon, the Rolls-Royce-in-the-pool moment of all that is mental about this industry. This month’s candidate is remarketing or retargeting. Yep, there's going to be a splash.
+You think I had some fun throwing agile marketing into the pool [last month](/blog/into-the-pool-agile-marketing)? That lightweight piece of junk practically fell out of my hands. This, my friends, is the full-on Keith Moon, the Rolls-Royce-in-the-pool moment of all that is mental about this industry. This month’s candidate is remarketing or retargeting. Yep, there's going to be a splash.
 
-I’m not alone; a true rock star is already unscrewing the damn thing from the walls as I busy myself, making sure the patio furniture on the balcony doesn’t go in with it. Step forward [Ted Rubin](https://rockstarcmo.wpengine.com/ted-rubin). As he said in his rather splendid [Q&A](https://rockstarcmo.wpengine.com/opinion/backstage-with-ted-rubin):
+I’m not alone; a true rock star is already unscrewing the damn thing from the walls as I busy myself, making sure the patio furniture on the balcony doesn’t go in with it. Step forward [Ted Rubin](/tags/author/ted-rubin). As he said in his rather splendid [Q&A](/blog/backstage-with-ted-rubin):
 
 > Retargeting does more harm than good. Ask a room full of marketers how many like to be retargeted and no hands go up. Then ask how many retarget their customers and every hand goes up. See a disconnect there? Marketers need to put their consumer hats on more often.
 

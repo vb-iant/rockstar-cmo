@@ -19,7 +19,7 @@ sourceId: '5074'
 sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-tom-wentworth/
 ---
 
-***Back in the summer of 2018, for [The Straight Outta Compton Issue](https://rockstarcmo.wpengine.com/straight-outta-compton/), we [went backstage with Tom Wentworth](https://rockstarcmo.wpengine.com/backstage-with-tom-wentworth/), then CMO of Rapid Miner and in this interview, we catch up with this technologist turned marketer***.
+***Back in the summer of 2018, for [The Straight Outta Compton Issue](/tags/issue/straight-outta-compton), we [went backstage with Tom Wentworth](/blog/backstage-with-tom-wentworth), then CMO of Rapid Miner and in this interview, we catch up with this technologist turned marketer***.
 
 ![](https://pbs.twimg.com/profile_images/1177601036892160000/CpsQRCPk_400x400.jpg)
 
@@ -43,7 +43,7 @@ Absolutely not. Great marketing starts with storytelling and the creation and cu
 
 But it is very important that there are strong technology and analytics skills on a marketing team, and that’s why I’m a huge fan of marketing operations pros.
 
-***Talking of marketing tech,*** [***when we chatted last year***](https://rockstarcmo.wpengine.com/backstage-with-tom-wentworth/)***, you were excited by conversational marketing, since then Drift (for whom you were an advisor) has become a massive hit and are everywhere – what’s been your experience since we last spoke?***
+***Talking of marketing tech,*** [***when we chatted last year***](/blog/backstage-with-tom-wentworth)***, you were excited by conversational marketing, since then Drift (for whom you were an advisor) has become a massive hit and are everywhere – what’s been your experience since we last spoke?***
 
 I love Drift and conversational marketing. Conversational marketing is really just a back-to-basics approach to the way we’ve sold products for centuries: by talking to each other. Drift just makes it easier to filter out the noise and get into meaningful interaction with a customer or prospect as quickly as possible. I’ve got a hypothesis that someday smart chatbots like what Drift offers are going to replace big chunks of the traditional website. But I’ll save that for another day.
 
@@ -69,4 +69,4 @@ It’s time to chuck third-party data straight into the portal to marketing hell
 
 ***Splendid, thank you Tom!***
 
-****Read more about Tom's marketing perspective in [our backstage Q&A](https://rockstarcmo.wpengine.com/backstage-with-tom-wentworth/), follow him on Twitter at* [@tomwentworth12](https://twitter.com/twentworth12) or learn more about his move to Recorded Future on [his blog](https://tomwentworth.com/2019/12/03/shall-we-play-a-game/).***
+****Read more about Tom's marketing perspective in [our backstage Q&A](/blog/backstage-with-tom-wentworth), follow him on Twitter at* [@tomwentworth12](https://twitter.com/twentworth12) or learn more about his move to Recorded Future on [his blog](https://tomwentworth.com/2019/12/03/shall-we-play-a-game/).***

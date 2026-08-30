@@ -19,7 +19,7 @@ sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-rachel-wackadoos-mill
 
 ![](/images/blog/1869ab3c5e54.jpg)
 
-***Regular readers will know Rachel Miller, from her popular post last year that urged us to [Ignore the Wackadoos](https://rockstarcmo.wpengine.com/ignore-the-wacadoos-create-community-and-value-through-meaningful-engagement/),*** ***which was in our [TOP 10](https://rockstarcmo.wpengine.com/category/top-10/) for months. But, Rachel is more than an entertaining writer, she is a recognized B2B influencer marketing expert, who's recently joined SAP in what she's described as her "dream job". So, I caught up with her.***
+***Regular readers will know Rachel Miller, from her popular post last year that urged us to [Ignore the Wackadoos](/blog/ignore-the-wackadoos),*** ***which was in our [TOP 10](/tags/series/top-10) for months. But, Rachel is more than an entertaining writer, she is a recognized B2B influencer marketing expert, who's recently joined SAP in what she's described as her "dream job". So, I caught up with her.***
 
 ---
 
@@ -49,7 +49,7 @@ Hi Rachel,
 
 *Living in Central California I’m super spoilt with having access to awesome local craft beer. I’m a huge fan of anything from [Alvarado Street Brewing](http://www.alvaradostreetbrewery.com/).*
 
-**Finally, you might be familiar with our [Rockstar CMO Swimming pool](https://rockstarcmo.wpengine.com/category/features/the-swimming-pool/), where we chuck all that’s wrong in marketing, the snake oil and BS. If you were channeling your inner Rockstar what would you throw in there?**
+**Finally, you might be familiar with our [Rockstar CMO Swimming pool](/tags/series/the-swimming-pool), where we chuck all that’s wrong in marketing, the snake oil and BS. If you were channeling your inner Rockstar what would you throw in there?**
 
 *"Build it and they will come". Just because you have an Instagram/Blog/Podcast etc account and post every day doesn’t mean you’ll automatically attract followers.*
 
@@ -61,8 +61,8 @@ Hi Rachel,
 
 Rachel Miller in the Global Influencer Marketing Lead at SAP, is an influencer marketing, social media, and content marketing expert who was listed as one of the Top 50 MarTech, Influencer Marketing, and B2B Marketing experts worldwide.
 
-You follow her [on Twitter](https://twitter.com/rachelloumiller) or enjoy some of her [previous articles for us](https://rockstarcmo.wpengine.com/author/rachelmiller/).
+You follow her [on Twitter](https://twitter.com/rachelloumiller) or enjoy some of her [previous articles for us](/tags/author/rachel-miller).
 
 ---
 
-*Keep an eye on [our podcast](https://rockstarcmo.wpengine.com/category/podcast/), as we recorded a longer version of this conversation to be aired shortly. We learned more about working from home in the current crisis, her new role and of course the Wackadoos.* [[ Rockstar CMO FM ]](https://rockstarcmo.wpengine.com/category/podcast/)
+*Keep an eye on [our podcast](/podcast), as we recorded a longer version of this conversation to be aired shortly. We learned more about working from home in the current crisis, her new role and of course the Wackadoos.* [[ Rockstar CMO FM ]](https://rockstarcmo.wpengine.com/category/podcast/)

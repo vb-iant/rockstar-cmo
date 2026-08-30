@@ -19,7 +19,7 @@ sourceId: '6275'
 sourceUrl: https://rockstarcmo.com/create-art-with-a-content-hub/
 ---
 
-***We are a fan of content hubs, low branded thought leadership web publications as a place for consumer and influencer engagement. Ian Truscott shares his experience and if you are interested in engaging your influencers and prospective clients by building a content hub, we can help - [get in touch](https://appropingo1.wpengine.com/contact-us/).***
+***We are a fan of content hubs, low branded thought leadership web publications as a place for consumer and influencer engagement. Ian Truscott shares his experience and if you are interested in engaging your influencers and prospective clients by building a content hub, we can help - [get in touch](/contact).***
 
 ---
 
@@ -65,7 +65,7 @@ The challenge today, if you are not building a community around your point of vi
 
 ## Where does a Content Hub sit in the B2B marketing mix?
 
-As you can read [here](https://appropingo1.wpengine.com/the-art-of-b2b-marketing/), I have three
+As you can read [here](/blog/the-art-of-b2b-marketing), I have three
 objectives for marketing, to create Awareness, Revenue and Trust (ART) and the
 role the content hub plays is to create Awareness and Trust with this community
 of buyers and influencers, as the content hub sits at the top of the funnel, in
@@ -146,7 +146,7 @@ If you build a trusted, authoritative content hub, Google is increasingly going 
 
 **Create a content hub, engage your crowd and provide a safe space to meet influencers and buyers.**
 
-***If you are interested in building a content hub - [get in touch](https://appropingo1.wpengine.com/contact-us/).***
+***If you are interested in building a content hub - [get in touch](/contact).***
 
 ---
 

@@ -82,7 +82,7 @@ Successfully tick off each point, and your business is safe. You have that “le
 >
 > **Felipe Thomaz,** **Saïd Business School, Oxford University﻿**
 
-Want to preach [diversity](https://rockstarcmo.wpengine.com/opinion/diversify-the-right-way-or-die), but your leadership is all white, middle-aged and male? It’s probably best to stay away from the soapbox. After all, there’s a very real chance you’ll come across disingenuous and, frankly, silly. While the Accenture Strategy report suggests you’ll repel shoppers by being silent, that beats losing your whole customer base through lack of trust.
+Want to preach [diversity](/blog/diversify-the-right-way-or-die), but your leadership is all white, middle-aged and male? It’s probably best to stay away from the soapbox. After all, there’s a very real chance you’ll come across disingenuous and, frankly, silly. While the Accenture Strategy report suggests you’ll repel shoppers by being silent, that beats losing your whole customer base through lack of trust.
 
 “One of the largest sources of strength in a marketing or branding campaign – and the messaging associated – is consistency,” concludes Thomaz. “If you’re saying you care for the environment, or human rights, but employ small children in a third world country, not only are you unethical, you’re also inconsistent. I don’t know what to believe.
 

@@ -58,7 +58,7 @@ right.
 
 Have
 you ever taken a good hard look at Apple and how it markets its products? It
-emphasizes the product, its impact, and also has [a creative edge](https://rockstarcmo.wpengine.com/authenticity-matters-for-better-content/). The advertisements are often
+emphasizes the product, its impact, and also has [a creative edge](/blog/authenticity-matters-for-better-content). The advertisements are often
 cheeky, artful, and high-end.
 
 Then
@@ -122,7 +122,7 @@ But
 here’s the cool part about brand-focused campaigns: they let you be creative
 first. The first thing running through your head is designs, ideas, characters,
 and other elements that focused more on the customer. What do they want? What
-would they like to see? How do you [create a delightful experience](https://rockstarcmo.wpengine.com/consumers-are-loyal-to-experience-not-brands/)?
+would they like to see? How do you [create a delightful experience](/blog/consumers-are-loyal-to-experience-not-brands)?
 
 Then
 after all of that, you can use the collected data to improve marketing,
@@ -132,14 +132,14 @@ experience [an 8-10% increase in profit](https://www.entrepreneur.com/article/32
 ## Wrapping up
 
 I
-believe that [every marketer](https://rockstarcmo.wpengine.com/how-b2b-marketers-can-get-heard-on-twitter-in-2020/) should look up to Apple. It has
+believe that [every marketer](/blog/how-b2b-marketers-can-get-heard-on-twitter-in-2020) should look up to Apple. It has
 produced some of the world’s most successful products and advertising
 campaigns. It is also a prime example of the level of success that can be
 reached through great branding.
 
 After
 all, a brand is remembered, trusted, and spoken about. That improves customer
-retention, lifetime value, and [referrals](https://rockstarcmo.wpengine.com/influencer-marketing-pr-remixed-for-a-new-era/).
+retention, lifetime value, and [referrals](/blog/influencer-marketing-pr-remixed-for-a-new-era).
 
 You
 rarely see Apple push a product or try to sell it hard. It knows that everyone

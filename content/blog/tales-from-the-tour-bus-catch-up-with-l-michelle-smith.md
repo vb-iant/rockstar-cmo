@@ -18,7 +18,7 @@ sourceId: '4195'
 sourceUrl: https://rockstarcmo.com/tales-from-the-tour-bus-catch-up-with-l-michelle-smith/
 ---
 
-***Back in*** [***The London Calling Issue***](https://rockstarcmo.wpengine.com/category/issues/london-calling/)***, we went backstage with Dallas native,***[***L. Michelle Smith***](https://lmichellesmith.com/)***, a classically-trained mezzo soprano, author, speaker and marketing leader with over 25 years of experience as a communicator and integrated marketer. In this issue, Ian Truscott hops on the tour bus and catches up with this executive and business coach and entrepreneur.***
+***Back in*** [***The London Calling Issue***](/tags/issue/london-calling)***, we went backstage with Dallas native,***[***L. Michelle Smith***](https://lmichellesmith.com/)***, a classically-trained mezzo soprano, author, speaker and marketing leader with over 25 years of experience as a communicator and integrated marketer. In this issue, Ian Truscott hops on the tour bus and catches up with this executive and business coach and entrepreneur.***
 
 ---
 

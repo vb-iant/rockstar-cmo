@@ -39,7 +39,7 @@ Contrary to what others would have you believe, Amazon's success has nothing to 
 
 If traditional retailers want to survive and thrive, then the *last* thing they need to be doing is looking for outside excuses about why they're failing in the first place. Yes, even when the leader of the country is the one making those excuses for them. Instead, traditional retailers need to both look in the mirror, and take a closer look at the needs of their customers. Perhaps, they might even study why eComm giants like Amazon succeed in the first place, and how they can bring the same quality of customer experience to the table.
 
-[The alternative is clear, and we're already seeing it play out in shopping malls around the country](https://rockstarcmo.wpengine.com/opinion/ted-rubin-major-retailers). Having a big, well-known brand name and ad budget just isn't enough anymore, as many brands are finding out the hard way. When traditional retailers don't adapt, they fail, leaving behind empty storefronts.
+[The alternative is clear, and we're already seeing it play out in shopping malls around the country](/blog/ted-rubin-major-retailers). Having a big, well-known brand name and ad budget just isn't enough anymore, as many brands are finding out the hard way. When traditional retailers don't adapt, they fail, leaving behind empty storefronts.
 
 It's not all dire news. Businesses that are willing to take an honest look at themselves and skip the excuses can find a template for success by studying the most successful e-Commerce brands, rather than complaining about them.
 

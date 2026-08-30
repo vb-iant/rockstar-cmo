@@ -114,7 +114,7 @@ general decentralization movement, towards best of breed solutions and
 services, and a greater focus on time to market and incremental, iterative
 learning approaches.*
 
-Read more from Darren [here on Rockstar CMO](https://rockstarcmo.wpengine.com/author/darren-garnaccia/) or follow him [on Twitter.](https://twitter.com/dguarnaccia)
+Read more from Darren [here on Rockstar CMO](/tags/author/darren-garnaccia) or follow him [on Twitter.](https://twitter.com/dguarnaccia)
 
 ---
 
@@ -197,7 +197,7 @@ don’t respect the reality that you already have many disparate martech
 solutions that share a common requirement: to integrate with a centralized
 platform for managing and delivering sites, applications and experiences*.
 
-You can read more from David, as he recently shared with me his view on the rise of the marketing machines in [this interview](https://rockstarcmo.wpengine.com/the-rise-of-the-marketing-machines-david-aponovich/) and you can follow him [on Twitter](https://twitter.com/daponovich).
+You can read more from David, as he recently shared with me his view on the rise of the marketing machines in [this interview](/blog/the-rise-of-the-marketing-machines-david-aponovich) and you can follow him [on Twitter](https://twitter.com/daponovich).
 
 ---
 

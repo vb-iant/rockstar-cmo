@@ -18,7 +18,7 @@ sourceId: '3547'
 sourceUrl: https://rockstarcmo.com/bad-for-business-automation-will-remove-human-interaction/
 ---
 
-***We welcome a brand new writer, Theresa Michelle to the Rockstar CMO penthouse, inspired by [Ted Rubin](https://rockstarcmo.wpengine.com/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care/) she continues the theme from [The Ghost in the Machine Issue](https://rockstarcmo.wpengine.com/the-ghost-in-the-machine-issue/), suggesting that all this automation is actually bad for business.***
+***We welcome a brand new writer, Theresa Michelle to the Rockstar CMO penthouse, inspired by [Ted Rubin](/blog/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care) she continues the theme from [The Ghost in the Machine Issue](/tags/issue/the-ghost-in-the-machine-issue), suggesting that all this automation is actually bad for business.***
 
 ![](/images/blog/eb6faa2ea3c2.jpg)
 
@@ -48,7 +48,7 @@ While this type of automation at first empowered musicians who were being taken 
 
 ### There's no substitute for great people
 
-As Ted Rubin advises [in this article](https://rockstarcmo.wpengine.com/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care/), marketing tools have the potential to greatly de-humanise the experience for your customers. And if that’s the case, your business may be better off without it. *“*
+As Ted Rubin advises [in this article](/blog/too-many-marketing-tools-create-sloppy-work-and-too-few-brands-seem-to-care), marketing tools have the potential to greatly de-humanise the experience for your customers. And if that’s the case, your business may be better off without it. *“*
 
 > *If you want to humanize your brand, there’s no substitute for rolling up your sleeves and, well, just being human.*
 >

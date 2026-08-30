@@ -69,7 +69,7 @@ Which brings me to the second important step; know your audience.
 
 If you are in the business of selling financial liability consulting, then a jolly, smart, happy brand personality is probably not going to create trust. It’ll be your loud tie, something folks will need to look beyond before getting to know you. It would be inconsistent with the promise you want to make with that audience.
 
-It’s also worth mentioning that defining brand personality is like describing yourself as cool. That’s for others to decide. Your brand and its personality traits are not wholly owned by you, they lie in your audience’s perception of you, in their minds. (I talked about this more in a recent article here: [Battle of the Brands](https://rockstarcmo.wpengine.com/opinion/authenticity-is-a-battle-of-two-brands-both-are-yours)).
+It’s also worth mentioning that defining brand personality is like describing yourself as cool. That’s for others to decide. Your brand and its personality traits are not wholly owned by you, they lie in your audience’s perception of you, in their minds. (I talked about this more in a recent article here: [Battle of the Brands](/blog/authenticity-is-a-battle-of-two-brands-both-are-yours)).
 
 Therefore, the process of defining a brand personality is really about deciding how you would like to be described by your audience and then how to create the credible stories, services, products and customer experience that will support and reinforce that perception.
 

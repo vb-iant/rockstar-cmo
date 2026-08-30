@@ -43,7 +43,7 @@ Podcast: [NPR](https://www.npr.org/podcasts/?t=1556214659330)
 
 Twitter: [@StephenAtHome](https://twitter.com/StephenAtHome)
 
-*Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits, speaker, author and provocateur. Ted is our resident rock star and tells it straight in his*[*regular column*](https://rockstarcmo.wpengine.com/author/ted-rubin/)*.*
+*Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits, speaker, author and provocateur. Ted is our resident rock star and tells it straight in his*[*regular column*](/tags/author/ted-rubin)*.*
 
 ---
 
@@ -61,7 +61,7 @@ My one podcast is going to make be sound like a Harvard fanboy – but it would 
 
 And then the one Twitter feed I would follow assuming I can’t click through to the source material would be the [@God](https://twitter.com/god) account. It’s always good for a laugh.  But if I am able to click through to the source material my one Twitter feed would be Seth Godin’s feed [@ThisIsSethsBlog](https://twitter.com/ThisIsSethsBlog)
 
-*As the Chief Strategy Advisor for the*[*Content Marketing Institute*](http://contentmarketinginstitute.com/)*, Robert innovates creative and technical content marketing strategies for his clients. An early internet pioneer, Robert has more than 15 years of experience, and a track record of helping brands and businesses develop successful web and content marketing strategies. Learn more about Robert, as we went* [*backstage with him*](https://rockstarcmo.wpengine.com/backstage-with-robert-rose/)*in our very first issue.*
+*As the Chief Strategy Advisor for the*[*Content Marketing Institute*](http://contentmarketinginstitute.com/)*, Robert innovates creative and technical content marketing strategies for his clients. An early internet pioneer, Robert has more than 15 years of experience, and a track record of helping brands and businesses develop successful web and content marketing strategies. Learn more about Robert, as we went* [*backstage with him*](/blog/backstage-with-robert-rose)*in our very first issue.*
 
 ---
 
@@ -93,7 +93,7 @@ For that reason, I’ll also pick his podcast “[Marketing Companion](https://b
 
 I’ve always been a fan of Seth Godin since he wrote THE book on permission marketing back in 1999 (and still valid today!), so I’d subscribe to [his blog](https://seths.blog/) and Tim Hughes’ Twitter feed ([@Timothy\_Hughes](https://twitter.com/Timothy_Hughes)).  Tim has written the best selling book on social selling and has amassed nearly 200k followers on Twitter. His tweets are fresh, informative and entertaining in equal measure.
 
-*Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing for Hewlett-Packard and Cisco Systems, and writes frequently for Forbes Woman. Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
@@ -109,7 +109,7 @@ I love [Nadine Dietz's podcast, "Market Moves](https://www.adweek.com/inside-the
 
 I continually go back to Kimberley Whistler's Twitter feed Check out Kimberly Whitler ([@KimWhitler](https://twitter.com/KimWhitler)) -- she offers so much insight and terrific research for marketers.
 
-*Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)*.﻿*
+*Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](/blog/backstage-with-wendy-bryant-beswick)*.﻿*
 
 ---
 

@@ -61,4 +61,4 @@ My grandmother always told me to avoid the subjects of religion and politics in 
 
 You can be the president, I’d rather be the pope.
 
-Got that Prince song looping around in your head now? Check it out (and other great motivating marketing music) on our [playlist](https://rockstarcmo.wpengine.com/track-list).
+Got that Prince song looping around in your head now? Check it out (and other great motivating marketing music) on our playlist.

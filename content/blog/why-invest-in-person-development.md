@@ -62,6 +62,6 @@ The objective of developing personas is to create a set of addressable tribes th
 
 I like to think of them as ‘tribes’ as it gets you over thinking about them as roles, job titles, or narrow demographic groups, in B2B a broad range of roles or demographic groups can experience the same pain that you can address with your content.
 
-We'll be publishing a white-paper with more detail on how to develop your personas, in the meantime if we can help you, [please get in touch.](https://appropingo1.wpengine.com/#contact)
+We'll be publishing a white-paper with more detail on how to develop your personas, in the meantime if we can help you, [please get in touch.](/contact)
 
 *Photo by*[*Raj Eiamworakul*](https://unsplash.com/photos/IaSRjVkB6tE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*on*[*Unsplash*](https://unsplash.com/search/photos/person-face-hidden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

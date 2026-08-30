@@ -23,7 +23,7 @@ sourceUrl: https://rockstarcmo.com/into-the-pool-4-marketing-suites/
 
 **This month, with the theme of** ***OK Computer*, [Ian Truscott](/ian-truscott) has been hanging with one of our marketing technology rock stars, [Darren Guarnaccia](/darren-guarnaccia). We're taking bets on the size of splash that single vendor marketing suites are going to make as he offers up his bugbear. Don’t agree?** **[Let us know why](/write-for-us).**
 
-When we [went backstage with Darren](https://rockstarcmo.wpengine.com/opinion/backstage-with-darren-guarnaccia), CMO at [Lytics](http://www.getlytics.com/) and [regular contributor](/darren-guarnaccia) to Rockstar CMO, we asked what he’d throw into the Rockstar CMO swimming pool. His reply was suitably technology-focused. Aside from being a B2B marketing leader, he's been working in the marketing technology world since the original dot-com boom and was part of the executive team that grew Sitecore to the marketing software heavyweight brand it is today.
+When we [went backstage with Darren](/blog/backstage-with-darren-guarnaccia), CMO at [Lytics](http://www.getlytics.com/) and [regular contributor](/darren-guarnaccia) to Rockstar CMO, we asked what he’d throw into the Rockstar CMO swimming pool. His reply was suitably technology-focused. Aside from being a B2B marketing leader, he's been working in the marketing technology world since the original dot-com boom and was part of the executive team that grew Sitecore to the marketing software heavyweight brand it is today.
 
 Darren’s contribution to the Rockstar Swimming Pool:
 

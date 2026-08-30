@@ -58,7 +58,7 @@ Besides the fact we love the word “vainglorious” here in the Rockstar CMO pe
 
 # A Legal Matter
 
-There is a lot of good advice in [this article](https://dma.org.uk/article/top-tips-for-working-with-influencers) from the respected Data & Marketing Association in the UK, much of which our writers have covered in [this issue](https://rockstarcmo.wpengine.com/the-running-in-circles-issue/). But, continuing the vibe from the FT article above, the reason why we are featuring this here is their dive into the legalities of all this:
+There is a lot of good advice in [this article](https://dma.org.uk/article/top-tips-for-working-with-influencers) from the respected Data & Marketing Association in the UK, much of which our writers have covered in [this issue](/tags/issue/the-running-in-circles-issue). But, continuing the vibe from the FT article above, the reason why we are featuring this here is their dive into the legalities of all this:
 
 > If you are paying an influencer or giving them a freebie, and you have control over the content that they create (including just final approval), the influencer's content will be deemed as your brand's ad. This means it will become subject to the UK advertising code (the "CAP Code"), which is upheld by the Advertising Standards Authority ("ASA").
 
@@ -88,4 +88,4 @@ Here are my suggested [6 steps for B2B Influencer Marketing.](https://www.cmswir
 
 *That wraps up our little bop around the interwebs, get
 some more insight on Influencer Marketing from our Rockstar CMOs in [this
-issue](https://rockstarcmo.wpengine.com/the-running-in-circles-issue/).*
+issue](/tags/issue/the-running-in-circles-issue).*

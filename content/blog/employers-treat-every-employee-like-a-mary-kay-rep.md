@@ -16,7 +16,7 @@ sourceId: '923'
 sourceUrl: https://rockstarcmo.com/employers-treat-every-employee-like-a-mary-kay-rep/
 ---
 
-**Our resident rock star,** [**Ted Rubin**](https://rockstarcmo.wpengine.com/ted-rubin)**, on why empowering your employees will ultimately result in success for your brand.**
+**Our resident rock star,** [**Ted Rubin**](/tags/author/ted-rubin)**, on why empowering your employees will ultimately result in success for your brand.**
 
 ![](/images/blog/ab9009eceffd.jpg)
 

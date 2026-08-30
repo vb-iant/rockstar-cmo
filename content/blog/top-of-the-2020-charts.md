@@ -140,7 +140,7 @@ We enjoyed [Nick Einstein’s](https://rockstarcmo.com/author/nicholaseinstein/)
 
 #### #9 Tales from the tour bus: Tom Wentworth
 
-Back in the summer of 2018, for [The Straight Outta Compton Issue](https://rockstarcmo.wpengine.com/straight-outta-compton/), we [went backstage with Tom Wentworth](https://rockstarcmo.wpengine.com/backstage-with-tom-wentworth/), then CMO of Rapid Miner, and in this interview, we caught up with this technologist turned marketer as he took the top marketing job at [Recorded Future](https://www.recordedfuture.com/).
+Back in the summer of 2018, for [The Straight Outta Compton Issue](/tags/issue/straight-outta-compton), we [went backstage with Tom Wentworth](/blog/backstage-with-tom-wentworth), then CMO of Rapid Miner, and in this interview, we caught up with this technologist turned marketer as he took the top marketing job at [Recorded Future](https://www.recordedfuture.com/).
 
 [[](https://rockstarcmo.com/managing-the-shift-from-fomo-fear-of-missing-out-to-fogo-fear-of-going-out/) [READ MORE](https://rockstarcmo.com/tales-from-the-tour-bus-tom-wentworth/) []](https://rockstarcmo.com/managing-the-shift-from-fomo-fear-of-missing-out-to-fogo-fear-of-going-out/)
 

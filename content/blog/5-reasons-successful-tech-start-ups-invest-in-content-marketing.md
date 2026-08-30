@@ -82,7 +82,7 @@ Being first to market with a product is great but being first to market with the
 ## 4.    It builds trust
 
 I talk a lot about how marketing has three goals; raise awareness,
-grow revenue and build trust (that I call [ART](https://appropingo1.wpengine.com/the-art-of-b2b-marketing/)). If this three-legged
+grow revenue and build trust (that I call [ART](/blog/the-art-of-b2b-marketing)). If this three-legged
 stool can have a more important leg, today that leg would be trust. Buyers are
 way too cynical for that “leading vendor” bullshit and a whole list of features,
 they want something useful that addresses their needs and solves a problem.

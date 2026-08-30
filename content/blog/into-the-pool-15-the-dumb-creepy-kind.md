@@ -27,7 +27,7 @@ sourceUrl: https://rockstarcmo.com/into-the-pool-15-the-dumb-creepy-kind/
 * Amazon retargets me with products that are in my basket, but I haven’t clicked checkout as I am waiting for a delivery day when I am home, it doesn’t know.
 * LinkedIn wants me to connect with people that it knows I know, but how it knows is spooky.
 
-This is the modern “personalized” experience for most consumers, the stuff we notice is either dumb or creepy. So, this month, as we peer over the balcony of the penthouse, contemplating the shimmering depths of our portal to marketing hell that is the Rockstar CMO Swimming Pool, we are inspired by David Howland, Chief Marketing Officer at [Longview Solutions](https://www.longview.com/) who shared this when we went [backstage with him](https://rockstarcmo.wpengine.com/backstage-with-david-howland/):
+This is the modern “personalized” experience for most consumers, the stuff we notice is either dumb or creepy. So, this month, as we peer over the balcony of the penthouse, contemplating the shimmering depths of our portal to marketing hell that is the Rockstar CMO Swimming Pool, we are inspired by David Howland, Chief Marketing Officer at [Longview Solutions](https://www.longview.com/) who shared this when we went [backstage with him](/blog/backstage-with-david-howland):
 
 > I’ll throw personalization into the hotel pool, and not because I don’t believe in it. Rather, I believe it’s incredibly important to align content and experience with persona, we just see personalization being misused in a manner that over-complicates execution and brings a bit of cringe-worthy creepiness into what could have been a valued interaction.
 
@@ -75,4 +75,4 @@ Wow… that’s a splash.
 
 ---
 
-*We went backstage with David in our* [*Backstage Q&A series*](https://rockstarcmo.wpengine.com/category/features/backstage/)*, learn more about this a former creative and art director, marketing leader at Nasdaq and current CMO of Gartner rate Longview Solutions* [*here*](https://rockstarcmo.wpengine.com/backstage-with-david-howland/)*.*
+*We went backstage with David in our* [*Backstage Q&A series*](/tags/series/backstage)*, learn more about this a former creative and art director, marketing leader at Nasdaq and current CMO of Gartner rate Longview Solutions* [*here*](/blog/backstage-with-david-howland)*.*

@@ -27,13 +27,13 @@ watery demise that is our special place in marketing hell.***
 
 ![](/images/blog/1477940b2ace.jpg)
 
-When [we went backstage](https://rockstarcmo.wpengine.com/backstage-with-j-robert-slaughter/) with fractional CMO and veteran sales and marketing strategist [J. Robert Slaughter](https://jrobertslaughter.me/) and asked him what marketing snake oil he’d like to fling into the Rockstar Swimming Pool, he seemed spoilt for choice:
+When [we went backstage](/blog/backstage-with-j-robert-slaughter) with fractional CMO and veteran sales and marketing strategist [J. Robert Slaughter](https://jrobertslaughter.me/) and asked him what marketing snake oil he’d like to fling into the Rockstar Swimming Pool, he seemed spoilt for choice:
 
 ![](/images/blog/979e11855113.jpg)
 
 > *Ah, so much marketing bullshit. So little time.*
 
-He’s right because, despite 20 visits to the penthouse balcony, and an unhappy pool guy tired of scooping out everything from [agile marketing](https://rockstarcmo.wpengine.com/into-the-pool-agile-marketing/) to [the bloody goldfish](https://rockstarcmo.wpengine.com/into-the-swimming-pool-the-bloody-goldfish/), we seem to have hit upon an inexhaustible topic. After a short deliberation Rob settled on the marketing doublespeak that is:
+He’s right because, despite 20 visits to the penthouse balcony, and an unhappy pool guy tired of scooping out everything from [agile marketing](/blog/into-the-pool-agile-marketing) to [the bloody goldfish](/blog/into-the-swimming-pool-the-bloody-goldfish), we seem to have hit upon an inexhaustible topic. After a short deliberation Rob settled on the marketing doublespeak that is:
 
 > *Personalization at scale*
 

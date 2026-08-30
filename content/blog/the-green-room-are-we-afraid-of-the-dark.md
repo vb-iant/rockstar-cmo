@@ -60,7 +60,7 @@ Has there ever been ANYTHING that actually mattered more than driving people to 
 
 ![](/images/blog/4e89b02251b7.jpg)
 
-*Casey Petersen is the Vice President of Marketing and Analytics at Photofy, and has been a leader in digital marketing for retailers and CPG’s for over 15 years. [Read more about Casey](https://rockstarcmo.wpengine.com/backstage-with-casey-petersen/)*.
+*Casey Petersen is the Vice President of Marketing and Analytics at Photofy, and has been a leader in digital marketing for retailers and CPG’s for over 15 years. [Read more about Casey](/blog/backstage-with-casey-petersen)*.
 
 ---
 
@@ -72,7 +72,7 @@ In addition... creating the understanding and mindset that simplicity is the fut
 
 ![](/images/blog/f04796e0e527.jpg)
 
-*Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](https://rockstarcmo.wpengine.com/backstage-with-ted-rubin/)
+*Ted Rubin is a leading social marketing strategist, keynote speaker, Photofy CMO/advisor, MC/host for Brand Innovators Summits… Speaker, Author, Provocateur Ted is our resident rock star.* [*Read more about Ted.*](/blog/backstage-with-ted-rubin)
 
 ---
 
@@ -86,7 +86,7 @@ Educate your customer on the why behind GDPR or other privacy regulations. Put t
 
 ![](/images/blog/a36c32f4287f.png)
 
-*Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](https://rockstarcmo.wpengine.com/backstage-with-wendy-bryant-beswick/)*.﻿*
+*Wendy Bryant-Beswick is an award-winning marketer with 20 years’ experience in the financial services industry. She is currently VP of Marketing at Service Credit Union.*[*Go backstage with Wendy*](/blog/backstage-with-wendy-bryant-beswick)*.﻿*
 
 ---
 
@@ -125,7 +125,7 @@ So, instead of the various vanity metrics, and gnashing of ROI teeth, today’s 
 
 ![](/images/blog/72baf2269e7d.jpg)
 
-*As the Chief Strategy Advisor for the*[*Content Marketing Institute*](http://contentmarketinginstitute.com/)*, Robert innovates creative and technical content marketing strategies for his clients. An early internet pioneer, Robert has more than 15 years of experience, and a track record of helping brands and businesses develop successful web and content marketing strategies. Learn more about Robert, as we went*[*backstage with him*](https://rockstarcmo.wpengine.com/backstage-with-robert-rose/)*in our very first issue.*
+*As the Chief Strategy Advisor for the*[*Content Marketing Institute*](http://contentmarketinginstitute.com/)*, Robert innovates creative and technical content marketing strategies for his clients. An early internet pioneer, Robert has more than 15 years of experience, and a track record of helping brands and businesses develop successful web and content marketing strategies. Learn more about Robert, as we went*[*backstage with him*](/blog/backstage-with-robert-rose)*in our very first issue.*
 
 ---
 
@@ -139,7 +139,7 @@ Unless the right people are engaging with us, they’re never going to move furt
 
 ![](/images/blog/2a071060235c.jpg)
 
-*Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing. Learn more about Christine in backstage Q&A*[*here*](https://rockstarcmo.wpengine.com/backstage-with-christine-bailey/)*.*
+*Dr. Christine Bailey is CMO of Valitor, an international payment solutions company headquartered in Iceland. Forging a career in the tech sector, she’s led European marketing functions for Hewlett-Packard and Cisco Systems and was recently voted #1 woman in tech by B2B Marketing. Learn more about Christine in backstage Q&A*[*here*](/blog/backstage-with-christine-bailey)*.*
 
 ---
 
@@ -147,4 +147,4 @@ Unless the right people are engaging with us, they’re never going to move furt
 
 So there we have it, no, we are not scared of the dark, but we need to focus on what's important, create seamless experiences, educate our audience, focus on what's important and we will create a willing, trusting and expectant audience that will be the most important strategic asset that a company might create.
 
-You can learn more about our panel of Rockstar CMO's in our [Backstage Q&A section](https://rockstarcmo.wpengine.com/category/features/backstage/).
+You can learn more about our panel of Rockstar CMO's in our [Backstage Q&A section](/tags/series/backstage).
