@@ -17,7 +17,7 @@ sourceId: '1080'
 sourceUrl: https://rockstarcmo.com/stark-bollock-naked/
 ---
 
-**To wear a sock, or not? Debates around radical transparency are heating up as experts, cynics and customers consider just how much they need to see in order to trust a brand.** [**Helene Dancer**](https://rockstarcmo.appropingo.com/helene-dancer) **investigates.**
+**To wear a sock, or not? Debates around radical transparency are heating up as experts, cynics and customers consider just how much they need to see in order to trust a brand.** [**Helene Dancer**](/tags/author/helene-dancer) **investigates.**
 
 ![](/images/blog/e60e9429d029.jpg)
 
