@@ -43,7 +43,7 @@ We dedicated [The Running in Circles Issue](/tags/issue/the-running-in-circles-i
 
 ## Employee engagement
 
-As we discuss in The Employee Amplification section, we recognize that marketing starts at home, our colleagues and employees are not just the first line in the customer experience that really defines the brand, but are also an often neglected audience for amplification and influence.
+As we discuss in [The Employee Amplification](/tags/topic/employee-engagement) section, we recognize that marketing starts at home, our colleagues and employees are not just the first line in the customer experience that really defines the brand, but are also an often neglected audience for amplification and influence.
 
 ![](https://media.licdn.com/dms/image/C5103AQFxX6KM1dhd2g/profile-displayphoto-shrink_200_200/0?e=1583366400&v=beta&t=_ge_9jAZ7zKgRot_SBscWkddKFpDDDmTP5xEWGWvIec)
 

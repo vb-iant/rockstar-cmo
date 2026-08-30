@@ -32,7 +32,7 @@ This popular topic was kicked off by Margaret Molloy, Global Chief Marketing Off
 
 ![](/images/blog/385a44aabe61.jpg)![](/images/blog/96489ca19a32.jpg)
 
-It was a topic we kept returning to, with some great stuff from pretty much all of our Rockstars that we’ve bundled together in The Employee Amplifier section, exploring the idea that our colleagues and employees don’t just make a direct contribution to brand reputation through the service they provide, but are the first line of amplification of your story into your industry. As [Christine Bailey summarised](/blog/the-green-room-amplify-the-sound-turn-colleagues-into-fans):
+It was a topic we kept returning to, with some great stuff from pretty much all of our Rockstars that we’ve bundled together in [The Employee Amplifier](/tags/topic/employee-engagement) section, exploring the idea that our colleagues and employees don’t just make a direct contribution to brand reputation through the service they provide, but are the first line of amplification of your story into your industry. As [Christine Bailey summarised](/blog/the-green-room-amplify-the-sound-turn-colleagues-into-fans):
 
 > *In short, a word-of-mouth marketing engine for the digital age. Done badly, it can have the opposite effect. For example, implementing a social advocacy platform that gamifies content sharing (don‘t get me started….!)*
 
