@@ -359,3 +359,13 @@ a {
   display: inline-block;
   margin-top: 1.5rem;
 }
+
+
+/* Iframe embeds within markdown-rendered page/post bodies (e.g. Spotify
+   playlist embed on /track-list) -- keep them from overflowing the prose
+   column and give them the same vertical rhythm as a paragraph/image. */
+.blog-post-body iframe {
+  max-width: 100%;
+  display: block;
+  margin: 1.5rem 0;
+}
