@@ -10,6 +10,7 @@ authorSlug: jeff-clark
 image: /images/blog/07077bc27ec0.jpg
 tags:
 - marketing-operations
+- revenue-operations
 series: []
 needsReview:
 - iframe

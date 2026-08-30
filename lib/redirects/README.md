@@ -59,6 +59,22 @@ at all — those 49 are all "The Rose & Rockstar" spin-off episodes recorded
 before the RSS feed existed in its current form, or one-offs with genuinely
 different titles; none were left unresolved.
 
+## topicTagRedirects.json (4)
+Old category/tag URLs for genuine topic tags -> `/tags/topic/<slug>`, added
+2026-08-30 once the `topic` kind existed as a tag-index page type (previously
+only author/issue/series were built). Sourced from the Outstanding Redirects
+Notion doc's Search-Console traffic audit:
+- `/category/rockstar-cmo-advisors/b2b-marketing` (57 impressions/12mo)
+- `/category/rockstar-cmo-advisors/measurement` (9)
+- `/category/topics/employee-engagement` (8)
+- `/tag/revenue-operations` (5) -- a legacy *native* WP tag (not a category),
+  confirmed by Ian to belong to exactly one post
+  (`five-fails-of-a-broken-marketing-machine`), which the original category-
+  based tag migration missed since it only ever carried WP categories into
+  `tags`, not native WP post_tags. That post's frontmatter has been corrected
+  to include `revenue-operations` alongside its existing `marketing-operations`
+  tag, and a `content/tags/revenue-operations.md` tag-index page was added.
+
 ## Still not covered
 Nothing identified as needing a redirect is currently missing (beyond what's
 tracked in the Outstanding Redirects Notion doc — legacy pages, topic-tag
