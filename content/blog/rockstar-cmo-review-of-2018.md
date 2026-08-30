@@ -63,9 +63,9 @@ Jeanniey Mullen introduced us to her vision of cobots...
 
 ## "Mandatory weekly karaoke team building exercises"
 
-We have some fantastic suggestions on our Rockstar CMO Rider,this is our favorite from Amber Osbourne.
+We have some fantastic suggestions on our [Rockstar CMO Rider](/the-official-rockstar-cmo-rider),this is our favorite from Amber Osbourne.
 
-Read The Rockstar CMO Rider
+[Read The Rockstar CMO Rider](/the-official-rockstar-cmo-rider)
 
 ---
 
