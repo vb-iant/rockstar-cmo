@@ -369,3 +369,164 @@ a {
   display: block;
   margin: 1.5rem 0;
 }
+
+/* ---------------------------------------------------------------------
+   Site search (/search)
+   Post / Episode type is carried by the pill's TEXT plus fill-vs-outline,
+   not by colour alone. Hover colours live on classes (no competing inline
+   `color`), and the thumbnail sets height:auto alongside aspect-ratio so
+   the HTML height attribute can't override it.
+   --------------------------------------------------------------------- */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.search-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.75rem;
+}
+
+.search-input {
+  flex: 1 1 280px;
+  min-width: 0;
+  font-family: var(--font-domine), Georgia, serif;
+  font-size: 1.0625rem;
+  padding: 0.7rem 1rem;
+  border: 2px solid #222;
+  border-radius: 6px;
+  background: #fff;
+  color: var(--color-text);
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #F22F29;
+  box-shadow: 0 0 0 3px rgba(242, 47, 41, 0.2);
+}
+
+.search-submit {
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.search-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.5rem;
+  list-style: none;
+  margin: 0 0 2rem;
+  padding: 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.search-tab {
+  display: inline-block;
+  padding: 0.5rem 0;
+  margin-bottom: -1px;
+  font-family: var(--font-bevan), Georgia, serif;
+  font-size: 0.95rem;
+  text-decoration: none;
+  color: var(--color-text-muted);
+  border-bottom: 3px solid transparent;
+  transition: color 0.15s ease;
+}
+
+.search-tab:hover {
+  color: #F22F29;
+}
+
+.search-tab-active,
+.search-tab-active:hover {
+  color: var(--color-text);
+  border-bottom-color: #F22F29;
+}
+
+.search-results {
+  list-style: none;
+  margin: 0 0 2rem;
+  padding: 0;
+  display: grid;
+  gap: 2rem;
+}
+
+.search-result {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  gap: 0 1.25rem;
+  align-items: start;
+}
+
+.search-result-noimage {
+  grid-template-columns: 1fr;
+}
+
+.search-result-thumb img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.search-result-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 0.6rem;
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+.search-type-pill {
+  display: inline-block;
+  font-family: var(--font-bevan), Georgia, serif;
+  font-size: 0.75rem;
+  line-height: 1;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  border: 2px solid #111;
+}
+
+.search-type-pill-post {
+  background: #111;
+  color: #fff;
+}
+
+.search-type-pill-episode {
+  background: #fff;
+  color: #111;
+}
+
+.search-result-title {
+  font-size: 1.25rem;
+  margin: 0.4rem 0 0.4rem;
+}
+
+.search-result-title a {
+  text-decoration: none;
+}
+
+.search-result-snippet {
+  margin: 0;
+  color: #333;
+}
+
+@media (max-width: 600px) {
+  .search-result {
+    grid-template-columns: 80px 1fr;
+    gap: 0 1rem;
+  }
+}

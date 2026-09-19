@@ -34,7 +34,10 @@ export default function Header() {
             style={{
               display: "flex",
               justifyContent: "center",
-              gap: "1.5rem",
+              // wrap (with a tighter row gap) so the nav never forces the page
+              // wider than the viewport on phones
+              flexWrap: "wrap",
+              gap: "0.5rem 1.5rem",
               listStyle: "none",
               margin: 0,
               padding: 0,
@@ -48,6 +51,7 @@ export default function Header() {
             <li><Link href="/rockstar-cmo-presents-the-long-play" className="nav-link">Long Plays</Link></li>
             <li><Link href="/about" className="nav-link">About</Link></li>
             <li><Link href="/contact" className="nav-link">Contact</Link></li>
+            <li><Link href="/search" className="nav-link">Search</Link></li>
           </ul>
         </nav>
       </div>
