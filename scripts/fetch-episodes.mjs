@@ -1,11 +1,12 @@
 // scripts/fetch-episodes.mjs
 //
 // Runs before every build (see package.json "prebuild").
-// Fetches the Megaphone RSS feed and writes parsed episode data to
+// Fetches the Simplecast RSS feed and writes parsed episode data to
 // content/episodes.json so pages can read it as plain JSON at build time
 // (no network calls needed from within the page components themselves).
 //
-// Note on Megaphone's feed structure: <itunes:summary> and <description>
+// Note on the feed structure (carried over unchanged from Megaphone to
+// Simplecast in Sept 2026): <itunes:summary> and <description>
 // are identical (both the full show notes) -- the short per-episode
 // summary actually lives in <itunes:subtitle>. Confirmed against a sample
 // of the live feed on 2026-07-20.
@@ -14,7 +15,7 @@ import Parser from "rss-parser";
 import fs from "node:fs";
 import path from "node:path";
 
-const FEED_URL = "https://feeds.megaphone.fm/rockstarcmo";
+const FEED_URL = "https://feeds.simplecast.com/m4EkR_PR";
 const OUTPUT_PATH = path.join(process.cwd(), "content", "episodes.json");
 
 const parser = new Parser({

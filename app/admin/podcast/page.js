@@ -26,8 +26,8 @@ export default function AdminPodcastPage() {
     <main style={{ maxWidth: "600px", margin: "0 auto", padding: "3rem 1.5rem" }}>
       <h1 style={{ marginBottom: "0.75rem" }}>Refresh podcast feed</h1>
       <p style={{ color: "#333", marginBottom: "1.5rem" }}>
-        Triggers a rebuild, which re-fetches the Megaphone RSS feed and republishes any new
-        episodes. Use this after publishing a new episode on Megaphone.
+        Triggers a rebuild, which re-fetches the Simplecast RSS feed and republishes any new
+        episodes. Use this after publishing a new episode on Simplecast.
       </p>
       <form
         action={async () => {

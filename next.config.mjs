@@ -42,7 +42,7 @@ const nextConfig = {
       // 12 series category archives -> /tags/series/[slug]
       ...toNextRedirects(seriesRedirects),
       // 390 podcast episode posts -> /episodes/[slug] (title-matched against
-      // the Megaphone RSS feed, since new slugs are RSS-derived, not WP slugs)
+      // the podcast RSS feed -- was Megaphone, now Simplecast -- since new slugs are RSS-derived, not WP slugs)
       ...toNextRedirects(episodeRedirects),
       // handful of misc. old pages with a clear one-off new-site destination
       ...toNextRedirects(pagesRedirects),
