@@ -5,11 +5,14 @@
 // content/episodes.json so pages can read it as plain JSON at build time
 // (no network calls needed from within the page components themselves).
 //
-// Note on the feed structure (carried over unchanged from Megaphone to
-// Simplecast in Sept 2026): <itunes:summary> and <description>
-// are identical (both the full show notes) -- the short per-episode
-// summary actually lives in <itunes:subtitle>. Confirmed against a sample
-// of the live feed on 2026-07-20.
+// Note on the feed structure: on Megaphone, <itunes:subtitle> held a short
+// hand-written one-liner, which we used as the episode summary. Simplecast
+// (from Sept 2026) fills <itunes:subtitle>, <itunes:summary> and
+// <description> with the FULL show notes, so there is no ready-made short
+// summary any more. summarize() below derives one: the first paragraph of
+// the notes (almost always the "This week, X joins our host..." intro),
+// capped at SUMMARY_MAX chars on a sentence or word boundary. Some episodes
+// have no paragraph breaks at all, hence the cap.
 
 import Parser from "rss-parser";
 import fs from "node:fs";
@@ -38,6 +41,19 @@ const parser = new Parser({
     ],
   },
 });
+
+const SUMMARY_MAX = 250;
+
+function summarize(text) {
+  const firstPara = (text ?? "").trim().split(/\n\s*\n/)[0].replace(/\s+/g, " ").trim();
+  if (firstPara.length <= SUMMARY_MAX) return firstPara;
+  const clipped = firstPara.slice(0, SUMMARY_MAX);
+  // Prefer ending on a full sentence, if one ends reasonably far in.
+  const sentenceEnd = Math.max(clipped.lastIndexOf(". "), clipped.lastIndexOf("? "), clipped.lastIndexOf("! "));
+  if (sentenceEnd >= 100) return clipped.slice(0, sentenceEnd + 1);
+  const wordEnd = clipped.lastIndexOf(" ");
+  return clipped.slice(0, wordEnd > 0 ? wordEnd : SUMMARY_MAX).replace(/[\s,;:\-\u2013\u2014]+$/, "") + "\u2026";
+}
 
 function slugify(title) {
   return title
@@ -69,10 +85,9 @@ async function main() {
       slug,
       title: item.title ?? "",
       pubDate: item.pubDate ?? item.isoDate ?? "",
-      // Short summary: itunes:subtitle is the deliberately-written one-liner.
-      // (itunes:summary/description are the full show notes, identical to
-      // each other on this feed -- kept separately as contentHtml below.)
-      description: item.itunesSubtitle ?? item.contentSnippet ?? "",
+      // Short summary derived from the full show notes (see note at top).
+      // Full notes are kept separately as contentHtml below.
+      description: summarize(item.itunesSubtitle ?? item.contentSnippet ?? ""),
       contentHtml: item.contentEncoded ?? item.content ?? "",
       audioUrl: item.enclosure?.url ?? "",
       audioType: item.enclosure?.type ?? "",
